@@ -66,6 +66,8 @@ System.Diagnostics.Process.Start(output);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View VSS" sectionDescription="Check our live demos to [View VSS](https://products.aspose.app/diagram/viewer/vss) with following benefits." >}}
@@ -81,6 +83,9 @@ VSS are stencil files created with Microsoft Visio 2007 and earlier. A relativel
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

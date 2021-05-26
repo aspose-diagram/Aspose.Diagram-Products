@@ -66,6 +66,8 @@ System.Diagnostics.Process.Start(output);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View VSSX" sectionDescription="Check our live demos to [View VSSX](https://products.aspose.app/diagram/viewer/vssx) with following benefits." >}}
@@ -81,6 +83,9 @@ Files with .VSSX extension are drawing stencils created with Microsoft Visio 201
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

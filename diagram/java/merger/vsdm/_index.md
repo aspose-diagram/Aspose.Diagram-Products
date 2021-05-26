@@ -67,6 +67,8 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDM);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online VSDMВ Merger Live Demos" sectionDescription="MergeВ VSDM documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/merger). The live demo has the following benefits" >}}
@@ -82,6 +84,9 @@ Files with VSDM extension are drawing files created with Microsoft Visio applica
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

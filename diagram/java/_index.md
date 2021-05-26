@@ -18,7 +18,266 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the capabilities of the Visio library." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-bars">
+    </i>
+    General
+   </header>
+   <ul>
+    <li>
+     Create Diagrams
+    </li>
+    <li>
+     Add Master from Stencil
+    </li>
+    <li>
+     Protect Diagram/Shape
+    </li>
+    <li>
+     Configure Timeline Shapes
+    </li>
+    <li>
+     Add/Get Hyperlinks
+    </li>
+    <li>
+     Get Shape Connectors
+    </li>
+    <li>
+     Change Layout of Diagram
+    </li>
+    <li>
+     Page-Level Comments
+    </li>
+    <li>
+     Rotate Shapes
+    </li>
+    <li>
+     Find/Replace Text
+    </li>
+    <li>
+     Import Bitmap as Shape
+    </li>
+    <li>
+     Manipulate Ole Objects
+    </li>
+    <li>
+     Manipulate ActiveX Controls
+    </li>
+    <li>
+     Multi-Colored Shapes
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-server">
+    </i>
+    Data Reading
+   </header>
+   <ul>
+    <li>
+     XForm, Line &amp; Fill Data
+    </li>
+    <li>
+     Headers &amp; Footers
+    </li>
+    <li>
+     Icons &amp; Pictures
+    </li>
+    <li>
+     Solution XML
+    </li>
+    <li>
+     Master, Page &amp; Shape Elements
+    </li>
+    <li>
+     Style Sheets
+    </li>
+    <li>
+     Hyperlinks
+    </li>
+    <li>
+     Layers
+    </li>
+    <li>
+     User-defined Cells
+    </li>
+    <li>
+     Shape Geometry
+    </li>
+    <li>
+     Comments
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-print">
+    </i>
+    Printing
+   </header>
+   <ul>
+    <li>
+     High Fidelity Printing
+    </li>
+    <li>
+     Supports XpsPrint API
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Visio API Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png"/>
+  <header>
+   Aspose.Diagram
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Diagram for Java supports the JDK 1.6 and above." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Application
+    </li>
+    <li>
+     Desktop Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java Visio Diagram APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png"/>
+  <header>
+   Aspose.Diagram
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Diagram for Java supports most of the native Visio [file formats](https://docs.aspose.com/diagram/java/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Visio:
+     </b>
+     VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Visio:
+     </b>
+     VDW, VSD, VSS, VST
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, XPS
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, TIFF, SVG, EMF
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML
+    </li>
+    <li>
+     <b>
+      Other:
+     </b>
+     XAML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Visio Diagram Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png"/>
+  <header>
+   Aspose.Diagram
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

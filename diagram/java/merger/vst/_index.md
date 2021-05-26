@@ -67,6 +67,8 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online VSTВ Merger Live Demos" sectionDescription="MergeВ VST documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/merger). The live demo has the following benefits" >}}
@@ -82,6 +84,9 @@ Files with VST extension are vector image files created with Microsoft Visio and
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
