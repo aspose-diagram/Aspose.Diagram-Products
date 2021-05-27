@@ -2,6 +2,7 @@
 title:  
 weight: 5140
 url: /net/merger/vssm/ 
+description: Try our On-Premise document merger APIs to combine VSSM documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

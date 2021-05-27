@@ -2,6 +2,7 @@
 title:  
 weight: 5330
 url: /net/viewer/vsx/ 
+description: Try our On-Premise APIs to load, render and display VSX documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

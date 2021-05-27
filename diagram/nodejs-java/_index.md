@@ -2,6 +2,7 @@
 title: Visio Documents Node.js API - Aspose 
 weight: 5350
 url: /nodejs-java/ 
+description: Aspose.Diagram for Node.js via Java is a visio javascript API to read, write and convert Microsoft Visio Documents like VSDX, VDX and more formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

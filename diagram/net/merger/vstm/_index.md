@@ -2,6 +2,7 @@
 title:  
 weight: 5170
 url: /net/merger/vstm/ 
+description: Try our On-Premise document merger APIs to combine VSTM documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

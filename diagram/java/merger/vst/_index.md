@@ -2,6 +2,7 @@
 title:  
 weight: 2510
 url: /java/merger/vst/ 
+description: Try our On-Premise document merger APIs to combine VST documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

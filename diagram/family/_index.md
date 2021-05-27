@@ -2,6 +2,7 @@
 title: Visio .NET & Java APIs | Create Convert or Manipulate Diagrams 
 weight: 10
 url: /family
+description: Diagram library to create open edit print and convert Visio files in .NET Java and Mono applications without Microsoft Visio installed
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

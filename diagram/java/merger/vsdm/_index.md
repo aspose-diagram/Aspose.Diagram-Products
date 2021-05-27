@@ -2,6 +2,7 @@
 title:  
 weight: 2430
 url: /java/merger/vsdm/ 
+description: Try our On-Premise document merger APIs to combine VSDM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

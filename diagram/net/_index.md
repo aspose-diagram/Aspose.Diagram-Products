@@ -2,6 +2,7 @@
 title: C# .NET Visio Diagram API - Aspose 
 weight: 5080
 url: /net/ 
+description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagrams VSD VSDX VSS VST VSX VTX VDW VDX VSSX and VSTX to PDF XPS HTML SVG SWF and image formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

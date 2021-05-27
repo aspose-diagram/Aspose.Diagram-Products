@@ -2,6 +2,7 @@
 title:  
 weight: 5200
 url: /net/merger/vsx/ 
+description: Try our On-Premise document merger APIs to combine VSX documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

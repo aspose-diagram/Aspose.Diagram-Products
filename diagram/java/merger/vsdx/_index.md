@@ -2,6 +2,7 @@
 title:  
 weight: 2440
 url: /java/merger/vsdx/ 
+description: Try our On-Premise document merger APIs to combine VSDX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

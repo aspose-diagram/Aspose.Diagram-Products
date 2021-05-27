@@ -2,6 +2,7 @@
 title:  
 weight: 5180
 url: /net/merger/vstx/ 
+description: Try our On-Premise document merger APIs to combine VSTX documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 5130
 url: /net/merger/vsd/ 
+description: Try our On-Premise document merger APIs to combine VSD documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
