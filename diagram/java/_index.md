@@ -5,14 +5,21 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/header/aspose_diagram-for-java.png" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/header/aspose_diagram-for-java.png" pfName="Aspose.Diagram for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/diagram/java/" instalationsDocsLink="https://docs.aspose.com/diagram/java/installation/" nugetLink="" nugetPackageName="Microsoft Visio:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>By integrating API, some of the basic tasks developers can perform like create diagrams from scratch, read or write multiple formats, access and read the properties including formulas of Visio objects, export diagrams to different formats, print diagrams with high fidelity and much more.</p>
+<p>
+ Aspose.Diagram for Java is a powerful Microsoft Visio document processing API. It provides common functionality such as create, parse &amp; convert native Visio formats as well as supports some commonly used image and fixed-layout formats. Applications can load existing documents and manipulate the diagram elements to export the result in its own formats, images or fixed-layout formats.
+</p>
+
+<p>
+ By integrating API, some of the basic tasks developers can perform like create diagrams from scratch, read or write multiple formats, access and read the properties including formulas of Visio objects, export diagrams to different formats, print diagrams with high fidelity and much more.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -481,12 +488,6 @@ dgm.print("LaserJet1100", "Job Name");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -513,10 +514,10 @@ dgm.print("LaserJet1100", "Job Name");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/diagram/java" pricingInformationLink="https://purchase.aspose.com/pricing/diagram/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Diagram " description="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-net.png" sdkName="Aspose.Diagram for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png" sdkName="Aspose.Diagram for Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png" sdkName="Node.js via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
