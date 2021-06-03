@@ -1,6 +1,6 @@
 ---
 title: Convert VSTM to JPEG via Java 
-weight: 1710
+weight: 1240
 url: /java/conversion/vstm-to-jpeg/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert VSTM to JPEG Using Java" %}}
 
- In order to render VSTM to JPEG, weвЂ™ll use
+ In order to render VSTM to JPEG, we’ll use
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -75,7 +75,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert VSTM to JPEG - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert VSTM to JPEG - Java‎" offSpacer="" %}}
 
 ```cs
 // load the VSTM in an object of Diagram 
@@ -102,7 +102,7 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulation Library" %}}
 
- Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed. вЂЋ
+ Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed. ‎
 
 
 

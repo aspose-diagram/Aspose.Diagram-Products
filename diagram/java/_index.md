@@ -1,6 +1,6 @@
 ---
 title: Java Visio API | Create Manipulate and Convert Diagrams 
-weight: 2400
+weight: 3690
 url: /java/ 
 description: Visio library for creation, manipulation and conversion of diagrams. Export diagrams to multiple formats in Java-based applications
 ---

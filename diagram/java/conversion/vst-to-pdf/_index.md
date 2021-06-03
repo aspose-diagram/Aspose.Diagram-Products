@@ -1,6 +1,6 @@
 ---
 title: Convert VST to PDF via Java 
-weight: 1530
+weight: 2160
 url: /java/conversion/vst-to-pdf/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert VST to PDF Using Java" %}}
 
- In order to render VST to PDF, weвЂ™ll use
+ In order to render VST to PDF, we’ll use
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -75,7 +75,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert VST to PDF - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert VST to PDF - Java‎" offSpacer="" %}}
 
 ```cs
 // load the VST in an object of Diagram 
@@ -102,7 +102,7 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulation Library" %}}
 
- Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed. вЂЋ
+ Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed. ‎
 
 
 

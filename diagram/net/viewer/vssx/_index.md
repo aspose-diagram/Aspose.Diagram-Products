@@ -1,6 +1,6 @@
 ---
 title: View VSSX File Formats via .NET 
-weight: 5280
+weight: 1980
 url: /net/viewer/vssx/ 
 description: Try our On-Premise APIs to load, render and display VSSX documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display VSSX documents 
 
 {{% blocks/products/pf/agp/content h2="How to View VSSX File Using C#" %}}
 
- In order to view VSSX file, weвЂ™ll use
+ In order to view VSSX file, we’ll use
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
@@ -87,7 +87,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed. вЂЋ
+ Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed. ‎
 
 
 

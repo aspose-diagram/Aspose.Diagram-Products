@@ -1,6 +1,6 @@
 ---
 title: Visio Documents Node.js API - Aspose 
-weight: 5350
+weight: 1630
 url: /nodejs-java/ 
 description: Aspose.Diagram for Node.js via Java is a visio javascript API to read, write and convert Microsoft Visio Documents like VSDX, VDX and more formats
 ---
@@ -26,7 +26,203 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Diagram for Node.js via Java capabilities." >}}
+<div class="diagram1 d1-nodejs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-bars">
+    </i>
+    General
+   </header>
+   <ul>
+    <li>
+     Create Diagrams
+    </li>
+    <li>
+     Read Visio Formats
+    </li>
+    <li>
+     Write Visio Files
+    </li>
+    <li>
+     Export Diagrams
+    </li>
+    <li>
+     Secure Diagrams
+    </li>
+    <li>
+     Access and read properties
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <!--<header><i class="fa fa-server"> </i>Data Reading</header>
+
+<ul>
+
+<li></li>
+
+</ul>-->
+   <header>
+    <i class="fa fa-print">
+    </i>
+    Printing
+   </header>
+   <ul>
+    <li>
+     High Fidelity Printing
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png"/>
+  <header>
+   Aspose.Diagram
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Node.js via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Diagram for Node.js via Java is server-side JavaScript API based on Node.js. It can run on Windows, Unix/Linux & Mac platforms with JDK 1.6 or above." >}}
+<div class="diagram1 d1-nodejs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <!--
+
+<ul>
+
+<li>JSP/JSF Application</li>
+
+<li>Desktop Application</li>
+
+</ul>
+
+-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png"/>
+  <header>
+   Aspose.Diagram
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Node.js via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Diagram for Node.js via Java supports popular Microsoft Visio formats and more." >}}
+<div class="diagram1 d2 d1-nodejs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Visio:
+     </b>
+     VSDX, VDX, VSX, VTX, VSSX, VSTX, VSDM, VSSM, VSTM
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Visio:
+     </b>
+     VDW, VSD, VSS, VST
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, XPS
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, TIFF, SVG, EMF
+    </li>
+    <li>
+     <strong>
+      Others
+     </strong>
+     : XAML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png"/>
+  <header>
+   Aspose.Diagram
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Node.js via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
