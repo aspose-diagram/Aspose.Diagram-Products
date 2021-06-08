@@ -6,11 +6,11 @@ description: Visio library for creation, manipulation and conversion of diagrams
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/header/aspose_diagram-for-java.png" pfName="Aspose.Diagram for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/header/aspose_diagram-for-java.png" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/diagram/java/" instalationsDocsLink="https://docs.aspose.com/diagram/java/installation/" nugetLink="" nugetPackageName="Microsoft Visio:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/java" buyLink="https://purchase.aspose.com/pricing/diagram/java" docsLink="https://docs.aspose.com/diagram/java/" installationsDocsLink="https://docs.aspose.com/diagram/java/installation/" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram" directDownloadLink="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

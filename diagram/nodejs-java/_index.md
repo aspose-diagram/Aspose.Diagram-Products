@@ -6,11 +6,11 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Node.js API." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/header/aspose_diagram-for-nodejs.png" pfName="Aspose.Diagram for Node.js via Java" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Node.js API." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/header/aspose_diagram-for-nodejs.png" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Node.js via Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" buyLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
