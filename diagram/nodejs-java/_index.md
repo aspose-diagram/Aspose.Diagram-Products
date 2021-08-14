@@ -10,7 +10,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" buyLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" buyLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -80,7 +80,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png"/>
+  <img alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -126,7 +126,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png"/>
+  <img alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -207,7 +207,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png"/>
+  <img alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -382,8 +382,8 @@ diagram.save("output.png", options);</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram " description="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

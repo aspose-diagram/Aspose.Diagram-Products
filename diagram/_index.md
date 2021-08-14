@@ -11,15 +11,15 @@ description: Create, process & convert Microsoft Visio drawings via On Premise A
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-net.png" productLink="https://products.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="https://products.aspose.com/diagram/net" >}}
 Provide the functionality of creating, manipulating & converting Microsoft Visio diagrams in your .NET apps. Modify diagram elements & load existing files.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png" productLink="https://products.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productLink="https://products.aspose.com/diagram/java" >}}
 Allows your Java apps to create Microsoft Visio diagrams, edit Visio image elements, export Visio files to other formats & print diagrams.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Diagram for " title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png" productLink="/diagram/nodejs-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Diagram for " title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
 Create, Load, Manipulate & Print Microsoft Visio Files via Node.js.
 {{< /blocks/products/pf/product >}}
 

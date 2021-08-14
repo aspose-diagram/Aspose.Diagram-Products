@@ -10,7 +10,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/java" buyLink="https://purchase.aspose.com/pricing/diagram/java" docsLink="https://docs.aspose.com/diagram/java/" installationsDocsLink="https://docs.aspose.com/diagram/java/installation/" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram" directDownloadLink="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/java" buyLink="https://purchase.aspose.com/pricing/diagram/java" docsLink="https://docs.aspose.com/diagram/java/" installationsDocsLink="https://docs.aspose.com/diagram/java/installation/" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram" directDownloadLink="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -140,7 +140,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio API Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png"/>
+  <img alt="Visio API Java" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -183,7 +183,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Visio Diagram APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png"/>
+  <img alt="Java Visio Diagram APIs" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -270,7 +270,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio Diagram Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-java.png"/>
+  <img alt="Visio Diagram Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -517,8 +517,8 @@ dgm.print("LaserJet1100", "Job Name");</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram " description="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/272x272/aspose_diagram-for-nodejs.png" sdkName="Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
