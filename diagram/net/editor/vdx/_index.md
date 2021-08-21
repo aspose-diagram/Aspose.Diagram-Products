@@ -97,11 +97,7 @@ Any drawing or chart created in Microsoft Visio, but saved in XML format have .V
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Editing Formats" subTitle="Using C#, one can easily edit different formats using any editor including." >}}
 
-{{other_supported_lnks}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
