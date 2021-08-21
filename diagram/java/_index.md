@@ -201,7 +201,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Diagram for Java supports most of the native Visio [file formats](https://docs.aspose.com/diagram/java/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Diagram for Java supports most of the native Visio [file formats](https://docs.aspose.com/diagram/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
