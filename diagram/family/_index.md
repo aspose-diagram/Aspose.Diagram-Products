@@ -47,6 +47,6 @@ Create, read, write & render Microsoft Visio documents via Node.js.
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/diagram" pricingInformationLink="https://purchase.aspose.com/pricing/diagram" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/diagram" pricingInformationLink="https://purchase.aspose.com/pricing/diagram/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
