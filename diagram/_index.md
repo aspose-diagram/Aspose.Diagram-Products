@@ -6,7 +6,7 @@ description: Create, process & convert Microsoft Visio drawings via On Premise A
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Visio File Format Solution" h2="Create & convert Microsoft Visio drawings within your On Premise & Cloud-based applications or use our Apps to view or convert Visio files." logoImageSrc="https://www.aspose.com/templates/brand/images/diagram/aspose_diagram-brand.png" imageAlt="Aspose.Diagram Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft Visio File Format Solution" h2="Create & convert Microsoft Visio drawings within your On Premise & Cloud-based applications or use our Apps to view or convert Visio files." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/headers/aspose_diagram-brand.svg" imageAlt="Aspose.Diagram Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram On Premise APIs Include" >}}
