@@ -6,7 +6,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Node.js API." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/header/aspose_diagram-for-nodejs.png" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Node.js API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 

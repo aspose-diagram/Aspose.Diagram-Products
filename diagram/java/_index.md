@@ -6,7 +6,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/diagram/header/aspose_diagram-for-java.png" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
