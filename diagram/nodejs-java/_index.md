@@ -10,7 +10,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" buyLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

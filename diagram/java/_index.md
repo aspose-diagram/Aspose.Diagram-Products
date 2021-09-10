@@ -10,7 +10,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/java" buyLink="https://purchase.aspose.com/pricing/diagram/java" docsLink="https://docs.aspose.com/diagram/java/" installationsDocsLink="https://docs.aspose.com/diagram/java/installation/" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram" directDownloadLink="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/java/" installationsDocsLink="https://docs.aspose.com/diagram/java/installation/" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram" directDownloadLink="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
