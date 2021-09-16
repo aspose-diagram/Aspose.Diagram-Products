@@ -384,6 +384,7 @@ diagram.save("output.png", options);</code></pre>
 
     {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sdkName="Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/diagram/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" sdkName="Python via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

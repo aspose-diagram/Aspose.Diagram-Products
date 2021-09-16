@@ -519,6 +519,7 @@ dgm.print("LaserJet1100", "Job Name");</code></pre>
 
     {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/diagram/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" sdkName="Python via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
