@@ -80,7 +80,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
+  <img alt="Visio API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -126,7 +126,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
+  <img alt="Visio API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -207,7 +207,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
+  <img alt="Node.js Visio Library" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
