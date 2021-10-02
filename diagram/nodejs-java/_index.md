@@ -6,11 +6,11 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Node.js API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Node.js API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -80,7 +80,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
+  <img alt="Visio API JavaScript" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -126,7 +126,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
+  <img alt="Visio API JavaScript" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -207,7 +207,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Node.js Visio Library" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
+  <img alt="Node.js Visio Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -382,9 +382,9 @@ diagram.save("output.png", options);</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram " description="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sdkName="Java" >}}
-	{{< blocks/products/pf/offers-section-item link="/diagram/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sdkName="Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" sdkName="Python via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

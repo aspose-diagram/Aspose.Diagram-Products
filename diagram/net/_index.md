@@ -6,11 +6,11 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET Microsoft Visio File Processing APIs" h2="Generate, Edit, Manipulate and Transform Microsoft Visio diagrams to XPS, HTML, SVG, SWF, XAML, images or PDF formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET Microsoft Visio File Processing APIs" h2="Generate, Edit, Manipulate and Transform Microsoft Visio diagrams to XPS, HTML, SVG, SWF, XAML, images or PDF formats." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -134,7 +134,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio .NET API" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
+  <img alt="Visio .NET API" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -195,7 +195,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Diagram Library" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
+  <img alt=".NET Diagram Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -282,7 +282,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio Diagram Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
+  <img alt="Visio Diagram Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -575,9 +575,9 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram " description="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
-	{{< blocks/products/pf/offers-section-item link="/diagram/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" sdkName="Python via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

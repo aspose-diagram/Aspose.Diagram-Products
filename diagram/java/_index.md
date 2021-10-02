@@ -6,11 +6,11 @@ description: Visio library for creation, manipulation and conversion of diagrams
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/java/" installationsDocsLink="https://docs.aspose.com/diagram/java/installation/" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram" directDownloadLink="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/java/" installationsDocsLink="https://docs.aspose.com/diagram/java/installation/" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram" directDownloadLink="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -140,7 +140,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio API Java" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
+  <img alt="Visio API Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -183,7 +183,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Visio Diagram APIs" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
+  <img alt="Java Visio Diagram APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -270,7 +270,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio Diagram Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
+  <img alt="Visio Diagram Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -517,9 +517,9 @@ dgm.print("LaserJet1100", "Job Name");</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram " description="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
-	{{< blocks/products/pf/offers-section-item link="/diagram/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" sdkName="Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/diagram/nodejs-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/diagram/python-java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" sdkName="Python via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
