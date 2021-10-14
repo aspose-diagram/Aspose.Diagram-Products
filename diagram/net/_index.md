@@ -13,13 +13,9 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.Diagram for .NET is a specialized API designed to work with Microsoft Visio documents. It allows developers to create, manipulate &amp; convert native Visio formats. Developers can create diagrams from scratch as well as easily load existing files and manipulate the elements of the diagram to export the result in other formats.
-</p>
+<p>Aspose.Diagram for .NET is a specialized API designed to work with Microsoft Visio documents. It allows developers to create, manipulate &amp; convert native Visio formats. Developers can create diagrams from scratch as well as easily load existing files and manipulate the elements of the diagram to export the result in other formats.</p>
 
-<p>
- Aspose.Diagram for .NET supports almost all native Visio formats as well as some commonly used image &amp; fixed-layout formats. This API is an alternative to the Microsoft Visio Object Model and provides better performance. It makes use of the advanced functionality of Visio Services to manipulate documents on a server.
-</p>
+<p>Aspose.Diagram for .NET supports almost all native Visio formats as well as some commonly used image &amp; fixed-layout formats. This API is an alternative to the Microsoft Visio Object Model and provides better performance. It makes use of the advanced functionality of Visio Services to manipulate documents on a server.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
