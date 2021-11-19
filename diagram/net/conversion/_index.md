@@ -18,14 +18,7 @@ Visio files such as VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM can be int
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for VSD to VSDX Conversion" %}}
 
-``cs
-// load the VSD in an object of Diagram 
-var visio = new Diagram("template.vsd");
-// save VSD as VSDX 
-visio.Save("output.vsdx", SaveFileFormat.VSDX);  
-``
-
-{{< gist "aspose-com-gists" "c8c0a43b7094f6f1c61ea8bae48428a5" "convert-vsd-to-vsdx.cs" >}}
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsd-to-vsdx.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
