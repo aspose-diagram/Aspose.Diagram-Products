@@ -26,7 +26,7 @@ Programmers can easily convert VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options pairs="vdw-to-vdx vdx-to-vsdx vsdm-to-vssm vsd-to-vssx vsdx-to-vstm vssm-to-vtx vss-to-vtx" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Visio Files to Images Conversion" %}}
+{{% blocks/products/pf/feature-page-section  h2="Visio to Images Conversion" %}}
 
 For generic conversion, process of converting visio files to images is same. Just load the file via Diagram class and call the save method with output file and SaveFileFormat output parameters. And whenever there is need to define specific options, developers can use ImageSaveOptions class while converting diagram pages to images and SVGSaveOptions for SVG conversion.
 
@@ -45,7 +45,7 @@ For generic conversion, process of converting visio files to images is same. Jus
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options pairs="vdw-to-bmp vdx-to-png vsdm-to-jpeg vsd-to-tiff vsdx-to-bmp vssm-to-png vss-to-jpeg vssx-to-tiff" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Visio Files to PDF and HTML" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert Visio to PDF and HTML" %}}
 
 API is capable of converting visio formats to PDF as well as in HTML. Just use [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF and SaveFileFormat.HTML within save method as parameter. And for special settings developers can use PdfSaveOptions and HTMLSaveOptions classes.
 
