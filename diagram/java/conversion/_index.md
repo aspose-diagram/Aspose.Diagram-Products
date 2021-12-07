@@ -55,7 +55,7 @@ API is capable of converting visio formats to PDF as well as in HTML. Just use [
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
-{{% blocks/products/pf/feature-page-code h3="Java Code to convert Visio to HTML file" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code to Convert Visio to HTML File" %}}
 
 {{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-html.java" >}}
 
