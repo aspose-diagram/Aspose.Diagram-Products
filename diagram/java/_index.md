@@ -6,7 +6,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Visio Diagram APIs" h2="Manipulate and Export Microsoft Office Visio files to PDF, HTML, Images and XAML formats without any Microsoft Office Visio dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -14,7 +14,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Diagram for Java is a powerful Microsoft Visio document processing API. It provides common functionality such as create, parse &amp; convert native Visio formats as well as supports some commonly used image and fixed-layout formats. Applications can load existing documents and manipulate the diagram elements to export the result in its own formats, images or fixed-layout formats.
+ Aspose.Diagram for Java is a powerful Microsoft Visio document processing API. It provides common functionality such as create, parse &amp; convert native Visio formats as well as supports some commonly used image and fixed-layout formats. Applications can load existing documents and manipulate the diagram elements to export the result in its own formats, images or fixed-layout formats.
 </p>
 
 <p>
@@ -298,7 +298,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java Visio API Features
+    Advanced Java Visio API Features
    </h2>
    <p>
    </p>
@@ -409,10 +409,10 @@ description: Visio library for creation, manipulation and conversion of diagrams
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Parse Microsoft Visio Documents
+     Parse Microsoft Visio Documents
     </h2>
     <p>
-     Java diagram API allows to read native file formats of Microsoft Visio application, thus allowing you to access the diagram data like Document Pages, Properties,  Masters,  Images, Shapes, Connects, Solution XML, Layers, Hyperlinks, Comments,  StyleSheet, user-defined cells and so on. These objects can be manipulated through the API, and the result can be written to disk in any of the supported formats.
+     Java diagram API allows to read native file formats of Microsoft Visio application, thus allowing you to access the diagram data like Document Pages, Properties,  Masters,  Images, Shapes, Connects, Solution XML, Layers, Hyperlinks, Comments,  StyleSheet, user-defined cells and so on. These objects can be manipulated through the API, and the result can be written to disk in any of the supported formats.
     </p>
    </div>
    <div class="col-lg-12">
@@ -420,7 +420,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
      Export to Images, PDF &amp; HTML
     </h2>
     <p>
-     Developers can load Visio files and render them to popular images including JPEG, BMP, PNG, TIFF, SVG and EMF. The library also provides the ability to export Visio documents to PDF, HTML &amp; XPS formats with the highest fidelity.
+     Developers can load Visio files and render them to popular images including JPEG, BMP, PNG, TIFF, SVG and EMF. The library also provides the ability to export Visio documents to PDF, HTML &amp; XPS formats with the highest fidelity.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -444,7 +444,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Organize Shapes in a Container
     </h2>
     <p>
-     Normally, developers add shapes in a container to keep things well organized and understandable. The containers add a visual boundary around shapes, including a label. To add a container and sub shapes to the diagram, developers can use the library because it gives an easy and quick approach.
+     Normally, developers add shapes in a container to keep things well organized and understandable. The containers add a visual boundary around shapes, including a label. To add a container and sub shapes to the diagram, developers can use the library because it gives an easy and quick approach.
     </p>
    </div>
    <div class="col-lg-12">

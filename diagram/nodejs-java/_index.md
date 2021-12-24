@@ -6,9 +6,9 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Node.js API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Node.js API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/nodejs" >}}
 
@@ -18,7 +18,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
 </p>
 
 <p>
- Aspose.Diagram for Node.js via Java is a standalone API and does not require Microsoft Visio or any other software installation. Moreover, few tasks that one can perform easily like create diagrams from scratch, read or write various formats, access and read the properties including Visio object formulas, exporting diagrams to multiple formats, print diagrams with high fidelity, and much more.
+ Aspose.Diagram for Node.js via Java is a standalone API and does not require Microsoft Visio or any other software installation. Moreover, few tasks that one can perform easily like create diagrams from scratch, read or write various formats, access and read the properties including Visio object formulas, exporting diagrams to multiple formats, print diagrams with high fidelity, and much more.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -26,7 +26,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Diagram for Node.js via Java capabilities." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Diagram for Node.js via Java capabilities." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -52,13 +52,13 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
      Secure Diagrams
     </li>
     <li>
-     Access and read properties
+     Access and read properties
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <!--<header><i class="fa fa-server"> </i>Data Reading</header>
+   <!--<header><i class="fa fa-server"> </i>Data Reading</header>
 
 <ul>
 
@@ -317,10 +317,10 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Access and Manipulate Visio Files
+     Access and Manipulate Visio Files
     </h2>
     <p>
-     Node.js diagram API permits to read native Microsoft Visio formats as well as provide access to the diagram data like document, page, master, shape, stylesheet, connect and so on. These objects can be manipulated through the API, and the result can be written to disk in any of the supported formats.
+     Node.js diagram API permits to read native Microsoft Visio formats as well as provide access to the diagram data like document, page, master, shape, stylesheet, connect and so on. These objects can be manipulated through the API, and the result can be written to disk in any of the supported formats.
     </p>
    </div>
    <div class="col-lg-12">
@@ -328,7 +328,7 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
      Export to Images
     </h2>
     <p>
-     Developers can easily load Visio files and export them to popular images including PNG, TIFF, JPEG, BMP, SVG and EMF. Nodejs library also supports exporting Visio files to PDF &amp; XPS formats with the highest fidelity.
+     Developers can easily load Visio files and export them to popular images including PNG, TIFF, JPEG, BMP, SVG and EMF. Nodejs library also supports exporting Visio files to PDF &amp; XPS formats with the highest fidelity.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -380,7 +380,7 @@ diagram.save("output.png", options);</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/diagram/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/diagram/nodejs-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Diagram " description="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Diagram " description="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/diagram/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/diagram/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sdkName="Java" >}}
