@@ -80,7 +80,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio API JavaScript" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Visio API JavaScript" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -126,7 +126,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio API JavaScript" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Visio API JavaScript" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -207,7 +207,7 @@ description: Aspose.Diagram for Node.js via Java is a visio javascript API to re
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Node.js Visio Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Node.js Visio Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg"/>
   <header>
    Aspose.Diagram
   </header>

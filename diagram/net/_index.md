@@ -130,7 +130,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio .NET API" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
+  <img width="70" height="75" alt="Visio .NET API" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -191,7 +191,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Diagram Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Diagram Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -278,7 +278,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio Diagram Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
+  <img width="70" height="75" alt="Visio Diagram Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg"/>
   <header>
    Aspose.Diagram
   </header>

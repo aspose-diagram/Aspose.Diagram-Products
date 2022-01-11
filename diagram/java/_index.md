@@ -140,7 +140,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio API Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
+  <img width="70" height="75" alt="Visio API Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -183,7 +183,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Visio Diagram APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
+  <img width="70" height="75" alt="Java Visio Diagram APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -270,7 +270,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Visio Diagram Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
+  <img width="70" height="75" alt="Visio Diagram Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg"/>
   <header>
    Aspose.Diagram
   </header>

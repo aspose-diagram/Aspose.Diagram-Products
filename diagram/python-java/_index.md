@@ -80,7 +80,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Diagram API Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg"/>
+  <img width="70" height="75" alt="Diagram API Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -126,7 +126,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Diagram API Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg"/>
+  <img width="70" height="75" alt="Diagram API Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -207,7 +207,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Python Diagram Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg"/>
+  <img width="70" height="75" alt="Python Diagram Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg"/>
   <header>
    Aspose.Diagram
   </header>
