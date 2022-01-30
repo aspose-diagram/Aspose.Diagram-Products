@@ -9,7 +9,7 @@ description: Diagram library to create open edit print and convert Visio files i
 {{< blocks/products/pf/upper-banner h1="Microsoft Visio File Manipulation APIs" h2=".NET & Java APIs to create, edit and convert Microsoft Visio files on any platform." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Diagram On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Diagram High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
