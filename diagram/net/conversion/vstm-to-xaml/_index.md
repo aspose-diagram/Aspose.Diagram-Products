@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTM to XAML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSTM in an object of Diagram 
-var visio = new Diagram("template.vstm");
-// save VSTM as XAML 
-visio.Save("output.xaml", SaveFileFormat.XAML); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstm-to-xaml.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

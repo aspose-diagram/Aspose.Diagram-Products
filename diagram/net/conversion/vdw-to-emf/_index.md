@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDW to EMF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VDW in an object of Diagram 
-var visio = new Diagram("template.vdw");
-// save VDW as EMF 
-visio.Save("output.emf", SaveFileFormat.EMF); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdw-to-emf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

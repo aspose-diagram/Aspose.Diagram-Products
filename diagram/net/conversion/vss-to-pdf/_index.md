@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSS to PDF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSS in an object of Diagram 
-var visio = new Diagram("template.vss");
-// save VSS as PDF 
-visio.Save("output.pdf", SaveFileFormat.PDF); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vss-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

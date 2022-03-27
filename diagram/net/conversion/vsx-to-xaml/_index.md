@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSX to XAML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSX in an object of Diagram 
-var visio = new Diagram("template.vsx");
-// save VSX as XAML 
-visio.Save("output.xaml", SaveFileFormat.XAML); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsx-to-xaml.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

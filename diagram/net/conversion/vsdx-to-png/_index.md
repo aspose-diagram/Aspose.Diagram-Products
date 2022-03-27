@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDX to PNG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSDX in an object of Diagram 
-var visio = new Diagram("template.vsdx");
-// save VSDX as PNG 
-visio.Save("output.png", SaveFileFormat.PNG); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdx-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

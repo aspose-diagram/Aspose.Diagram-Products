@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDM to SWF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSDM in an object of Diagram 
-var visio = new Diagram("template.vsdm");
-// save VSDM as SWF 
-visio.Save("output.swf", SaveFileFormat.SWF); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-swf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

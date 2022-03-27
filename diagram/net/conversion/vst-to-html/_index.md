@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VST to HTML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VST in an object of Diagram 
-var visio = new Diagram("template.vst");
-// save VST as HTML 
-visio.Save("output.html", SaveFileFormat.HTML); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vst-to-html.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

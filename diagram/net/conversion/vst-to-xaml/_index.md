@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VST to XAML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VST in an object of Diagram 
-var visio = new Diagram("template.vst");
-// save VST as XAML 
-visio.Save("output.xaml", SaveFileFormat.XAML); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vst-to-xaml.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

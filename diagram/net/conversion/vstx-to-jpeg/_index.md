@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTX to JPEG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSTX in an object of Diagram 
-var visio = new Diagram("template.vstx");
-// save VSTX as JPEG 
-visio.Save("output.jpeg", SaveFileFormat.JPEG); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstx-to-jpeg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

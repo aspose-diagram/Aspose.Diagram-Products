@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDM to PNG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSDM in an object of Diagram 
-var visio = new Diagram("template.vsdm");
-// save VSDM as PNG 
-visio.Save("output.png", SaveFileFormat.PNG); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSD to VSTX C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSD in an object of Diagram 
-var visio = new Diagram("template.vsd");
-// save VSD as VSTX 
-visio.Save("output.vstx", SaveFileFormat.VSTX); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsd-to-vstx.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

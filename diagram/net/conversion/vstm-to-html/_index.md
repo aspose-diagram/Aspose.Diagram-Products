@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTM to HTML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSTM in an object of Diagram 
-var visio = new Diagram("template.vstm");
-// save VSTM as HTML 
-visio.Save("output.html", SaveFileFormat.HTML); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstm-to-html.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

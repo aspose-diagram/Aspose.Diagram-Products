@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSSX to EMF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSSX in an object of Diagram 
-var visio = new Diagram("template.vssx");
-// save VSSX as EMF 
-visio.Save("output.emf", SaveFileFormat.EMF); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssx-to-emf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSS to TIFF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSS in an object of Diagram 
-var visio = new Diagram("template.vss");
-// save VSS as TIFF 
-visio.Save("output.tiff", SaveFileFormat.TIFF); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vss-to-tiff.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

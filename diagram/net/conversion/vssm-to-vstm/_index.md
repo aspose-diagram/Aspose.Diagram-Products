@@ -65,13 +65,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSSM to VSTM C# Conversion" offSpacer="" %}}
 
-```cs
-// load the VSSM in an object of Diagram 
-var visio = new Diagram("template.vssm");
-// save VSSM as VSTM 
-visio.Save("output.vstm", SaveFileFormat.VSTM); 
-
-```
+{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssm-to-vstm.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
