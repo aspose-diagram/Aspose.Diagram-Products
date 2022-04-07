@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps for Merging VSDX Files in C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps for Watermarking VSD Files in C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Merge VSDX Files - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Watermark VSD Files - C#" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Text-AddWatermarkToVisio-AddWatermarkToVisio.cs" >}}
 
