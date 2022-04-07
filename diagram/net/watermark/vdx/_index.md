@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps for Watermarking VSD Files in C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps for Watermarking VDX Files in C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
