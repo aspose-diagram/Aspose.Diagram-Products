@@ -22,12 +22,3 @@ The simplest way to split Visio files page wise is, Accessing all pages via [pag
 {{% blocks/products/pf/feature-page-code h3="C# Code to Split Visio Files" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-CopyVisioPage-CopyVisioPage.cs" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{< blocks/products/pf/feature-page-options formats="all" afterslug="Splitter">}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
-
-{{% /blocks/products/pf/feature-page-section %}}
