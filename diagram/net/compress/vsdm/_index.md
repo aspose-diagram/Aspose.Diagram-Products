@@ -1,7 +1,7 @@
 ---
 title: Compress VSDM document via .NET 
 weight: 3050
-url: /net/compress/vsmd/ 
+url: /net/compress/vsdm/ 
 description: C# source code to compress vsdm file on .NET Framework, .NET Core, Mono Platforms.
 ---
 
