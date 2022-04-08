@@ -1,7 +1,7 @@
 ---
 title: Compress VSDM document via .NET 
 weight: 3050
-url: /net/compress/vsmd/ 
+url: /net/compress/vsdm/ 
 description: C# source code to compress vsdm file on .NET Framework, .NET Core, Mono Platforms.
 ---
 
@@ -68,7 +68,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="Compress VSDM Files - C#" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-RemoveHiddenInfo-RemoveHiddenInfo.cs" >}}
+{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-Diagrams-RemoveHiddenInfo-AsVSDX.cs" >}}
 
 
 {{% /blocks/products/pf/agp/code-block %}}
