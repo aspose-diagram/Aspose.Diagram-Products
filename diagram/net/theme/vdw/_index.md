@@ -106,7 +106,7 @@ VDW is the Visio Graphics Service file format that specifies the streams and sto
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Watermarking Formats" subTitle="Using C#, one can easily apply preset theme to different formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Preset Theme Formats" subTitle="Using C#, one can easily apply preset theme to different formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/theme/vdx/" name="Vdx" description="Visio drawing XML File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/theme/vssx/" name="VSSX" description="Visio stencil File" >}}

@@ -106,7 +106,7 @@ Any drawing or chart created in Microsoft Visio, but saved in XML format have .V
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Watermarking Formats" subTitle="Using C#, one can easily apply preset theme to different formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Preset Theme Formats" subTitle="Using C#, one can easily apply preset theme to different formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/theme/vsd/" name="Vsd" description="Microsoft Visio Drawings" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/theme/vssx/" name="VSSX" description="Visio stencil File" >}}

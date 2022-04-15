@@ -106,7 +106,7 @@ Files with VSTX extensions are drawing template files created with Microsoft Vis
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Watermarking Formats" subTitle="Using C#, one can easily apply preset theme to different formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Preset Theme Formats" subTitle="Using C#, one can easily apply preset theme to different formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/theme/vsd/" name="Vsd" description="Microsoft Visio Drawings" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/theme/vdx/" name="Vdx" description="Visio drawing XML File" >}}
