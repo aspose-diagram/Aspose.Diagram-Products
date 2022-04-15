@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with
+ Creating organization chart with
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  APIs can be done with just few lines of code.
 
