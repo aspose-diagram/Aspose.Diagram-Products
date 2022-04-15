@@ -91,7 +91,7 @@ PM> Install-Package Aspose.Diagram
     
     {{< blocks/products/pf/agp/about-file-section >}}
     
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online Apply Preset Theme to VSDX D Live Demos" sectionDescription="Apply preset theme to VSDX documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/theme). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online Apply Preset Theme to VSDX Document Live Demos" sectionDescription="Apply preset theme to VSDX documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/theme). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your VSDX files." >}}
