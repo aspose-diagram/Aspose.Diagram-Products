@@ -46,7 +46,7 @@ PM> Install-Package Aspose.Diagram
 {{% /blocks/products/pf/agp/text %}}
 
 +  Load VSX file by creating an instance of Diagram
-+  Get DocumentSettings of Diagram
++  Get Protection
 +  Set flag of protect to false
 +  Call the Save() method and pass the file name (full path) and format (VSDX) as a parameter.
 +  Now you can open and use the VSDX file in Microsoft Office, Adobe PDF or any other compatible program.
