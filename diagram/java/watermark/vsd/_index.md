@@ -2,8 +2,7 @@
 title: Watermark VSD document via Java 
 weight: 3050
 url: /java/watermark/vsd/ 
-description: 
-Java sample code to add watermark to VSD documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to add watermark to VSD documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -107,11 +106,11 @@ Java sample code to add watermark to VSD documents on Java Runtime Environment f
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSD Watermarker Live Demos" sectionDescription="Watermark VSD documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/merger). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSD WaterMark Live Demos" sectionDescription="WaterMark VSD documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/watermark). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your VSD files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be watermarked and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
 VSD files are drawings created with Microsoft Visio application to represent variety of graphical objects and the interconnection between these. Such drawings can contain visual objects such as visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Microsoft Visio offers the capability to convert Visio files to a number of different file formats including PNG, BMP, PDF and others. 

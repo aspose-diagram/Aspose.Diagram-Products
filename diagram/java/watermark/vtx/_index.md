@@ -2,8 +2,7 @@
 title: Watermark VTX document via Java 
 weight: 3050
 url: /java/watermark/vtx/ 
-description: 
-Java sample code to add watermark to VTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to add watermark to VTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -107,11 +106,11 @@ Java sample code to add watermark to VTX documents on Java Runtime Environment f
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online VTX Watermarker Live Demos" sectionDescription="Watermark VTX documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/merger). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online VTX WaterMark Live Demos" sectionDescription="WaterMark VTX documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/watermark). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your VTX files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be watermarked and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/visio/vtx/" >}}
 A file with .vtx extension is a Microsoft Visio drawing template that is saved to disc in XML file format. The template is aimed to provide a file with basic settings that can be used to create multiple Visio files of the same settings. Another similar format is VST which is saved in binary format rather than XML. VTX files are supported with Visio 2010 and newer versions. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others. 

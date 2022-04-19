@@ -2,8 +2,7 @@
 title: Watermark VSSM document via Java 
 weight: 3050
 url: /java/watermark/vssm/ 
-description: 
-Java sample code to add watermark to VSSM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to add watermark to VSSM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -107,11 +106,11 @@ Java sample code to add watermark to VSSM documents on Java Runtime Environment 
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSSM Watermarker Live Demos" sectionDescription="Watermark VSSM documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/merger). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSSM WaterMark Live Demos" sectionDescription="WaterMark VSSM documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/watermark). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your VSSM files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be watermarked and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/visio/vssm/" >}}
 Files with .VSSM extension are Microsoft Visio Stencil files that support provide support for macros. A VSSM file when opened allows to run the macros to achieve desired formatting and placement of shapes in a diagram. In general, Microsoft Visio is drawing software that allows to create files that can contain and represent user defined information in different shapes. The most common of these include, but not limited to, UML diagrams, flow charts, visual objects, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be converted to different file formats such as PNG, BMP, PDF and others. 
@@ -122,7 +121,7 @@ Files with .VSSM extension are Microsoft Visio Stencil files that support provid
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge many other file formats including.." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Watermarking Formats" subTitle="Using Java, One can also merge many other file formats including.." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/watermark/vdx/" name="VDX" description="Microsoft Visio Drawing Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/watermark/vsd/" name="VSD" description="Microsoft Visio Drawings" >}}

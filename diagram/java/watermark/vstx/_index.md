@@ -2,8 +2,7 @@
 title: Watermark VSTX document via Java 
 weight: 3050
 url: /java/watermark/vstx/ 
-description: 
-Java sample code to add watermark to VSTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to add watermark to VSTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -107,11 +106,11 @@ Java sample code to add watermark to VSTX documents on Java Runtime Environment 
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSTX Watermarker Live Demos" sectionDescription="Watermark VSTX documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/merger). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSTX WaterMark Live Demos" sectionDescription="WaterMark VSTX documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/watermark). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your VSTX files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be watermarked and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/visio/vstx/" >}}
 Files with VSTX extensions are drawing template files created with Microsoft Visio 2013 and above. These VSTX files provide starting point for creating Visio drawings, saved as .VSDX files, with default layout and settings. In general, Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others. Programs that open VSTX files include Microsoft Visio for Windows and Mac that let you open these files for viewing and editing. It also allows to convert Visio file formats to a number of other formats. 

@@ -2,8 +2,7 @@
 title: Watermark VSDX document via Java 
 weight: 3050
 url: /java/watermark/vsdx/ 
-description: 
-Java sample code to add watermark to VSDX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to add watermark to VSDX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -107,11 +106,11 @@ Java sample code to add watermark to VSDX documents on Java Runtime Environment 
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSDX Watermarker Live Demos" sectionDescription="Watermark VSDX documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/merger). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSDX WaterMark Live Demos" sectionDescription="WaterMark VSDX documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/watermark). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your VSDX files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be watermarked and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
 Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onwards. It was developed to replace the binary file format, .VSD, which is supported by earlier versions of Microsoft Visio. It is also supported on Visio Services in Microsoft SharePoint Server 2013 and does not require an intermediary file format for publishing to SharePoint Server. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others. 
@@ -122,7 +121,7 @@ Files with .VSDX extension represent Microsoft Visio file format introduced from
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge many other file formats including.." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Watermarking Formats" subTitle="Using Java, One can also merge many other file formats including.." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/watermark/vdx/" name="VDX" description="Microsoft Visio Drawing Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/watermark/vsd/" name="VSD" description="Microsoft Visio Drawings" >}}
