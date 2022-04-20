@@ -104,7 +104,7 @@ description: Java sample code to edit VTX documents on Java Runtime Environment 
         {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Edit VTX" sectionDescription="Check our live demos to [Edit VTX](https://products.aspose.app/diagram/editor) with following benefits." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload VTX file >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload VTX file" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download file from the link, if required" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/visio/vtx/" >}}
