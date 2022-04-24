@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Watermark VSSX Files - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Apply Preset Theme to VSSX Files - C#" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Theme-SetThemeForPage.cs" >}}
 
