@@ -64,8 +64,8 @@ description: Java source code to Split vstm file on Java Runtime Environment for
 +  Load the VSTM file with full path for splitting.
 +  Iterate throug each page
 +  Create a new Diagram class object
-+  Copy the page via [Copy method](https://apireference.aspose.com/diagram/net/aspose.diagram/page/methods/copy)
-+  Call the Save() method and pass the file name (full path) and SaveFileFormat.VSDX as parameter.
++  Copy the page via [Copy method](https://apireference.aspose.com/diagram/java/com.aspose.diagram/page#copy(com.aspose.diagram.Page))
++  Call the save() method and pass the file name (full path) and SaveFileFormat.VSDX as parameter.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

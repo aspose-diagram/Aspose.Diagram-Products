@@ -64,8 +64,8 @@ description: Java source code to annotate VSTM file on Java Runtime Environment 
 +  Load VSTM file by creating an instance of Diagram
 +  Select Page via its id
 +  Get annotation in Page's Pagesheet
-+  Call the Remove() method to remove the comment
-+  Call the Save() method and pass the file name (full path) and format (VSDX) as a parameter.
++  Call the remove() method to remove the comment
++  Call the save() method and pass the file name (full path) and format (VSDX) as a parameter.
 +  Now you can open and use the VSDX file in Microsoft Office, Adobe PDF or any other compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

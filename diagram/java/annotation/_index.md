@@ -15,9 +15,9 @@ Managing Comments in Pages - There is not any limit that how many comments a pag
 
 +  Load Visio file using Diagram class object
 +  Acess the relevant Page 
-+  Call AddComment to add the comment
++  Call addComment to add the comment
 +  Use [Comment property](https://apireference.aspose.com/diagram/java/com.aspose.diagram/annotation#Comment) for adding comments content 
-+  Save the diagram before & after calling AddComment method to compare
++  Save the diagram before & after calling adComment method to compare
 
 {{% blocks/products/pf/feature-page-code h3="Java Code to  Insert Visio Files Comments" %}}
 

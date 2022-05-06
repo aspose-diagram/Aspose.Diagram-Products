@@ -17,7 +17,7 @@ The simplest way to split Visio files page wise is, Accessing all pages via [pag
 +  Iterate throug each page
 +  Create a new Diagram class object
 +  Copy the page via [Copy method](https://apireference.aspose.com/diagram/java/com.aspose.diagram/page#copy(com.aspose.diagram.Page))
-+  Call the Save() method and pass the file name (full path) having relevant SaveFormat.
++  Call the save() method and pass the file name (full path) having relevant SaveFormat.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code to Split Visio Files" %}}
 
