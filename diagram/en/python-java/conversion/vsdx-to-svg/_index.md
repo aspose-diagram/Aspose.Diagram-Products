@@ -54,6 +54,7 @@ description: Sample Python conversion code for VSDX format to SVG file. Use this
 {{% blocks/products/pf/agp/code-block title="VSDX to SVG Python Conversion Source Code" offSpacer="" %}}
 
 ```cs
+
 import  jpype     
 import  asposediagram     
 jpype.startJVM() 
@@ -72,7 +73,6 @@ diagram.save("output.svg", SaveFileFormat.SVG);
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
-
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="VSDX to SVG Conversion Live Demos" sectionDescription="[Convert VSDX to SVG](https://products.aspose.app/diagram/conversion/vsdx-to-svg) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
@@ -83,9 +83,7 @@ diagram.save("output.svg", SaveFileFormat.SVG);
 
     {{% blocks/products/pf/agp/content h2="Python Diagram Manipulation Library" %}}
 
- Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed.  
-
-
+ Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed. 
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -95,22 +93,18 @@ diagram.save("output.svg", SaveFileFormat.SVG);
 
 Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onwards. It was developed to replace the binary file format, .VSD, which is supported by earlier versions of Microsoft Visio. It is also supported on Visio Services in Microsoft SharePoint Server 2013 and does not require an intermediary file format for publishing to SharePoint Server. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others. 
 
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}
 
 SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
 
-
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
-
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert VSDX into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/conversion/vsdx-to-emf/" name="VSDX TO EMF" description="Enhanced Metafile Format" >}}
