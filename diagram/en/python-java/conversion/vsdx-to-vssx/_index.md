@@ -18,8 +18,6 @@ description: Sample Python conversion code for VSDX format to VSSX file. Use thi
  API which is a feature-rich, powerful and easy to use conversion API for Python platform. You can download its latest version directly from
  [Pypi](https://pypi.org/project/aspose-diagram/) 
 
-{{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

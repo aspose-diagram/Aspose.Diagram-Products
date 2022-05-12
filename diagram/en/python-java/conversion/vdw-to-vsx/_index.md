@@ -18,7 +18,6 @@ description: Sample Python conversion code for VDW format to VSX file. Use this 
  API which is a feature-rich, powerful and easy to use conversion API for Python platform. You can download its latest version directly from
  [Pypi](https://pypi.org/project/aspose-diagram/) 
 
-{{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
