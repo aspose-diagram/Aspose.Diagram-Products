@@ -14,7 +14,7 @@ description: C# Sample code for generating VSDM documents. Use this code for cre
 
  Generating VSDM file dynamically within running application is easy. In order to create VSDM documents from scratch without requiring MS Office, we’ll use
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API that offers different features for visio creation, manipulation and conversion using .NET platform. Developers can easily enhance code for writing data, generating charts or graphs as well as creating table in spreadsheets.
+ API that offers different features for visio creation, manipulation and conversion using .NET platform. Developers can easily enhance code for writing data, generating shapes or graphs.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
