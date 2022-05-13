@@ -103,8 +103,6 @@ Files with VSTX extensions are drawing template files created with Microsoft Vis
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

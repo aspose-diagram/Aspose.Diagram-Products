@@ -103,8 +103,6 @@ Files with .VSSX extension are drawing stencils created with Microsoft Visio 201
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

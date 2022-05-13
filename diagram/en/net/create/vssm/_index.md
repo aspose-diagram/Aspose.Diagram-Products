@@ -103,8 +103,6 @@ Files with .VSSM extension are Microsoft Visio Stencil files that support provid
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -103,8 +103,6 @@ Files with .VSDX extension represent Microsoft Visio file format introduced from
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< /blocks/products/pf/agp/other-supported-section >}}
-
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
