@@ -69,7 +69,7 @@ description: Java Sample code for generating HTML documents. Use this code for c
 
 {{% blocks/products/pf/agp/text %}}
 
- Just make sure that system have Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Azure, Mono Platforms as well as development environment like Microsoft Visual Studio. 
+ Aspose.Diagram for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
