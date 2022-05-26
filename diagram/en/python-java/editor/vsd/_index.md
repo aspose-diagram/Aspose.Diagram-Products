@@ -87,7 +87,7 @@ VSD files are drawings created with Microsoft Visio application to represent var
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Editing Formats" subTitle="Using Java, One can also edit many other file formats including.." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Editing Formats" subTitle="Using Python, One can also edit many other file formats including.." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/editor/vdx/" name="VDX" description="Microsoft Visio Drawing Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/editor/vsdm/" name="VSDM" description="Microsoft Visio Drawing Format" >}}

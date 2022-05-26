@@ -87,7 +87,7 @@ Any drawing or chart created in Microsoft Visio, but saved in XML format have .V
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Editing Formats" subTitle="Using Java, One can also edit many other file formats including.." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Editing Formats" subTitle="Using Python, One can also edit many other file formats including.." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/editor/vsd/" name="VSD" description="Microsoft Visio Drawings" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/editor/vsdm/" name="VSDM" description="Microsoft Visio Drawing Format" >}}
