@@ -62,7 +62,7 @@ description: Python sample code to edit VSS documents within any Python based ap
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="About Aspose.Diagram for Java Python" %}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Diagram for Python via java" %}}
 
  Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed.  
 
