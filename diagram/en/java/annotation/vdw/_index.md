@@ -84,7 +84,7 @@ description: Java source code to annotate VDW file on Java Runtime Environment f
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Watermark VDW Files - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Annotate VDW Files - Java" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Comments-RemoveCommentInVisio-VDW.java" >}}
 

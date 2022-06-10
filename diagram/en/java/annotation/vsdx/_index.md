@@ -84,7 +84,7 @@ description: Java source code to annotate VSDX file on Java Runtime Environment 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Watermark VSDX Files - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Annotate VSDX Files - Java" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Comments-RemoveCommentInVisio-VSDX.java" >}}
 
