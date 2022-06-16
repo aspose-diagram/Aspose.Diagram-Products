@@ -16,7 +16,7 @@ The simplest way to split Visio files page wise is, Accessing all pages via [pag
 +  Load the Visio file with full path using [diagram class](https://reference.aspose.com/diagram/python-java/asposediagram.api/diagram).
 +  Iterate throug each page
 +  Create a new Diagram class object
-+  Copy the page via [Copy method](https://reference.aspose.com/diagram/python-java/asposediagram.api/page#copy(com.aspose.diagram.Page)))
++  Copy the page via [Copy method](https://reference.aspose.com/diagram/python-java/asposediagram.api/page#copy(com.aspose.diagram.Page))
 +  Call the save() method and pass the file name (full path) having relevant SaveFormat.
 
 {{% blocks/products/pf/feature-page-code h3="Python Code to Split Visio Files" %}}
