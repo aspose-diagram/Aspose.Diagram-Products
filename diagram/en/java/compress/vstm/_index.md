@@ -105,7 +105,7 @@ description: Java source code to compress vstm file on Java Runtime Environment 
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSTM WaterMark Live Demos" sectionDescription="Compress VSTM documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/compress). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSTM Compress Live Demos" sectionDescription="Compress VSTM documents right now by visiting our [Live Demos website](https://products.aspose.app/diagram/compress). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your VSTM files." >}}
