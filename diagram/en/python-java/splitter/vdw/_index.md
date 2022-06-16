@@ -55,9 +55,12 @@ description: Python source code to Split vdw file within any Python based applic
 {{% blocks/products/pf/agp/code-block title="Split VDW Files - Python" offSpacer="" %}}
 
 ```cs
+
 diagram = Diagram( "file.vdw");
-diagram.removeHiddenInformation(RemoveHiddenInfoItem.MASTERS | RemoveHiddenInfoItem.STYLES)
-diagram.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);  
+page = diagram.getPages().get(0);
+dia =  Diagram();
+dia.getPages().get(0).copy(page);
+dia.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);  
 
 ```
 {{% /blocks/products/pf/agp/code-block %}}
