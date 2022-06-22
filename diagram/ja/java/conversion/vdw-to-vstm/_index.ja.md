@@ -60,7 +60,7 @@ description: VDW形式からVSTMファイルへのサンプルJava変換コー�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Diagramクラスのインスタンスを含むVDWファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとして使用してDiagram.saveメソッドを呼び出します1. VSTMファイルは指定されたパスに保存されます
+1. Diagramクラスのインスタンスを含むVDWファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとしてDiagram.saveメソッドを呼び出します1. VSTMファイルは指定されたパスに保存されます
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}
@@ -71,7 +71,7 @@ description: VDW形式からVSTMファイルへのサンプルJava変換コー�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを入手します。
+- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDWからVSTMJavaへの変換ソースコード" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.vstm", SaveFileFormat.VSTM);
 
     {{% blocks/products/pf/agp/content h2="JavaDiagram操作ライブラリ" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vstm", SaveFileFormat.VSTM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDWは、Web図面のレンダリングに必要なストリームとストレージを指定するVisioGraphicsServiceファイル形式です。 Web図面は、ベクターまたはラスター図面としてレンダリングできる図面ページ、形状、フォント、画像、データ接続、および図の更新情報のコレクションです。 VDWファイルはMicrosoftVisioでも開くことができますが、主にWebで使用するために保存されます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。
+VDWは、Web図面のレンダリングに必要なストリームとストレージを指定するVisioグラフィックサービスファイル形式です。 Web図面は、ベクターまたはラスター図面としてレンダリングできる図面ページ、図形、フォント、画像、データ接続、およびdiagram更新情報のコレクションです。 VDWファイルはMicrosoftVisioでも開くことができますが、主にWebで使用するために保存されます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
 
-VSTM拡張子の付いたファイルは、マクロをサポートするMicrosoftVisioで作成されたテンプレートファイルです。 VSDXファイルとは異なり、VSTMテンプレートから作成されたファイルは、Visual Basic for Applications（VBA）コードで開発されたマクロを実行できます。テンプレートファイルを作成して、ドキュメントの基本設定を提供し、これらの設定を使用してさらにドキュメントを生成するために使用できます。 Visioファイルは、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。
+拡張子がVSTMのファイルは、マクロをサポートするMicrosoftVisioで作成されたテンプレートファイルです。 VSDXファイルとは異なり、VSTMテンプレートから作成されたファイルは、Visual Basic for Applications（VBA）コードで開発されたマクロを実行できます。テンプレートファイルを作成して、これらの設定でさらにドキュメントを生成するために利用できるドキュメントの基本設定を提供できます。 Visioファイルは、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,26 +130,26 @@ VSTM拡張子の付いたファイルは、マクロをサポートするMicroso
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="VDWを、以下にリストされているいくつかを含む他の多くのファイル形式に変換することもできます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="VDWを、以下にリストされているものを含む他の多くのファイル形式に変換することもできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-bmp/" name="VDWからBMP" description="ビットマップ画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-emf/" name="VDWからEMF" description="強化されたメタファイル形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-html/" name="VDWからHTMLへ" description="ハイパーテキストマークアップ言語" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-jpeg/" name="VDWからJPEG" description="JPEG画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-pdf/" name="VDWからPDFへ" description="ポータブルドキュメントフォーマット" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-png/" name="VDWからPNG" description="ポータブルネットワークグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-png/" name="VDWからPNGへ" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-svg/" name="VDWからSVG" description="スケーラブルなベクターグラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDWからTIFF" description="タグ付き画像形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDWからVDX" description="MicrosoftVisioの描画形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDWからVSDM" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDWからTIFF" description="タグ付き画像フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDWからVDX" description="MicrosoftVisio描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDWからVSDM" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDWからVSDX" description="MicrosoftVisio形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDWからVSSM" description="MicrosoftVisioステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDWからVSSX" description="ステンシルの描画" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDWからVSTX" description="MicrosoftVisio図面テンプレート" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDWからVSX" description="ステンシル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDWからVTX" description="MicrosoftVisio図面テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xaml/" name="VDWからXAMLへ" description="拡張可能なアプリケーションマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="VDWからXPS" description="XML用紙仕様" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xaml/" name="VDWからXAML" description="拡張可能なアプリケーションマークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="VDWからXPS" description="XML紙の仕様" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

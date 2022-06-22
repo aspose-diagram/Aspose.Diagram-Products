@@ -2,7 +2,7 @@
 title: Splits VSDX bestanden via .NET 
 weight: 1300
 url: /nl/net/splitter/vsdx/ 
-description: C# broncode naar Split vsdx-bestand op .NET Framework, .NET Core, Mono Platforms.
+description: C# broncode naar Split vsdx bestand op .NET Framework, .NET Core, Mono Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VSDX opsplitsen in C#" h2="Native en hoogwaardige VSDX documentsplitser met server-side Aspose.Diagram for .NET API\'s, zonder het gebruik van software zoals Microsoft of Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ Herhaal elke pagina
 
     {{% blocks/products/pf/agp/content h2="Over Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -91,11 +91,11 @@ Herhaal elke pagina
         {{< blocks/products/pf/agp/demobox sectionTitle="Online VSDX Live-demo\'s splitsen" sectionDescription="Splits VSDX documenten nu direct door naar onze [Live demo\'s website](https://products.aspose.app/diagram/splitter). De live demo heeft de volgende voordelen:" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft Aspose API niet te downloaden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw VSDM-bestanden." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw VSDM bestanden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk gecomprimeerd en aaneengeschakeld." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-Bestanden met de extensie .VSDX vertegenwoordigen de Microsoft Visio-bestandsindeling die is geïntroduceerd vanaf Microsoft Office 2013. Het is ontwikkeld om het binaire bestandsformaat .VSD te vervangen, dat wordt ondersteund door eerdere versies van Microsoft Visio. Het wordt ook ondersteund op Visio Services in Microsoft SharePoint Server 2013 en vereist geen tussenliggende bestandsindeling voor publicatie naar SharePoint Server. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere. 
+Bestanden met de extensie .VSDX vertegenwoordigen de bestandsindeling Microsoft Visio die is geïntroduceerd vanaf Microsoft Office 2013 en later. Het is ontwikkeld om het binaire bestandsformaat .VSD te vervangen, dat wordt ondersteund door eerdere versies van Microsoft Visio. Het wordt ook ondersteund op Visio Services in Microsoft SharePoint Server 2013 en vereist geen tussenliggende bestandsindeling voor publicatie naar SharePoint Server. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

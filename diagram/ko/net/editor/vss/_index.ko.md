@@ -1,7 +1,7 @@
 ﻿---
 title: .NET를 통해 VSS 파일 수정 
 url: /ko/net/editor/vss/ 
-description: C# 소스 코드는 .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin Platforms에서 VSS 문서를 편집합니다.
+description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin 플랫폼에서 VSS 문서를 편집합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#에서 VSS 형식 수정" h2="Microsoft 또는 Adobe PDF와 같은 소프트웨어를 사용하지 않고 서버측 Aspose.Diagram for .NET API를 사용하여 기본 및 고성능 VSS 문서 편집." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -11,7 +11,7 @@ description: C# 소스 코드는 .NET Framework, .NET Core, Windows Azure, Mono 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 VSS 파일을 편집하는 방법" %}}
 
-VSS 파일을 편집하려면 다음을 사용합니다. <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API은(는) 모든 편집자를 위한 C# 플랫폼에 대해 풍부하고 강력하며 사용하기 쉬운 API입니다. 열려있는 <a href="https://www.nuget.org/packages/aspose.diagram">누겟</a> 패키지 관리자, 검색 <b>Aspose.Diagram</b> 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+VSS 파일을 편집하려면 다음을 사용합니다. <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API은(는) 모든 편집자를 위한 C# 플랫폼에 대해 풍부하고 강력하며 사용하기 쉬운 API입니다. 열려 있는 <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> 패키지 관리자, 검색 <b>Aspose.Diagram</b> 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.    
+Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 그런 다음 저장하고 다운로드합니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 개체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은 Windows와 Mac OS 모두에서 사용할 수 있습니다. 
+VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013년에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 객체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은(는) Windows와 Mac OS 모두에서 사용할 수 있습니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

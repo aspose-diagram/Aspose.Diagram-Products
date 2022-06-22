@@ -60,7 +60,7 @@ description: VSD形式のサンプルJava変換コードからXPSファイルへ
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Diagramクラスのインスタンスを含むVSDファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとして使用してDiagram.saveメソッドを呼び出します1. XPSファイルは指定されたパスに保存されます
+1. Diagramクラスのインスタンスを含むVSDファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとしてDiagram.saveメソッドを呼び出します1. XPSファイルは指定されたパスに保存されます
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}
@@ -71,7 +71,7 @@ description: VSD形式のサンプルJava変換コードからXPSファイルへ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを入手します。
+- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDからXPSJavaへの変換ソースコード" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
     {{% blocks/products/pf/agp/content h2="JavaDiagram操作ライブラリ" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
 
-VSDファイルは、さまざまなグラフィカルオブジェクトとそれらの間の相互接続を表すためにMicrosoftVisioアプリケーションで作成された図面です。このような図面には、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、その他の同様の情報などのビジュアルオブジェクトを含めることができます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。
+VSDファイルは、さまざまなグラフィックオブジェクトとそれらの間の相互接続を表すためにMicrosoftVisioアプリケーションで作成された図面です。このような図面には、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、その他の同様の情報などのビジュアルオブジェクトを含めることができます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
 
-XPSファイルは、Microsoftによって作成されたXMLPaperSpecificationsに基づくページレイアウトファイルを表します。この形式は、EMFファイル形式の代わりとしてMicrosoftによって開発され、PDFファイル形式に似ていますが、ドキュメントのレイアウト、外観、および印刷情報にXMLを使用します。実際、XPSはPDFでの試みであると言うのがより正当化されますが、いくつかの理由でPDFが所有するほどの人気を得ることができませんでした。 Microsoftは、XPSファイルの作成用にWindows7以降のデフォルトでXPSDocumentWriterを提供しています。 XPSファイルは、ドキュメントの印刷中にプリンターとして「MicrosoftXPSDocumentWriter」を選択することで生成できます。
+XPSファイルは、Microsoftによって作成されたXMLPaperSpecificationsに基づくページレイアウトファイルを表します。この形式は、EMFファイル形式の代わりとしてMicrosoftによって開発され、PDFファイル形式に似ていますが、ドキュメントのレイアウト、外観、および印刷情報にXMLを使用します。実際、XPSはPDFの試みであると言うのがより正当化されますが、いくつかの理由でPDFが所有するほどの人気を得ることができませんでした。 Microsoftは、XPSファイルを作成するためのXPSDocumentWriterをデフォルトでWindows7以降に提供します。 XPSファイルは、ドキュメントの印刷中にプリンターとして「Microsoft XPSDocumentWriter」を選択することで生成できます。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -135,17 +135,17 @@ XPSファイルは、Microsoftによって作成されたXMLPaperSpecifications�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-bmp/" name="VSDからBMP" description="ビットマップ画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-emf/" name="VSDEMFへ" description="強化されたメタファイル形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-html/" name="VSDからHTMLへ" description="ハイパーテキストマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-jpeg/" name="VSDからJPEGへ" description="JPEG画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-jpeg/" name="VSDからJPEG" description="JPEG画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-pdf/" name="VSDからPDFへ" description="ポータブルドキュメントフォーマット" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSDからPNGへ" description="ポータブルネットワークグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSDからPNG" description="ポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSDからSVGへ" description="スケーラブルなベクターグラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD TO TIFF" description="タグ付き画像形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSDからVSDMへ" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD TO TIFF" description="タグ付き画像フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSDからVSDM" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSDからVSDX" description="MicrosoftVisio形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSDからVSSMへ" description="MicrosoftVisioステンシルファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSDからVSSXへ" description="ステンシルの描画" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSDからVSTMへ" description="MicrosoftVisioテンプレートファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSDからVSTXへ" description="MicrosoftVisio図面テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSDからVSSM" description="MicrosoftVisioステンシルファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSDからVSSX" description="ステンシルの描画" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSDからVSTM" description="MicrosoftVisioテンプレートファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSDからVSTX" description="MicrosoftVisio図面テンプレート" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSDからVSX" description="ステンシル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSDからVTX" description="MicrosoftVisio図面テンプレート" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSDからXAMLへ" description="拡張可能なアプリケーションマークアップ言語" >}}

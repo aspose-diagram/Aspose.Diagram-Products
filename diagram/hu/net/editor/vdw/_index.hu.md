@@ -28,7 +28,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="VDW-fájlok szerkesztésének lépései itt: C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="A VDW-fájlok szerkesztésének lépései itt: C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy egy kompatibilis operációs rendszer .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokkal- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET A projektben hivatkozott DLL-re – Telepítse a NuGetből a fenti Letöltés gomb segítségével
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokkal- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET DLL-re hivatkozik a projektben – Telepítse innen: NuGet a fenti Letöltés gombbal
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDW-fájlok szerkesztése - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyedén betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges Microsoft Visio vagy más szoftver telepítése.    
+A Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyen betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges a Microsoft Visio vagy más szoftver telepítése.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könny
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ezután mentse és töltse le." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagramfrissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW fájlok a Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál arra, hogy Visio fájlokat konvertáljon számos különböző fájlformátumba, beleértve a PNG, BMP, PDF és más formátumokat. 
+A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagram frissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW-fájlok a(z) Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál a Visio fájlok számos különböző formátumba konvertálására, beleértve a PNG, BMP, PDF és más formátumokat. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

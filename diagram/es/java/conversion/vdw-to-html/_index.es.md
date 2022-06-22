@@ -15,8 +15,8 @@ description: Ejemplo de código de conversión Java de formato VDW a archivo HTM
  Para renderizar VDW a HTML, usaremos
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, que es una plataforma de conversión API for Java rica en funciones, potente y fácil de usar. Puedes descargar su última versión directamente desde
- [Experto](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -102,7 +102,7 @@ visio.save("output.html", SaveFileFormat.HTML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteca de manipulación" %}}
 
- Aspose.Diagram es una manipulación de formato de documento Visio de Microsoft API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
+ Aspose.Diagram es una Microsoft Visio manipulación de formato de documento API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.html", SaveFileFormat.HTML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDW es el formato de archivo del servicio de gráficos Visio que especifica las secuencias y los almacenamientos necesarios para representar un dibujo web. Un dibujo web es una colección de páginas de dibujo, formas, fuentes, imágenes, conexiones de datos e información de actualización de diagramas que se puede representar como un dibujo vectorial o rasterizado. Los archivos VDW también se pueden abrir en Microsoft Visio, pero se guardan principalmente para su uso en la web. Microsoft Visio ofrece la capacidad de convertir archivos Visio a varios formatos de archivo diferentes, incluidos PNG, BMP, PDF y otros.
+VDW es el formato de archivo del servicio de gráficos Visio que especifica las secuencias y los almacenamientos necesarios para representar un dibujo web. Un dibujo web es una colección de páginas de dibujo, formas, fuentes, imágenes, conexiones de datos e información actualizada diagram que se puede representar como un dibujo vectorial o rasterizado. Los archivos VDW también se pueden abrir en Microsoft Visio, pero se guardan principalmente para su uso en la web. Microsoft Visio ofrece la capacidad de convertir archivos Visio a varios formatos de archivo diferentes, incluidos PNG, BMP, PDF y otros.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ HTML (Hyper Text Markup Language) es la extensión de las páginas web creadas p
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-png/" name="VDW A PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-svg/" name="VDW A SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDW A TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW A VDX" description="Formato de dibujo de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW A VSDM" description="Formato de dibujo de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW A VSDX" description="Formato de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW A VSSM" description="Archivos de plantilla Visio de Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW A VDX" description="Microsoft Visio formato de dibujo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW A VSDM" description="Microsoft Visio formato de dibujo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW A VSSM" description="Microsoft Visio archivos de plantilla" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW A VSSX" description="Plantillas de dibujo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW A VSTM" description="Archivos de plantilla Visio de Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW A VSTX" description="Plantilla de dibujo de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW A VSTM" description="Microsoft Visio archivos de plantilla" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW A VSTX" description="Microsoft Visio plantilla de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW A VSX" description="plantillas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW A VTX" description="Plantilla de dibujo de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW A VTX" description="Microsoft Visio plantilla de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xaml/" name="VDW A XAML" description="Lenguaje de marcado de aplicaciones extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="VDW A XPS" description="Especificaciones de papel XML" >}}
 

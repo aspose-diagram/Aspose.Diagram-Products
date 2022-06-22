@@ -1,11 +1,11 @@
 ﻿---
-title: Visio .NET & Java API | Tạo Chuyển đổi hoặc Thao tác Sơ đồ 
+title: Visio .NET Java Python API Node.js | Tạo Chuyển đổi hoặc Thao tác Sơ đồ 
 weight: 10
 url: /vi/family
 description: Diagram thư viện để tạo bản in chỉnh sửa mở và chuyển đổi Visio tệp trong các ứng dụng .NET Java và Mono mà không cần cài đặt Microsoft Visio
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio API thao tác tệp" h2=".NET & Java API để tạo, chỉnh sửa và chuyển đổi tệp Microsoft Visio trên bất kỳ nền tảng nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio API thao tác tệp" h2=".NET & Java API để tạo, chỉnh sửa và chuyển đổi Microsoft Visio tệp trên bất kỳ nền tảng nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram Bao gồm các API mã cao" >}}
@@ -19,11 +19,11 @@ API Java gốc dành cho máy tính để bàn, web hoặc bất kỳ loại ứ
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Node.js qua Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
-Tạo, đọc, viết và hiển thị tài liệu Microsoft Visio qua Node.js.
+Tạo, đọc, viết và hiển thị Microsoft Visio tài liệu qua Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Python qua Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
-Tạo, đọc, viết và kết xuất tài liệu Microsoft Visio qua Python.
+Tạo, đọc, viết và hiển thị Microsoft Visio tài liệu qua Python.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

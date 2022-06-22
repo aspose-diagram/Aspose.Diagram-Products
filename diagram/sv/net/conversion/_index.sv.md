@@ -1,7 +1,7 @@
 ﻿---
 title: C# Microsoft Visio Filkonvertering
 url: /sv/net/conversion/
-description: Konvertera Microsoft Visio-format VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST till PDF HTML och bilder med några rader med C#-kod via .NET-biblioteket.
+description: Konvertera Microsoft Visio format VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST till PDF HTML och bilder med några rader C#-kod via .NET-biblioteket.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Formatkonvertering via C#" h2="Konvertera MS Visio-diagram till PDF, HTML och bilder inklusive BMP, JPG, PNG, TIFF för att bygga plattformsoberoende .NET-applikationer." >}}
@@ -13,7 +13,7 @@ För alla lösningar, design av flödesscheman och affärsflödesdiagram etc ell
 
 {{% blocks/products/pf/feature-page-section h2="Interkonvertering Visio-filer" %}}
 
-Visio-filer som VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM kan konverteras med bara några rader med C#-kod. Låt oss överväga fallet med **VSD till VSDX omvandling**. API tillhandahåller en [Diagram klass](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) för att ladda källfilen VSD. Efter att ha laddat filen, anropa metoden Spara med utdatasökväg med VSDX filnamn och [SaveFileFormat](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFiltillägg som parametrar.
+Visio filer som VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM kan konverteras med bara några rader C# kod. Låt oss överväga fallet med **VSD till VSDX konvertering**. API tillhandahåller en [Diagram klass](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) för att ladda källfilen VSD. Efter att ha laddat filen, anropa metoden Spara med utdatasökväg med VSDX filnamn och [SaveFileFormat](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFiltillägg som parametrar.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kod för omvandling från VSD till VSDX" %}}
 
@@ -26,7 +26,7 @@ Visio-filer som VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM kan konvertera
 
 {{% blocks/products/pf/feature-page-section h2="Visio Konvertering av format till bilder" %}}
 
-Närhelst det finns behov av att konvertera Microsoft<sup>&reg;</sup> Visio filer till bilder inklusive JPG, PNG, BMP, TIFF och SVG. API gör det enkelt och omvandlingsprocessen är densamma. Använd klassen Diagram för att ladda filen och anropa sparametoden genom att ange bildnamn med fullständig sökväg och SaveFileFormat som parametrar. För specifik bildinställning tillhandahåller API [Klassen ImageSaveOptions](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
+Närhelst det finns behov av att konvertera Microsoft<sup>&reg;</sup> Visio filer till bilder inklusive JPG, PNG, BMP, TIFF och SVG. API gör det enkelt och omvandlingsprocessen är densamma. Använd klassen Diagram för att ladda filen och anropa sparmetoden genom att ange bildnamn med fullständig sökväg och SaveFileFormat som parametrar. För specifik bildinställning tillhandahåller API [Klassen ImageSaveOptions](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
 
 {{% blocks/products/pf/feature-page-code h3="C# Kod för att konvertera Visio till bildformat" %}}
 

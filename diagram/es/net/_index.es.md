@@ -5,16 +5,16 @@ url: /es/net/
 description: C# VB.NET ASP.NET Visio biblioteca de diagramas para exportar Visio diagramas VSD VSDX VSS VST VSX VTX VDW VDX VSSX y VSTX a PDF XPS HTML SVG SWF y formatos de imagen
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio API de procesamiento de archivos" h2="Genere, edite, manipule y transforme diagramas de Microsoft Visio a formatos XPS, HTML, SVG, SWF, XAML, imágenes o PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio API de procesamiento de archivos" h2="Genere, edite, manipule y transforme diagramas Microsoft Visio a formatos XPS, HTML, SVG, SWF, XAML, imágenes o PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NET es un API especializado diseñado para trabajar con documentos de Microsoft Visio. Permite a los desarrolladores crear, manipular &amp; convertir formatos nativos Visio. Los desarrolladores pueden crear diagramas desde cero, cargar fácilmente archivos existentes y manipular los elementos del diagrama para exportar el resultado en otros formatos.</p>
+<p>Aspose.Diagram for .NET es un API especializado diseñado para trabajar con documentos Microsoft Visio. Permite a los desarrolladores crear, manipular &amp; convertir formatos Visio nativos. Los desarrolladores pueden crear diagramas desde cero, cargar fácilmente archivos existentes y manipular los elementos del diagram para exportar el resultado en otros formatos.</p>
 
-<p>Aspose.Diagram for .NET es compatible con casi todos los formatos Visio nativos, así como con algunos formatos de imagen &amp; formatos de diseño fijo. Este API es una alternativa al modelo de objetos Visio de Microsoft y proporciona un mejor rendimiento. Hace uso de la funcionalidad avanzada de Visio Servicios para manipular documentos en un servidor.</p>
+<p>Aspose.Diagram for .NET es compatible con casi todos los formatos Visio nativos, así como con algunos formatos de imagen &amp; formatos de diseño fijo. Este API es una alternativa al modelo de objeto Microsoft Visio y proporciona un mejor rendimiento. Hace uso de la funcionalidad avanzada de Visio Servicios para manipular documentos en un servidor.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -59,7 +59,7 @@ description: C# VB.NET ASP.NET Visio biblioteca de diagramas para exportar Visio
      Orientación de la página &amp; Capas
     </li>
     <li>
-     Manipular objetos antiguos
+     Manipular objetos viejos
     </li>
     <li>
      Manipular controles ActiveX
@@ -97,7 +97,7 @@ description: C# VB.NET ASP.NET Visio biblioteca de diagramas para exportar Visio
      Encabezados y amp; Pies de página
     </li>
     <li>
-     Iconos y amp; Fotos
+     Iconos y amp; Imágenes
     </li>
     <li>
      XML de la solución
@@ -168,7 +168,7 @@ description: C# VB.NET ASP.NET Visio biblioteca de diagramas para exportar Visio
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Marco
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -220,7 +220,7 @@ description: C# VB.NET ASP.NET Visio biblioteca de diagramas para exportar Visio
    <ul>
     <li>
      <b>
-      microsoft Visio:
+      Microsoft Visio:
      </b>
      VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
@@ -233,7 +233,7 @@ description: C# VB.NET ASP.NET Visio biblioteca de diagramas para exportar Visio
    <ul>
     <li>
      <b>
-      microsoft Visio:
+      Microsoft Visio:
      </b>
      VDW, VSD, VSS, VST
     </li>
@@ -334,7 +334,7 @@ description: C# VB.NET ASP.NET Visio biblioteca de diagramas para exportar Visio
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leer las propiedades de diferentes objetos del diagrama.
+     Lee las propiedades de diferentes objetos del diagram
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET Visio biblioteca de diagramas para exportar Visio
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Imprimir diagrama en un servidor a través de XpsPrint API
+     Imprima diagram en un servidor a través de XpsPrint API
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: C# VB.NET ASP.NET Visio biblioteca de diagramas para exportar Visio
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Guarde el diagrama en diferentes formatos - C#
+      Guarde el diagram en diferentes formatos - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -469,10 +469,10 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manipular diagramas de Microsoft Visio
+     Manipular Microsoft Visio diagramas
     </h2>
     <p>
-     Aspose.Diagram for .NET API permite leer archivos de Microsoft Visio en formato VSD/VSDX nativo, así como otros formatos, incluidos VSS, VST, VSX, VTX, VDW, VDX, VSSX, VSTX, VSDM, VSSM y VSTM. El contenido del diagrama se puede manipular a través de API. Después de realizar los cambios necesarios en el documento, el documento se puede escribir en el disco en cualquiera de los formatos admitidos.
+     Aspose.Diagram for .NET API permite leer archivos Microsoft Visio en formato nativo VSD/VSDX, así como otros formatos, incluidos VSS, VST, VSX, VTX, VDW, {9 }, VSSX, VSTX, VSDM, VSSM y VSTM. El contenido de diagram se puede manipular a través de API. Después de realizar los cambios necesarios en el documento, el documento se puede escribir en el disco en cualquiera de los formatos admitidos.
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Acceder a los datos de Visio diagramas
     </h2>
     <p>
-     Aspose.Diagram for .NET permite a los desarrolladores leer fácilmente los datos del diagrama, como las propiedades del documento, las páginas, los maestros, las formas, las imágenes, las conexiones, la solución XML, los comentarios, los hipervínculos, la hoja de estilo, las capas, las celdas definidas por el usuario, etc.
+     Aspose.Diagram for .NET permite a los desarrolladores leer fácilmente los datos de diagram, como propiedades de documentos, páginas, maestros, formas, imágenes, conexiones, solución XML, comentarios, hipervínculos, hojas de estilo, capas, celdas definidas por el usuario, etc. .
     </p>
    </div>
    <div class="col-lg-12">
@@ -530,10 +530,10 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Automatización de Microsoft Office: no es necesario
+     Microsoft Office Automatización: no necesaria
     </h2>
     <p>
-     Aspose.Diagram for .NET se crea con código administrado que nunca necesita que Microsoft Office o Microsoft Visio estén instalados en la máquina para trabajar con el procesamiento de documentos Visio. Es una alternativa perfecta de automatización de Microsoft Office Visio en términos de funciones admitidas, seguridad, estabilidad, escalabilidad, velocidad y precio.
+     Aspose.Diagram for .NET se crea con código administrado que nunca necesita que Microsoft Office o Microsoft Visio estén instalados en la máquina para trabajar con el procesamiento de documentos Visio. Es una alternativa de automatización perfecta Microsoft Office Visio en términos de funciones admitidas, seguridad, estabilidad, escalabilidad, velocidad y precio.
     </p>
    </div>
   </div>

@@ -39,13 +39,13 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base che si unisce e si concatena con
+ Creazione di un organigramma in stile diagramma di flusso con
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crea un diagramma da stencil.
++ Crea un diagram da stencil.
 + Seleziona Pagina tramite il suo ID
 + Aggiungi le forme dei nodi dell'organizzazione alla pagina.
 + Aggiungi connettori alla pagina per collegare la forma e il suo genitore.
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Circa Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.  
+ Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Creerà istantaneamente un organigramma in stile FlowChart nei documenti VSS." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS sono file stencil creati con Microsoft Visio 2007 e versioni precedenti. Un formato di file relativamente nuovo è .VSSX, introdotto con Microsoft Visio 2013. I file stencil forniscono oggetti di disegno che possono essere inclusi in un disegno .VSD Visio. Microsoft Visio stesso è noto per la creazione di elementi di disegno come raccolta di forme, connettori, diagrammi di flusso, layout di rete, diagrammi UML, diagrammi software, modelli di database, mappatura di oggetti e altre informazioni simili. Dispone inoltre di funzionalità avanzate di conversione di Visio documenti in altri formati di file come PNG, BMP, PDF e altri. Visio è disponibile sia per Windows che per Mac OS. 
+VSS sono file stencil creati con Microsoft Visio 2007 e precedenti. Un formato di file relativamente nuovo è .VSSX, introdotto con Microsoft Visio 2013. I file stencil forniscono oggetti di disegno che possono essere inclusi in un disegno .VSD Visio. Microsoft Visio stesso è noto per la creazione di elementi di disegno come raccolta di forme, connettori, diagrammi di flusso, layout di rete, diagrammi UML, diagrammi software, modelli di database, mappatura di oggetti e altre informazioni simili. Dispone inoltre di funzionalità avanzate di conversione di Visio documenti in altri formati di file come PNG, BMP, PDF e altri. Visio è disponibile sia per Windows che per Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -107,12 +107,12 @@ VSS sono file stencil creati con Microsoft Visio 2007 e versioni precedenti. Un 
 
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di organigramma supportati" subTitle="Utilizzando C#, è possibile creare facilmente un organigramma in stile diagramma di flusso in diversi formati, tra cui." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsd/" name="Vsd" description="Disegni Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsd/" name="Vsd" description="Microsoft Visio Disegni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vdx/" name="Vdx" description="Visio disegnando un file XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vssx/" name="VSSX" description="Visio File stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vstx/" name="VSTX" description="Visio File modello" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsdm/" name="VSDM" description="Visio File di disegno con abilitazione macro" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vssm/" name="VSM" description="Visio File stencil abilitato per le macro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vssm/" name="VSSM" description="Visio File stencil abilitato per le macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vstm/" name="VSTM" description="Visio File modello abilitato per le macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsdx/" name="VSDX" description="Visio File di disegno" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}

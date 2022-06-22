@@ -102,7 +102,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulationsbibliotek" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introducerades från Microsoft Office 2013 och framåt. Det utvecklades för att ersätta det binära filformatet .VSD, som stöds av tidigare versioner av Microsoft Visio. Det stöds också på Visio-tjänster i Microsoft SharePoint Server 2013 och kräver inget mellanliggande filformat för publicering till SharePoint Server. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
+Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introducerades från Microsoft Office 2013 och framåt. Det utvecklades för att ersätta det binära filformatet .VSD, som stöds av tidigare versioner av Microsoft Visio. Det stöds också på Visio-tjänster i Microsoft SharePoint Server 2013 och kräver inget mellanliggande filformat för publicering till SharePoint Server. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -141,12 +141,12 @@ TIFF eller TIF, Tagged Image File Format, representerar rasterbilder som är avs
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-svg/" name="VSDX TILL SVG" description="Skalbar vektorgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX TILL VDX" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsdm/" name="VSDX TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX TILL VSSM" description="Microsoft Visio stencilfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX TILL VSSM" description="Microsoft Visio Stencilfiler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssx/" name="VSDX TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsx/" name="VSDX TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xaml/" name="VSDX TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xps/" name="VSDX TILL XPS" description="XML-pappersspecifikationer" >}}
 

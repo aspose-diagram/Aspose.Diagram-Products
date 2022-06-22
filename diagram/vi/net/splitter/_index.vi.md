@@ -12,7 +12,7 @@ description: C# mã nguồn giải thích cách chia tệp Microsoft Visio thàn
 {{% blocks/products/pf/feature-page-section h2="Tách tài liệu Visio thành nhiều tệp" %}}
 Cách đơn giản nhất để chia Visio trang tệp một cách khôn ngoan là Truy cập tất cả các trang qua [trang](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram/properties/pages)Lặp lại từng trang và gọi [Sao chép](https://apireference.aspose.com/diagram/net/aspose.diagram/page/methods/copy) phương pháp. Cuối cùng lưu nó vào một đường dẫn được chỉ định. 
 
-+ Tải tệp Visio với đường dẫn đầy đủ bằng cách sử dụng [lớp sơ đồ](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram).
++ Tải tệp Visio với đường dẫn đầy đủ bằng cách sử dụng [diagram lớp](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram).
 Lặp lại từng trang
 + Tạo một đối tượng lớp Diagram mới
 + Sao chép trang qua [Sao chép phương pháp](https://apireference.aspose.com/diagram/net/aspose.diagram/page/methods/copy)

@@ -34,7 +34,7 @@ PM> Install-Package Aspose.Diagram
 
  Een basisdocumentbewerking met
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API's kunnen worden gemaakt met slechts een paar regels code.
+ API's kunnen worden gemaakt met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms- Ontwikkelomgeving zoals Microsoft Visual Studio- Aspose.Diagram for .NET DLL waarnaar wordt verwezen in uw project - Installeer vanaf NuGet met de downloadknop hierboven
+- Microsoft Windows of een compatibel besturingssysteem met .NET Framework-, .NET Core-, Windows Azure-, Mono- of Xamarin-platforms- Ontwikkelomgeving zoals Microsoft Visual Studio- Aspose.Diagram for .NET DLL waarnaar wordt verwezen in uw project - Installeer vanaf NuGet met de downloadknop hierboven
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Bewerk VSD bestanden - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.    
+Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men 
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sla vervolgens op en download." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-VSD-bestanden zijn tekeningen die zijn gemaakt met de Microsoft Visio-toepassing om een verscheidenheid aan grafische objecten en de onderlinge verbinding hiertussen weer te geven. Dergelijke tekeningen kunnen visuele objecten bevatten, zoals visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, het in kaart brengen van objecten en andere soortgelijke informatie. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere. 
+VSD-bestanden zijn tekeningen die zijn gemaakt met de toepassing Microsoft Visio om een verscheidenheid aan grafische objecten en de onderlinge verbinding hiertussen weer te geven. Dergelijke tekeningen kunnen visuele objecten bevatten zoals visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

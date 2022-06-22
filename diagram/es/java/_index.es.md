@@ -5,7 +5,7 @@ url: /es/java/
 description: Visio biblioteca para la creación, manipulación y conversión de diagramas. Exporte diagramas a múltiples formatos en aplicaciones basadas en Java
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Manipule y exporte archivos de Microsoft Office Visio a formatos PDF, HTML, imágenes y XAML sin ninguna dependencia de Microsoft Office Visio." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Manipule y exporte archivos Microsoft Office Visio a formatos PDF, HTML, imágenes y XAML sin ninguna dependencia Microsoft Office Visio." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Visio biblioteca para la creación, manipulación y conversión de 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java es un potente Visio procesamiento de documentos API de Microsoft. Proporciona funcionalidades comunes como crear, analizar &amp; convierte formatos Visio nativos y es compatible con algunos formatos de imagen y diseño fijo de uso común. Las aplicaciones pueden cargar documentos existentes y manipular los elementos del diagrama para exportar el resultado en sus propios formatos, imágenes o formatos de diseño fijo.
+ Aspose.Diagram for Java es un potente Microsoft Visio procesamiento de documentos API. Proporciona funcionalidades comunes como crear, analizar &amp; convierte formatos Visio nativos y admite algunos formatos de imagen y diseño fijo de uso común. Las aplicaciones pueden cargar documentos existentes y manipular los elementos diagram para exportar el resultado en sus propios formatos, imágenes o formatos de diseño fijo.
 </p>
 
 <p>
@@ -69,7 +69,7 @@ description: Visio biblioteca para la creación, manipulación y conversión de 
      Importar mapa de bits como forma
     </li>
     <li>
-     Manipular objetos antiguos
+     Manipular objetos viejos
     </li>
     <li>
      Manipular controles ActiveX
@@ -94,7 +94,7 @@ description: Visio biblioteca para la creación, manipulación y conversión de 
      Encabezados y amp; Pies de página
     </li>
     <li>
-     Iconos y amp; Fotos
+     Iconos y amp; Imágenes
     </li>
     <li>
      XML de la solución
@@ -212,7 +212,7 @@ description: Visio biblioteca para la creación, manipulación y conversión de 
    <ul>
     <li>
      <b>
-      microsoft Visio:
+      Microsoft Visio:
      </b>
      VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
@@ -225,7 +225,7 @@ description: Visio biblioteca para la creación, manipulación y conversión de 
    <ul>
     <li>
      <b>
-      microsoft Visio:
+      Microsoft Visio:
      </b>
      VDW, VSD, VSS, VST
     </li>
@@ -408,10 +408,10 @@ description: Visio biblioteca para la creación, manipulación y conversión de 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Analizar documentos de Microsoft Visio
+     Analizar Microsoft Visio documentos
     </h2>
     <p>
-     Java diagrama API permite leer formatos de archivo nativos de la aplicación Microsoft Visio, lo que le permite acceder a los datos del diagrama como páginas de documentos, propiedades, maestros, imágenes, formas, conexiones, solución XML, capas, hipervínculos, comentarios , StyleSheet, celdas definidas por el usuario, etc. Estos objetos se pueden manipular a través de API y el resultado se puede escribir en el disco en cualquiera de los formatos admitidos.
+     Java diagram API permite leer formatos de archivo nativos de la aplicación Microsoft Visio, lo que le permite acceder a los datos diagram como páginas de documentos, propiedades, maestros, imágenes, formas, conexiones, solución XML , capas, hipervínculos, comentarios, hojas de estilo, celdas definidas por el usuario, etc. Estos objetos se pueden manipular a través de API y el resultado se puede escribir en el disco en cualquiera de los formatos admitidos.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio biblioteca para la creación, manipulación y conversión de 
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Guardar diagrama en diferentes formatos - Java
+      Guardar diagram en diferentes formatos - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Organizar formas en un contenedor
     </h2>
     <p>
-     Normalmente, los desarrolladores agregan formas en un contenedor para mantener las cosas bien organizadas y comprensibles. Los contenedores agregan un límite visual alrededor de las formas, incluida una etiqueta. Para agregar un contenedor y formas secundarias al diagrama, los desarrolladores pueden usar la biblioteca porque brinda un enfoque fácil y rápido.
+     Normalmente, los desarrolladores agregan formas en un contenedor para mantener las cosas bien organizadas y comprensibles. Los contenedores agregan un límite visual alrededor de las formas, incluida una etiqueta. Para agregar un contenedor y formas secundarias a diagram, los desarrolladores pueden usar la biblioteca porque brinda un enfoque fácil y rápido.
     </p>
    </div>
    <div class="col-lg-12">
@@ -463,7 +463,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Imprimir Visio archivos en una impresora física - Java
+      Imprimir Visio archivos en la impresora física - Java
      </h3>
      <pre><code class="java">// load file to be printed
 

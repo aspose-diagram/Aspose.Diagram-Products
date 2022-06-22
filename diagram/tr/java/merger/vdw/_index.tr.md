@@ -15,8 +15,8 @@ description: VDW belgelerini JSP/JSF Uygulaması ve Masaüstü Uygulamaları iç
  VDW dosyasını birleştirmek için kullanacağız
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  Zengin özelliklere sahip, güçlü ve kullanımı kolay bir birleştirme API for Java platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
- [Uzman](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ ve pom.xml dosyasına aşağıdaki yapılandırmaları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="depo" offSpacer="true" %}}
 
@@ -77,7 +77,7 @@ description: VDW belgelerini JSP/JSF Uygulaması ve Masaüstü Uygulamaları iç
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment ile uyumlu bir işletim sistemi.- Aspose.Diagram for Java'in en son sürümünü doğrudan şu adresten edinin: [Uzman](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment ile uyumlu bir işletim sistemi.- Aspose.Diagram for Java'in en son sürümünü doğrudan şu adresten edinin: [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VDW);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında birleştirilir ve birleştirilir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diyagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio'ta da açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya biçimine dönüştürme yeteneği sunar. 
+VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio içinde de açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya formatına dönüştürme yeteneği sunar. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,9 +129,9 @@ VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirt
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Birleştirme Formatları" subTitle="Java kullanarak One, aşağıdakiler de dahil olmak üzere diğer birçok dosya biçimini birleştirebilir." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Çizimleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Çizimler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio Biçim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="Şablon Dosyaları" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Şablon dosyaları" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Çizim Şablonları" >}}

@@ -71,7 +71,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VSD thành tệp 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc một hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã nguồn chuyển đổi VSD sang JPEG Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Thư viện Thao tác" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
 
-Tệp VSD là các bản vẽ được tạo bằng ứng dụng Microsoft Visio để thể hiện nhiều đối tượng đồ họa và sự kết nối giữa các đối tượng này. Các bản vẽ như vậy có thể chứa các đối tượng trực quan như đối tượng trực quan, lưu đồ, sơ đồ UML, luồng thông tin, biểu đồ tổ chức, sơ đồ phần mềm, bố trí mạng, mô hình cơ sở dữ liệu, đối tượng lập bản đồ và các thông tin tương tự khác. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác.
+Tệp VSD là các bản vẽ được tạo bằng ứng dụng Microsoft Visio để thể hiện nhiều đối tượng đồ họa và sự kết nối giữa các đối tượng này. Các bản vẽ như vậy có thể chứa các đối tượng trực quan như đối tượng trực quan, lưu đồ, UML diagram, luồng thông tin, biểu đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, đối tượng ánh xạ và các thông tin tương tự khác. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,14 +139,14 @@ JPEG là một loại định dạng hình ảnh được lưu bằng phương p
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSD ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSD ĐẾN SVG" description="Đồ họa vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD ĐẾN VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD ĐẾN VSDX" description="Định dạng Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD ĐẾN VSSM" description="Tệp Microsoft Visio Stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD ĐẾN VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD ĐẾN VSDX" description="Microsoft Visio Định dạng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD ĐẾN VSSM" description="Microsoft Visio Tệp stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD ĐẾN VSSX" description="Vẽ giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD ĐẾN VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD ĐẾN VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD ĐẾN VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD ĐẾN VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD ĐẾN VSX" description="Giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD ĐẾN VTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD ĐẾN VTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSD ĐẾN XAML" description="Ngôn ngữ đánh dấu ứng dụng có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xps/" name="VSD ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
 

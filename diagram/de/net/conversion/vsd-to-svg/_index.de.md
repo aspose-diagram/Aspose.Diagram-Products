@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft-Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente des Diagramms bearbeiten, um das Ergebnis in andere Formate zu exportieren.
+ Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente der diagram manipulieren, um das Ergebnis in andere Formate zu exportieren.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-VSD-Dateien sind Zeichnungen, die mit der Microsoft Visio-Anwendung erstellt wurden, um eine Vielzahl von grafischen Objekten und die Verbindung zwischen diesen darzustellen. Solche Zeichnungen können visuelle Objekte wie visuelle Objekte, Flussdiagramme, UML-Diagramme, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektabbildungen und andere ähnliche Informationen enthalten. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere.
+VSD-Dateien sind Zeichnungen, die mit der Anwendung Microsoft Visio erstellt wurden, um eine Vielzahl von grafischen Objekten und die Verbindung zwischen diesen darzustellen. Solche Zeichnungen können visuelle Objekte wie visuelle Objekte, Flussdiagramme, UML diagram, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,14 +112,14 @@ SVG-Dateien sind skalierbare Vektorgrafiken, die ein XML-basiertes Textformat zu
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-png/" name="VSD ZU PNG" description="Portable Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-swf/" name="VSD AN SWF" description="SWF-Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-tiff/" name="VSD ZU TIFF" description="Markiertes Bildformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD ZU VDX" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD ZU VSDM" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD AN VSDX" description="Microsoft Visio-Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD AN VSSM" description="Microsoft Visio-Schablonendateien" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssx/" name="VSD ZU VSSX" description="Zeichenschablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD ZU VSTM" description="Microsoft Visio Vorlagendateien" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD ZU VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD ZU VSX" description="Schablonen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD AN VDX" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD AN VSDM" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD AN VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD AN VSSM" description="Microsoft Visio Schablonendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssx/" name="VSD AN VSSX" description="Zeichenschablonen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD AN VSTM" description="Microsoft Visio Vorlagendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD AN VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD AN VSX" description="Schablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD AN VTX" description="Microsoft Visio Zeichnungsvorlage" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xaml/" name="VSD ZU XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xps/" name="VSD ZU XPS" description="XML-Papierspezifikationen" >}}

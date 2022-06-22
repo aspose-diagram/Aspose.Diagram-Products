@@ -12,7 +12,7 @@ description: Codice di esempio per la conversione da VSTX a PDF C#. Utilizza API
 
 {{% blocks/products/pf/agp/content h2="Come convertire VSTX in PDF utilizzando C#" %}}
 
- Per convertire VSTX in PDF, useremo
+ Per convertire VSTX in PDF, utilizzeremo
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API che è una piattaforma di manipolazione e conversione di documenti API ricca di funzionalità, potente e facile da usare per C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
@@ -39,11 +39,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET gli sviluppatori possono caricare e convertire facilmente i file VSTX in PDF in poche righe di codice.
+ .NET gli sviluppatori possono caricare e convertire facilmente VSTX file in PDF in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carica il file VSTX con un'istanza della classe Diagram1. Chiama il metodo Diagram.Save con il percorso del file di output e SaveFileFormat.PDF come parametri1. Il file PDF verrà salvato nel percorso specificato
+1. Carica il file VSTX con un'istanza di classe Diagram1. Chiama il metodo Diagram.Save con il percorso del file di output e SaveFileFormat.PDF come parametri1. Il file PDF verrà salvato nel percorso specificato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di sistema" %}}
@@ -70,15 +70,15 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per convertire VSTX in PDF" sectionDescription="Controlla le nostre demo dal vivo per [Conversione da VSTX a PDF](https://products.aspose.app/diagram/conversion/vstx-to-pdf) con i seguenti vantaggi." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per convertire VSTX in PDF" sectionDescription="Controlla le nostre demo dal vivo per [VSTX in PDF conversione](https://products.aspose.app/diagram/conversion/vstx-to-pdf) con i seguenti vantaggi." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file VSTX e premere il pulsante \"Converti\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Carica il tuo file VSTX e premi il pulsante \"Converti\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Riceverai immediatamente il link per il download del file PDF risultante." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Una Diagram Libreria di gestione appositamente progettata per funzionare con i file Microsoft Visio. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, caricare facilmente file esistenti e manipolare gli elementi del diagramma per esportare il risultato in altri formati.
+ Una Diagram Libreria di gestione appositamente progettata per funzionare con Microsoft Visio file. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, nonché caricare facilmente file esistenti e manipolare gli elementi di diagram per esportare il risultato in altri formati.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/image/vstx/" >}}
-I file con estensioni VSTX disegnano file modello creati con Microsoft Visio 2013 e versioni successive. Questi file VSTX forniscono il punto di partenza per la creazione di Visio disegni, salvati come file .VSDX, con layout e impostazioni predefiniti. In generale, i file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri. I programmi che aprono file VSTX includono Microsoft Visio per Windows e Mac che ti consente di aprire questi file per la visualizzazione e la modifica. Consente inoltre di convertire Visio formati di file in numerosi altri formati.
+file con estensione VSTX stanno disegnando file modello creati con Microsoft Visio 2013 e versioni successive. Questi VSTX file forniscono il punto di partenza per la creazione di Visio disegni, salvati come file .VSDX, con layout e impostazioni predefiniti. In generale, i file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, UML diagram, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri. I programmi che aprono VSTX file includono Microsoft Visio per Windows e Mac che ti consentono di aprire questi file per la visualizzazione e la modifica. Consente inoltre di convertire Visio formati di file in numerosi altri formati.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,22 +105,22 @@ Portable Document Format (PDF) è un tipo di documento creato da Adobe negli ann
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire VSTX in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-bmp/" name="VSTX A BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-emf/" name="VSTX A EMF" description="Formato Metafile migliorato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-emf/" name="VSTX A CEM" description="Formato Metafile migliorato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-html/" name="VSTX IN HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-jpeg/" name="VSTX IN JPEG" description="Immagine JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-png/" name="VSTX IN PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-svg/" name="VSTX IN SVG" description="Grafica vettoriale scalabile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-swf/" name="VSTX IN SWF" description="Formato SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-tiff/" name="VSTX IN TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vdx/" name="DA VSTX A VDX" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdm/" name="DA VSTX A VSDM" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdx/" name="VSTX A VSDX" description="Formato Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssm/" name="VSTX IN VSSM" description="File stencil di Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssx/" name="DA VSTX A VSSX" description="Stencil da disegno" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstm/" name="VSTX A VSTM" description="File modello Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstx/" name="VSTX IN VSTX" description="Modello di disegno di Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsx/" name="DA VSTX A VSX" description="Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vtx/" name="VTX A VTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vdx/" name="VSTX A VDX" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdm/" name="VSTX A VSDM" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdx/" name="VSTX A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssm/" name="VSTX A VSSM" description="Microsoft Visio File stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssx/" name="VSTX A VSSX" description="Stencil da disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstm/" name="VSTX A VSTM" description="Microsoft Visio File modello" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstx/" name="VSTX A VSTX" description="Microsoft Visio Modello di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsx/" name="VSTX A VSX" description="Stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vtx/" name="VSTX A VTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-xaml/" name="VSTX IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-xps/" name="VSTX A XPS" description="Specifiche della carta XML" >}}
 

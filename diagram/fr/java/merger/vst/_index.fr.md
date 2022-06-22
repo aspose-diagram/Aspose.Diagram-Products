@@ -16,7 +16,7 @@ description: Java Exemple de code pour combiner des documents VST sur Java Runti
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API qui est une plate-forme de fusion API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -77,7 +77,7 @@ description: Java Exemple de code pour combiner des documents VST sur Java Runti
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.- Obtenez la dernière version de Aspose.Diagram for Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows ou un système d'exploitation compatible avec Java environnement d'exécution pour applications JSP/JSF et applications de bureau.- Obtenez la dernière version de Aspose.Diagram for Java directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
 
     {{% blocks/products/pf/agp/content h2="À propos de Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram est une manipulation de format de document Microsoft Visio API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
+ Aspose.Diagram est une Microsoft Visio manipulation de format de document API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera fusionné et concaténé instantanément." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Les fichiers avec l'extension VST sont des fichiers d'image vectorielle créés avec Microsoft Visio et servent de modèle pour créer d'autres fichiers. Ces fichiers modèles sont au format de fichier binaire et contiennent la mise en page et les paramètres par défaut qui sont utilisés pour la création de nouveaux dessins Visio. Lorsqu'un fichier VST est ouvert dans Microsoft Visio, il contient les paramètres existants pour continuer à travailler avec le document. En général, les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, un diagramme UML, un flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres. 
+Les fichiers avec l'extension VST sont des fichiers d'image vectorielle créés avec Microsoft Visio et servent de modèle pour créer d'autres fichiers. Ces fichiers modèles sont au format de fichier binaire et contiennent la mise en page et les paramètres par défaut qui sont utilisés pour la création de nouveaux dessins Visio. Lorsqu'un fichier VST est ouvert dans Microsoft Visio, il contient les paramètres existants pour continuer à travailler avec le document. En général, les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, UML diagram, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,17 +129,17 @@ Les fichiers avec l'extension VST sont des fichiers d'image vectorielle créés 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de fusion pris en charge" subTitle="En utilisant Java, One peut également fusionner de nombreux autres formats de fichiers, y compris.." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visio Fichier de service graphique" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Dessins Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Format Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Dessins" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio Formater" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="Fichiers de pochoir" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Fichiers de pochoir Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio fichiers de gabarit" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Pochoirs de dessin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Fichiers de modèles Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Modèle de dessin Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio fichiers modèles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio Gabarit de dessin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="Pochoirs" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Modèle de dessin Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio Gabarit de dessin" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

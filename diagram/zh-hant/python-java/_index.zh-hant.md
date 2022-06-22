@@ -13,7 +13,7 @@ description: Aspose.Diagram for Python via Java 是一個 visio javascript API�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Python via Java 是 Microsoft Visio 文檔操作解決方案。可以讀取、寫入、保護、導出和打印原生 Visio 格式，並支持一些常用的圖像和固定佈局格式。它可以輕鬆加載現有文件，修改圖表元素以導出為所需格式，包括圖像或 PDF 或 XPS 等固定佈局格式。
+ Aspose.Diagram for Python via Java 是一種 Microsoft Visio 文檔操作解決方案。可以讀取、寫入、保護、導出和打印原生 Visio 格式，並支持一些常用的圖像和固定佈局格式。它可以輕鬆加載現有文件，修改 diagram 元素以導出為所需格式，包括圖像或 PDF 或 XPS 等固定佈局格式。
 </p>
 
 <p>
@@ -155,7 +155,7 @@ description: Aspose.Diagram for Python via Java 是一個 visio javascript API�
    <ul>
     <li>
      <b>
-      微軟 Visio：
+      Microsoft Visio：
      </b>
      VSDX、VDX、VSX、VTX、VSSX、VSTX、VSDM、VSSM、VSTM
     </li>
@@ -168,7 +168,7 @@ description: Aspose.Diagram for Python via Java 是一個 visio javascript API�
    <ul>
     <li>
      <b>
-      微軟 Visio：
+      Microsoft Visio：
      </b>
      VDW、VSD、VSS、VST
     </li>
@@ -299,7 +299,7 @@ description: Aspose.Diagram for Python via Java 是一個 visio javascript API�
      從頭開始創建 Visio 個文檔
     </h2>
     <p>
-     Python 的 Aspose.Diagram 簡單易用。它允許用戶在不了解底層格式的情況下使用圖表，例如只需幾行代碼即可從頭開始創建 VSDX 文件。
+     Python 的 Aspose.Diagram 簡單易用。它允許用戶在不了解底層格式的情況下使用圖表，例如只需幾行代碼就可以從頭開始創建 VSDX 文件。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      訪問和操作 Visio 文件
     </h2>
     <p>
-     Python圖表API允許讀取原生 Microsoft Visio 格式，並提供對圖表數據（如文檔、頁面、母版、形狀、樣式表、連接等）的訪問。這些對象可以通過 API 進行操作，並且可以以任何支持的格式將結果寫入磁盤。
+     Python diagram API 允許讀取原生 Microsoft Visio 格式以及提供對文檔、頁面、母版、形狀、樣式表、連接等 diagram 數據的訪問。這些對象可以通過 API 進行操作，結果可以任何支持的格式寫入磁盤。
     </p>
    </div>
    <div class="col-lg-12">
@@ -323,7 +323,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      導出到圖像
     </h2>
     <p>
-     開發人員可以輕鬆加載 Visio 文件並將它們導出為流行的圖像，包括 PNG、TIFF、JPEG、BMP、SVG 和 EMF。 Python 庫還支持將 Visio 文件導出為 PDF 和具有最高保真度的 XPS 格式。
+     開發人員可以輕鬆加載 Visio 文件並將其導出為流行的圖像，包括 PNG、TIFF、JPEG、BMP、SVG 和 EMF。 Python 庫還支持將 Visio 文件導出為 PDF 和具有最高保真度的 XPS 格式。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -356,7 +356,7 @@ diagram.save("output.png", options)</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/diagram/java/aspose-diagram-for-python-via-java-features/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-diagram/Aspose.Diagram-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 參考資料" href="https://apireference.aspose.com/diagram/python" >}}
+{{< blocks/products/pf/slr-element name="API 參考文獻" href="https://apireference.aspose.com/diagram/python" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -2,7 +2,7 @@
 title: Scal pliki VDW przez .NET 
 weight: 4020
 url: /pl/net/merger/vdw/ 
-description: C# kod źródłowy do łączenia dokumentów VDW na .NET Framework, .NET Core, Mono lub COM Interop.
+description: C# kod źródłowy do łączenia dokumentów VDW w .NET Framework, .NET Core, Mono lub COM Interop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Scal formaty VDW w C#" h2="Natywne i wysokowydajne łączenie dokumentów VDW przy użyciu interfejsów API Aspose.Diagramfor .NET po stronie serwera, bez użycia oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VDW" >}}
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Utwórz jeden dokument jako plik podstawowy
 + Wywołaj odpowiednią metodę łączenia i scalania plików jeden po drugim.
 + Wywołaj metodę Save() i przekaż nazwę pliku (pełna ścieżka) i format (VDW) jako parametr.
-Teraz możesz otwierać i używać pliku VDW w Microsoft Office, Adobe PDF lub dowolnym innym kompatybilnym programie.
++ Teraz możesz otworzyć i używać pliku VDW w Microsoft Office, Adobe PDF lub dowolnym innym zgodnym programie.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vdw");
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -96,14 +96,14 @@ Diagram dgF = new Diagram( "f.vdw");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Internetowe demonstracje fuzji VDW na żywo" sectionDescription="Scal dokumenty VDW już teraz, odwiedzając nasze [Witryna demonstracyjna na żywo](https://products.aspose.app/diagram/merger). Demo na żywo ma następujące zalety" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Prezentacje na żywo dotyczące fuzji VDW online" sectionDescription="Scal dokumenty VDW już teraz, odwiedzając nasze [Witryna demonstracyjna na żywo](https://products.aspose.app/diagram/merger). Demo na żywo ma następujące zalety" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie musisz pisać żadnego kodu." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki VDW." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie on natychmiast scalony i połączony." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW to format pliku Visio Graphics Service, który określa strumienie i magazyny wymagane do renderowania rysunku internetowego. Rysunek internetowy to zbiór stron rysunku, kształtów, czcionek, obrazów, połączeń danych i informacji o aktualizacji diagramu, które można renderować jako rysunek wektorowy lub rastrowy. Pliki VDW można również otwierać w Microsoft Visio, ale są one przede wszystkim zapisywane do użytku w Internecie. Firma Microsoft Visio oferuje możliwość konwertowania plików Visio na wiele różnych formatów plików, w tym PNG, BMP, PDF i inne. 
+VDW to format pliku Visio Graphics Service, który określa strumienie i magazyny wymagane do renderowania rysunku internetowego. Rysunek internetowy to zbiór stron rysunku, kształtów, czcionek, obrazów, połączeń danych i diagram informacji o aktualizacjach, które można renderować jako rysunek wektorowy lub rastrowy. Pliki VDW można również otwierać w Microsoft Visio, ale są one przede wszystkim zapisywane do użytku w Internecie. Microsoft Visio oferuje możliwość konwertowania Visio plików na wiele różnych formatów plików, w tym PNG, BMP, PDF i inne. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,17 +114,17 @@ VDW to format pliku Visio Graphics Service, który określa strumienie i magazyn
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając C#, można również łączyć wiele innych formatów plików, w tym." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Rysunki Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio Rysunki" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Format Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vss/" name="VSS" description="Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssx/" name="VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vst/" name="VST" description="Pliki obrazów wektorowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsx/" name="VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Microsoft Visio Szablon rysunku" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

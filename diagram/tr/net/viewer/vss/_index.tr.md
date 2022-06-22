@@ -1,5 +1,5 @@
 ﻿---
-title: VSS Dosya Biçimlerini .NET üzerinden görüntüleyin 
+title: VSS Dosya Biçimlerini .NET aracılığıyla görüntüleyin 
 weight: 3190
 url: /tr/net/viewer/vss/ 
 description: .NET Framework, .NET Core, Mono veya COM Interop üzerinde VSS belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
@@ -97,7 +97,7 @@ System.Diagnostics.Process.Start(output);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Gerekirse bağlantıdan VSS dosyasını indirin" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS, Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyalarıdır. Nispeten yeni bir dosya biçimi, Microsoft Visio 2013 ile tanıtılan .VSSX'tir. Şablon dosyaları, bir .VSD Visio çizimine dahil edilebilecek çizim nesneleri sağlar. Microsoft Visio, şekiller, bağlayıcılar, akış şemaları, ağ düzeni, UML diyagramları, yazılım diyagramları, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi çizim öğeleri oluşturmasıyla tanınır. Ayrıca Visio belgelerin PNG, BMP, PDF ve diğerleri gibi diğer dosya biçimlerine zengin dönüştürme özelliklerine sahiptir. Visio hem Windows hem de Mac OS için kullanılabilir.
+VSS, Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyalarıdır. Nispeten yeni bir dosya biçimi, Microsoft Visio 2013 ile tanıtılan .VSSX'dir. Şablon dosyaları, bir .VSD Visio çizimine dahil edilebilecek çizim nesneleri sağlar. Microsoft Visio, şekiller, bağlayıcılar, akış şemaları, ağ düzeni, UML diyagramları, yazılım diyagramları, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi çizim öğeleri oluşturmasıyla bilinir. Ayrıca Visio belgelerin PNG, BMP, PDF ve diğerleri gibi diğer dosya biçimlerine zengin dönüştürme özelliklerine sahiptir. Visio hem Windows hem de Mac OS için kullanılabilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -109,9 +109,9 @@ VSS, Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyala
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vdw/" name="VDW" description="Visio Grafik Hizmeti dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vdx/" name="VDX" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsd/" name="VSD" description="Microsoft Visio Çizimleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsd/" name="VSD" description="Microsoft Visio Çizimler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsdm/" name="VSDM" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsdx/" name="VSDX" description="Microsoft Visio Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsdx/" name="VSDX" description="Microsoft Visio Biçim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vssm/" name="VSSM" description="Microsoft Visio Şablon dosyaları" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vssx/" name="VSSX" description="Çizim Şablonları" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vst/" name="VST" description="Vektör Görüntü Dosyaları" >}}

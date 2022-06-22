@@ -13,7 +13,7 @@ description: Visio Bibliothek zum Erstellen, Bearbeiten und Konvertieren von Dia
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java ist eine leistungsstarke Microsoft Visio Dokumentenverarbeitung API. Es bietet allgemeine Funktionen wie Erstellen, Analysieren &amp; konvertiert native Visio-Formate und unterstützt einige häufig verwendete Bildformate und Formate mit festem Layout. Anwendungen können vorhandene Dokumente laden und die Diagrammelemente bearbeiten, um das Ergebnis in eigenen Formaten, Bildern oder Formaten mit festem Layout zu exportieren.
+ Aspose.Diagram for Java ist eine leistungsstarke Microsoft Visio Dokumentenverarbeitung API. Es bietet allgemeine Funktionen wie Erstellen, Analysieren &amp; konvertiert native Visio-Formate und unterstützt einige häufig verwendete Bildformate und Formate mit festem Layout. Anwendungen können vorhandene Dokumente laden und die diagram-Elemente bearbeiten, um das Ergebnis in ihren eigenen Formaten, Bildern oder Formaten mit festem Layout zu exportieren.
 </p>
 
 <p>
@@ -109,7 +109,7 @@ description: Visio Bibliothek zum Erstellen, Bearbeiten und Konvertieren von Dia
      Hyperlinks
     </li>
     <li>
-     Schichten
+     Lagen
     </li>
     <li>
      Benutzerdefinierte Zellen
@@ -212,7 +212,7 @@ description: Visio Bibliothek zum Erstellen, Bearbeiten und Konvertieren von Dia
    <ul>
     <li>
      <b>
-      Microsoft-Visio:
+      Microsoft Visio:
      </b>
      VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
@@ -225,7 +225,7 @@ description: Visio Bibliothek zum Erstellen, Bearbeiten und Konvertieren von Dia
    <ul>
     <li>
      <b>
-      Microsoft-Visio:
+      Microsoft Visio:
      </b>
      VDW, VSD, VSS, VST
     </li>
@@ -236,7 +236,7 @@ description: Visio Bibliothek zum Erstellen, Bearbeiten und Konvertieren von Dia
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Nur Ausgabe
+    Nur Ausgang
    </header>
    <ul>
     <li>
@@ -259,7 +259,7 @@ description: Visio Bibliothek zum Erstellen, Bearbeiten und Konvertieren von Dia
     </li>
     <li>
      <b>
-      Andere:
+      Sonstiges:
      </b>
      XAML
     </li>
@@ -408,10 +408,10 @@ description: Visio Bibliothek zum Erstellen, Bearbeiten und Konvertieren von Dia
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Analysieren Sie Microsoft Visio-Dokumente
+     Analysieren Sie Microsoft Visio Dokumente
     </h2>
     <p>
-     Java Diagramm API ermöglicht das Lesen nativer Dateiformate der Microsoft Visio-Anwendung, wodurch Sie auf Diagrammdaten wie Dokumentseiten, Eigenschaften, Master, Bilder, Formen, Verbindungen, Lösungs-XML, Ebenen, Hyperlinks und Kommentare zugreifen können , StyleSheet, benutzerdefinierte Zellen und so weiter. Diese Objekte können über API manipuliert werden, und das Ergebnis kann in einem der unterstützten Formate auf die Festplatte geschrieben werden.
+     Java diagram API ermöglicht das Lesen nativer Dateiformate der Anwendung Microsoft Visio, sodass Sie auf die diagram-Daten wie Dokumentseiten, Eigenschaften, Master, Bilder, Formen, Verbindungen, Lösungs-XML zugreifen können , Ebenen, Hyperlinks, Kommentare, StyleSheets, benutzerdefinierte Zellen und so weiter. Diese Objekte können über API manipuliert werden, und das Ergebnis kann in einem der unterstützten Formate auf die Festplatte geschrieben werden.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio Bibliothek zum Erstellen, Bearbeiten und Konvertieren von Dia
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Diagramm in verschiedenen Formaten speichern - Java
+      Speichern Sie diagram in verschiedenen Formaten - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Formen in einem Container organisieren
     </h2>
     <p>
-     Normalerweise fügen Entwickler Formen in einem Container hinzu, um die Dinge gut organisiert und verständlich zu halten. Die Container fügen eine visuelle Begrenzung um Formen hinzu, einschließlich einer Beschriftung. Um dem Diagramm einen Container und Unterformen hinzuzufügen, können Entwickler die Bibliothek verwenden, da sie einen einfachen und schnellen Ansatz bietet.
+     Normalerweise fügen Entwickler Formen in einem Container hinzu, um die Dinge gut organisiert und verständlich zu halten. Die Container fügen eine visuelle Begrenzung um Formen hinzu, einschließlich einer Beschriftung. Entwickler können die Bibliothek verwenden, um einen Container und Unterformen zu diagram hinzuzufügen, da sie einen einfachen und schnellen Ansatz bietet.
     </p>
    </div>
    <div class="col-lg-12">

@@ -1,11 +1,11 @@
 ﻿---
-title: Visio API .NET et Java | Créer, convertir ou manipuler des diagrammes 
+title: Visio .NET Java Python API Node.js | Créer, convertir ou manipuler des diagrammes 
 weight: 10
 url: /fr/family
-description: Bibliothèque Diagram pour créer des fichiers open edit print et convertir Visio dans les applications .NET Java et Mono sans que Microsoft Visio soit installé
+description: Bibliothèque Diagram pour créer des fichiers open edit print et convertir Visio dans les applications .NET Java et Mono sans Microsoft Visio installé
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de manipulation de fichiers Microsoft Visio" h2="API .NET et Java pour créer, modifier et convertir des fichiers Microsoft Visio sur n\'importe quelle plate-forme." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio API de manipulation de fichiers" h2="API .NET et Java pour créer, modifier et convertir des fichiers Microsoft Visio sur n\'importe quelle plate-forme." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram API High Code incluses" >}}

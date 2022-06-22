@@ -2,7 +2,7 @@
 title: 通過 C# 將 VDX 轉換為 VSDX 
 weight: 2190
 url: /zh-hant/net/conversion/vdx-to-vsdx/ 
-description: VDX 到 VSDX C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼批量 VDX 文件到 VSDX 轉換。
+description: VDX 到 VSDX C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 VDX 文件批量轉換為 VSDX。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通過 C# 將 VDX 轉換為 VSDX" h2="將 Microsoft® Visio VDX 文件導出到 .NET Framework、.NET Core、Mono 或 COM Interop 上的 VSDX。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDX" >}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系統。- Microsoft Visual Studio 等開發環境。- Aspose.Diagram for .NET 項目中引用的 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="此示例代碼顯示 VDX 到 VSDX C# 的轉換" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="此示例代碼顯示 VDX 到 VSDX C# 轉換" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdx-to-vsdx.cs" >}}
 
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 專門設計用於處理 Microsoft Visio 文件的 Diagram 管理庫。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作圖表元素以將結果導出為其他格式。
+ 專門設計用於處理 Microsoft Visio 文件的 Diagram 管理庫。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作 diagram 的元素以其他格式導出結果。
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-在 Microsoft Visio 中創建但以 XML 格式保存的任何繪圖或圖表都具有 .VDX 擴展名。 Visio 繪圖 XML 文件是在 Microsoft 開發的 Visio 軟件中創建的。 Microsoft Visio 能夠生成可用於演示文稿和文檔的可視文檔。 Visio 繪圖 XML 文件包含視覺對象和視覺元素的元數據詳細信息。文本也可以添加到這些視覺元素視覺繪圖 XML 文件中。這些 Visio 繪圖 XML 文件與基於 XML 的格式標準和圖像數據編碼規範集成，允許其內容由 Microsoft Visio 軟件以 VDX 文件格式呈現和存儲。
+在 Microsoft Visio 中創建但以 XML 格式保存的任何繪圖或圖表都具有 .VDX 擴展名。在 Microsoft 開發的 Visio 軟件中創建 Visio 繪圖 XML 文件。 Microsoft Visio 能夠生成可用於演示文稿和文檔的可視文檔。 Visio 繪圖 XML 文件包含視覺對象和視覺元素的元數據詳細信息。文本也可以添加到這些視覺元素視覺繪圖 XML 文件中。這些 Visio 繪圖 XML 文件與基於 XML 的格式化標準和圖像數據編碼規範相集成，允許 Microsoft Visio 軟件以 VDX 文件格式呈現和存儲其內容。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vsdx" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-帶有 .VSDX 擴展名的文件代表從 Microsoft Office 2013 開始引入的 Microsoft Visio 文件格式。開發它是為了替換早期版本的 Microsoft Visio 支持的二進製文件格式 .VSD。 Microsoft SharePoint Server 2013 中的 Visio 服務也支持它，並且不需要中間文件格式即可發佈到 SharePoint Server。 Visio 文件用於創建包含視覺對象、流程圖、UML 圖、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的圖紙。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。
+帶有 .VSDX 擴展名的文件代表從 Microsoft Office 2013 年開始引入的 Microsoft Visio 文件格式。開發它是為了替換早期版本的 Microsoft Visio 支持的二進製文件格式 .VSD。 Microsoft SharePoint Server 2013 中的 Visio 服務也支持它，並且不需要中間文件格式即可發佈到 SharePoint Server。 Visio 文件用於創建包含視覺對象、流程圖、UML diagram、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的繪圖。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,26 +102,26 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="您還可以將 VDX 轉換為許多其他文件格式，包括下面列出的幾種文件格式。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="您還可以將 VDX 轉換為許多其他文件格式，包括下面列出的幾種。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-bmp/" name="VDX 轉 BMP" description="位圖圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-emf/" name="VDX 到 EMF" description="增強的元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-html/" name="VDX 轉 HTML" description="超文本標記語言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-jpeg/" name="VDX轉JPEG" description="JPEG圖像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-pdf/" name="VDX轉PDF" description="便攜式文件格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-png/" name="VDX轉PNG" description="便攜式網絡圖形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-svg/" name="VDX 轉 SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-pdf/" name="VDX 轉 PDF" description="便攜式文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-png/" name="VDX 轉 PNG" description="便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-svg/" name="VDX轉 SVG" description="可縮放矢量圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-swf/" name="VDX 轉 SWF" description="SWF 格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-tiff/" name="VDX 轉 TIFF" description="標記圖像格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdm/" name="VDX 轉 VSDM" description="Microsoft Visio 繪圖格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX 轉 VSSM" description="Microsoft Visio 模具文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssx/" name="VDX 轉 VSSX" description="繪圖模具" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX 轉 VSTM" description="Microsoft Visio 模板文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX 轉 VSTX" description="Microsoft Visio 繪圖模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsx/" name="VDX 轉 VSX" description="模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX 轉 VTX" description="Microsoft Visio 繪圖模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xaml/" name="VDX 轉 XAML" description="可擴展的應用程序標記語言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xps/" name="VDX 轉 XPS" description="XML 紙張規格" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-tiff/" name="VDX到 TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdm/" name="VDX 至 VSDM" description="Microsoft Visio 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX 至 VSSM" description="Microsoft Visio 模板文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssx/" name="VDX 至 VSSX" description="繪圖模具" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX 至 VSTM" description="Microsoft Visio 模板文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX 至 VSTX" description="Microsoft Visio 繪圖模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsx/" name="VDX 至 VSX" description="模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX 至 VTX" description="Microsoft Visio 繪圖模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xaml/" name="VDX 到 XAML" description="可擴展的應用程序標記語言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xps/" name="VDX 到 XPS" description="XML 紙張規格" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

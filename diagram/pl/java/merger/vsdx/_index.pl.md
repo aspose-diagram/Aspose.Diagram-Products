@@ -77,7 +77,7 @@ description: Java przykładowy kod do łączenia VSDX dokumentów w Java środow
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows lub zgodny system operacyjny z Java środowiskiem wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie on natychmiast scalony i połączony." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-Pliki z rozszerzeniem .VSDX reprezentują format plików Microsoft Visio wprowadzony od Microsoft Office 2013 i nowszych. Został opracowany w celu zastąpienia formatu pliku binarnego .VSD, który jest obsługiwany przez wcześniejsze wersje firmy Microsoft Visio. Jest również obsługiwana w Visio Usługach w Microsoft SharePoint Server 2013 i nie wymaga pośredniego formatu pliku do publikowania na SharePoint Server. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. 
+Pliki z rozszerzeniem .VSDX reprezentują format pliku Microsoft Visio wprowadzony od Microsoft Office 2013 r. Został opracowany w celu zastąpienia formatu pliku binarnego .VSD, który jest obsługiwany przez wcześniejsze wersje Microsoft Visio. Jest również obsługiwany w usługach Visio w Microsoft SharePoint Server 2013 i nie wymaga pośredniego formatu pliku do publikowania na serwerze SharePoint. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -130,16 +130,16 @@ Pliki z rozszerzeniem .VSDX reprezentują format plików Microsoft Visio wprowad
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="VisioPlik usługi graficznej" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Rysunki Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Rysunki" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Format rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="VST" description="Pliki obrazów wektorowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio Szablon rysunku" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

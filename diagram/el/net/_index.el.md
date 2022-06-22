@@ -12,9 +12,9 @@ description: C# VB.NET ASP.NET Visio βιβλιοθήκη διαγραμμάτω
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Το Aspose.Diagram for .NET είναι ένα εξειδικευμένο API που έχει σχεδιαστεί για να λειτουργεί με έγγραφα της Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται &amp; μετατροπή εγγενών μορφών Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του διαγράμματος για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.</p>
+<p>Το Aspose.Diagram for .NET είναι ένα εξειδικευμένο API που έχει σχεδιαστεί για να λειτουργεί με έγγραφα Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται &amp; μετατροπή εγγενών μορφών Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του diagram για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.</p>
 
-<p>Το Aspose.Diagram for .NET υποστηρίζει σχεδόν όλες τις εγγενείς μορφές Visio καθώς και ορισμένες κοινώς χρησιμοποιούμενες εικόνες &amp; Μορφές σταθερής διάταξης. Αυτό το API είναι μια εναλλακτική λύση στο μοντέλο αντικειμένου της Microsoft Visio και παρέχει καλύτερη απόδοση. Χρησιμοποιεί την προηγμένη λειτουργικότητα των Υπηρεσιών Visio για τον χειρισμό εγγράφων σε έναν διακομιστή.</p>
+<p>Το Aspose.Diagram for .NET υποστηρίζει σχεδόν όλες τις εγγενείς μορφές Visio καθώς και ορισμένες κοινώς χρησιμοποιούμενες εικόνες &amp; Μορφές σταθερής διάταξης. Αυτό το API είναι μια εναλλακτική λύση στο μοντέλο αντικειμένου Microsoft Visio και παρέχει καλύτερη απόδοση. Χρησιμοποιεί την προηγμένη λειτουργικότητα των Υπηρεσιών Visio για τον χειρισμό εγγράφων σε έναν διακομιστή.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -147,7 +147,7 @@ description: C# VB.NET ASP.NET Visio βιβλιοθήκη διαγραμμάτω
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το API υποστηρίζει το πλαίσιο .NET ξεκινώντας από το 2.0 και το Mono. Επιπλέον, μπορεί να χρησιμοποιηθεί με άλλες γλώσσες μέσω COM Interop." >}}
+{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το API υποστηρίζει το .NET Framework ξεκινώντας από 2.0 και Mono. Επιπλέον, μπορεί να χρησιμοποιηθεί με άλλες γλώσσες μέσω COM Interop." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,7 +168,7 @@ description: C# VB.NET ASP.NET Visio βιβλιοθήκη διαγραμμάτω
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Πλαίσιο
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -334,7 +334,7 @@ description: C# VB.NET ASP.NET Visio βιβλιοθήκη διαγραμμάτω
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαβάστε τις ιδιότητες διαφορετικών αντικειμένων του διαγράμματος
+     Διαβάστε τις ιδιότητες διαφορετικών αντικειμένων του diagram
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET Visio βιβλιοθήκη διαγραμμάτω
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εκτύπωση διαγράμματος σε διακομιστή μέσω XpsPrint API
+     Εκτύπωση diagram σε διακομιστή μέσω XpsPrint API
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: C# VB.NET ASP.NET Visio βιβλιοθήκη διαγραμμάτω
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Αποθηκεύστε το διάγραμμα σε διαφορετικές μορφές - C#
+      Αποθηκεύστε το diagram σε διαφορετικές μορφές - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -469,10 +469,10 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Χειριστείτε τα διαγράμματα της Microsoft Visio
+     Χειρισμός διαγραμμάτων Microsoft Visio
     </h2>
     <p>
-     Το Aspose.Diagram for .NET API επιτρέπει την ανάγνωση αρχείων Microsoft Visio σε εγγενή μορφή VSD/VSDX καθώς και άλλες μορφές, όπως VSS, VST, VSX, VTX, VDW, VDX, VSSX, VSTX, VSDM, VSSM και VSTM. Τα περιεχόμενα του διαγράμματος μπορούν να τροποποιηθούν μέσω του API. Αφού κάνετε τις απαιτούμενες αλλαγές στο έγγραφο, το έγγραφο μπορεί στη συνέχεια να εγγραφεί στο δίσκο σε οποιαδήποτε από τις υποστηριζόμενες μορφές.
+     Το Aspose.Diagram for .NET API επιτρέπει την ανάγνωση Microsoft Visio αρχείων σε εγγενή μορφή VSD/VSDX καθώς και άλλες μορφές, όπως VSS, VST, VSX, VTX, VDW, {9 }, VSSX, VSTX, VSDM, VSSM και VSTM. Μπορείτε να χειριστείτε τα περιεχόμενα του diagram μέσω του API. Αφού κάνετε τις απαιτούμενες αλλαγές στο έγγραφο, το έγγραφο μπορεί στη συνέχεια να εγγραφεί στο δίσκο σε οποιαδήποτε από τις υποστηριζόμενες μορφές.
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Πρόσβαση στα δεδομένα από τα διαγράμματα Visio
     </h2>
     <p>
-     Το Aspose.Diagram for .NET επιτρέπει στους προγραμματιστές να διαβάζουν εύκολα τα δεδομένα του διαγράμματος, όπως Ιδιότητες εγγράφου, Σελίδες, Κύρια, Σχήματα, Εικόνες, Συνδέσεις, Λύση XML, Σχόλια, Υπερσυνδέσεις, Φύλλο στυλ, Επίπεδα, κελιά που ορίζονται από τον χρήστη κ.λπ.
+     Το Aspose.Diagram for .NET επιτρέπει στους προγραμματιστές να διαβάζουν εύκολα τα δεδομένα του diagram όπως Ιδιότητες εγγράφου, Σελίδες, Κύρια, Σχήματα, Εικόνες, Συνδέσεις, Λύσεις XML, Σχόλια, Υπερσυνδέσεις, Φύλλο στυλ, Επίπεδα, κελιά που ορίζονται από τον χρήστη κ.λπ. .
     </p>
    </div>
    <div class="col-lg-12">
@@ -530,10 +530,10 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Automation – Δεν απαιτείται
+     Microsoft Office Αυτοματισμός – Δεν απαιτείται
     </h2>
     <p>
-     Το Aspose.Diagram for .NET έχει δημιουργηθεί χρησιμοποιώντας διαχειριζόμενο κώδικα που δεν χρειάζεται ποτέ να εγκατασταθεί το Microsoft Office ή το Microsoft Visio στο μηχάνημα για να λειτουργήσει με την επεξεργασία εγγράφων Visio. Είναι μια τέλεια εναλλακτική λύση αυτοματισμού του Microsoft Office Visio όσον αφορά τις υποστηριζόμενες δυνατότητες, την ασφάλεια, τη σταθερότητα, την επεκτασιμότητα, την ταχύτητα και την τιμή.
+     Το Aspose.Diagram for .NET έχει δημιουργηθεί χρησιμοποιώντας διαχειριζόμενο κώδικα που δεν χρειάζεται ποτέ να εγκατασταθεί το Microsoft Office ή το Microsoft Visio στο μηχάνημα για να λειτουργήσει με την επεξεργασία εγγράφων Visio. Είναι μια τέλεια εναλλακτική λύση αυτοματισμού Microsoft Office Visio όσον αφορά τις υποστηριζόμενες λειτουργίες, την ασφάλεια, τη σταθερότητα, την επεκτασιμότητα, την ταχύτητα και την τιμή.
     </p>
    </div>
   </div>

@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ini akan digabungkan dan digabungkan secara instan." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-File dengan ekstensi .VSDX mewakili format file Microsoft Visio yang diperkenalkan dari Microsoft Office 2013 dan seterusnya. Ini dikembangkan untuk menggantikan format file biner, .VSD, yang didukung oleh versi Microsoft Visio sebelumnya. Ini juga didukung di Visio Layanan di Microsoft SharePoint Server 2013 dan tidak memerlukan format file perantara untuk penerbitan ke SharePoint Server. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya. 
+Berkas dengan ekstensi .VSDX mewakili format berkas Microsoft Visio yang diperkenalkan mulai Microsoft Office 2013 dan seterusnya. Ini dikembangkan untuk menggantikan format file biner, .VSD, yang didukung oleh versi Microsoft Visio sebelumnya. Ini juga didukung di Visio Layanan di Microsoft SharePoint Server 2013 dan tidak memerlukan format file perantara untuk penerbitan ke SharePoint Server. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -133,10 +133,10 @@ File dengan ekstensi .VSDX mewakili format file Microsoft Visio yang diperkenalk
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="File Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Menggambar Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="VST" description="File Gambar Vektor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio Template Menggambar" >}}

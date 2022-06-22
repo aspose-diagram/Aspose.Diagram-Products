@@ -1,22 +1,22 @@
 ﻿---
-title: Java Konversi Berkas Visio Microsoft
+title: Java Microsoft Visio Konversi Berkas
 url: /id/java/conversion/
-description: Konversi Microsoft Visio format VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS ke Gambar HTML dan PDF dengan beberapa baris kode Java.
+description: Konversi format Microsoft Visio VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS ke Gambar HTML dan PDF dengan beberapa baris Java kode.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Memformat Konversi Melalui Java" h2="Konversikan MS Visio Diagram ke HTML, PDF, dan Gambar termasuk JPG, BMP, PNG, TIFF untuk membangun aplikasi Java lintas platform." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Untuk solusi rendering format Visio Microsoft apa pun seperti merancang diagram alur dan diagram alur bisnis, dll. Java Visio API memfasilitasi semua gambar kompleks dengan cara yang mudah. Muat file sumber menggunakan [Diagram kelas](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) dan panggil metode simpan dengan parameter yang sesuai.
+Untuk solusi rendering format Microsoft Visio apa pun seperti merancang diagram alur dan diagram alur bisnis, dll. Java Visio API memfasilitasi semua gambar kompleks dengan cara yang mudah. Muat file sumber menggunakan [Diagram kelas](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) dan panggil metode simpan dengan parameter yang sesuai.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Antar Konversi Visio File" %}}
 
-Pemrogram dapat dengan mudah mengonversi format VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM serta memuat VDW, VSD, VSS, VST dan merender ke PDF, HTML, dan Gambar. Mempertimbangkan skenario VSDX ke VDX, prosesnya adalah, memuat file sumber VSDX menggunakan kelas diagram dan memanggil metode simpan dengan menyediakan file output dan [SimpanFormat File](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX sebagai parameter. 
+Pemrogram dapat dengan mudah mengonversi format VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM serta memuat VDW, VSD, VSS, VST dan merender ke PDF, HTML, dan Gambar. Mempertimbangkan skenario VSDX hingga VDX, prosesnya adalah, memuat file sumber VSDX menggunakan kelas diagram dan memanggil metode simpan dengan menyediakan file output dan [SimpanFormat File](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX sebagai parameter. 
 
-{{% blocks/products/pf/feature-page-code h3="Java Kode untuk VSDX ke Konversi VDX" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Kode untuk VSDX ke VDX Konversi" %}}
 
 {{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-vdx.java" >}}
 
@@ -27,7 +27,7 @@ Pemrogram dapat dengan mudah mengonversi format VSDX, VSX, VTX, VDX, VSSX, VSTX,
 
 {{% blocks/products/pf/feature-page-section h2="Visio ke Konversi Gambar" %}}
 
-Untuk konversi umum, proses mengonversi file visio ke gambar adalah sama. Cukup muat file melalui kelas Diagram dan panggil metode simpan dengan file keluaran dan parameter keluaran SaveFileFormat. Dan setiap kali ada kebutuhan untuk menentukan opsi tertentu, pengembang dapat menggunakan kelas ImageSaveOptions saat mengonversi halaman diagram menjadi gambar dan SVGSaveOptions untuk konversi SVG.
+Untuk konversi umum, proses mengonversi visio file menjadi gambar adalah sama. Cukup muat file melalui kelas Diagram dan panggil metode simpan dengan file keluaran dan parameter keluaran SaveFileFormat. Dan kapan pun diperlukan untuk menentukan opsi tertentu, pengembang dapat menggunakan kelas ImageSaveOptions saat mengonversi diagram halaman menjadi gambar dan SVGSaveOptions untuk konversi SVG.
 
 {{% blocks/products/pf/feature-page-code h3="Java Kode untuk Mengonversi Visio ke Format Gambar" %}}
 
@@ -46,7 +46,7 @@ Untuk konversi umum, proses mengonversi file visio ke gambar adalah sama. Cukup 
 
 {{% blocks/products/pf/feature-page-section h2="Konversikan Visio ke PDF dan HTML" %}}
 
-API mampu mengonversi format visio ke PDF dan juga dalam HTML. Gunakan saja [SimpanFormat File](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF dan SaveFileFormat.HTML dalam metode simpan sebagai parameter. Dan untuk pengaturan khusus, pengembang dapat menggunakan kelas PdfSaveOptions dan HTMLSaveOptions.
+API mampu mengonversi visio format ke PDF serta HTML. Gunakan saja [SimpanFormat File](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF dan SaveFileFormat.HTML dalam metode simpan sebagai parameter. Dan untuk pengaturan khusus, pengembang dapat menggunakan kelas PdfSaveOptions dan HTMLSaveOptions.
 
 {{% blocks/products/pf/feature-page-code h3="Java Kode untuk Konversi Visio ke PDF" %}}
 

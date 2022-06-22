@@ -2,7 +2,7 @@
 title: Convertir VTX en BMP via C# 
 weight: 670
 url: /fr/net/conversion/vtx-to-bmp/ 
-description: Exemple de code pour la conversion VTX vers BMP C#. Utilisez API exemple de code pour les fichiers VTX par lots en conversion BMP dans VB.NET, Asp.NET ou toute application basée sur .NET.
+description: Exemple de code pour la conversion VTX en BMP C#. Utilisez API exemple de code pour les fichiers batch VTX en conversion BMP dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir VTX en BMP via C#" h2="Exportez les fichiers Microsoft® Visio VTX vers BMP sur .NET Framework, .NET Core, Mono ou COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou COM Interop.- Environnement de développement comme Microsoft Visual Studio.- Aspose.Diagram for .NET DLL référencée dans votre projet.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Cet exemple de code montre la conversion VTX en BMP C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Cet exemple de code montre la conversion VTX vers BMP C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vtx-to-bmp.cs" >}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour convertir VTX en BMP" sectionDescription="Consultez nos démos en direct pour [Conversion VTX en BMP](https://products.aspose.app/diagram/conversion/vtx-to-bmp) avec les avantages suivants." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour convertir VTX en BMP" sectionDescription="Consultez nos démos en direct pour [conversion de VTX en BMP](https://products.aspose.app/diagram/conversion/vtx-to-bmp) avec les avantages suivants." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier VTX et cliquez sur le bouton \"Convertir\"." >}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Une bibliothèque de gestion Diagram spécialement conçue pour fonctionner avec les fichiers Microsoft Visio. Il permet aux développeurs de créer, manipuler et convertir des formats natifs Visio. Les développeurs peuvent créer des diagrammes à partir de rien, charger facilement des fichiers existants et manipuler les éléments du diagramme pour exporter le résultat dans d'autres formats.
+ Une bibliothèque de gestion Diagram spécialement conçue pour fonctionner avec des fichiers Microsoft Visio. Il permet aux développeurs de créer, manipuler et convertir des formats natifs Visio. Les développeurs peuvent créer des diagrammes à partir de rien, charger facilement des fichiers existants et manipuler les éléments du diagram pour exporter le résultat dans d'autres formats.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-Un fichier avec l'extension .vtx est un modèle de dessin Microsoft Visio qui est enregistré sur le disque au format de fichier XML. Le modèle vise à fournir un fichier avec des paramètres de base qui peuvent être utilisés pour créer plusieurs fichiers Visio des mêmes paramètres. Un autre format similaire est VST qui est enregistré au format binaire plutôt qu'au format XML. Les fichiers VTX sont pris en charge avec Visio 2010 et les versions plus récentes. Les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, un diagramme UML, un flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres.
+Un fichier avec l'extension .vtx est un modèle de dessin Microsoft Visio qui est enregistré sur le disque au format de fichier XML. Le modèle vise à fournir un fichier avec des paramètres de base pouvant être utilisés pour créer plusieurs fichiers Visio avec les mêmes paramètres. Un autre format similaire est VST qui est enregistré au format binaire plutôt qu'au format XML. Les fichiers VTX sont pris en charge avec Visio 2010 et les versions plus récentes. Les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, UML diagram, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="bmp" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}
-Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap utilisés pour stocker des images numériques bitmap. Ces images sont indépendantes de la carte graphique et sont également appelées format de fichier bitmap indépendant du périphérique (DIB). Cette indépendance sert à ouvrir le fichier sur plusieurs plates-formes telles que Microsoft Windows et Mac. Le format de fichier BMP peut stocker des données sous forme d'images numériques bidimensionnelles au format monochrome et couleur avec différentes profondeurs de couleur.
+Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap utilisés pour stocker des images numériques bitmap. Ces images sont indépendantes de la carte graphique et sont également appelées format de fichier bitmap indépendant du périphérique (DIB). Cette indépendance permet d'ouvrir le fichier sur plusieurs plates-formes telles que Microsoft Windows et Mac. Le format de fichier BMP peut stocker des données sous forme d'images numériques bidimensionnelles au format monochrome et couleur avec différentes profondeurs de couleur.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,25 +102,25 @@ Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap ut
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir VTX en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir VTX dans de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-emf/" name="VTX À EMF" description="Format de métafichier amélioré" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-html/" name="VTX EN HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-emf/" name="VTX VERS CEM" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-html/" name="VTX VERS HTML" description="Langage Signalétique Hyper Text" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-jpeg/" name="VTX VERS JPEG" description="Images JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-pdf/" name="VTX EN PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-png/" name="VTX À PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-pdf/" name="VTX AU PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-png/" name="VTX VERS PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-svg/" name="VTX VERS SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-swf/" name="VTX VERS SWF" description="Format SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-tiff/" name="VTX VERS TIFF" description="Format d\'image balisé" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vdx/" name="VTX VERS VDX" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdm/" name="VTX VERS VSDM" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdx/" name="VTX À VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssm/" name="VTX VERS VSSM" description="Fichiers de pochoir Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssx/" name="VTX VERS VSSX" description="Pochoirs de dessin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstm/" name="VTX VERS VSTM" description="Fichiers de modèles Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstx/" name="VTX À VSTX" description="Modèle de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsx/" name="VTX VERS VSX" description="Pochoirs" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vtx/" name="VTX À VTX" description="Modèle de dessin Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vdx/" name="VTX À VDX" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdm/" name="VTX À VSDM" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdx/" name="VTX À VSDX" description="Microsoft Visio Formater" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssm/" name="VTX À VSSM" description="Microsoft Visio fichiers de gabarit" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssx/" name="VTX À VSSX" description="Pochoirs de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstm/" name="VTX À VSTM" description="Microsoft Visio fichiers modèles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstx/" name="VTX À VSTX" description="Microsoft Visio Gabarit de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsx/" name="VTX À VSX" description="Pochoirs" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vtx/" name="VTX À VTX" description="Microsoft Visio Gabarit de dessin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xaml/" name="VTX VERS XAML" description="Langage de balisage d\'application extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xps/" name="VTX VERS XPS" description="Spécifications papier XML" >}}
 

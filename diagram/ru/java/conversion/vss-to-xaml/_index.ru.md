@@ -15,7 +15,7 @@ description: Пример кода преобразования Java для фо
  Чтобы преобразовать VSS в XAML, мы будем использовать
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API – это многофункциональная, мощная и простая в использовании платформа преобразования API for Java. Вы можете скачать его последнюю версию прямо с
- [Мавен](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
@@ -102,7 +102,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Библиотека манипуляций" %}}
 
- Aspose.Diagram – это манипулирование форматом документа Microsoft VisioAPI. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
+ Aspose.Diagram — это Microsoft Visioобработка формата документа API. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS — это файлы шаблонов, созданные с помощью Microsoft Visio 2007 и более ранних версий. Относительно новым форматом файлов является .VSSX, который был представлен в Microsoft Visio 2013. Файлы трафаретов содержат объекты чертежа, которые можно включить в чертеж .VSD Visio. Сама Microsoft Visio известна тем, что создает элементы рисования, такие как набор фигур, соединители, блок-схемы, макет сети, диаграммы UML, диаграммы программного обеспечения, модели баз данных, сопоставление объектов и другую подобную информацию. Он также имеет широкие возможности преобразования документов Visio в другие форматы файлов, такие как PNG, BMP, PDF и другие. Visio доступен как для Windows, так и для Mac OS.
+VSS — это файлы шаблонов, созданные с помощью Microsoft Visio 2007 и более ранних версий. Относительно новым форматом файлов является .VSSX, который был представлен в Microsoft Visio 2013 г. Файлы трафаретов предоставляют объекты чертежа, которые можно включить в чертеж .VSD Visio. Microsoft Visio сама известна тем, что создает элементы рисования, такие как набор фигур, соединители, блок-схемы, макет сети, диаграммы UML, диаграммы программного обеспечения, модели баз данных, сопоставление объектов и другую подобную информацию. Он также имеет широкие возможности преобразования документов Visio в другие форматы файлов, такие как PNG, BMP, PDF и другие. Visio доступен как для Windows, так и для Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
 
-XAML, Extensible Application Markup Language, файлы расширений описывают элементы пользовательского интерфейса для программных приложений, основанных на Windows Presentation Foundation (WPF). Хотя это язык, его не нужно программировать, поскольку он основан на стандартном формате XML, который прост в использовании и понимании. XAML (произносится как «zammel») был разработан Microsoft специально для создания пользовательских интерфейсов. Первоначально его аббревиатура расшифровывалась как Extensible Avalon Markup Language, где Avalon было кодовым названием WPF. Файлы XAML иногда также сохраняются с расширением XOML.
+XAML, Extensible Application Markup Language, файлы расширений описывают элементы пользовательского интерфейса для программных приложений, основанных на Windows Presentation Foundation (WPF). Хотя это язык, его не нужно программировать, поскольку он основан на стандартном формате XML, который прост в использовании и понимании. XAML (произносится как "zammel") был разработан Microsoft специально для создания пользовательских интерфейсов. Первоначально его аббревиатура расшифровывалась как Extensible Avalon Markup Language, где Avalon было кодовым названием WPF. Файлы XAML иногда также сохраняются с расширением XOML.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,15 +140,15 @@ XAML, Extensible Application Markup Language, файлы расширений о
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="ВСС в PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS В SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS В TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS НА VDX" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="ВСС В ВСДМ" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="ВСС на VSDX" description="Формат Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="ВСС В ВССМ" description="Файлы трафаретов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="ВСС В VSSX" description="Трафареты для рисования" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="ВСС В ВСТМ" description="Файлы шаблонов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS В VSTX" description="Шаблон чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS В VSX" description="Трафареты" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS-VTX" description="Шаблон чертежа Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="ВСС на VDX" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="ВСС на VSDM" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="ВСС на VSDX" description="Microsoft Visio Формат" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="ВСС на VSSM" description="Microsoft Visio Файлы трафаретов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="ВСС на VSSX" description="Трафареты для рисования" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="ВСС на VSTM" description="Microsoft Visio Файлы шаблонов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="ВСС на VSTX" description="Microsoft Visio Шаблон чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="ВСС на VSX" description="Трафареты" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="ВСС на VTX" description="Microsoft Visio Шаблон чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS В XPS" description="Спецификации XML-бумаги" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

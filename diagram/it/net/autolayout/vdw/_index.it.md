@@ -2,7 +2,7 @@
 title: Documento VDW con layout automatico tramite .NET 
 weight: 3050
 url: /it/net/autolayout/vdw/ 
-description: C# codice sorgente per il layout automatico del file vdw su .NET Framework, .NET Core, Mono Platforms.
+description: C# codice sorgente per il layout automatico del file vdw su piattaforme .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Documento VDW con layout automatico in C#" h2="Documento VDW nativo e ad alte prestazioni con layout automatico che utilizza API Aspose.Diagram for .NET lato server, senza l\'uso di software come Microsoft o Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base che si unisce e si concatena con
+ Un layout automatico di base del documento con
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Le API possono essere eseguite con poche righe di codice.
 
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Circa Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.  
+ Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sarà layout automatico e concatenato all\'istante." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW è il formato di file del servizio di grafica Visio che specifica i flussi e gli archivi necessari per il rendering di un disegno Web. Un disegno Web è una raccolta di pagine di disegno, forme, caratteri, immagini, connessioni dati e informazioni sull'aggiornamento del diagramma che possono essere renderizzate come un disegno vettoriale o raster. I file VDW possono essere aperti anche in Microsoft Visio, ma vengono salvati principalmente per l'uso sul Web. Microsoft Visio offre la possibilità di convertire file Visio in numerosi formati di file diversi, inclusi PNG, BMP, PDF e altri. 
+VDW è il formato di file del servizio di grafica Visio che specifica i flussi e gli archivi necessari per il rendering di un disegno Web. Un disegno Web è una raccolta di pagine di disegno, forme, caratteri, immagini, connessioni dati e diagram informazioni di aggiornamento di cui è possibile eseguire il rendering come disegno vettoriale o raster. I file VDW possono essere aperti anche in Microsoft Visio ma vengono salvati principalmente per l'uso sul Web. Microsoft Visio offre la possibilità di convertire file Visio in numerosi formati di file diversi, inclusi PNG, BMP, PDF e altri. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -109,7 +109,7 @@ VDW è il formato di file del servizio di grafica Visio che specifica i flussi e
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vssx/" name="VSSX" description="Visio File stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vstx/" name="VSTX" description="Visio File modello" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vsdm/" name="VSDM" description="Visio File di disegno con abilitazione macro" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vssm/" name="VSM" description="Visio File stencil abilitato per le macro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vssm/" name="VSSM" description="Visio File stencil abilitato per le macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vstm/" name="VSTM" description="Visio File modello abilitato per le macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vsdx/" name="VSDX" description="Visio File di disegno" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}

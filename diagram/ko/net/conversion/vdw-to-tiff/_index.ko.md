@@ -14,8 +14,8 @@ description: VDW에서 TIFF C#로의 변환을 위한 샘플 코드. VB.NET, Asp
 
  VDW를 TIFF로 변환하려면 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환API입니다. 열려 있는
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  Aspose.Diagram 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Microsoft Visio 파일과 함께 작동하도록 특별히 설계된 Diagram 관리 라이브러리. 이를 통해 개발자는 기본 Visio 형식을 생성, 조작 및 변환할 수 있습니다. 개발자는 다이어그램을 처음부터 생성할 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 다이어그램의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.
+ Microsoft Visio 파일과 함께 작동하도록 특별히 설계된 Diagram 관리 라이브러리. 이를 통해 개발자는 기본 Visio 형식을 생성, 조작 및 변환할 수 있습니다. 개발자는 다이어그램을 처음부터 만들 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 diagram의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW는 웹 그림을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio 그래픽 서비스 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 다이어그램 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다.
+VDW는 웹 그림을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio 그래픽 서비스 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 diagram 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="tiff" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}
-TIFF 또는 TIF(Tagged Image File Format)는 이 파일 형식 표준을 준수하는 다양한 장치에서 사용하기 위한 래스터 이미지를 나타냅니다. 여러 색상 공간에서 이중 레벨, 회색조, 팔레트 색상 및 풀 컬러 이미지 데이터를 설명할 수 있습니다. 이 형식을 사용하는 응용 프로그램에 대해 공간과 시간 사이에서 선택하기 위해 손실 및 무손실 압축 방식을 지원합니다. 이 형식은 확장 가능하며 개인 정보 또는 특수 목적 정보를 무제한으로 포함할 수 있도록 여러 번 수정되었습니다. 형식은 시스템에 종속되지 않으며 프로세서, 운영 체제 또는 파일 시스템과 같은 범위에서 자유롭습니다.
+TIFF 또는 TIF(Tagged Image File Format)는 이 파일 형식 표준을 준수하는 다양한 장치에서 사용하기 위한 래스터 이미지를 나타냅니다. 여러 색상 공간에서 이중 레벨, 회색조, 팔레트 색상 및 풀 컬러 이미지 데이터를 설명할 수 있습니다. 이 형식을 사용하는 응용 프로그램에 대해 공간과 시간 사이에서 선택하기 위해 손실 및 무손실 압축 체계를 지원합니다. 이 형식은 확장 가능하며 개인 정보 또는 특수 목적 정보를 무제한으로 포함할 수 있도록 여러 번 수정되었습니다. 형식은 시스템에 종속되지 않으며 프로세서, 운영 체제 또는 파일 시스템과 같은 범위에서 자유롭습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ TIFF 또는 TIF(Tagged Image File Format)는 이 파일 형식 표준을 준수�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-png/" name="VDW에서 PNG로" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-svg/" name="VDW에서 SVG로" description="확장 가능한 벡터 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-swf/" name="VDW에서 SWF로" description="SWF 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW에서 VDX로" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW에서 VSDM으로" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW TO VDX" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW TO VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW TO VSDX" description="Microsoft Visio 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW에서 VSSM으로" description="Microsoft Visio 스텐실 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW에서 VSSX로" description="드로잉 스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW에서 VSTM으로" description="Microsoft Visio 템플릿 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW에서 VSTX로" description="Microsoft Visio 도면 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW에서 VSX로" description="스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW에서 VTX로" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW TO VSSM" description="Microsoft Visio 스텐실 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW TO VSSX" description="드로잉 스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW TO VSTM" description="Microsoft Visio 템플릿 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW TO VSTX" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW TO VSX" description="스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW TO VTX" description="Microsoft Visio 도면 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW에서 XAML로" description="확장 가능한 애플리케이션 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xps/" name="VDW에서 XPS로" description="XML 용지 사양" >}}
 

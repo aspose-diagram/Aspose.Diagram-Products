@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Laad VSS-bestand met een instantie van Diagram class1. Roep de Diagram.Save-methode aan met pad naar uitvoerbestand en SaveFileFormat.VDX als parameters1. VDX-bestand wordt opgeslagen op het opgegeven pad
+1. Laad VSS-bestand met een instantie van Diagram class1. Roep de methode Diagram.Save met pad naar uitvoerbestand en SaveFileFormat.VDX als parameters aan1. VDX bestand wordt opgeslagen op het opgegeven pad
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Mono of COM Interop.- Ontwikkelomgeving zoals Microsoft Visual Studio.- Aspose.Diagram for .NET DLL waarnaar wordt verwezen in uw project.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Deze voorbeeldcode toont VSS naar VDX C# conversie" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Deze voorbeeldcode toont VSS naar VDX C# Conversie" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vss-to-vdx.cs" >}}
 
@@ -74,11 +74,11 @@ PM> Install-Package Aspose.Diagram
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft niets te downloaden of in te stellen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VSS-bestand en klik op de knop \"Converteren\"." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" krijgt direct de downloadlink voor het resulterende VDX-bestand." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" U krijgt direct de downloadlink voor het resulterende VDX-bestand." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Een Diagram beheerbibliotheek die speciaal is ontworpen om te werken met Microsoft Visio-bestanden. Hiermee kunnen ontwikkelaars native Visio-indelingen maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van het diagram manipuleren om het resultaat naar andere indelingen te exporteren.
+ Een Diagram beheerbibliotheek die speciaal is ontworpen om met Microsoft Visio bestanden te werken. Hiermee kunnen ontwikkelaars native Visio-formaten maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van de diagram manipuleren om het resultaat naar andere formaten te exporteren.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS zijn stencilbestanden die zijn gemaakt met Microsoft Visio 2007 en eerder. Een relatief nieuwe bestandsindeling is .VSSX die werd geïntroduceerd met Microsoft Visio 2013. Stencilbestanden bieden tekenobjecten die kunnen worden opgenomen in een .VSD Visio-tekening. Microsoft Visio staat zelf bekend om het maken van tekenelementen, zoals het verzamelen van vormen, connectoren, stroomdiagrammen, netwerklay-out, UML-diagrammen, softwarediagrammen, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Het heeft ook uitgebreide conversiefuncties van Visio-documenten naar andere bestandsindelingen zoals PNG, BMP, PDF en andere. Visio is beschikbaar voor zowel Windows als Mac OS.
+VSS zijn stencilbestanden die zijn gemaakt met Microsoft Visio 2007 en eerder. Een relatief nieuwe bestandsindeling is .VSSX die werd geïntroduceerd met Microsoft Visio 2013. Stencilbestanden bieden tekenobjecten die kunnen worden opgenomen in een .VSD Visio-tekening. Microsoft Visio zelf staat bekend om het maken van tekenelementen zoals het verzamelen van vormen, connectoren, stroomdiagrammen, netwerklay-out, UML-diagrammen, softwarediagrammen, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Het heeft ook uitgebreide conversiefuncties van Visio documenten naar andere bestandsformaten zoals PNG, BMP, PDF en andere. Visio is beschikbaar voor zowel Windows als Mac OS.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vdx" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Elke tekening of grafiek die is gemaakt in Microsoft Visio, maar is opgeslagen in XML-indeling, heeft de extensie .VDX. Een Visio tekening XML-bestand wordt gemaakt in Visio software, die is ontwikkeld door Microsoft. Microsoft Visio heeft de mogelijkheid om visuele documenten te genereren die kunnen worden gebruikt in presentaties en documenten. Het Visio tekening-XML-bestand bevat de visuele objecten en metadatadetails van de visuele elementen. Aan deze visuele elementen kan ook tekst worden toegevoegd. Vision tekening XML-bestand. Deze Visio tekening-XML-bestanden zijn geïntegreerd met op XML gebaseerde opmaakstandaarden en coderingsspecificaties voor afbeeldingsgegevens waarmee de inhoud ervan kan worden weergegeven en opgeslagen door de Microsoft Visio-software in de VDX-bestandsindeling.
+Elke tekening of grafiek die is gemaakt in Microsoft Visio, maar is opgeslagen in XML-indeling, heeft de extensie .VDX. Een Visio tekening XML-bestand wordt gemaakt in Visio software, die is ontwikkeld door Microsoft. Microsoft Visio heeft de mogelijkheid om visuele documenten te genereren die kunnen worden gebruikt in presentaties en documenten. Het Visio tekening-XML-bestand bevat de visuele objecten en metadatadetails van de visuele elementen. Aan deze visuele elementen kan ook tekst worden toegevoegd. Vision tekening XML-bestand. Deze Visio tekening-XML-bestanden zijn geïntegreerd met op XML gebaseerde opmaakstandaarden en coderingsspecificaties voor afbeeldingsgegevens waarmee de inhoud kan worden weergegeven en opgeslagen door de Microsoft Visio-software in de bestandsindeling VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,10 +114,10 @@ Elke tekening of grafiek die is gemaakt in Microsoft Visio, maar is opgeslagen i
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-swf/" name="VSS NAAR SWF" description="SWF-formaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-tiff/" name="VSS NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdm/" name="VSS NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="VSS NAAR VSDX" description="Microsoft Visio-indeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="VSS NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="VSS NAAR VSDX" description="Microsoft Visio Indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="VSS NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssx/" name="VSS NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="VSS NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="VSS NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="VSS NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsx/" name="VSS NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS NAAR VTX" description="Microsoft Visio Tekensjabloon" >}}

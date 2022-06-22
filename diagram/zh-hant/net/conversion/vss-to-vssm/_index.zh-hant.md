@@ -2,7 +2,7 @@
 title: 通過 C# 將 VSS 轉換為 VSSM 
 weight: 1510
 url: /zh-hant/net/conversion/vss-to-vssm/ 
-description: VSS 到 VSSM C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 VSS 文件批量轉換為 VSSM。
+description: VSS 到 VSSM C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將 VSS 文件批量轉換為 VSSM。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通過 C# 將 VSS 轉換為 VSSM" h2="將 Microsoft® Visio VSS 文件導出到 .NET Framework、.NET Core、Mono 或 COM Interop 上的 VSSM。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSS" >}}
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 使用 Diagram 類的實例加載 VSS 文件1. 以輸出文件路徑和 SaveFileFormat.VSSM 作為參數調用 Diagram.Save 方法1. VSSM 文件將保存在指定路徑
+1. 使用 Diagram 類的實例加載 VSS 文件1. 使用輸出文件路徑和 SaveFileFormat.VSSM 作為參數調用 Diagram.Save 方法1. VSSM 文件將保存在指定路徑
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系統要求" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 專門設計用於處理 Microsoft Visio 文件的 Diagram 管理庫。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作圖表元素以將結果導出為其他格式。
+ 專門設計用於處理 Microsoft Visio 文件的 Diagram 管理庫。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作 diagram 的元素以其他格式導出結果。
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS 是使用 Microsoft Visio 2007 及更早版本創建的模具文件。一種相對較新的文件格式是 Microsoft Visio 2013 引入的 .VSSX。模板文件提供了可以包含在 .VSD Visio 圖形中的圖形對象。 Microsoft Visio 本身以創建繪圖元素而聞名，例如形狀集合、連接器、流程圖、網絡佈局、UML 圖、軟件圖、數據庫模型、對象映射和其他類似信息。它還具有豐富的Visio文檔到其他文件格式的轉換功能，如PNG、BMP、PDF等。 Visio 適用於 Windows 和 Mac OS。
+VSS 是使用 Microsoft Visio 2007 及更早版本創建的模板文件。 .VSSX 是一種相對較新的文件格式，它是在 2013 年的 Microsoft Visio 中引入的。模板文件提供了可以包含在 .VSD Visio 繪圖中的繪圖對象。 Microsoft Visio 本身以創建繪圖元素而聞名，例如形狀、連接器、流程圖、網絡佈局、UML 圖、軟件圖、數據庫模型、對象映射和其他類似信息的集合。它還具有豐富的Visio文檔到PNG、BMP、PDF等其他文件格式的轉換功能。 Visio 適用於 Windows 和 Mac OS。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vssm" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
-帶有 .VSSM 擴展名的文件是 Microsoft Visio Stencil 文件，支持提供對宏的支持。 VSSM 文件在打開時允許運行宏以在圖表中實現所需的格式和形狀放置。一般來說，Microsoft Visio 是繪圖軟件，它允許創建文件，這些文件可以包含並以不同形狀表示用戶定義的信息。其中最常見的包括但不限於 UML 圖、流程圖、可視對象、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息。使用 Visio 生成的文件也可以轉換為不同的文件格式，例如 PNG、BMP、PDF 等。
+擴展名為 .VSSM 的文件是 Microsoft Visio 支持宏的模板文件。 VSSM 文件在打開時允許運行宏以在 diagram 中實現所需的形狀格式和位置。一般來說，Microsoft Visio 是繪圖軟件，它允許創建文件，這些文件可以包含和表示不同形狀的用戶定義信息。其中最常見的包括但不限於 UML 圖、流程圖、可視對象、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息。使用 Visio 生成的文件也可以轉換為不同的文件格式，例如 PNG、BMP、PDF 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,14 +113,14 @@ VSS 是使用 Microsoft Visio 2007 及更早版本創建的模具文件。一種
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-svg/" name="VSS 轉 SVG" description="可縮放矢量圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-swf/" name="VSS 轉 SWF" description="SWF 格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-tiff/" name="VSS 轉 TIFF" description="標記圖像格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vdx/" name="VSS 轉 VDX" description="Microsoft Visio 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vdx/" name="VSS 到 VDX" description="Microsoft Visio 繪圖格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdm/" name="VSS 到 VSDM" description="Microsoft Visio 繪圖格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="VSS 到 VSDX" description="微軟Visio格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="VSS 到 VSDX" description="Microsoft Visio 格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssx/" name="VSS 到 VSSX" description="繪圖模具" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="VSS 到 VSTM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="VSS 到 VSTX" description="Microsoft Visio 繪圖模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsx/" name="VSS 到 VSX" description="模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS 轉 VTX" description="Microsoft Visio 繪圖模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS 到 VTX" description="Microsoft Visio 繪圖模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xaml/" name="VSS 到 XAML" description="可擴展的應用程序標記語言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xps/" name="VSS 轉 XPS" description="XML 紙張規格" >}}
 

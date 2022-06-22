@@ -2,7 +2,7 @@
 title: Konwertuj VSTX na VSX przez Java 
 weight: 2240
 url: /pl/java/conversion/vstx-to-vsx/ 
-description: Przykładowy kod konwersji Java dla formatu VSTX do pliku VSX. Użyj tego przykładowego kodu, aby przekonwertować VSTX na VSX w dowolnej aplikacji opartej na sieci Web lub Desktop Java.
+description: Przykładowy kod konwersji Java dla formatu VSTX na plik VSX. Użyj tego przykładowego kodu, aby przekonwertować VSTX na VSX w dowolnej aplikacji internetowej lub na komputerze Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj VSTX na VSX przez Java" h2="Eksportuj Microsoft Visio VSTX do VSX przy użyciu natywnej biblioteki Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSTX" >}}
@@ -12,7 +12,7 @@ description: Przykładowy kod konwersji Java dla formatu VSTX do pliku VSX. Uży
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować VSTX na VSX za pomocą Java" %}}
 
- Aby renderować VSTX do VSX, użyjemy
+ Aby wyrenderować VSTX do VSX, użyjemy
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą konwersji API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -52,7 +52,7 @@ description: Przykładowy kod konwersji Java dla formatu VSTX do pliku VSX. Uży
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VSTX na VSX za pomocą Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VSTX na VSX przez Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -60,7 +60,7 @@ description: Przykładowy kod konwersji Java dla formatu VSTX do pliku VSX. Uży
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Załaduj plik VSTX z instancją klasy Diagram1. Wywołaj metodę Diagram.save ze ścieżką pliku wyjściowego i SaveFileFormat jako parametrami1. Plik VSX zostanie zapisany pod określoną ścieżką
+1. Załaduj plik VSTX z instancją klasy Diagram1. Wywołaj metodę Diagram.save ze ścieżką pliku wyjściowego i SaveFileFormat jako parametrami1. VSX plik zostanie zapisany pod określoną ścieżką
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}
@@ -71,10 +71,10 @@ description: Przykładowy kod konwersji Java dla formatu VSTX do pliku VSX. Uży
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od firmy Maven.
+- Microsoft Windows lub zgodny system operacyjny z Java środowiskiem wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSTX do VSX Java Kod źródłowy konwersji" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSTX do VSX Java Kodu źródła konwersji" offSpacer="" %}}
 
 ```cs
 // załaduj VSTX do obiektu Diagram 
@@ -94,15 +94,15 @@ visio.save("output.vsx", SaveFileFormat.VSX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Konwersja na żywo z VSTX do VSX" sectionDescription="[Konwertuj VSTX na VSX](https://products.aspose.app/diagram/conversion/vstx-to-vsx) teraz, odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Od VSTX do VSX demonstracji konwersji na żywo" sectionDescription="[Konwertuj VSTX na VSX](https://products.aspose.app/diagram/conversion/vstx-to-vsx) teraz, odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie musisz pisać żadnego kodu." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VSTX, zostanie on natychmiast przekonwertowany do VSX." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VSTX, zostanie on natychmiast przekonwertowany na VSX." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Otrzymasz link do pobrania." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteka manipulacji" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsx", SaveFileFormat.VSX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/image/vstx/" >}}
 
-Pliki z rozszerzeniami VSTX to pliki szablonów rysunków utworzone za pomocą Microsoft Visio 2013 i nowszych. Te pliki VSTX stanowią punkt wyjścia do tworzenia Visio rysunków, zapisanych jako pliki .VSDX, z domyślnym układem i ustawieniami. Ogólnie pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. Programy otwierające pliki VSTX obejmują Microsoft Visio dla systemów Windows i Mac, które umożliwiają otwieranie tych plików w celu przeglądania i edycji. Pozwala również na konwersję Visio formatów plików na wiele innych formatów.
+Pliki z rozszerzeniami VSTX to pliki szablonów rysunków utworzone w wersji Microsoft Visio 2013 i nowszych. Te VSTX pliki stanowią punkt wyjścia do tworzenia Visio rysunków, zapisanych jako pliki .VSDX, z domyślnym układem i ustawieniami. Ogólnie rzecz biorąc, pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. Programy otwierające pliki VSTX obejmują Microsoft Visio dla systemów Windows i Mac, które umożliwiają otwieranie tych plików w celu przeglądania i edycji. Pozwala również na konwersję Visio formatów plików na wiele innych formatów.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
 
-Pliki z rozszerzeniem .VSX odnoszą się do szablonów składających się z rysunków i kształtów używanych do tworzenia diagramów w Microsoft Visio. Pliki VSX są zapisywane w formacie pliku XML i były obsługiwane do Visio 2013. Różnią się one od podstawowego formatu pliku VSDX, który został wprowadzony w Microsoft Visio 2013. Pliki VSX można otworzyć w dowolnym edytorze tekstu, aby wyświetlić zawartość.
+Pliki z rozszerzeniem .VSX odnoszą się do szablonów składających się z rysunków i kształtów używanych do tworzenia diagramów w Microsoft Visio. Pliki VSX są zapisywane w formacie XML i były obsługiwane do Visio 2013. Różnią się one od podstawowego formatu plików VSDX wprowadzonego w Microsoft Visio 2013. VSX pliki można otwierać w dowolny edytor tekstu, aby wyświetlić zawartość.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -135,18 +135,18 @@ Pliki z rozszerzeniem .VSX odnoszą się do szablonów składających się z rys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-bmp/" name="VSTX DO BMP" description="Bitmapa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-emf/" name="VSTX DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-html/" name="VSTX DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-jpeg/" name="VSTX NA JPEG" description="Obraz JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-jpeg/" name="VSTX DO JPEG" description="Obraz JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-pdf/" name="VSTX DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-png/" name="VSTX DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-svg/" name="VSTX DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-tiff/" name="VSTX DO TIFF" description="Oznaczony format obrazu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vdx/" name="VSTX DO VDX" description="Microsoft Visio Format rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsdm/" name="VSTX DO VSDM" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsdx/" name="VSTX DO VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vssm/" name="VSTX DO VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsdx/" name="VSTX DO VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vssm/" name="VSTX DO VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vssx/" name="VSTX DO VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vstm/" name="VSTX DO VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vtx/" name="VSTX DO VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vtx/" name="VSTX DO VTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-xaml/" name="VSTX DO XAML" description="Rozszerzalny język znaczników aplikacji" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-xps/" name="VSTX DO XPS" description="Specyfikacje papieru XML" >}}
 

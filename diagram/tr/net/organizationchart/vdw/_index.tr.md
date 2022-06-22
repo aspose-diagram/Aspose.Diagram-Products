@@ -39,19 +39,19 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- İle birleşen ve birleştirilen temel bir belge
+ ile organizasyon şeması oluşturma
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API'ler sadece birkaç satır kod ile yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Şablondan bir diyagram oluşturun.
++ Şablondan bir diagram oluşturun.
 + Kimliği aracılığıyla Sayfayı seçin
 + Sayfaya organizasyon düğümü şekilleri ekleyin.
 + Şekli ve üst öğesini bağlamak için sayfaya bağlayıcılar ekleyin.
 + Düzen yöntemini çağırarak otomatik düzen
 + Save() yöntemini çağırın ve dosya adını (tam yol) ve biçimi (VSDX) parametre olarak iletin.
-+ Artık VSDX dosyasını Microsoft Office, Adobe PDF veya diğer uyumlu programlarda açıp kullanabilirsiniz.
++ Artık VSDX dosyasını Microsoft Office, Adobe PDF veya başka bir uyumlu programda açıp kullanabilirsiniz.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet'ten yükleyin
+- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet adresinden yükleyin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDW Dosyalarında Organizasyon Şeması Oluştur - C#" offSpacer="" %}}
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" VDW belgelerinde CompactTree tarzı organizasyon şemasını anında oluşturacaktır." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diyagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio'ta da açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya biçimine dönüştürme yeteneği sunar. 
+VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio içinde de açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya formatına dönüştürme yeteneği sunar. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

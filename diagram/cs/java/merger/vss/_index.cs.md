@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSS);
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSS);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude sloučen a zřetězen." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS jsou soubory vzorníků vytvořené pomocí Microsoft Visio 2007 a starší. Relativně novým formátem souborů je .VSSX, který byl představen společností Microsoft Visio v roce 2013. Soubory vzorníků poskytují objekty kreslení, které lze zahrnout do výkresu .VSD Visio. Samotný Microsoft Visio je známý vytvářením kreslicích prvků, jako jsou kolekce tvarů, konektory, vývojové diagramy, rozložení sítě, diagramy UML, softwarové diagramy, databázové modely, mapování objektů a další podobné informace. Má také bohaté funkce převodu dokumentů Visio do jiných formátů souborů, jako jsou PNG, BMP, PDF a další. Visio je k dispozici pro Windows i Mac OS. 
+VSS jsou soubory vzorníků vytvořené pomocí Microsoft Visio 2007 a starší. Relativně nový formát souboru je .VSSX, který byl představen v roce Microsoft Visio 2013. Soubory vzorníků poskytují objekty kreslení, které lze zahrnout do výkresu .VSD Visio. Samotný Microsoft Visio je známý vytvářením kreslicích prvků, jako jsou kolekce tvarů, konektory, vývojové diagramy, rozvržení sítě, diagramy UML, softwarové diagramy, databázové modely, mapování objektů a další podobné informace. Má také bohaté funkce převodu dokumentů Visio do jiných formátů souborů, jako jsou PNG, BMP, PDF a další. Visio je k dispozici pro Windows i Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,17 +129,17 @@ VSS jsou soubory vzorníků vytvořené pomocí Microsoft Visio 2007 a starší.
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Java lze také sloučit mnoho dalších formátů souborů, včetně..." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visio Soubor grafické služby" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Nákresy Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Formát Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Soubory šablon Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Nákresy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Formát Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Soubory šablon: Microsoft Visio" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Kreslicí šablony" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="VST" description="Soubory vektorových obrázků" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Šablona výkresu Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio Soubory šablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio Šablona výkresu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="Šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Šablona výkresu Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio Šablona výkresu" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

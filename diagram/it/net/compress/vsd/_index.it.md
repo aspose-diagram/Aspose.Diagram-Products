@@ -2,7 +2,7 @@
 title: Comprimi VSD documento tramite .NET 
 weight: 3050
 url: /it/net/compress/vsd/ 
-description: C# codice sorgente per comprimere il file vsd su .NET Framework, .NET Core, Mono Platforms.
+description: C# codice sorgente per comprimere vsd file su piattaforme .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Comprimi VSD in C#" h2="Compressore di documenti VSD nativo e ad alte prestazioni che utilizza API Aspose.Diagram for .NET lato server, senza l\'uso di software come Microsoft o Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -79,7 +79,7 @@ Usa la funzione RemoveHiddenInformation di Diagram
 
     {{% blocks/products/pf/agp/content h2="Circa Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.  
+ Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.  
 
 
 
@@ -94,7 +94,7 @@ Usa la funzione RemoveHiddenInformation di Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Verrà compresso e concatenato all\'istante." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-file VSD sono disegni creati con l'applicazione Microsoft Visio per rappresentare una varietà di oggetti grafici e l'interconnessione tra questi. Tali disegni possono contenere oggetti visivi come oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. Microsoft Visio offre la possibilità di convertire file Visio in numerosi formati di file diversi, inclusi PNG, BMP, PDF e altri. 
+file VSD sono disegni creati con l'applicazione Microsoft Visio per rappresentare una varietà di oggetti grafici e l'interconnessione tra questi. Tali disegni possono contenere oggetti visivi come oggetti visivi, diagrammi di flusso, UML diagram, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. Microsoft Visio offre la possibilità di convertire file Visio in numerosi formati di file diversi, inclusi PNG, BMP, PDF e altri. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -108,7 +108,7 @@ file VSD sono disegni creati con l'applicazione Microsoft Visio per rappresentar
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssx/" name="VSSX" description="Visio File stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstx/" name="VSTX" description="Visio File modello" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsdm/" name="VSDM" description="Visio File di disegno con abilitazione macro" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssm/" name="VSM" description="Visio File stencil abilitato per le macro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssm/" name="VSSM" description="Visio File stencil abilitato per le macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstm/" name="VSTM" description="Visio File modello abilitato per le macro" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsdx/" name="VSDX" description="Visio File di disegno" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}

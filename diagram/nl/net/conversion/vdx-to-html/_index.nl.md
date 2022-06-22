@@ -2,7 +2,7 @@
 title: Converteer VDX naar HTML via C# 
 weight: 2970
 url: /nl/net/conversion/vdx-to-html/ 
-description: Voorbeeldcode voor conversie van VDX naar HTML C#. Gebruik API voorbeeldcode voor batch-VDX-bestanden naar HTML-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
+description: Voorbeeldcode voor conversie van VDX naar HTML C#. Gebruik API voorbeeldcode voor batch VDX-bestanden naar HTML-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer VDX naar HTML via C#" h2="Exporteer Microsoft® Visio VDX-bestanden naar HTML op .NET Framework, .NET Core, Mono of COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDX" >}}
@@ -39,11 +39,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET ontwikkelaars kunnen VDX-bestanden gemakkelijk laden en converteren naar HTML in slechts een paar regels code.
+ .NET ontwikkelaars kunnen gemakkelijk VDX bestanden laden en converteren naar HTML in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Laad VDX-bestand met een instantie van Diagram class1. Roep de Diagram.Save-methode aan met pad naar uitvoerbestand en SaveFileFormat.HTML als parameters1. HTML-bestand wordt opgeslagen op het opgegeven pad
+1. Laad VDX bestand met een instantie van Diagram class1. Roep de Diagram.Save-methode aan met pad naar uitvoerbestand en SaveFileFormat.HTML als parameters1. HTML-bestand wordt opgeslagen op het opgegeven pad
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Mono of COM Interop.- Ontwikkelomgeving zoals Microsoft Visual Studio.- Aspose.Diagram for .NET DLL waarnaar wordt verwezen in uw project.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Deze voorbeeldcode toont VDX naar HTML C#-conversie" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Deze voorbeeldcode toont VDX naar HTML C# Conversie" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdx-to-html.cs" >}}
 
@@ -73,12 +73,12 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app om VDX naar HTML te converteren" sectionDescription="Check onze live demo\'s voor [VDX naar HTML-conversie](https://products.aspose.app/diagram/conversion/vdx-to-html) met volgende voordelen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft niets te downloaden of in te stellen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VDX-bestand en klik op de knop \"Converteren\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VDX-bestand en klik op de knop \'Converteren\'." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" U krijgt direct de downloadlink voor het resulterende HTML-bestand." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Een Diagram beheerbibliotheek die speciaal is ontworpen om te werken met Microsoft Visio-bestanden. Hiermee kunnen ontwikkelaars native Visio-indelingen maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van het diagram manipuleren om het resultaat naar andere indelingen te exporteren.
+ Een Diagram beheerbibliotheek die speciaal is ontworpen om met Microsoft Visio bestanden te werken. Hiermee kunnen ontwikkelaars native Visio-formaten maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van de diagram manipuleren om het resultaat naar andere formaten te exporteren.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Elke tekening of grafiek die is gemaakt in Microsoft Visio, maar is opgeslagen in XML-indeling, heeft de extensie .VDX. Een Visio tekening XML-bestand wordt gemaakt in Visio software, die is ontwikkeld door Microsoft. Microsoft Visio heeft de mogelijkheid om visuele documenten te genereren die kunnen worden gebruikt in presentaties en documenten. Het Visio tekening-XML-bestand bevat de visuele objecten en metadatadetails van de visuele elementen. Aan deze visuele elementen kan ook tekst worden toegevoegd. Vision tekening XML-bestand. Deze Visio tekening-XML-bestanden zijn geïntegreerd met op XML gebaseerde opmaakstandaarden en coderingsspecificaties voor afbeeldingsgegevens waarmee de inhoud ervan kan worden weergegeven en opgeslagen door de Microsoft Visio-software in de VDX-bestandsindeling.
+Elke tekening of grafiek die is gemaakt in Microsoft Visio, maar is opgeslagen in XML-indeling, heeft de extensie .VDX. Een Visio tekening XML-bestand wordt gemaakt in Visio software, die is ontwikkeld door Microsoft. Microsoft Visio heeft de mogelijkheid om visuele documenten te genereren die kunnen worden gebruikt in presentaties en documenten. Het Visio tekening-XML-bestand bevat de visuele objecten en metadatadetails van de visuele elementen. Aan deze visuele elementen kan ook tekst worden toegevoegd. Vision tekening XML-bestand. Deze Visio tekening-XML-bestanden zijn geïntegreerd met op XML gebaseerde opmaakstandaarden en coderingsspecificaties voor afbeeldingsgegevens waarmee de inhoud kan worden weergegeven en opgeslagen door de Microsoft Visio-software in de bestandsindeling VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ HTML (Hyper Text Markup Language) is de extensie voor webpagina's die zijn gemaa
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt VDX ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-bmp/" name="VDX NAAR BMP" description="Bitmap afbeelding" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-emf/" name="VDX NAAR EMF" description="Verbeterde metabestandsindeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-emf/" name="VDX NAAR EMV" description="Verbeterde metabestandsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-jpeg/" name="VDX NAAR JPEG" description="JPEG-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-pdf/" name="VDX NAAR PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-png/" name="VDX NAAR PNG" description="Draagbare netwerkgrafieken" >}}
@@ -113,10 +113,10 @@ HTML (Hyper Text Markup Language) is de extensie voor webpagina's die zijn gemaa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-swf/" name="VDX NAAR SWF" description="SWF-formaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-tiff/" name="VDX NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdm/" name="VDX NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdx/" name="VDX NAAR VSDX" description="Microsoft Visio-indeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdx/" name="VDX NAAR VSDX" description="Microsoft Visio Indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssx/" name="VDX NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsx/" name="VDX NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX NAAR VTX" description="Microsoft Visio Tekensjabloon" >}}

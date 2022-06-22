@@ -14,7 +14,7 @@ description: Exempelkod för konvertering av VST till HTML C#. Använd API exemp
 
  För att konvertera VST till HTML kommer vi att använda
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppet
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  pakethanterare, sök efter
  Aspose.Diagram 
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagrammet för att exportera resultatet till andra format.
+ Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagram för att exportera resultatet till andra format.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Filer med VST-tillägg är vektorbildfiler skapade med Microsoft Visio och fungerar som mall för att skapa ytterligare filer. Dessa mallfiler är i binärt filformat och innehåller standardlayouten och inställningarna som används för att skapa nya Visio-ritningar. När en VST-fil öppnas i Microsoft Visio innehåller den de befintliga inställningarna för att fortsätta arbeta med dokumentet. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
+Filer med VST-tillägg är vektorbildfiler skapade med Microsoft Visio och fungerar som mall för att skapa ytterligare filer. Dessa mallfiler är i binärt filformat och innehåller standardlayouten och inställningarna som används för att skapa nya Visio-ritningar. När en VST-fil öppnas i Microsoft Visio innehåller den de befintliga inställningarna för att fortsätta arbeta med dokumentet. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="html" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) är tillägget för webbsidor som skapats för visning i webbläsare. HTML, som är känt som webbens språk, har utvecklats med krav på nya informationskrav som ska visas som en del av webbsidor. Den senaste varianten är känd som HTML 5 som ger mycket flexibilitet för att arbeta med språket. HTML-sidor tas antingen emot från servern, där dessa är värd, eller kan också laddas från det lokala systemet. Varje HTML-sida är uppbyggd av HTML-element som formulär, text, bilder, animationer, länkar etc. Dessa element representeras av taggar som img, a, p och flera andra där varje tagg har start och slut. Det kan också bädda in applikationer skrivna på skriptspråk som JavaScript och Style Sheets (CSS) för övergripande layoutrepresentation.
+HTML (Hyper Text Markup Language) är tillägget för webbsidor som skapats för visning i webbläsare. HTML, som är känt som webbens språk, har utvecklats med krav på nya informationskrav som ska visas som en del av webbsidor. Den senaste varianten är känd som HTML 5 som ger mycket flexibilitet för att arbeta med språket. HTML-sidor tas antingen emot från servern, där dessa är värd, eller kan också laddas från det lokala systemet. Varje HTML-sida är uppbyggd av HTML-element som formulär, text, bilder, animationer, länkar etc. Dessa element representeras av taggar som img, a, p och flera andra där varje tagg har start och slut. Den kan också bädda in applikationer skrivna på skriptspråk som JavaScript och Style Sheets (CSS) för övergripande layoutrepresentation.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,13 +114,13 @@ HTML (Hyper Text Markup Language) är tillägget för webbsidor som skapats för
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST TILL VDX" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST TILL VSDX" description="Microsoft Visio-format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST TILL VSSM" description="Microsoft Visio stencilfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST TILL VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST TILL VSSM" description="Microsoft Visio Stencilfiler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xaml/" name="VST TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xps/" name="VST TILL XPS" description="XML-pappersspecifikationer" >}}
 

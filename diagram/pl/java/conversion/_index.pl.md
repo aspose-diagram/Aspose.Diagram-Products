@@ -1,20 +1,20 @@
 ﻿---
 title: Java Microsoft Visio Konwersja plików
 url: /pl/java/conversion/
-description: Konwertuj formaty Microsoft Visio VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS na obrazy HTML i PDF z kilkoma wierszami kodu Java.
+description: Konwertuj formaty Microsoft Visio VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS na obrazy HTML i PDF z kilkoma wierszami Java kod.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Konwersja formatów przez Java" h2="Konwertuj diagramy MS Visio na HTML, PDF i obrazy, w tym JPG, BMP, PNG, TIFF, aby tworzyć aplikacje międzyplatformowe Java." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Formatuje konwersję przez Java" h2="Konwertuj diagramy MS Visio na HTML, PDF i obrazy, w tym JPG, BMP, PNG, TIFF, aby tworzyć aplikacje międzyplatformowe Java." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-W przypadku dowolnego rozwiązania do renderowania formatów firmy Microsoft Visio, takiego jak projektowanie schematów blokowych i diagramów przepływów biznesowych itp., Java Visio API ułatwia wszystkie złożone rysunki w łatwy sposób. Załaduj plik źródłowy za pomocą [Diagram klasa](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) i wywołaj metodę save z odpowiednimi parametrami.
+W przypadku dowolnego rozwiązania do renderowania formatów Microsoft Visio, takiego jak projektowanie schematów blokowych i diagramów przepływów biznesowych itp., Java Visio API ułatwia wszystkie złożone rysunki w łatwy sposób. Załaduj plik źródłowy za pomocą [Diagram klasa](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) i wywołaj metodę save z odpowiednimi parametrami.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konwersja między plikami Visio" %}}
 
-Programiści mogą łatwo konwertować formaty VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM, a także ładować VDW, VSD, VSS, VST i renderować do formatu PDF, HTML i obrazów. Biorąc pod uwagę scenariusz VSDX do VDX, proces polega na załadowaniu pliku źródłowego VSDX przy użyciu klasy diagram i wywołaniu metody save, podając plik wyjściowy i [Zapisz format pliku](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX jako parametry. 
+Programiści mogą łatwo konwertować formaty VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM oraz ładować VDW, VSD, VSS, VST i renderuje do PDF, HTML i obrazów. Biorąc pod uwagę scenariusz od VSDX do VDX, proces polega na załadowaniu pliku źródłowego VSDX przy użyciu klasy diagram i wywołaniu metody save, dostarczając plik wyjściowy i [Zapisz format pliku](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX jako parametry. 
 
 {{% blocks/products/pf/feature-page-code h3="Java Kod konwersji VSDX na VDX" %}}
 
@@ -27,7 +27,7 @@ Programiści mogą łatwo konwertować formaty VSDX, VSX, VTX, VDX, VSSX, VSTX, 
 
 {{% blocks/products/pf/feature-page-section h2="Visio do konwersji obrazów" %}}
 
-przypadku ogólnej konwersji proces konwersji plików visio na obrazy jest taki sam. Wystarczy załadować plik przez klasę Diagram i wywołać metodę save z plikiem wyjściowym i parametrami wyjściowymi SaveFileFormat. A ilekroć zachodzi potrzeba zdefiniowania określonych opcji, programiści mogą używać klasy ImageSaveOptions podczas konwertowania stron diagramów na obrazy i SVGSaveOptions do konwersji SVG.
+W przypadku ogólnej konwersji proces konwersji visio plików na obrazy jest taki sam. Wystarczy załadować plik przez klasę Diagram i wywołać metodę save z plikiem wyjściowym i parametrami wyjściowymi SaveFileFormat. A ilekroć zachodzi potrzeba zdefiniowania określonych opcji, programiści mogą używać klasy ImageSaveOptions podczas konwertowania diagram stron na obrazy i SVGSaveOptions do konwersji SVG.
 
 {{% blocks/products/pf/feature-page-code h3="Java Kod do konwersji Visio na formaty obrazu" %}}
 

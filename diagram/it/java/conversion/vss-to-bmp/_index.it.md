@@ -15,7 +15,7 @@ description: Esempio di codice di conversione Java per il formato VSS in file BM
  Per rendere VSS in BMP, useremo
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API che è una piattaforma di conversione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la sua ultima versione direttamente da
- [Esperto di](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -102,7 +102,7 @@ visio.save("output.bmp", SaveFileFormat.BMP);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Libreria di manipolazione" %}}
 
- Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.  
+ Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.bmp", SaveFileFormat.BMP);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS sono file stencil creati con Microsoft Visio 2007 e versioni precedenti. Un formato di file relativamente nuovo è .VSSX, introdotto con Microsoft Visio 2013. I file stencil forniscono oggetti di disegno che possono essere inclusi in un disegno .VSD Visio. Microsoft Visio stesso è noto per la creazione di elementi di disegno come raccolta di forme, connettori, diagrammi di flusso, layout di rete, diagrammi UML, diagrammi software, modelli di database, mappatura di oggetti e altre informazioni simili. Dispone inoltre di funzionalità avanzate di conversione di Visio documenti in altri formati di file come PNG, BMP, PDF e altri. Visio è disponibile sia per Windows che per Mac OS.
+VSS sono file stencil creati con Microsoft Visio 2007 e precedenti. Un formato di file relativamente nuovo è .VSSX, introdotto con Microsoft Visio 2013. I file stencil forniscono oggetti di disegno che possono essere inclusi in un disegno .VSD Visio. Microsoft Visio stesso è noto per la creazione di elementi di disegno come raccolta di forme, connettori, diagrammi di flusso, layout di rete, diagrammi UML, diagrammi software, modelli di database, mappatura di oggetti e altre informazioni simili. Dispone inoltre di funzionalità avanzate di conversione di Visio documenti in altri formati di file come PNG, BMP, PDF e altri. Visio è disponibile sia per Windows che per Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}
 
-file con estensione .BMP rappresentano file di immagine bitmap utilizzati per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dalla scheda grafica e sono anche chiamate formato di file DIB (Device Independent Bitmap). Questa indipendenza serve allo scopo di aprire il file su più piattaforme come Microsoft Windows e Mac. Il formato file BMP può memorizzare dati come immagini digitali bidimensionali sia in formato monocromatico che a colori con varie profondità di colore.
+I file con estensione .BMP rappresentano file di immagine bitmap utilizzati per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dalla scheda grafica e sono anche chiamate formato di file DIB (Device Independent Bitmap). Questa indipendenza serve allo scopo di aprire il file su più piattaforme come Microsoft Windows e Mac. Il formato file BMP può memorizzare dati come immagini digitali bidimensionali sia in formato monocromatico che a colori con varie profondità di colore.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ file con estensione .BMP rappresentano file di immagine bitmap utilizzati per me
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="VSS IN PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS IN SVG" description="Grafica vettoriale scalabile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS IN TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS A VDX" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS A VSDM" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS A VSDX" description="Formato Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS A VSSM" description="File stencil di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS A VDX" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS A VSDM" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS A VSSM" description="Microsoft Visio File stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS A VSSX" description="Stencil da disegno" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS A VSTM" description="File modello Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS A VSTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS A VSTM" description="Microsoft Visio File modello" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS A VSTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS A VSX" description="Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS A VTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS A VTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS A XPS" description="Specifiche della carta XML" >}}
 

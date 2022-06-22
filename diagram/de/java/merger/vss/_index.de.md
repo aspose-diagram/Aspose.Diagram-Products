@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSS);
 
     {{% blocks/products/pf/agp/content h2="Über Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram ist eine Manipulation des Microsoft Visio-Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
+ Aspose.Diagram ist eine Microsoft Visio Manipulation des Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSS);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort zusammengeführt und verkettet." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS sind Schablonendateien, die mit Microsoft Visio 2007 und früher erstellt wurden. Ein relativ neues Dateiformat ist .VSSX, das mit Microsoft Visio 2013 eingeführt wurde. Schablonendateien stellen Zeichnungsobjekte bereit, die in eine .VSD Visio-Zeichnung eingefügt werden können. Microsoft Visio selbst ist dafür bekannt, Zeichnungselemente wie Sammlungen von Formen, Konnektoren, Flussdiagramme, Netzwerklayouts, UML-Diagramme, Softwarediagramme, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen zu erstellen. Es hat auch umfangreiche Konvertierungsfunktionen von Visio Dokumenten in andere Dateiformate wie PNG, BMP, PDF und andere. Visio ist sowohl für Windows als auch für Mac OS verfügbar. 
+VSS sind Schablonendateien, die mit Microsoft Visio 2007 und früher erstellt wurden. Ein relativ neues Dateiformat ist .VSSX, das mit Microsoft Visio 2013 eingeführt wurde. Schablonendateien stellen Zeichnungsobjekte bereit, die in eine .VSD Visio-Zeichnung eingefügt werden können. Microsoft Visio selbst ist dafür bekannt, Zeichnungselemente wie Sammlungen von Formen, Konnektoren, Flussdiagramme, Netzwerklayouts, UML-Diagramme, Softwarediagramme, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen zu erstellen. Es hat auch umfangreiche Konvertierungsfunktionen von Visio-Dokumenten in andere Dateiformate wie PNG, BMP, PDF und andere. Visio ist sowohl für Windows als auch für Mac OS verfügbar. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,11 +129,11 @@ VSS sind Schablonendateien, die mit Microsoft Visio 2007 und früher erstellt wu
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Zusammenführungsformate" subTitle="Mit Java kann man auch viele andere Dateiformate zusammenführen, einschließlich .." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visio Grafikdienstdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio-Zeichnungen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio-Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio-Schablonendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Zeichnungen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Schablonendateien" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Zeichenschablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="VST" description="Vektorbilddateien" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio Vorlagendateien" >}}

@@ -12,7 +12,7 @@ description: Codice di esempio per la conversione da VSSM a PDF C#. Utilizza API
 
 {{% blocks/products/pf/agp/content h2="Come convertire VSSM in PDF utilizzando C#" %}}
 
- Per convertire VSSM in PDF, useremo
+ Per convertire VSSM in PDF, utilizzeremo
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API che è una piattaforma di manipolazione e conversione di documenti API ricca di funzionalità, potente e facile da usare per C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
@@ -39,11 +39,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET gli sviluppatori possono caricare e convertire facilmente i file VSSM in PDF in poche righe di codice.
+ .NET gli sviluppatori possono caricare e convertire facilmente VSSM file in PDF in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carica il file VSSM con un'istanza della classe Diagram1. Chiama il metodo Diagram.Save con il percorso del file di output e SaveFileFormat.PDF come parametri1. Il file PDF verrà salvato nel percorso specificato
+1. Carica il file VSSM con un'istanza di classe Diagram1. Chiama il metodo Diagram.Save con il percorso del file di output e SaveFileFormat.PDF come parametri1. Il file PDF verrà salvato nel percorso specificato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di sistema" %}}
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per convertire VSSM in PDF" sectionDescription="Controlla le nostre demo dal vivo per [Conversione da VSSM a PDF](https://products.aspose.app/diagram/conversion/vssm-to-pdf) con i seguenti vantaggi." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per convertire VSSM in PDF" sectionDescription="Controlla le nostre demo dal vivo per [VSSM in PDF conversione](https://products.aspose.app/diagram/conversion/vssm-to-pdf) con i seguenti vantaggi." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Carica il tuo file VSSM e premi il pulsante \"Converti\"." >}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Una Diagram Libreria di gestione appositamente progettata per funzionare con i file Microsoft Visio. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, caricare facilmente file esistenti e manipolare gli elementi del diagramma per esportare il risultato in altri formati.
+ Una Diagram Libreria di gestione appositamente progettata per funzionare con Microsoft Visio file. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, nonché caricare facilmente file esistenti e manipolare gli elementi di diagram per esportare il risultato in altri formati.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
-file con estensione .VSSM sono file Microsoft Visio Stencil che supportano il supporto per le macro. Un file VSSM quando viene aperto consente di eseguire le macro per ottenere la formattazione e il posizionamento desiderati delle forme in un diagramma. In generale, Microsoft Visio è un software di disegno che consente di creare file che possono contenere e rappresentare informazioni definite dall'utente in diverse forme. I più comuni di questi includono, a titolo esemplificativo, diagrammi UML, diagrammi di flusso, oggetti visivi, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere convertiti in diversi formati di file come PNG, BMP, PDF e altri.
+file con estensione .VSSM sono Microsoft Visio file stencil che supportano il supporto per le macro. Un file VSSM quando aperto consente di eseguire le macro per ottenere la formattazione e il posizionamento desiderati delle forme in un diagram. In generale, Microsoft Visio è un software di disegno che consente di creare file che possono contenere e rappresentare informazioni definite dall'utente in diverse forme. I più comuni di questi includono, ma non sono limitati a, diagrammi UML, diagrammi di flusso, oggetti visivi, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere convertiti in diversi formati di file come PNG, BMP, PDF e altri.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,21 +105,21 @@ Portable Document Format (PDF) è un tipo di documento creato da Adobe negli ann
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire VSSM in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-bmp/" name="VSSM A BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-emf/" name="VSSM A EMF" description="Formato Metafile migliorato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-emf/" name="VSSM A CEM" description="Formato Metafile migliorato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-html/" name="VSSM IN HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-jpeg/" name="VSSM IN JPEG" description="Immagine JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-png/" name="VSSM IN PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-svg/" name="VSSM IN SVG" description="Grafica vettoriale scalabile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-swf/" name="VSSM IN SWF" description="Formato SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-tiff/" name="VSSM IN TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vdx/" name="VSSM A VDX" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdm/" name="VSSM A VSDM" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdx/" name="VSSM A VSDX" description="Formato Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vdx/" name="VSSM A VDX" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdm/" name="VSSM A VSDM" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdx/" name="VSSM A VSDX" description="Microsoft Visio Formato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vssx/" name="VSSM A VSSX" description="Stencil da disegno" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstm/" name="VSSM A VSTM" description="File modello Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstx/" name="VSSM A VSTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstm/" name="VSSM A VSTM" description="Microsoft Visio File modello" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstx/" name="VSSM A VSTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsx/" name="VSSM A VSX" description="Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vtx/" name="VSSM A VTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vtx/" name="VSSM A VTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xaml/" name="VSSM IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xps/" name="VSSM A XPS" description="Specifiche della carta XML" >}}
 

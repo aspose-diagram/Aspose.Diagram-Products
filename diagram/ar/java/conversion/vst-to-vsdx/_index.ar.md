@@ -15,8 +15,8 @@ description: نموذج رمز تحويل Java لتنسيق VST إلى ملف VS
  من أجل تقديم VST إلى VSDX ، سنستخدم
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API نظام أساسي للتحويل غني بالميزات وقوي وسهل الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
- [مخضرم](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ وتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -102,7 +102,7 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram مكتبة المعالجة" %}}
 
- Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه API مستقل ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
+ Aspose.Diagram هو Microsoft Visio معالجة بتنسيق المستند API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه إصدار مستقل API ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-الملفات ذات الامتداد VST هي ملفات صور متجهة تم إنشاؤها باستخدام Microsoft Visio وتعمل كقالب لإنشاء المزيد من الملفات. ملفات القوالب هذه بتنسيق ملف ثنائي وتحتوي على التخطيط والإعدادات الافتراضية المستخدمة لإنشاء رسومات Visio جديدة. عندما يتم فتح ملف VST في Microsoft Visio ، فإنه يحتوي على الإعدادات الحالية لمتابعة العمل مع المستند. بشكل عام ، يتم استخدام ملفات Visio لإنشاء رسومات تحتوي على كائنات مرئية ومخططات تدفق ومخطط UML وتدفق المعلومات والمخططات التنظيمية والرسومات التخطيطية للبرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
+الملفات ذات الامتداد VST هي ملفات صور متجهة تم إنشاؤها باستخدام Microsoft Visio وتعمل كقالب لإنشاء المزيد من الملفات. ملفات القوالب هذه بتنسيق ملف ثنائي وتحتوي على التخطيط والإعدادات الافتراضية المستخدمة لإنشاء رسومات Visio جديدة. عندما يتم فتح ملف VST في Microsoft Visio ، فإنه يحتوي على الإعدادات الحالية لمواصلة العمل مع المستند. بشكل عام ، تُستخدم ملفات Visio لإنشاء رسومات تحتوي على كائنات مرئية ومخططات تدفق و UML diagram وتدفق المعلومات والمخططات التنظيمية والرسومات التخطيطية للبرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-تمثل الملفات ذات الامتداد. VSDX تنسيق ملف Microsoft Visio المقدم من Microsoft Office 2013 فصاعدًا. تم تطويره ليحل محل تنسيق الملف الثنائي ،. VSD ، المدعوم من قبل الإصدارات السابقة من Microsoft Visio. وهو مدعوم أيضًا في Visio الخدمات في Microsoft SharePoint Server 2013 ولا يتطلب تنسيق ملف وسيط للنشر على SharePoint Server. تُستخدم ملفات Visio لإنشاء رسومات تحتوي على كائنات مرئية ومخططات انسيابية ومخطط UML وتدفق المعلومات والمخططات التنظيمية ومخططات البرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
+تمثل الملفات ذات الامتداد VSDX. Microsoft Visio تنسيق ملف مقدم من Microsoft Office 2013 فصاعدًا. تم تطويره ليحل محل تنسيق الملف الثنائي ،. VSD ، الذي تدعمه الإصدارات السابقة من Microsoft Visio. وهو مدعوم أيضًا في Visio الخدمات في Microsoft SharePoint Server 2013 ولا يتطلب تنسيق ملف وسيط للنشر على SharePoint Server. تُستخدم ملفات Visio لإنشاء رسومات تحتوي على كائنات مرئية ومخططات انسيابية و UML diagram وتدفق المعلومات والمخططات التنظيمية والرسومات التخطيطية للبرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المشابهة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,14 +140,14 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-png/" name="VST إلى PNG" description="رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-svg/" name="VST إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="VST إلى TIFF" description="تنسيق الصورة الموسومة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST إلى VDX" description="تنسيق رسم Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST إلى VSDM" description="تنسيق رسم Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST إلى VSSM" description="ملفات استنسل Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST إلى VDX" description="Microsoft Visio تنسيق الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST إلى VSDM" description="Microsoft Visio تنسيق الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST إلى VSSM" description="Microsoft Visio ملفات الاستنسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST إلى VSSX" description="الإستنسل الرسم" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST إلى VSTM" description="ملفات قوالب Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST إلى VSTX" description="قالب رسم Visio Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST إلى VSTM" description="Microsoft Visio ملفات النماذج" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST إلى VSTX" description="Microsoft Visio نموذج الرسم" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST إلى VSX" description="الإستنسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST إلى VTX" description="قالب رسم Visio Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST إلى VTX" description="Microsoft Visio نموذج الرسم" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xaml/" name="VST إلى XAML" description="لغة ترميز التطبيق الموسعة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xps/" name="VST إلى XPS" description="مواصفات ورق XML" >}}
 

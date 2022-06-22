@@ -2,7 +2,7 @@
 title: แปลง VSTM เป็น XPS ผ่าน C# 
 weight: 2620
 url: /th/net/conversion/vstm-to-xps/ 
-description: โค้ดตัวอย่างสำหรับการแปลง VSTM เป็น XPS C# ใช้ API โค้ดตัวอย่างสำหรับไฟล์ VSTM แบบแบตช์เป็นการแปลง XPS ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET ใดๆ
+description: โค้ดตัวอย่างสำหรับการแปลง VSTM เป็น XPS C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์ VSTM เป็นการแปลง XPS ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง VSTM เป็น XPS ผ่าน C#" h2="ส่งออกไฟล์ Microsoft® Visio VSTM เป็น XPS บน .NET Framework, .NET Core, Mono หรือ COM Interop" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSTM" >}}
@@ -14,7 +14,7 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
  ในการแปลง VSTM เป็น XPS เราจะใช้
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API ซึ่งเป็นการจัดการและแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและการแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  package manager ค้นหา
  Aspose.Diagram 
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET นักพัฒนาสามารถโหลดและแปลงไฟล์ VSTM เป็น XPS ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ นักพัฒนาซอฟต์แวร์ .NET สามารถโหลดและแปลงไฟล์ VSTM เป็น XPS ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,10 +54,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดง VSTM เป็น XPS C# Conversion" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดงการแปลง VSTM เป็น XPS C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstm-to-xps.cs" >}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="แอพฟรีเพื่อแปลง VSTM เป็น XPS" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง VSTM เป็น XPS](https://products.aspose.app/diagram/conversion/vstm-to-xps) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีสำหรับแปลง VSTM เป็น XPS" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง VSTM เป็น XPS](https://products.aspose.app/diagram/conversion/vstm-to-xps) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ VSTM ของคุณแล้วกดปุ่ม \"แปลง\"" >}}
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
-ไฟล์ที่มีนามสกุล VSTM คือไฟล์เทมเพลตที่สร้างด้วย Microsoft Visio ที่รองรับมาโคร ไม่เหมือนกับไฟล์ VSDX ไฟล์ที่สร้างจากเทมเพลต VSTM สามารถเรียกใช้มาโครที่พัฒนาขึ้นในโค้ด Visual Basic for Applications (VBA) ไฟล์เทมเพลตสามารถสร้างขึ้นเพื่อให้การตั้งค่าพื้นฐานของเอกสารที่สามารถใช้เพื่อสร้างเอกสารเพิ่มเติมด้วยการตั้งค่าเหล่านี้ ไฟล์ Visio ใช้สำหรับสร้างภาพวาดที่มีวัตถุที่มองเห็นได้ แผนผังลำดับงาน ไดอะแกรม UML การไหลของข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ เค้าโครงเครือข่าย โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ
+ไฟล์ที่มีนามสกุล VSTM คือไฟล์เทมเพลตที่สร้างด้วย Microsoft Visio ซึ่งสนับสนุนมาโคร ไม่เหมือนกับไฟล์ VSDX ไฟล์ที่สร้างจากเทมเพลต VSTM สามารถเรียกใช้มาโครที่พัฒนาขึ้นในโค้ด Visual Basic for Applications (VBA) ไฟล์เทมเพลตสามารถสร้างขึ้นเพื่อให้การตั้งค่าพื้นฐานของเอกสารที่สามารถใช้เพื่อสร้างเอกสารเพิ่มเติมด้วยการตั้งค่าเหล่านี้ ไฟล์ Visio ใช้สำหรับสร้างภาพวาดที่มีวัตถุที่มองเห็นได้ แผนผังลำดับงาน ไดอะแกรม UML การไหลของข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ เค้าโครงเครือข่าย โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xps" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
-ไฟล์ XPS แสดงถึงไฟล์เค้าโครงหน้าที่อิงตามข้อกำหนด XML Paper ที่สร้างโดย Microsoft รูปแบบนี้ได้รับการพัฒนาโดย Microsoft เพื่อแทนที่รูปแบบไฟล์ EMF และคล้ายกับรูปแบบไฟล์ PDF แต่ใช้ XML ในเค้าโครง ลักษณะที่ปรากฏ และข้อมูลการพิมพ์ของเอกสาร ในความเป็นจริง มีเหตุผลมากกว่าที่จะกล่าวว่า XPS เป็นความพยายามใน PDF แต่ไม่สามารถได้รับความนิยมเพียงพอในฐานะที่เป็นของ PDF ด้วยเหตุผลหลายประการ Microsoft มี XPS Document Writer เป็นค่าเริ่มต้นตั้งแต่ Windows 7 เป็นต้นไปสำหรับการสร้างไฟล์ XPS ไฟล์ XPS สามารถสร้างได้โดยเลือก "Microsoft XPS Document Writer" เป็นเครื่องพิมพ์ขณะพิมพ์เอกสาร
+ไฟล์ XPS แสดงถึงไฟล์เค้าโครงหน้าที่อิงตามข้อกำหนด XML Paper ที่สร้างโดย Microsoft รูปแบบนี้ได้รับการพัฒนาโดย Microsoft เพื่อแทนที่รูปแบบไฟล์ EMF และคล้ายกับรูปแบบไฟล์ PDF แต่ใช้ XML ในการจัดวาง ลักษณะที่ปรากฏ และข้อมูลการพิมพ์ของเอกสาร ในความเป็นจริง มีเหตุผลมากกว่าที่จะกล่าวว่า XPS เป็นความพยายามใน PDF แต่ไม่สามารถได้รับความนิยมเพียงพอในฐานะที่เป็นของ PDF ด้วยเหตุผลหลายประการ Microsoft มี XPS Document Writer เป็นค่าเริ่มต้นตั้งแต่ Windows 7 เป็นต้นไปสำหรับการสร้างไฟล์ XPS ไฟล์ XPS สามารถสร้างได้โดยเลือก "Microsoft XPS Document Writer" เป็นเครื่องพิมพ์ขณะพิมพ์เอกสาร
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,25 +104,25 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง VSTM เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบตามรายการด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-bmp/" name="VSTM เป็น BMP" description="ภาพบิตแมป" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-emf/" name="VSTM เป็น EMF" description="รูปแบบไฟล์ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-bmp/" name="VSTM ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-emf/" name="VSTM ถึง EMF" description="รูปแบบไฟล์ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-html/" name="VSTM เป็น HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-jpeg/" name="VSTM เป็น JPEG" description="ภาพ JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-pdf/" name="VSTM เป็น PDF" description="รูปแบบเอกสารพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-png/" name="VSTM เป็น PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-jpeg/" name="VSTM ถึง JPEG" description="ภาพ JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-pdf/" name="VSTM ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-png/" name="VSTM ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-svg/" name="VSTM ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-swf/" name="VSTM เป็น SWF" description="รูปแบบ SWF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-swf/" name="VSTM ถึง SWF" description="รูปแบบ SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-tiff/" name="VSTM ถึง TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vdx/" name="VSTM เป็น VDX" description="Microsoft Visio รูปแบบการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vdx/" name="VSTM ถึง VDX" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vsdm/" name="VSTM ถึง VSDM" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vsdx/" name="VSTM ถึง VSDX" description="Microsoft Visio รูปแบบ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vssm/" name="VSTM ถึง VSSM" description="Microsoft Visio ไฟล์ลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vssx/" name="VSTM ถึง VSSX" description="วาดลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vstm/" name="VSTM ถึง VSTM" description="Microsoft Visio ไฟล์เทมเพลต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vstx/" name="VSTM เป็น VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vstx/" name="VSTM ถึง VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vsx/" name="VSTM ถึง VSX" description="ลายฉลุ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vtx/" name="VSTM เป็น VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-xaml/" name="VSTM เป็น XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vtx/" name="VSTM ถึง VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-xaml/" name="VSTM ถึง XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

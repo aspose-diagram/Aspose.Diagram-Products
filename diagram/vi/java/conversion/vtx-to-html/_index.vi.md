@@ -2,7 +2,7 @@
 title: Chuyển đổi VTX sang HTML qua Java 
 weight: 4120
 url: /vi/java/conversion/vtx-to-html/ 
-description: Mã chuyển đổi Java mẫu cho định dạng VTX sang tệp HTML. Sử dụng mã ví dụ này để chuyển đổi VTX sang HTML trong bất kỳ ứng dụng dựa trên Web hoặc Desktop Java nào.
+description: Mã chuyển đổi Java mẫu cho định dạng VTX sang tệp HTML. Sử dụng mã mẫu này để chuyển đổi VTX sang HTML trong bất kỳ ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi VTX sang HTML qua Java" h2="Xuất Microsoft Visio VTX sang HTML bằng thư viện Java gốc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -12,7 +12,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VTX sang tệp HT
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi VTX sang HTML bằng cách sử dụng Java" %}}
 
- Để hiển thị VTX sang HTML, chúng tôi sẽ sử dụng
+ Để hiển thị VTX thành HTML, chúng tôi sẽ sử dụng
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API là một nền tảng chuyển đổi API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -60,7 +60,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VTX sang tệp HT
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Tải tệp VTX với một phiên bản của lớp Diagram1. Gọi Diagram phương thức .save với đường dẫn tệp đầu ra và SaveFileFormat dưới dạng tham số1. Tệp HTML sẽ được lưu tại đường dẫn được chỉ định
+1. Tải tệp VTX bằng một phiên bản của lớp Diagram1. Gọi Diagram phương thức .save với đường dẫn tệp đầu ra và SaveFileFormat dưới dạng tham số1. Tệp HTML sẽ được lưu tại đường dẫn được chỉ định
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="yêu cầu hệ thống" %}}
@@ -71,7 +71,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VTX sang tệp HT
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc một hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã nguồn chuyển đổi VTX sang HTML Java" offSpacer="" %}}
@@ -94,7 +94,7 @@ visio.save("output.html", SaveFileFormat.HTML);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Bản trình diễn trực tiếp chuyển đổi VTX sang HTML" sectionDescription="[Chuyển đổi VTX sang HTML](https://products.aspose.app/diagram/conversion/vtx-to-html) ngay bây giờ bằng cách truy cập trang web Demos Trực tiếp của chúng tôi. Bản demo trực tiếp có những lợi ích sau" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VTX sang Bản trình diễn Trực tiếp Chuyển đổi HTML" sectionDescription="[Chuyển đổi VTX sang HTML](https://products.aspose.app/diagram/conversion/vtx-to-html) ngay bây giờ bằng cách truy cập trang web Demos Trực tiếp của chúng tôi. Bản demo trực tiếp có những lợi ích sau" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp VTX của bạn, tệp sẽ được chuyển đổi ngay lập tức sang HTML." >}}
@@ -102,7 +102,7 @@ visio.save("output.html", SaveFileFormat.HTML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Thư viện Thao tác" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.html", SaveFileFormat.HTML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
 
-Tệp có phần mở rộng .vtx là mẫu bản vẽ Visio của Microsoft được lưu vào đĩa ở định dạng tệp XML. Mẫu nhằm cung cấp một tệp có cài đặt cơ bản có thể được sử dụng để tạo nhiều Visio tệp có cùng cài đặt. Một định dạng tương tự khác là VST được lưu ở định dạng nhị phân chứ không phải XML. Tệp VTX được hỗ trợ với Visio 2010 và các phiên bản mới hơn. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, biểu đồ luồng, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
+Tệp có phần mở rộng. vtx là mẫu bản vẽ Microsoft Visio được lưu vào đĩa ở định dạng tệp XML. Mẫu nhằm cung cấp một tệp có cài đặt cơ bản có thể được sử dụng để tạo nhiều Visio tệp có cùng cài đặt. Một định dạng tương tự khác là VST được lưu ở định dạng nhị phân chứ không phải XML. VTX tệp được hỗ trợ với Visio 2010 và các phiên bản mới hơn. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, lưu đồ, UML diagram, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
 
-HTML (Ngôn ngữ đánh dấu siêu văn bản) là phần mở rộng cho các trang web được tạo để hiển thị trong trình duyệt. Được biết đến như là ngôn ngữ của web, HTML đã phát triển với các yêu cầu về yêu cầu thông tin mới được hiển thị như một phần của các trang web. Biến thể mới nhất được gọi là HTML 5 mang lại nhiều tính linh hoạt cho việc làm việc với ngôn ngữ này. Các trang HTML hoặc được nhận từ máy chủ, nơi chúng được lưu trữ hoặc cũng có thể được tải từ hệ thống cục bộ. Mỗi trang HTML được tạo thành từ các phần tử HTML như biểu mẫu, văn bản, hình ảnh, hoạt ảnh, liên kết, v.v. Những phần tử này được biểu thị bằng các thẻ như img, a, p và một số thẻ khác trong đó mỗi thẻ có bắt đầu và kết thúc. Nó cũng có thể nhúng các ứng dụng được viết bằng ngôn ngữ kịch bản như JavaScript và Style Sheets (CSS) để trình bày bố cục tổng thể.
+HTML (Ngôn ngữ đánh dấu siêu văn bản) là phần mở rộng cho các trang web được tạo để hiển thị trong trình duyệt. Được biết đến như là ngôn ngữ của web, HTML đã phát triển với các yêu cầu về yêu cầu thông tin mới được hiển thị như một phần của các trang web. Biến thể mới nhất được gọi là HTML 5 mang lại nhiều tính linh hoạt cho việc làm việc với ngôn ngữ này. Các trang HTML hoặc được nhận từ máy chủ, nơi chúng được lưu trữ hoặc cũng có thể được tải từ hệ thống cục bộ. Mỗi trang HTML được tạo thành từ các phần tử HTML như biểu mẫu, văn bản, hình ảnh, hoạt ảnh, liên kết, v.v. Những phần tử này được biểu thị bằng các thẻ như img, a, p và một số thẻ khác trong đó mỗi thẻ có bắt đầu và kết thúc. Nó cũng có thể nhúng các ứng dụng được viết bằng ngôn ngữ script như JavaScript và Style Sheets (CSS) để trình bày bố cục tổng thể.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,13 +139,13 @@ HTML (Ngôn ngữ đánh dấu siêu văn bản) là phần mở rộng cho các
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-png/" name="VTX ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-svg/" name="VTX ĐẾN SVG" description="Đồ họa vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-tiff/" name="VTX ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX ĐẾN VDX" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX ĐẾN VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX ĐẾN VSDX" description="Định dạng Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX ĐẾN VSSM" description="Tệp Microsoft Visio Stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX ĐẾN VDX" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX ĐẾN VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX ĐẾN VSDX" description="Microsoft Visio Định dạng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX ĐẾN VSSM" description="Microsoft Visio Tệp stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX ĐẾN VSSX" description="Vẽ giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX ĐẾN VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX ĐẾN VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX ĐẾN VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX ĐẾN VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX ĐẾN VSX" description="Giấy nến" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xaml/" name="VTX ĐẾN XAML" description="Ngôn ngữ đánh dấu ứng dụng có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xps/" name="VTX ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}

@@ -2,7 +2,7 @@
 title: Convertir VSS en VSTX via Java 
 weight: 830
 url: /fr/java/conversion/vss-to-vstx/ 
-description: Exemple de code de conversion Java pour le format VSS en fichier VSTX. Utilisez cet exemple de code pour convertir VSS en VSTX dans n'importe quelle application Web ou de bureau Java.
+description: Exemple de code de conversion Java pour le format VSS vers le fichier VSTX. Utilisez cet exemple de code pour convertir VSS en VSTX dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir VSS en VSTX via Java" h2="Exportez Microsoft Visio VSS vers VSTX à l\'aide de la bibliothèque native Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSS" >}}
@@ -12,11 +12,11 @@ description: Exemple de code de conversion Java pour le format VSS en fichier VS
 
 {{% blocks/products/pf/agp/content h2="Comment convertir VSS en VSTX à l\'aide de Java" %}}
 
- Afin de rendre VSS en VSTX, nous utiliserons
+ Afin de rendre VSS à VSTX, nous utiliserons
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API qui est une plate-forme de conversion riche en fonctionnalités, puissante et facile à utiliser API for Java. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -56,7 +56,7 @@ description: Exemple de code de conversion Java pour le format VSS en fichier VS
 
 {{% blocks/products/pf/agp/text %}}
 
- Les développeurs Java peuvent facilement convertir un fichier VSS en VSTX en quelques lignes de code seulement.
+ Les développeurs Java peuvent facilement convertir le fichier VSS en VSTX en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -71,15 +71,15 @@ description: Exemple de code de conversion Java pour le format VSS en fichier VS
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.- Obtenez la dernière version de Aspose.Diagram for Java directement auprès de Maven.
+- Microsoft Windows ou un système d'exploitation compatible avec Java environnement d'exécution pour applications JSP/JSF et applications de bureau.- Obtenez la dernière version de Aspose.Diagram for Java directement auprès de Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Code source de conversion VSS vers VSTX Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSS vers VSTX Java code source de conversion" offSpacer="" %}}
 
 ```cs
 // charger le VSS dans un objet de Diagram 
 Diagram visio = new Diagram("template.vss");
-// enregistrer VSS en tant que VSTX 
+// enregistrer VSS sous VSTX 
 visio.save("output.vstx", SaveFileFormat.VSTX);   
 
 
@@ -94,7 +94,7 @@ visio.save("output.vstx", SaveFileFormat.VSTX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Démonstrations en direct de la conversion VSS vers VSTX" sectionDescription="[Convertir VSS en VSTX](https://products.aspose.app/diagram/conversion/vss-to-vstx) dès maintenant en visitant notre site Web Live Demos. La démonstration en direct présente les avantages suivants" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSS à VSTX démonstrations en direct de conversion" sectionDescription="[Convertir VSS en VSTX](https://products.aspose.app/diagram/conversion/vss-to-vstx) dès maintenant en visitant notre site Web Live Demos. La démonstration en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier VSS, il sera converti instantanément en VSTX." >}}
@@ -102,7 +102,7 @@ visio.save("output.vstx", SaveFileFormat.VSTX);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Bibliothèque de manipulations" %}}
 
- Aspose.Diagram est une manipulation de format de document Microsoft Visio API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
+ Aspose.Diagram est une Microsoft Visio manipulation de format de document API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vstx", SaveFileFormat.VSTX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS sont des fichiers stencil créés avec Microsoft Visio 2007 et versions antérieures. Un format de fichier relativement nouveau est .VSSX qui a été introduit avec Microsoft Visio 2013. Les fichiers Stencil fournissent des objets de dessin qui peuvent être inclus dans un dessin .VSD Visio. Microsoft Visio lui-même est connu pour créer des éléments de dessin tels que des collections de formes, des connecteurs, des organigrammes, la disposition du réseau, des diagrammes UML, des diagrammes de logiciels, des modèles de base de données, des mappages d'objets et d'autres informations similaires. Il possède également de riches fonctionnalités de conversion de documents Visio vers d'autres formats de fichiers tels que PNG, BMP, PDF et autres. Visio est disponible pour Windows et Mac OS.
+Les VSS sont des fichiers stencil créés avec Microsoft Visio 2007 et versions antérieures. Un format de fichier relativement nouveau est .VSSX qui a été introduit avec Microsoft Visio 2013. Les fichiers Stencil fournissent des objets de dessin qui peuvent être inclus dans un dessin .VSD Visio. Microsoft Visio lui-même est connu pour créer des éléments de dessin tels que des collections de formes, des connecteurs, des organigrammes, la disposition du réseau, des diagrammes UML, des diagrammes de logiciels, des modèles de base de données, des mappages d'objets et d'autres informations similaires. Il possède également de riches fonctionnalités de conversion de documents Visio vers d'autres formats de fichiers tels que PNG, BMP, PDF et autres. Visio est disponible pour Windows et Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/image/vstx/" >}}
 
-Les fichiers avec des extensions VSTX sont des fichiers de modèle de dessin créés avec Microsoft Visio 2013 et versions ultérieures. Ces fichiers VSTX fournissent un point de départ pour créer des dessins Visio, enregistrés en tant que fichiers .VSDX, avec la mise en page et les paramètres par défaut. En général, les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, un diagramme UML, un flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres. Les programmes qui ouvrent les fichiers VSTX incluent Microsoft Visio pour Windows et Mac qui vous permettent d'ouvrir ces fichiers pour les afficher et les modifier. Il permet également de convertir les formats de fichiers Visio en un certain nombre d'autres formats.
+Les fichiers avec les extensions VSTX sont des fichiers de modèle de dessin créés avec Microsoft Visio 2013 et versions ultérieures. Ces fichiers VSTX fournissent un point de départ pour créer des dessins Visio, enregistrés en tant que fichiers .VSDX, avec la mise en page et les paramètres par défaut. En général, les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, UML diagram, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres. Les programmes qui ouvrent les fichiers VSTX incluent Microsoft Visio pour Windows et Mac qui vous permettent d'ouvrir ces fichiers pour les afficher et les modifier. Il permet également de convertir les formats de fichiers Visio en un certain nombre d'autres formats.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,14 +140,14 @@ Les fichiers avec des extensions VSTX sont des fichiers de modèle de dessin cr�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="VSS EN PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS VERS SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS VERS TIFF" description="Format d\'image balisé" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS VERS VDX" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS VERS VSDM" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS À VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS À VSSM" description="Fichiers de pochoir Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS À VDX" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS À VSDM" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS À VSDX" description="Microsoft Visio Formater" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS À VSSM" description="Microsoft Visio fichiers de gabarit" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS À VSSX" description="Pochoirs de dessin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS VERS VSTM" description="Fichiers de modèles Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS VERS VSX" description="Pochoirs" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS VERS VTX" description="Modèle de dessin Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS À VSTM" description="Microsoft Visio fichiers modèles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS À VSX" description="Pochoirs" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS À VTX" description="Microsoft Visio Gabarit de dessin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS VERS XAML" description="Langage de balisage d\'application extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS À XPS" description="Spécifications papier XML" >}}
 

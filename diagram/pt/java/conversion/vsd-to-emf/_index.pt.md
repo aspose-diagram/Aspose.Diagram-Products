@@ -15,8 +15,8 @@ description: Exemplo de código de conversão Java para o formato VSD para arqui
  Para renderizar VSD para EMF, usaremos
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API que é uma plataforma de conversão API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
- [Especialista](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositório" offSpacer="true" %}}
 
@@ -71,7 +71,7 @@ description: Exemplo de código de conversão Java para o formato VSD para arqui
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.- Obtenha a versão mais recente do Aspose.Diagram for Java diretamente do Maven.
+- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.- Obtenha a versão mais recente de Aspose.Diagram for Java diretamente de Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSD para EMF Java Código-fonte de conversão" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteca de manipulação" %}}
 
- Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagrama e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
+ Aspose.Diagram é uma manipulação de formato de documento Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagramas e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
 
-Arquivos VSD são desenhos criados com o aplicativo Microsoft Visio para representar vários objetos gráficos e a interconexão entre eles. Tais desenhos podem conter objetos visuais, como objetos visuais, fluxogramas, diagrama UML, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. A Microsoft Visio oferece a capacidade de converter arquivos Visio em vários formatos de arquivo diferentes, incluindo PNG, BMP, PDF e outros.
+VSD arquivos são desenhos criados com o aplicativo Microsoft Visio para representar uma variedade de objetos gráficos e a interconexão entre eles. Esses desenhos podem conter objetos visuais, como objetos visuais, fluxogramas, UML diagram, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Microsoft Visio oferece a capacidade de converter Visio arquivos em vários formatos de arquivo diferentes, incluindo PNG, BMP, PDF e outros.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,14 +139,14 @@ formato de metarquivo aprimorado (EMF) armazena imagens gráficas independenteme
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSD PARA PNG" description="Gráficos Portáteis de Rede" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSD PARA SVG" description="Gráficos vetoriais escalonáveis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD PARA TIFF" description="Formato de imagem marcada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD PARA VSDM" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD PARA VSDX" description="Formato da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD PARA VSSM" description="Arquivos de estêncil do Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD PARA VSDM" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD PARA VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD PARA VSSM" description="Microsoft Visio Arquivos de estêncil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD PARA VSSX" description="Estênceis de desenho" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD PARA VSTM" description="Arquivos de modelo da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD PARA VSTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD PARA VSTM" description="Microsoft Visio Arquivos de modelo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD PARA VSTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD PARA VSX" description="Estênceis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD PARA VTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD PARA VTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSD PARA XAML" description="Linguagem de marcação de aplicativo extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xps/" name="VSD PARA XPS" description="Especificações do papel XML" >}}
 

@@ -16,7 +16,7 @@ description: Exemple de code de conversion Java pour le format VDX en fichier BM
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API qui est une plate-forme de conversion riche en fonctionnalités, puissante et facile à utiliser API for Java. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -56,7 +56,7 @@ description: Exemple de code de conversion Java pour le format VDX en fichier BM
 
 {{% blocks/products/pf/agp/text %}}
 
- Les développeurs Java peuvent facilement convertir un fichier VDX en BMP en quelques lignes de code seulement.
+ Les développeurs Java peuvent facilement convertir le fichier VDX en BMP en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -71,10 +71,10 @@ description: Exemple de code de conversion Java pour le format VDX en fichier BM
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.- Obtenez la dernière version de Aspose.Diagram for Java directement auprès de Maven.
+- Microsoft Windows ou un système d'exploitation compatible avec Java environnement d'exécution pour applications JSP/JSF et applications de bureau.- Obtenez la dernière version de Aspose.Diagram for Java directement auprès de Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Code source de conversion VDX vers BMP Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VDX à BMP Java Code source de conversion" offSpacer="" %}}
 
 ```cs
 // charger le VDX dans un objet de Diagram 
@@ -94,7 +94,7 @@ visio.save("output.bmp", SaveFileFormat.BMP);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Démonstrations en direct de la conversion VDX en BMP" sectionDescription="[Convertir VDX en BMP](https://products.aspose.app/diagram/conversion/vdx-to-bmp) dès maintenant en visitant notre site Web Live Demos. La démonstration en direct présente les avantages suivants" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VDX vers des démos en direct de conversion BMP" sectionDescription="[Convertir VDX en BMP](https://products.aspose.app/diagram/conversion/vdx-to-bmp) dès maintenant en visitant notre site Web Live Demos. La démonstration en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier VDX, il sera converti instantanément en BMP." >}}
@@ -102,7 +102,7 @@ visio.save("output.bmp", SaveFileFormat.BMP);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Bibliothèque de manipulations" %}}
 
- Aspose.Diagram est une manipulation de format de document Microsoft Visio API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
+ Aspose.Diagram est une Microsoft Visio manipulation de format de document API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.bmp", SaveFileFormat.BMP);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
 
-Tout dessin ou graphique créé dans Microsoft Visio, mais enregistré au format XML porte l'extension .VDX. Un fichier XML de dessin Visio est créé dans le logiciel Visio, développé par Microsoft. Microsoft Visio a la capacité de générer des documents visuels pouvant être utilisés dans des présentations et des documents. Le fichier XML de dessin Visio contient les objets visuels et les détails des métadonnées des éléments visuels. Du texte peut également être ajouté à ces éléments visuels Fichier XML de dessin Vision. Ces fichiers XML de dessin Visio sont intégrés aux normes de formatage basées sur XML et aux spécifications d'encodage des données d'image qui permettent à son contenu d'être rendu et stocké par le logiciel Microsoft Visio au format de fichier VDX.
+Tout dessin ou graphique créé dans Microsoft Visio, mais enregistré au format XML porte l'extension .VDX. Un fichier XML de dessin Visio est créé dans le logiciel Visio, développé par Microsoft. Microsoft Visio a la capacité de générer des documents visuels pouvant être utilisés dans des présentations et des documents. Le fichier XML de dessin Visio contient les objets visuels et les détails des métadonnées des éléments visuels. Du texte peut également être ajouté à ces éléments visuels Fichier XML de dessin Vision. Ces fichiers XML de dessin Visio sont intégrés aux normes de formatage basées sur XML et aux spécifications de codage des données d'image qui permettent à son contenu d'être rendu et stocké par le logiciel Microsoft Visio au format de fichier VDX.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}
 
-Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap utilisés pour stocker des images numériques bitmap. Ces images sont indépendantes de la carte graphique et sont également appelées format de fichier bitmap indépendant du périphérique (DIB). Cette indépendance sert à ouvrir le fichier sur plusieurs plates-formes telles que Microsoft Windows et Mac. Le format de fichier BMP peut stocker des données sous forme d'images numériques bidimensionnelles au format monochrome et couleur avec différentes profondeurs de couleur.
+Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap utilisés pour stocker des images numériques bitmap. Ces images sont indépendantes de la carte graphique et sont également appelées format de fichier bitmap indépendant du périphérique (DIB). Cette indépendance permet d'ouvrir le fichier sur plusieurs plates-formes telles que Microsoft Windows et Mac. Le format de fichier BMP peut stocker des données sous forme d'images numériques bidimensionnelles au format monochrome et couleur avec différentes profondeurs de couleur.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -132,21 +132,21 @@ Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap ut
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir VDX dans de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-emf/" name="VDX VERS EMF" description="Format de métafichier amélioré" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-html/" name="VDX EN HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-jpeg/" name="VDX EN JPEG" description="Images JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-pdf/" name="VDX EN PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-png/" name="VDX EN PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-emf/" name="VDX VERS CEM" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-html/" name="VDX VERS HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-jpeg/" name="VDX VERS JPEG" description="Images JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-pdf/" name="VDX AU PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-png/" name="VDX VERS PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-svg/" name="VDX VERS SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-tiff/" name="VDX VERS TIFF" description="Format d\'image balisé" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdm/" name="VDX VERS VSDM" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdx/" name="VDX À VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssm/" name="VDX VERS VSSM" description="Fichiers de pochoir Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssx/" name="VDX VERS VSSX" description="Pochoirs de dessin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstm/" name="VDX VERS VSTM" description="Fichiers de modèles Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstx/" name="VDX VERS VSTX" description="Modèle de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsx/" name="VDX VERS VSX" description="Pochoirs" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vtx/" name="VDX VERS VTX" description="Modèle de dessin Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdm/" name="VDX À VSDM" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdx/" name="VDX À VSDX" description="Microsoft Visio Formater" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssm/" name="VDX À VSSM" description="Microsoft Visio fichiers de gabarit" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssx/" name="VDX À VSSX" description="Pochoirs de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstm/" name="VDX À VSTM" description="Microsoft Visio fichiers modèles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstx/" name="VDX À VSTX" description="Microsoft Visio Gabarit de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsx/" name="VDX À VSX" description="Pochoirs" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vtx/" name="VDX À VTX" description="Microsoft Visio Gabarit de dessin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-xaml/" name="VDX VERS XAML" description="Langage de balisage d\'application extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-xps/" name="VDX VERS XPS" description="Spécifications papier XML" >}}
 

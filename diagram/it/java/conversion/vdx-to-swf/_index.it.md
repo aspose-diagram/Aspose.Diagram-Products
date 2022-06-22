@@ -1,7 +1,7 @@
 ﻿---
 title: Converti VDX in SWF tramite Java 
 url: /it/java/conversion/vdx-to-swf/ 
-description: Esempio di codice di conversione Java per il formato VDX in file SWF. Utilizzare questo codice di esempio per convertire VDX in SWF all'interno di qualsiasi applicazione basata su Web o desktop Java.
+description: Esempio di codice di conversione Java per il formato VDX in file SWF. Utilizza questo codice di esempio per convertire VDX in SWF all'interno di qualsiasi applicazione basata su Web o desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti VDX in SWF tramite Java" h2="Libreria Java nativa per leggere, scrivere ed esportare VDX in SWF senza bisogno di Adobe." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SWF" pfName="Aspose.DIAGRAM" subTitlepfName="" downloadUrl="" fileiconsmall1="SWF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDX" >}}
@@ -11,7 +11,7 @@ description: Esempio di codice di conversione Java per il formato VDX in file SW
 
 {{% blocks/products/pf/agp/content h2="Come convertire VDX in SWF utilizzando Java" %}}
 
-Per eseguire il rendering di VDX in SWF, utilizzeremo <a href="https://products.aspose.com/diagram/java">Aspose.Diagram for Java</a> API che è una piattaforma di conversione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la sua ultima versione direttamente da <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram">Esperto di</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+Per eseguire il rendering di VDX in SWF, utilizzeremo <a href="https://products.aspose.com/diagram/java">Aspose.Diagram for Java</a> API che è una piattaforma di conversione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la sua ultima versione direttamente da <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram">Maven</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -51,11 +51,11 @@ Per eseguire il rendering di VDX in SWF, utilizzeremo <a href="https://products.
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.DIAGRAM API consente agli sviluppatori di convertire facilmente i file VDX in SWF in poche righe di codice.
+ Aspose.DIAGRAM API consente agli sviluppatori di convertire facilmente il file VDX in SWF in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carica il file VDX con un'istanza della classe Diagram1. Chiama il metodo Diagram.save con il percorso del file di output e SaveFileFormat come parametri1. Il file SWF verrà salvato nel percorso specificato
+1. Carica il file VDX con un'istanza di classe Diagram1. Chiama il metodo Diagram.save con il percorso del file di output e SaveFileFormat come parametri1. Il file SWF verrà salvato nel percorso specificato
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -74,7 +74,7 @@ Per eseguire il rendering di VDX in SWF, utilizzeremo <a href="https://products.
 {{% blocks/products/pf/agp/code-block title="Codice sorgente di conversione da VDX a SWF Java" offSpacer="" %}}
 
 ```cs
-// carica il VDX in un oggetto di Diagram 
+// carica VDX in un oggetto di Diagram 
 Diagram visio = new Diagram("template.vdx");
 // salva VDX come SWF 
 visio.save("output.swf", SaveFileFormat.SWF);   
@@ -93,7 +93,7 @@ visio.save("output.swf", SaveFileFormat.SWF);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo dal vivo di conversione da VDX a SWF" sectionDescription="[Converti VDX in SWF](https://products.aspose.app/diagram/conversion/vdx-to-swf) in questo momento visitando il nostro sito Web di demo dal vivo. La demo dal vivo ha i seguenti vantaggi" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VDX in demo dal vivo di conversione SWF" sectionDescription="[Converti VDX in SWF](https://products.aspose.app/diagram/conversion/vdx-to-swf) in questo momento visitando il nostro sito Web di demo dal vivo. La demo dal vivo ha i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file VDX, verrà convertito istantaneamente in SWF." >}}
@@ -101,7 +101,7 @@ visio.save("output.swf", SaveFileFormat.SWF);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.    
+Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.    
 
 
 
@@ -110,7 +110,7 @@ Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft AP
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Qualsiasi disegno o grafico creato in Microsoft Visio, ma salvato in formato XML ha l'estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio, sviluppato da Microsoft. Microsoft Visio ha la capacità di generare documenti visivi che possono essere utilizzati in presentazioni e documenti. Il file XML di disegno Visio contiene gli oggetti visivi ei dettagli dei metadati degli elementi visivi. Il testo può anche essere aggiunto a questi elementi visivi File XML di disegno di visione. Questi file XML di disegno Visio sono integrati con standard di formattazione basati su XML e specifiche di codifica dei dati di immagine che consentono il rendering e l'archiviazione del contenuto da parte del software Microsoft Visio nel formato file VDX.
+Qualsiasi disegno o grafico creato in Microsoft Visio, ma salvato in formato XML ha l'estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio, sviluppato da Microsoft. Microsoft Visio ha la capacità di generare documenti visivi che possono essere utilizzati in presentazioni e documenti. Il file XML di disegno Visio contiene gli oggetti visivi ei dettagli dei metadati degli elementi visivi. Il testo può anche essere aggiunto a questi elementi visivi File XML di disegno di visione. Questi Visio file XML di disegno sono integrati con standard di formattazione basati su XML e specifiche di codifica dei dati di immagine che consentono il rendering e la memorizzazione del contenuto da parte del software Microsoft Visio nel formato di file VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,7 +127,7 @@ SWF è un formato di file utilizzato per trasportare testo, video, grafica vetto
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire VDX in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-bmp/" name="VDX A BMP" description="Immagine bitmap" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-emf/" name="VDX A EMF" description="Formato Metafile migliorato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-html/" name="VDX IN HTML" description="Hyper Text Markup Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-jpeg/" name="VDX IN JPEG" description="Immagine JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-pdf/" name="VDX IN PDF" description="Formato documento portatile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-png/" name="VDX IN PNG" description="Grafica di rete portatile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-svg/" name="VDX IN SVG" description="Grafica vettoriale scalabile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-tiff/" name="VDX IN TIFF" description="Formato immagine contrassegnato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdm/" name="VDX A VSDM" description="Formato di disegno Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdx/" name="VDX A VSDX" description="Formato Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssm/" name="VDX A VSSM" description="File stencil di Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssx/" name="VDX A VSSX" description="Stencil da disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstm/" name="VDX A VSTM" description="File modello Visio Microsoft" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstx/" name="VDX A VSTX" description="Modello di disegno di Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsx/" name="VDX A VSX" description="Stencil" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vtx/" name="VDX A VTX" description="Modello di disegno di Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-xaml/" name="VDX IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-xps/" name="VDX A XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-bmp/" name="VDX A BMP" description="Immagine bitmap" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-emf/" name="VDX A CEM" description="Formato Metafile migliorato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-html/" name="VDX IN HTML" description="Hyper Text Markup Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-jpeg/" name="VDX IN JPEG" description="Immagine JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-pdf/" name="VDX IN PDF" description="Formato documento portatile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-png/" name="VDX IN PNG" description="Grafica di rete portatile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-svg/" name="VDX IN SVG" description="Grafica vettoriale scalabile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-tiff/" name="VDX IN TIFF" description="Formato immagine contrassegnato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdm/" name="VDX A VSDM" description="Microsoft Visio Formato di disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdx/" name="VDX A VSDX" description="Microsoft Visio Formato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssm/" name="VDX A VSSM" description="Microsoft Visio File stencil" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssx/" name="VDX A VSSX" description="Stencil da disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstm/" name="VDX A VSTM" description="Microsoft Visio File modello" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstx/" name="VDX A VSTX" description="Microsoft Visio Modello di disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsx/" name="VDX A VSX" description="Stencil" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vtx/" name="VDX A VTX" description="Microsoft Visio Modello di disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-xaml/" name="VDX IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-xps/" name="VDX A XPS" description="Specifiche della carta XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

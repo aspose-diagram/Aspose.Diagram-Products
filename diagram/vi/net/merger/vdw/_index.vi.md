@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Tạo một tài liệu làm tệp cơ sở
 + Gọi phương thức liên quan để nối và hợp nhất từng tệp một.
 + Gọi phương thức Save () và truyền tên tệp (đường dẫn đầy đủ) và định dạng (VDW) làm tham số.
-Bây giờ bạn có thể mở và sử dụng tệp VDW trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
++ Giờ đây, bạn có thể mở và sử dụng tệp VDW trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vdw");
 
     {{% blocks/products/pf/agp/content h2="Giới thiệu về Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -103,7 +103,7 @@ Diagram dgF = new Diagram( "f.vdw");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được hợp nhất và nối ngay lập tức." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW là Visio định dạng tệp Dịch vụ đồ họa chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là một tập hợp các trang vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và thông tin cập nhật sơ đồ có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Tệp VDW cũng có thể được mở trong Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác. 
+VDW là Visio định dạng tệp Dịch vụ đồ họa chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là tập hợp các trang vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và diagram thông tin cập nhật có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Tệp VDW cũng có thể được mở bằng Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,18 +113,18 @@ VDW là Visio định dạng tệp Dịch vụ đồ họa chỉ định các lu
 
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng hợp nhất được hỗ trợ khác" subTitle="Sử dụng C#, Người ta cũng có thể hợp nhất nhiều định dạng tệp khác bao gồm." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Định dạng bản vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio Định dạng Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio Bản vẽ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Định dạng Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio Định dạng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vss/" name="VSS" description="Tệp Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Tệp Microsoft Visio Stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio Tệp stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssx/" name="VSSX" description="Vẽ giấy nến" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vst/" name="VST" description="Tệp hình ảnh vectơ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsx/" name="VSX" description="Giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

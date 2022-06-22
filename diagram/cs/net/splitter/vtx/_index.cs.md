@@ -1,5 +1,5 @@
 ﻿---
-title: Rozdělit soubory VTX prostřednictvím .NET 
+title: Rozdělit VTX souborů prostřednictvím .NET 
 weight: 1300
 url: /cs/net/splitter/vtx/ 
 description: Zdrojový kód C# k rozdělení souboru vtx na platformách .NET Framework, .NET Core, Mono.
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroky pro rozdělení souborů VTX v C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroky pro rozdělení VTX souborů v C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -45,7 +45,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Načtěte soubor VSX s úplnou cestou pro rozdělení.
++ Načtěte soubor VSX s úplnou cestou k rozdělení.
 Iterujte každou stránku
 + Vytvořte nový objekt třídy Diagram
 + Zkopírujte stránku přes [Metoda kopírování](https://apireference.aspose.com/diagram/net/aspose.diagram/page/methods/copy)
@@ -61,10 +61,10 @@ Iterujte každou stránku
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí, jako je Microsoft Visual Studio- Aspose.Diagram DLL for .NET, na kterou odkazuje váš projekt – Nainstalujte z webu NuGet pomocí tlačítka Stáhnout výše
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Rozdělit soubory VTX – C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Rozdělit VTX souborů – C#" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-SplitVisioPage-SplitVisioPage -VTX.cs" >}}
 
@@ -80,7 +80,7 @@ Iterujte každou stránku
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -88,14 +88,14 @@ Iterujte každou stránku
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online ukázky VTX Split Live" sectionDescription="Rozdělte dokumenty VTX právě teď na našem webu [Web živé ukázky](https://products.aspose.app/diagram/splitter). Živé demo má následující výhody" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online VTX dělená živá ukázka" sectionDescription="Rozdělte dokumenty (celkem VTX) právě teď, navštivte naše [Web živé ukázky](https://products.aspose.app/diagram/splitter). Živé demo má následující výhody" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubory VTX." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát své soubory VTX." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude komprimován a zřetězen." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/visio/vtx/" >}}
-Soubor s příponou .vtx je šablona výkresu Microsoft Visio, která je uložena na disk ve formátu souboru XML. Cílem šablony je poskytnout soubor se základním nastavením, který lze použít k vytvoření více souborů Visio se stejným nastavením. Dalším podobným formátem je VST, který je uložen v binárním formátu spíše než XML. Soubory VTX jsou podporovány ve verzích Visio 2010 a novějších. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozvržení sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další. 
+Soubor s příponou .vtx je šablona výkresu Microsoft Visio, která je uložena na disk ve formátu souboru XML. Cílem šablony je poskytnout soubor se základním nastavením, který lze použít k vytvoření více souborů Visio se stejným nastavením. Dalším podobným formátem je VST, který je uložen v binárním formátu spíše než XML. Soubory VTX jsou podporovány ve verzích Visio 2010 a novějších. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, UML diagram, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ Soubor s příponou .vtx je šablona výkresu Microsoft Visio, která je uložen
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované formáty rozdělení" subTitle="Pomocí C# lze snadno rozdělit různé formáty včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Nákresy Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Microsoft Visio Nákresy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vdx/" name="Vdx" description="Visio soubor XML výkresu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssx/" name="VSSX" description="Soubor vzorníku Visio" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vstx/" name="VSTX" description="Soubor šablony Visio" >}}

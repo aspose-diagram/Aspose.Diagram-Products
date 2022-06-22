@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Una Diagram Libreria di gestione appositamente progettata per funzionare con i file Microsoft Visio. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, caricare facilmente file esistenti e manipolare gli elementi del diagramma per esportare il risultato in altri formati.
+ Una Diagram Libreria di gestione appositamente progettata per funzionare con Microsoft Visio file. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, nonché caricare facilmente file esistenti e manipolare gli elementi di diagram per esportare il risultato in altri formati.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-file VSD sono disegni creati con l'applicazione Microsoft Visio per rappresentare una varietà di oggetti grafici e l'interconnessione tra questi. Tali disegni possono contenere oggetti visivi come oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. Microsoft Visio offre la possibilità di convertire file Visio in numerosi formati di file diversi, inclusi PNG, BMP, PDF e altri.
+file VSD sono disegni creati con l'applicazione Microsoft Visio per rappresentare una varietà di oggetti grafici e l'interconnessione tra questi. Tali disegni possono contenere oggetti visivi come oggetti visivi, diagrammi di flusso, UML diagram, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. Microsoft Visio offre la possibilità di convertire file Visio in numerosi formati di file diversi, inclusi PNG, BMP, PDF e altri.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ Portable Document Format (PDF) è un tipo di documento creato da Adobe negli ann
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-svg/" name="VSD IN SVG" description="Grafica vettoriale scalabile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-swf/" name="VSD IN SWF" description="Formato SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-tiff/" name="VSD IN TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD A VDX" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD A VSDM" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD A VSDX" description="Formato Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD A VSSM" description="File stencil di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD A VDX" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD A VSDM" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD A VSSM" description="Microsoft Visio File stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssx/" name="VSD A VSSX" description="Stencil da disegno" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD A VSTM" description="File modello Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD A VSTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD A VSTM" description="Microsoft Visio File modello" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD A VSTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD A VSX" description="Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD A VTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD A VTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xaml/" name="VSD IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xps/" name="VSD A XPS" description="Specifiche della carta XML" >}}
 

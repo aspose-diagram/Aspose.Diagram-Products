@@ -1,5 +1,5 @@
 ﻿---
-title: Edite arquivos VSX por meio de .NET 
+title: Edite VSX arquivos por meio de .NET 
 url: /pt/net/editor/vsx/ 
 description: C# código-fonte para editar o documento VSX nas plataformas .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.
 ---
@@ -11,7 +11,7 @@ description: C# código-fonte para editar o documento VSX nas plataformas .NET F
 
 {{% blocks/products/pf/agp/content h2="Como editar o arquivo VSX usando C#" %}}
 
-Para editar o arquivo VSX, usaremos <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API que é uma plataforma rica em recursos, poderosa e fácil de usar API para C# para qualquer editor. Abrir <a href="https://www.nuget.org/packages/aspose.diagram">NuGetName</a> gerenciador de pacotes, procure <b>Aspose.Diagram</b> e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para editar o arquivo VSX, usaremos <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API que é uma plataforma rica em recursos, poderosa e fácil de usar API para C# para qualquer editor. Aberto <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> gerenciador de pacotes, procure <b>Aspose.Diagram</b> e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -50,10 +50,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Windows Azure, Mono ou plataformas Xamarin- Ambiente de desenvolvimento como o Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale do NuGet usando o botão Download acima
+- Microsoft Windows ou um sistema operacional compatível com plataformas .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin- Ambiente de desenvolvimento como Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale de NuGet usando o botão Download acima
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Editar arquivos VSX - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Editar VSX arquivos - C#" offSpacer="" %}}
 
 ```cs
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagrama e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.    
+Aspose.Diagram é uma manipulação de formato de documento Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagramas e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.    
 
 
 
@@ -80,14 +80,14 @@ Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio A
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo do editor VSX online" sectionDescription="Edite documentos VSX agora mesmo visitando nosso [Site de demonstrações ao vivo](https://products.aspose.app/diagram/editor). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações on-line do editor VSX ao vivo" sectionDescription="Edite VSX documentos agora mesmo visitando nosso [Site de demonstrações ao vivo](https://products.aspose.app/diagram/editor). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta fazer o upload de seus arquivos VSX, use o editor online para editar instantaneamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos VSX, use o editor on-line para editar instantaneamente." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Em seguida, salve e baixe." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
-Arquivos com extensão .VSX referem-se a estênceis que consistem em desenhos e formas usados para criar diagramas no Microsoft Visio. Os arquivos VSX são salvos no formato de arquivo XML e tinham suporte até Visio 2013. Eles são diferentes do formato de arquivo principal VSDX que foi introduzido com o Microsoft Visio 2013. Os arquivos VSX podem ser abertos em qualquer editor de texto para visualizar o conteúdo. 
+Arquivos com extensão .VSX referem-se a estênceis que consistem em desenhos e formas usados para criar diagramas em Microsoft Visio. VSX arquivos são salvos no formato de arquivo XML e eram suportados até Visio 2013. Eles são diferentes do formato de arquivo principal VSDX que foi introduzido com Microsoft Visio 2013. VSX arquivos podem ser abertos em qualquer editor de texto para visualizar o conteúdo. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

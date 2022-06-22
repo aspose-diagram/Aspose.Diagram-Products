@@ -71,7 +71,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application and Desktop Applications.- Λάβετε την τελευταία έκδοση του Aspose.Diagram for Java απευθείας από τη Maven.
+- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application και Desktop Applications.- Λάβετε την πιο πρόσφατη έκδοση του Aspose.Diagram for Java απευθείας από το Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Πηγαίος κώδικας μετατροπής VST σε BMP Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.bmp", SaveFileFormat.BMP);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Βιβλιοθήκη χειρισμού" %}}
 
- Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου της Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
+ Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.bmp", SaveFileFormat.BMP);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-Τα αρχεία με επέκταση VST είναι διανυσματικά αρχεία εικόνας που δημιουργούνται με το Microsoft Visio και λειτουργούν ως πρότυπο για τη δημιουργία περαιτέρω αρχείων. Αυτά τα αρχεία προτύπων είναι σε δυαδική μορφή αρχείου και περιέχουν την προεπιλεγμένη διάταξη και ρυθμίσεις που χρησιμοποιούνται για τη δημιουργία νέων σχεδίων Visio. Όταν ανοίγει ένα αρχείο VST στο Microsoft Visio, περιέχει τις υπάρχουσες ρυθμίσεις για τη συνέχιση της εργασίας με το έγγραφο. Γενικά, τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, διάγραμμα UML, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
+Τα αρχεία με επέκταση VST είναι διανυσματικά αρχεία εικόνας που δημιουργούνται με το Microsoft Visio και λειτουργούν ως πρότυπο για τη δημιουργία περαιτέρω αρχείων. Αυτά τα αρχεία προτύπων είναι σε δυαδική μορφή αρχείου και περιέχουν την προεπιλεγμένη διάταξη και ρυθμίσεις που χρησιμοποιούνται για τη δημιουργία νέων σχεδίων Visio. Όταν ανοίγει ένα αρχείο VST στο Microsoft Visio, περιέχει τις υπάρχουσες ρυθμίσεις για να συνεχίσει να εργάζεται με το έγγραφο. Γενικά, τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, UML diagram, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων όπως PNG, BMP, PDF και άλλες.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}
 
-Τα αρχεία με επέκταση .BMP αντιπροσωπεύουν αρχεία εικόνας Bitmap που χρησιμοποιούνται για την αποθήκευση ψηφιακών εικόνων bitmap. Αυτές οι εικόνες είναι ανεξάρτητες από τον προσαρμογέα γραφικών και ονομάζονται επίσης μορφή αρχείου bitmap ανεξάρτητα από τη συσκευή (DIB). Αυτή η ανεξαρτησία εξυπηρετεί το σκοπό του ανοίγματος του αρχείου σε πολλές πλατφόρμες όπως τα Microsoft Windows και Mac. Η μορφή αρχείου BMP μπορεί να αποθηκεύσει δεδομένα ως δισδιάστατες ψηφιακές εικόνες τόσο σε μονόχρωμη όσο και σε έγχρωμη μορφή με διάφορα βάθη χρωμάτων.
+Τα αρχεία με επέκταση .BMP αντιπροσωπεύουν αρχεία εικόνας Bitmap που χρησιμοποιούνται για την αποθήκευση ψηφιακών εικόνων bitmap. Αυτές οι εικόνες είναι ανεξάρτητες από τον προσαρμογέα γραφικών και ονομάζονται επίσης μορφή αρχείου bitmap ανεξάρτητα από τη συσκευή (DIB). Αυτή η ανεξαρτησία εξυπηρετεί το σκοπό του ανοίγματος του αρχείου σε πολλές πλατφόρμες, όπως Microsoft Windows και Mac. Η μορφή αρχείου BMP μπορεί να αποθηκεύσει δεδομένα ως δισδιάστατες ψηφιακές εικόνες τόσο σε μονόχρωμη όσο και σε έγχρωμη μορφή με διάφορα βάθη χρωμάτων.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ visio.save("output.bmp", SaveFileFormat.BMP);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-png/" name="VST ΣΕ PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-svg/" name="VST TO SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="VST TO TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST ΣΕ VDX" description="Μορφή σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST ΣΕ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST ΠΡΟΣ VDX" description="Microsoft Visio Μορφή σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VST ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST TO VSSM" description="Αρχεία Stencil της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST ΣΕ VSSX" description="Στένσιλ σχεδίασης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST ΣΕ VSX" description="Στένσιλ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST ΣΕ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST ΠΡΟΣ VSSM" description="Microsoft Visio Αρχεία στένσιλ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST ΠΡΟΣ VSX" description="Στένσιλ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xaml/" name="VST TO XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xps/" name="VST ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 

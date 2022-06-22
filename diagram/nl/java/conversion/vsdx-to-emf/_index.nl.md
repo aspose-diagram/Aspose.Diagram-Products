@@ -71,7 +71,7 @@ description: Voorbeeld Java conversiecode voor VSDX formaat naar EMF-bestand. Ge
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
+- Microsoft Windows of een compatibel besturingssysteem met Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDX naar EMF Java Broncode voor conversie" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulatiebibliotheek" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-Bestanden met de extensie .VSDX vertegenwoordigen de Microsoft Visio-bestandsindeling die is geïntroduceerd vanaf Microsoft Office 2013. Het is ontwikkeld om het binaire bestandsformaat .VSD te vervangen, dat wordt ondersteund door eerdere versies van Microsoft Visio. Het wordt ook ondersteund op Visio Services in Microsoft SharePoint Server 2013 en vereist geen tussenliggende bestandsindeling voor publicatie naar SharePoint Server. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
+Bestanden met de extensie .VSDX vertegenwoordigen de bestandsindeling Microsoft Visio die is geïntroduceerd vanaf Microsoft Office 2013 en later. Het is ontwikkeld om het binaire bestandsformaat .VSD te vervangen, dat wordt ondersteund door eerdere versies van Microsoft Visio. Het wordt ook ondersteund op Visio Services in Microsoft SharePoint Server 2013 en vereist geen tussenliggende bestandsindeling voor publicatie naar SharePoint Server. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}
 
-Verbeterde metabestandsindeling (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, opdrachten voor tekenen en grafische eigenschappen die essentieel zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het platform van het openende apparaat.
+Verbeterde metabestandsindeling (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met een variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, opdrachten voor tekenen en grafische eigenschappen die essentieel zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het platform van het openende apparaat.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -141,9 +141,9 @@ Verbeterde metabestandsindeling (EMF) slaat grafische afbeeldingen apparaatonafh
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-tiff/" name="VSDX NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX NAAR VDX" description="Microsoft Visio Tekenindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsdm/" name="VSDX NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssx/" name="VSDX NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsx/" name="VSDX NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX NAAR VTX" description="Microsoft Visio Tekensjabloon" >}}

@@ -2,7 +2,7 @@
 title: Konversikan VTX ke JPEG melalui Java 
 weight: 3610
 url: /id/java/conversion/vtx-to-jpeg/ 
-description: Contoh Java kode konversi untuk format VTX ke file JPEG. Gunakan kode contoh ini untuk mengonversi VTX ke JPEG dalam aplikasi berbasis Web atau Desktop apa pun Java.
+description: Contoh Java kode konversi untuk format VTX ke file JPEG. Gunakan kode contoh ini untuk mengonversi VTX ke JPEG dalam aplikasi berbasis Web atau Desktop Java mana pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversikan VTX ke JPEG melalui Java" h2="Ekspor Microsoft Visio VTX ke JPEG menggunakan pustaka Java asli." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -14,7 +14,7 @@ description: Contoh Java kode konversi untuk format VTX ke file JPEG. Gunakan ko
 
  Untuk merender VTX ke JPEG, kami akan menggunakan
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
- API yang merupakan platform API for Java konversi yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform konversi API for Java yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -56,7 +56,7 @@ description: Contoh Java kode konversi untuk format VTX ke file JPEG. Gunakan ko
 
 {{% blocks/products/pf/agp/text %}}
 
- Java pengembang dapat dengan mudah mengonversi file VTX ke JPEG hanya dalam beberapa baris kode.
+ Java pengembang dapat dengan mudah mengonversi berkas VTX ke JPEG hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -94,7 +94,7 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Konversi VTX ke JPEG" sectionDescription="[Konversikan VTX ke JPEG](https://products.aspose.app/diagram/conversion/vtx-to-jpeg) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VTX ke Demo Langsung Konversi JPEG" sectionDescription="[Konversikan VTX ke JPEG](https://products.aspose.app/diagram/conversion/vtx-to-jpeg) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VTX Anda, itu akan langsung dikonversi ke JPEG." >}}
@@ -102,7 +102,7 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Pustaka Manipulasi" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
 
-File dengan ekstensi .vtx adalah template gambar Visio Microsoft yang disimpan ke disk dalam format file XML. Kerangka ditujukan untuk menyediakan berkas dengan setelan dasar yang dapat digunakan untuk membuat beberapa Visio berkas dengan setelan yang sama. Format serupa lainnya adalah VST yang disimpan dalam format biner daripada XML. File VTX didukung dengan Visio 2010 dan versi yang lebih baru. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
+Berkas dengan ekstensi .vtx adalah kerangka gambar Microsoft Visio yang disimpan ke disk dalam format berkas XML. Template ditujukan untuk menyediakan file dengan pengaturan dasar yang dapat digunakan untuk membuat beberapa file Visio dengan pengaturan yang sama. Format serupa lainnya adalah VST yang disimpan dalam format biner daripada XML. File VTX didukung dengan Visio 2010 dan versi yang lebih baru. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alur, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -142,9 +142,9 @@ JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX KE VDX" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX KE VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX KE VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX KE VSSX" description="Menggambar Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX KE VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xaml/" name="VTX KE XAML" description="Bahasa Markup Aplikasi yang Dapat Diperluas" >}}

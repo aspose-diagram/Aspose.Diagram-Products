@@ -15,7 +15,7 @@ description: Пример кода преобразования Java для фо
  Чтобы преобразовать VSSM в XAML, мы будем использовать
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API – это многофункциональная, мощная и простая в использовании платформа преобразования API for Java. Вы можете скачать его последнюю версию прямо с
- [Мавен](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
@@ -60,7 +60,7 @@ description: Пример кода преобразования Java для фо
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузите файл VSSM с экземпляром класса Diagram1. Вызовите метод Diagram.save с путем к выходному файлу и SaveFileFormat в качестве параметров.1. XAML-файл будет сохранен по указанному пути.
+1. Загрузить файл VSSM с экземпляром класса Diagram1. Вызовите метод Diagram.save с путем к выходному файлу и SaveFileFormat в качестве параметров.1. XAML-файл будет сохранен по указанному пути.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}
@@ -74,7 +74,7 @@ description: Пример кода преобразования Java для фо
 - Microsoft Windows или совместимая ОС с Java средой выполнения для приложений JSP/JSF и настольных приложений.- Получите последнюю версию Aspose.Diagram for Java непосредственно из Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Исходный код преобразования VSSM в XAML Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSSM в XAML Java Исходный код преобразования" offSpacer="" %}}
 
 ```cs
 // загрузить VSSM в объект Diagram 
@@ -94,7 +94,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Демонстрации преобразования VSSM в XAML в реальном времени" sectionDescription="[Преобразование VSSM в XAML](https://products.aspose.app/diagram/conversion/vssm-to-xaml) прямо сейчас, посетив наш веб-сайт Live Demos. Живая демонстрация имеет следующие преимущества" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Преобразование VSSM в XAML в режиме реального времени (демонстрации)" sectionDescription="[Преобразовать VSSM в XAML](https://products.aspose.app/diagram/conversion/vssm-to-xaml) прямо сейчас, посетив наш веб-сайт Live Demos. Живая демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файл VSSM, и он будет мгновенно преобразован в XAML." >}}
@@ -102,7 +102,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Библиотека манипуляций" %}}
 
- Aspose.Diagram – это манипулирование форматом документа Microsoft VisioAPI. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
+ Aspose.Diagram — это Microsoft Visioобработка формата документа API. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-Файлы с расширением .VSSM представляют собой файлы Microsoft Visio Stencil, которые обеспечивают поддержку макросов. Файл VSSM при открытии позволяет запускать макросы для достижения желаемого форматирования и размещения фигур на диаграмме. В общем, Microsoft Visio разрабатывает программное обеспечение для рисования, позволяющее создавать файлы, которые могут содержать и представлять определяемую пользователем информацию в различных формах. Наиболее распространенные из них включают, помимо прочего, диаграммы UML, блок-схемы, визуальные объекты, информационные потоки, организационные диаграммы, диаграммы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также могут быть преобразованы в файлы различных форматов, таких как PNG, BMP, PDF и другие.
+Файлы с расширением .VSSM представляют собой Microsoft Visio файлы трафаретов, которые поддерживают макросы. Файл VSSM при открытии позволяет запускать макросы для достижения желаемого форматирования и размещения фигур в diagram. В общем, Microsoft Visio — это программное обеспечение для рисования, которое позволяет создавать файлы, которые могут содержать и представлять определяемую пользователем информацию в различных формах. Наиболее распространенные из них включают, помимо прочего, диаграммы UML, блок-схемы, визуальные объекты, информационные потоки, организационные диаграммы, диаграммы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также могут быть преобразованы в файлы различных форматов, таких как PNG, BMP, PDF и другие.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
 
-XAML, Extensible Application Markup Language, файлы расширений описывают элементы пользовательского интерфейса для программных приложений, основанных на Windows Presentation Foundation (WPF). Хотя это язык, его не нужно программировать, поскольку он основан на стандартном формате XML, который прост в использовании и понимании. XAML (произносится как «zammel») был разработан Microsoft специально для создания пользовательских интерфейсов. Первоначально его аббревиатура расшифровывалась как Extensible Avalon Markup Language, где Avalon было кодовым названием WPF. Файлы XAML иногда также сохраняются с расширением XOML.
+XAML, Extensible Application Markup Language, файлы расширений описывают элементы пользовательского интерфейса для программных приложений, основанных на Windows Presentation Foundation (WPF). Хотя это язык, его не нужно программировать, поскольку он основан на стандартном формате XML, который прост в использовании и понимании. XAML (произносится как "zammel") был разработан Microsoft специально для создания пользовательских интерфейсов. Первоначально его аббревиатура расшифровывалась как Extensible Avalon Markup Language, где Avalon было кодовым названием WPF. Файлы XAML иногда также сохраняются с расширением XOML.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,24 +130,24 @@ XAML, Extensible Application Markup Language, файлы расширений о
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать VSSM во многие другие форматы файлов, в том числе некоторые из перечисленных ниже." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать VSSM во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-bmp/" name="ВССМ К БМП" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-emf/" name="ВССМ К ЭДС" description="Расширенный формат метафайла" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-html/" name="ВССМ В HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-jpeg/" name="ВССМ в JPEG" description="Изображение в формате JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-pdf/" name="ВССМ В PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-png/" name="ВССМ ТО PNG" description="Портативная сетевая графика" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-svg/" name="ВССМ В SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-bmp/" name="VSSM В BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-emf/" name="VSSM В ЭДС" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-html/" name="VSSM В HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-jpeg/" name="VSSM В JPEG" description="Изображение в формате JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-pdf/" name="VSSM В PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-png/" name="VSSM В PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-svg/" name="VSSM В SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-tiff/" name="VSSM В TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="ВССМ НА VDX" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="ВССМ НА ВСДМ" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="ВССМ ДО VSDX" description="Формат Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM В VSSX" description="Трафареты для рисования" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="ВССМ В VSTM" description="Файлы шаблонов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM В VSTX" description="Шаблон чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="ВССМ НА VSX" description="Трафареты" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM НА VTX" description="Шаблон чертежа Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM К VDX" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM К VSDM" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM К VSDX" description="Microsoft Visio Формат" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM К VSSX" description="Трафареты для рисования" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM К VSTM" description="Microsoft Visio Файлы шаблонов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM К VSTX" description="Microsoft Visio Шаблон чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="VSSM К VSX" description="Трафареты" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM К VTX" description="Microsoft Visio Шаблон чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xps/" name="VSSM В XPS" description="Спецификации XML-бумаги" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -2,7 +2,7 @@
 title: Javaを介してVSTXをTIFFに変換します 
 weight: 2670
 url: /ja/java/conversion/vstx-to-tiff/ 
-description: VSTX形式からTIFFファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でVSTXをTIFFに変換します。
+description: VSTX形式のサンプルJava変換コードからTIFFファイルへ。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でVSTXをTIFFに変換します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javaを介してVSTXをTIFFに変換します" h2="ネイティブJavaライブラリを使用してMicrosoftVisioVSTXをTIFFにエクスポートします。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSTX" >}}
@@ -60,7 +60,7 @@ description: VSTX形式からTIFFファイルへのサンプルJava変換コー�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Diagramクラスのインスタンスを含むVSTXファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとして使用してDiagram.saveメソッドを呼び出します1. TIFFファイルは指定されたパスに保存されます
+1. Diagramクラスのインスタンスを含むVSTXファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとしてDiagram.saveメソッドを呼び出します1. TIFFファイルは指定されたパスに保存されます
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}
@@ -71,7 +71,7 @@ description: VSTX形式からTIFFファイルへのサンプルJava変換コー�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを入手します。
+- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSTXからTIFFJavaへの変換ソースコード" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
     {{% blocks/products/pf/agp/content h2="JavaDiagram操作ライブラリ" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/image/vstx/" >}}
 
-VSTX拡張子の付いたファイルは、MicrosoftVisio2013以降で作成された描画テンプレートファイルです。これらのVSTXファイルは、デフォルトのレイアウトと設定で.VSDXファイルとして保存されたVisio図面を作成するための開始点を提供します。一般に、Visioファイルは、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織チャート、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 VSTXファイルを開くプログラムには、WindowsおよびMac用のMicrosoft Visioが含まれており、これらのファイルを開いて表示および編集できます。また、Visioファイル形式を他の多くの形式に変換することもできます。
+拡張子がVSTXのファイルは、MicrosoftVisio2013以降で作成された描画テンプレートファイルです。これらのVSTXファイルは、デフォルトのレイアウトと設定で。VSDXファイルとして保存されたVisio図面を作成するための開始点を提供します。一般に、Visioファイルは、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 VSTXファイルを開くプログラムには、WindowsおよびMac用のMicrosoft Visioがあり、これらのファイルを開いて表示および編集できます。また、Visioファイル形式を他の多くの形式に変換することもできます。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,25 +130,25 @@ TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイ�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="VSTXを、以下にリストされているいくつかを含む他の多くのファイル形式に変換することもできます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="VSTXを、以下にリストされているものを含む他の多くのファイル形式に変換することもできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-bmp/" name="VSTXからBMP" description="ビットマップ画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-emf/" name="VSTXからEMF" description="強化されたメタファイル形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-emf/" name="VSTXEMFへ" description="強化されたメタファイル形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-html/" name="VSTXからHTMLへ" description="ハイパーテキストマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-jpeg/" name="VSTXからJPEGへ" description="JPEG画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-jpeg/" name="VSTXからJPEG" description="JPEG画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-pdf/" name="VSTXからPDFへ" description="ポータブルドキュメントフォーマット" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-png/" name="VSTXからPNG" description="ポータブルネットワークグラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-svg/" name="VSTXからSVG" description="スケーラブルなベクターグラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vdx/" name="VSTXからVDX" description="MicrosoftVisioの描画形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsdm/" name="VSTXからVSDM" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-svg/" name="VSTXからSVGへ" description="スケーラブルなベクターグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vdx/" name="VSTXからVDX" description="MicrosoftVisio描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsdm/" name="VSTXからVSDM" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsdx/" name="VSTXからVSDX" description="MicrosoftVisio形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vssm/" name="VSTXからVSSM" description="MicrosoftVisioステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vssx/" name="VSTXからVSSX" description="ステンシルの描画" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vstm/" name="VSTXからVSTM" description="MicrosoftVisioテンプレートファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsx/" name="VSTXからVSX" description="ステンシル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vtx/" name="VSTXからVTX" description="MicrosoftVisio図面テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-xaml/" name="VSTXからXAML" description="拡張可能なアプリケーションマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-xps/" name="VSTXからXPS" description="XML用紙仕様" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-xaml/" name="VSTXからXAMLへ" description="拡張可能なアプリケーションマークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-xps/" name="VSTXからXPS" description="XML紙の仕様" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -2,7 +2,7 @@
 title: Преобразование VSX в VTX через Java 
 weight: 5250
 url: /ru/java/conversion/vsx-to-vtx/ 
-description: Пример кода преобразования Java для формата VSX в файл VTX. Используйте этот пример кода для преобразования VSX в VTX в любом веб-приложении или приложении для настольных ПК Java.
+description: Пример кода преобразования Java для формата VSX в файл VTX. Используйте этот пример кода для преобразования VSX в VTX в любом веб-приложении или настольном приложении Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование VSX в VTX через Java" h2="Экспортируйте Microsoft Visio VSX в VTX, используя собственную библиотеку Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSX" >}}
@@ -15,7 +15,7 @@ description: Пример кода преобразования Java для фо
  Чтобы преобразовать VSX в VTX, мы будем использовать
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API – это многофункциональная, мощная и простая в использовании платформа преобразования API for Java. Вы можете скачать его последнюю версию прямо с
- [Мавен](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
@@ -60,7 +60,7 @@ description: Пример кода преобразования Java для фо
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузить файл VSX с экземпляром класса Diagram1. Вызовите метод Diagram.save с путем к выходному файлу и SaveFileFormat в качестве параметров.1. Файл VTX будет сохранен по указанному пути
+1. Загрузить файл VSX с экземпляром класса Diagram1. Вызовите метод Diagram.save с путем к выходному файлу и SaveFileFormat в качестве параметров.1. VTX файл будет сохранен по указанному пути
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}
@@ -74,7 +74,7 @@ description: Пример кода преобразования Java для фо
 - Microsoft Windows или совместимая ОС с Java средой выполнения для приложений JSP/JSF и настольных приложений.- Получите последнюю версию Aspose.Diagram for Java непосредственно из Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Исходный код преобразования VSX в VTX Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSX в VTX Java Исходный код преобразования" offSpacer="" %}}
 
 ```cs
 // загрузить VSX в объект Diagram 
@@ -94,15 +94,15 @@ visio.save("output.vtx", SaveFileFormat.VTX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Преобразование VSX в VTX в реальном времени" sectionDescription="[Преобразование VSX в VTX](https://products.aspose.app/diagram/conversion/vsx-to-vtx) прямо сейчас, посетив наш веб-сайт Live Demos. Живая демонстрация имеет следующие преимущества" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Преобразование VSX в VTX демонстрации в реальном времени" sectionDescription="[Преобразовать VSX в VTX](https://products.aspose.app/diagram/conversion/vsx-to-vtx) прямо сейчас, посетив наш веб-сайт Live Demos. Живая демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файл VSX, и он будет мгновенно преобразован в формат VTX." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файл VSX, и он будет мгновенно преобразован в VTX." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Вы получите ссылку для скачивания." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Библиотека манипуляций" %}}
 
- Aspose.Diagram – это манипулирование форматом документа Microsoft VisioAPI. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
+ Aspose.Diagram — это Microsoft Visioобработка формата документа API. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vtx", SaveFileFormat.VTX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
 
-Файлы с расширением .VSX относятся к шаблонам, состоящим из рисунков и фигур, которые используются для создания диаграмм в Microsoft Visio. Файлы VSX сохраняются в формате XML и поддерживались до Visio 2013 г. Они отличаются от основного формата файлов VSDX, представленного в Microsoft Visio 2013 г. Файлы VSX можно открывать в любом текстовом редакторе для просмотра содержание.
+Файлы с расширением .VSX относятся к образцам, состоящим из рисунков и форм, которые используются для создания диаграмм в Microsoft Visio. Файлы VSX сохраняются в формате файлов XML и поддерживались до Visio 2013 г. Они отличаются от основного формата файлов VSDX, представленного в Microsoft Visio 2013 г. Файлы VSX можно открывать в любой текстовый редактор для просмотра содержимого.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
 
-Файл с расширением .vtx представляет собой шаблон чертежа Microsoft Visio, который сохраняется на диске в формате файла XML. Шаблон предназначен для предоставления файла с основными настройками, который можно использовать для создания нескольких Visio файлов с одинаковыми настройками. Другим подобным форматом является VST, который сохраняется в двоичном формате, а не в XML. Файлы VTX поддерживаются в Visio версии 2010 и более поздних. Файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, диаграмму UML, информационный поток, организационные диаграммы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие.
+Файл с расширением .vtx представляет собой шаблон чертежа Microsoft Visio, который сохраняется на диске в формате файла XML. Шаблон предназначен для предоставления файла с основными настройками, который можно использовать для создания нескольких Visio файлов с одинаковыми настройками. Другим подобным форматом является VST, который сохраняется в двоичном формате, а не в XML. Файлы VTX поддерживаются в версиях Visio 2010 и более поздних. Файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, UML diagram, информационные потоки, организационные диаграммы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -132,21 +132,21 @@ visio.save("output.vtx", SaveFileFormat.VTX);
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать VSX во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-bmp/" name="VSX В БМП" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-emf/" name="VSX К ЭДС" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-bmp/" name="VSX В BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-emf/" name="VSX В ЭДС" description="Расширенный формат метафайла" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-html/" name="VSX В HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-jpeg/" name="VSX в JPEG" description="Изображение в формате JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-pdf/" name="VSX в PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-png/" name="VSX в PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-jpeg/" name="VSX В JPEG" description="Изображение в формате JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-pdf/" name="VSX В PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-png/" name="VSX В PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-svg/" name="VSX В SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-tiff/" name="VSX В TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vdx/" name="VSX-VDX" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdm/" name="VSX-VSDM" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdx/" name="VSX-ТО VSDX" description="Формат Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssm/" name="VSX-VSSM" description="Файлы трафаретов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssx/" name="VSX В VSSX" description="Трафареты для рисования" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstm/" name="VSX-VSTM" description="Файлы шаблонов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstx/" name="VSX В VSTX" description="Шаблон чертежа Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vdx/" name="VSX К VDX" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdm/" name="VSX К VSDM" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdx/" name="VSX К VSDX" description="Microsoft Visio Формат" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssm/" name="VSX К VSSM" description="Microsoft Visio Файлы трафаретов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssx/" name="VSX К VSSX" description="Трафареты для рисования" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstm/" name="VSX К VSTM" description="Microsoft Visio Файлы шаблонов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstx/" name="VSX К VSTX" description="Microsoft Visio Шаблон чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-xaml/" name="VSX В XAML" description="Расширяемый язык разметки приложений" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-xps/" name="VSX В XPS" description="Спецификации XML-бумаги" >}}
 

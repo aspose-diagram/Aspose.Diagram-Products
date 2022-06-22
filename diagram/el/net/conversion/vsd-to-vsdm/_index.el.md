@@ -2,7 +2,7 @@
 title: Μετατροπή VSD σε VSDM μέσω C# 
 weight: 5030
 url: /el/net/conversion/vsd-to-vsdm/ 
-description: Δείγμα κώδικα για μετατροπή VSD σε VSDM C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων VSD σε VSDM εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
+description: Δείγμα κώδικα για μετατροπή VSD σε VSDM C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία VSD σε VSDM μετατροπή εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή VSD σε VSDM μέσω C#" h2="Εξαγωγή αρχείων Microsoft® Visio VSD σε VSDM σε .NET Framework, .NET Core, Mono ή COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSD" >}}
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή του VSD σε VSDM μέσω C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή VSD σε VSDM μέσω C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Φόρτωση αρχείου VSD με μια παρουσία της τάξης Diagram1. Καλέστε τη μέθοδο Diagram.Save με τη διαδρομή αρχείου εξόδου και το SaveFileFormat.VSDM ως παραμέτρους1. Το αρχείο VSDM θα αποθηκευτεί στην καθορισμένη διαδρομή
+1. Φόρτωση αρχείου VSD με μια παρουσία της τάξης Diagram1. Καλέστε τη μέθοδο Diagram.Save με διαδρομή αρχείου εξόδου και SaveFileFormat.VSDM ως παραμέτρους.1. Το αρχείο VSDM θα αποθηκευτεί στην καθορισμένη διαδρομή
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις συστήματος" %}}
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Δωρεάν εφαρμογή για μετατροπή VSD σε VSDM" sectionDescription="Ελέγξτε τις ζωντανές επιδείξεις μας για [Μετατροπή VSD σε VSDM](https://products.aspose.app/diagram/conversion/vsd-to-vsdm) με τα ακόλουθα οφέλη." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Δωρεάν εφαρμογή για μετατροπή VSD σε VSDM" sectionDescription="Ελέγξτε τις ζωντανές επιδείξεις μας για [μετατροπή VSD σε VSDM](https://products.aspose.app/diagram/conversion/vsd-to-vsdm) με τα ακόλουθα οφέλη." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς μεταφορτώστε το αρχείο σας VSD και πατήστε το κουμπί \"Μετατροπή\"." >}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Μια Βιβλιοθήκη διαχείρισης Diagram ειδικά σχεδιασμένη για να λειτουργεί με αρχεία Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν εγγενείς μορφές Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του διαγράμματος για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.
+ Μια Βιβλιοθήκη διαχείρισης Diagram ειδικά σχεδιασμένη για να λειτουργεί με αρχεία Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν εγγενείς μορφές Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του diagram για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Τα αρχεία VSD είναι σχέδια που δημιουργούνται με την εφαρμογή Microsoft Visio για την αναπαράσταση ποικιλίας γραφικών αντικειμένων και τη διασύνδεση μεταξύ τους. Τέτοια σχέδια μπορεί να περιέχουν οπτικά αντικείμενα όπως οπτικά αντικείμενα, διαγράμματα ροής, διάγραμμα UML, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Η Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
+Τα αρχεία VSD είναι σχέδια που δημιουργούνται με την εφαρμογή Microsoft Visio για την αναπαράσταση ποικιλίας γραφικών αντικειμένων και τη διασύνδεση μεταξύ τους. Τέτοια σχέδια μπορεί να περιέχουν οπτικά αντικείμενα, όπως οπτικά αντικείμενα, γραφήματα ροής, UML diagram, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Το Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vsdm" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
-Τα αρχεία με επέκταση VSDM είναι αρχεία σχεδίασης που έχουν δημιουργηθεί με την εφαρμογή Microsoft Visio που υποστηρίζει μακροεντολές. Τα αρχεία VSDM είναι σχέδια OPC/XML που είναι παρόμοια με το VSDX, αλλά παρέχουν επίσης τη δυνατότητα εκτέλεσης μακροεντολών όταν ανοίγει το αρχείο. Οι μακροεντολές είναι ενέργειες/βήματα που καθορίζονται από το χρήστη που αναπτύσσονται στη Visual Basic for Applications (VBA) και μπορούν να χρησιμοποιηθούν για την εκτέλεση επαναλαμβανόμενων εργασιών. Η μορφή αρχείου VSDM εισήχθη με την κυκλοφορία του Microsoft Visio 2013. Τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, διάγραμμα UML, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
+Τα αρχεία με επέκταση VSDM είναι αρχεία σχεδίασης που έχουν δημιουργηθεί με την εφαρμογή Microsoft Visio που υποστηρίζει μακροεντολές. Τα αρχεία VSDM είναι σχέδια OPC/XML που είναι παρόμοια με το VSDX, αλλά παρέχουν επίσης τη δυνατότητα εκτέλεσης μακροεντολών όταν ανοίγει το αρχείο. Οι μακροεντολές είναι ενέργειες/βήματα που ορίζονται από το χρήστη που αναπτύσσονται στη Visual Basic for Applications (VBA) και μπορούν να χρησιμοποιηθούν για την εκτέλεση επαναλαμβανόμενων εργασιών. Η μορφή αρχείου VSDM εισήχθη με την κυκλοφορία του Microsoft Visio 2013. Τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, UML diagram, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,14 +113,14 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-svg/" name="VSD ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-swf/" name="VSD ΠΡΟΣ SWF" description="Μορφή SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-tiff/" name="VSD ΣΕ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD ΣΕ VDX" description="Μορφή σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD ΠΡΟΣ VDX" description="Microsoft Visio Μορφή σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD ΠΡΟΣ VSSM" description="Αρχεία Stencil της Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD ΠΡΟΣ VSSM" description="Microsoft Visio Αρχεία στένσιλ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssx/" name="VSD ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD ΠΡΟΣ VSX" description="Στένσιλ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD ΠΡΟΣ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xaml/" name="VSD ΠΡΟΣ XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xps/" name="VSD ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 

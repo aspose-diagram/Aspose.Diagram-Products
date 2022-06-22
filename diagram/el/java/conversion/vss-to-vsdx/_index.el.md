@@ -71,7 +71,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application and Desktop Applications.- Λάβετε την τελευταία έκδοση του Aspose.Diagram for Java απευθείας από τη Maven.
+- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application και Desktop Applications.- Λάβετε την πιο πρόσφατη έκδοση του Aspose.Diagram for Java απευθείας από το Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Πηγαίος κώδικας μετατροπής VSS σε VSDX Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Βιβλιοθήκη χειρισμού" %}}
 
- Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου της Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
+ Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-Τα VSS είναι αρχεία στένσιλ που δημιουργήθηκαν με το Microsoft Visio 2007 και παλαιότερες εκδόσεις. Μια σχετικά νέα μορφή αρχείου είναι το .VSSX που παρουσιάστηκε με το Microsoft Visio 2013. Τα αρχεία στένσιλ παρέχουν αντικείμενα σχεδίασης που μπορούν να συμπεριληφθούν σε ένα σχέδιο .VSD Visio. Η ίδια η Microsoft Visio είναι γνωστή για τη δημιουργία στοιχείων σχεδίασης όπως συλλογή σχημάτων, συνδέσεις, διαγράμματα ροής, διάταξη δικτύου, διαγράμματα UML, διαγράμματα λογισμικού, μοντέλα βάσεων δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Διαθέτει επίσης πλούσιες δυνατότητες μετατροπής εγγράφων Visio σε άλλες μορφές αρχείων όπως PNG, BMP, PDF και άλλες. Το Visio είναι διαθέσιμο τόσο για Windows όσο και για Mac OS.
+Τα VSS είναι αρχεία στένσιλ που δημιουργήθηκαν με το Microsoft Visio 2007 και παλαιότερα. Μια σχετικά νέα μορφή αρχείου είναι το .VSSX που εισήχθη με το Microsoft Visio 2013. Τα αρχεία στένσιλ παρέχουν αντικείμενα σχεδίασης που μπορούν να συμπεριληφθούν σε ένα σχέδιο .VSD Visio. Το ίδιο το Microsoft Visio είναι γνωστό για τη δημιουργία στοιχείων σχεδίασης όπως συλλογή σχημάτων, συνδέσεις, διαγράμματα ροής, διάταξη δικτύου, διαγράμματα UML, διαγράμματα λογισμικού, μοντέλα βάσεων δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Διαθέτει επίσης πλούσιες δυνατότητες μετατροπής εγγράφων Visio σε άλλες μορφές αρχείων όπως PNG, BMP, PDF και άλλες. Το Visio είναι διαθέσιμο τόσο για Windows όσο και για Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-Τα αρχεία με επέκταση .VSDX αντιπροσωπεύουν τη μορφή αρχείου Microsoft Visio που εισήχθη από το Microsoft Office 2013 και μετά. Αναπτύχθηκε για να αντικαταστήσει τη μορφή δυαδικού αρχείου, .VSD, η οποία υποστηρίζεται από προηγούμενες εκδόσεις του Microsoft Visio. Υποστηρίζεται επίσης στις Υπηρεσίες Visio στον Microsoft SharePoint Server 2013 και δεν απαιτεί ενδιάμεση μορφή αρχείου για δημοσίευση στον SharePoint Server. Τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, διάγραμμα UML, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσης δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
+Τα αρχεία με επέκταση .VSDX αντιπροσωπεύουν τη μορφή αρχείου Microsoft Visio που εισήχθη από το Microsoft Office 2013 και μετά. Αναπτύχθηκε για να αντικαταστήσει τη μορφή δυαδικού αρχείου, .VSD, η οποία υποστηρίζεται από προηγούμενες εκδόσεις του Microsoft Visio. Υποστηρίζεται επίσης στις Υπηρεσίες Visio στον Microsoft SharePoint Server 2013 και δεν απαιτεί ενδιάμεση μορφή αρχείου για δημοσίευση στον SharePoint Server. Τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, UML diagram, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,14 +140,14 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="VSS ΣΕ PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS ΣΕ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS TO TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS ΣΕ VDX" description="Μορφή σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS ΣΕ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS TO VSSM" description="Αρχεία Stencil της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS ΣΕ VSSX" description="Στένσιλ σχεδίασης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS ΣΕ VSX" description="Στένσιλ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS ΣΕ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS ΠΡΟΣ VDX" description="Microsoft Visio Μορφή σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS ΠΡΟΣ VSSM" description="Microsoft Visio Αρχεία στένσιλ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS ΠΡΟΣ VSX" description="Στένσιλ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS TO XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 

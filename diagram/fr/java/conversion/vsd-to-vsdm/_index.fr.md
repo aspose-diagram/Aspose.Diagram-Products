@@ -2,7 +2,7 @@
 title: Convertir VSD en VSDM via Java 
 weight: 3940
 url: /fr/java/conversion/vsd-to-vsdm/ 
-description: Exemple de code de conversion Java pour le format VSD en fichier VSDM. Utilisez cet exemple de code pour convertir VSD en VSDM dans n'importe quelle application Web ou de bureau Java.
+description: Exemple de code de conversion Java pour le format VSD vers le fichier VSDM. Utilisez cet exemple de code pour convertir VSD en VSDM dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir VSD en VSDM via Java" h2="Exportez Microsoft Visio VSD vers VSDM à l\'aide de la bibliothèque native Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSD" >}}
@@ -16,7 +16,7 @@ description: Exemple de code de conversion Java pour le format VSD en fichier VS
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API qui est une plate-forme de conversion riche en fonctionnalités, puissante et facile à utiliser API for Java. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -71,15 +71,15 @@ description: Exemple de code de conversion Java pour le format VSD en fichier VS
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.- Obtenez la dernière version de Aspose.Diagram for Java directement auprès de Maven.
+- Microsoft Windows ou un système d'exploitation compatible avec Java environnement d'exécution pour applications JSP/JSF et applications de bureau.- Obtenez la dernière version de Aspose.Diagram for Java directement auprès de Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSD vers VSDM Java Code source de conversion" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSD à VSDM Java code source des conversions" offSpacer="" %}}
 
 ```cs
 // charger le VSD dans un objet de Diagram 
 Diagram visio = new Diagram("template.vsd");
-// enregistrer VSD en tant que VSDM 
+// enregistrer VSD sous VSDM 
 visio.save("output.vsdm", SaveFileFormat.VSDM);   
 
 
@@ -94,7 +94,7 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VSD aux démos en direct de conversion VSDM" sectionDescription="[Convertir VSD en VSDM](https://products.aspose.app/diagram/conversion/vsd-to-vsdm) dès maintenant en visitant notre site Web Live Demos. La démonstration en direct présente les avantages suivants" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSD à VSDM démos en direct de conversion" sectionDescription="[Convertir VSD en VSDM](https://products.aspose.app/diagram/conversion/vsd-to-vsdm) dès maintenant en visitant notre site Web Live Demos. La démonstration en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier VSD, il sera converti instantanément en VSDM." >}}
@@ -102,7 +102,7 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Bibliothèque de manipulations" %}}
 
- Aspose.Diagram est une manipulation de format de document Microsoft Visio API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
+ Aspose.Diagram est une Microsoft Visio manipulation de format de document API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
 
-Les fichiers VSD sont des dessins créés avec l'application Microsoft Visio pour représenter une variété d'objets graphiques et l'interconnexion entre ceux-ci. Ces dessins peuvent contenir des objets visuels tels que des objets visuels, des organigrammes, des diagrammes UML, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Microsoft Visio offre la possibilité de convertir des fichiers Visio dans un certain nombre de formats de fichiers différents, notamment PNG, BMP, PDF et autres.
+Les fichiers VSD sont des dessins créés avec l'application Microsoft Visio pour représenter une variété d'objets graphiques et l'interconnexion entre ceux-ci. Ces dessins peuvent contenir des objets visuels tels que des objets visuels, des organigrammes, UML diagram, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Microsoft Visio offre la possibilité de convertir des fichiers Visio dans un certain nombre de formats de fichiers différents, notamment PNG, BMP, PDF et autres.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
 
-Les fichiers avec l'extension VSDM sont des fichiers de dessin créés avec l'application Microsoft Visio qui prend en charge les macros. Les fichiers VSDM sont des dessins OPC/XML similaires à VSDX mais offrent également la possibilité d'exécuter des macros lorsque le fichier est ouvert. Les macros sont des actions/étapes définies par l'utilisateur qui sont développées dans Visual Basic pour Applications (VBA) et peuvent être utilisées pour effectuer des tâches répétitives. Le format de fichier VSDM a été introduit avec le lancement de Microsoft Visio 2013. Les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, un diagramme UML, un flux d'informations, des organigrammes, des diagrammes de logiciels, une disposition de réseau, des modèles de base de données, mappage d'objets et autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres.
+Les fichiers avec l'extension VSDM sont des fichiers de dessin créés avec l'application Microsoft Visio qui prend en charge les macros. Les fichiers VSDM sont des dessins OPC/XML similaires à VSDX mais offrent également la possibilité d'exécuter des macros lorsque le fichier est ouvert. Les macros sont des actions/étapes définies par l'utilisateur qui sont développées dans Visual Basic pour Applications (VBA) et peuvent être utilisées pour effectuer des tâches répétitives. Le format de fichier VSDM a été introduit avec le lancement de Microsoft Visio 2013. Les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, UML diagram, des flux d'informations, des organigrammes, des diagrammes de logiciels, disposition du réseau, modèles de base de données, mappage d'objets et autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,13 +140,13 @@ Les fichiers avec l'extension VSDM sont des fichiers de dessin créés avec l'ap
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSD VERS PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSD VERS SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD VERS TIFF" description="Format d\'image balisé" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD À VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD VERS VSSM" description="Fichiers de pochoir Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD VERS VSSX" description="Pochoirs de dessin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD VERS VSTM" description="Fichiers de modèles Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD VERS VSTX" description="Modèle de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD VERS VSX" description="Pochoirs" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD VERS VTX" description="Modèle de dessin Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD À VSDX" description="Microsoft Visio Formater" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD À VSSM" description="Microsoft Visio fichiers de gabarit" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD À VSSX" description="Pochoirs de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD À VSTM" description="Microsoft Visio fichiers modèles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD À VSTX" description="Microsoft Visio Gabarit de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD À VSX" description="Pochoirs" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD À VTX" description="Microsoft Visio Gabarit de dessin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSD VERS XAML" description="Langage de balisage d\'application extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xps/" name="VSD VERS XPS" description="Spécifications papier XML" >}}
 

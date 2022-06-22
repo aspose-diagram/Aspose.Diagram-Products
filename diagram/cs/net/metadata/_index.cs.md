@@ -4,7 +4,7 @@ url: /cs/net/metadata/
 description: Zobrazte, přidejte, upravte, odeberte nebo extrahujte metadata souborů Visio pomocí několika řádků kódu C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Spravujte metadata souboru Microsoft<sup>&reg;</sup> Visio prostřednictvím .NET" h2="Zobrazte, přidejte, aktualizujte, odeberte nebo extrahujte vestavěné a vlastní vlastnosti souboru Visio pomocí rozhraní API .NET na straně serveru." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Spravovat metadata souboru Microsoft<sup>&reg;</sup> Visio prostřednictvím .NET" h2="Zobrazte, přidejte, aktualizujte, odeberte nebo extrahujte vestavěné a vlastní vlastnosti souboru Visio pomocí rozhraní API .NET na straně serveru." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [.NET Visio API](/diagram/net/) podporuje správu systémem definovaných (vestavěných) vlastností, jako je název, jméno autora, statistiky dokumentu atd., jakož i uživatelem definovaných (vlastních) vlastností ve formě páru název-hodnota. Tady je [třída Diagram](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) k načtení souborů a [PageCollection](https://apireference.aspose.com/diagram/net/aspose.diagram/pagecollection) zabývá se také sběrem stránek [Třída stránky](https://apireference.aspose.com/diagram/net/aspose.diagram/page) pro reprezentaci jedné stránky. Spolu s těmito třídami, documentproperties, customprops tento proces zjednodušují pro správu metadat. 
 {{% /blocks/products/pf/feature-page-summary %}}

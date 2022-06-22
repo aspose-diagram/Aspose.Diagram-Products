@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ - ติดตั้งจาก NuGet โดยใช้ปุ่มดาวน์โหลดด้านบน
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ - ติดตั้งจาก NuGet โดยใช้ปุ่มดาวน์โหลดด้านบน
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="แยกไฟล์ VST - C#" offSpacer="" %}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram คือการจัดการรูปแบบเอกสารของ Microsoft Visio API หนึ่งสามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นการทำงานแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
+ Aspose.Diagram คือการจัดการรูปแบบเอกสาร Microsoft Visio API สามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกบีบอัดและต่อกันทันที" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-ไฟล์ที่มีนามสกุล VST คือไฟล์ภาพเวกเตอร์ที่สร้างด้วย Microsoft Visio และทำหน้าที่เป็นเทมเพลตสำหรับสร้างไฟล์เพิ่มเติม ไฟล์เทมเพลตเหล่านี้อยู่ในรูปแบบไฟล์ไบนารีและมีเลย์เอาต์และการตั้งค่าเริ่มต้นที่ใช้สำหรับการสร้างภาพวาด Visio ใหม่ เมื่อไฟล์ VST เปิดขึ้นใน Microsoft Visio จะมีการตั้งค่าที่มีอยู่เพื่อใช้งานเอกสารต่อไป โดยทั่วไป ไฟล์ Visio จะใช้เพื่อสร้างภาพวาดที่มีออบเจ็กต์ที่มองเห็นได้ แผนผังลำดับงาน ไดอะแกรม UML โฟลว์ข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ เลย์เอาต์เครือข่าย โมเดลฐานข้อมูล การแมปออบเจ็กต์ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ 
+ไฟล์ที่มีนามสกุล VST คือไฟล์ภาพเวกเตอร์ที่สร้างด้วย Microsoft Visio และทำหน้าที่เป็นเทมเพลตสำหรับสร้างไฟล์เพิ่มเติม ไฟล์เทมเพลตเหล่านี้อยู่ในรูปแบบไฟล์ไบนารีและมีเลย์เอาต์และการตั้งค่าเริ่มต้นที่ใช้สำหรับการสร้างภาพวาด Visio ใหม่ เมื่อเปิดไฟล์ VST ใน Microsoft Visio ไฟล์นั้นจะมีการตั้งค่าที่มีอยู่เพื่อใช้งานเอกสารต่อไป โดยทั่วไป ไฟล์ Visio จะใช้เพื่อสร้างภาพวาดที่มีออบเจ็กต์ที่มองเห็นได้ โฟลว์ชาร์ต ไดอะแกรม UML โฟลว์ข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ เลย์เอาต์เครือข่าย โมเดลฐานข้อมูล การแมปออบเจ็กต์ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

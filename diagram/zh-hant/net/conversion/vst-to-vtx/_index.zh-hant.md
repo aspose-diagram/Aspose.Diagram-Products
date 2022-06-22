@@ -2,7 +2,7 @@
 title: 通過 C# 將 VST 轉換為 VTX 
 weight: 1380
 url: /zh-hant/net/conversion/vst-to-vtx/ 
-description: VST 到 VTX C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 VST 文件批量轉換為 VTX。
+description: VST 到 VTX C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼批量 VST 文件到 VTX 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通過 C# 將 VST 轉換為 VTX" h2="將 Microsoft® Visio VST 文件導出到 .NET Framework、.NET Core、Mono 或 COM Interop 上的 VTX。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VST" >}}
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 使用 Diagram 類的實例加載 VST 文件1. 使用輸出文件路徑和 SaveFileFormat.VTX 作為參數調用 Diagram.Save 方法1. VTX文件將保存在指定路徑
+1. 使用 Diagram 類的實例加載 VST 文件1. 使用輸出文件路徑和 SaveFileFormat.VTX 作為參數調用 Diagram.Save 方法1. VTX 文件將保存在指定路徑
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系統要求" %}}
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="將 VST 轉換為 VTX 的免費應用程序" sectionDescription="查看我們的現場演示 [VST 到 VTX 轉換](https://products.aspose.app/diagram/conversion/vst-to-vtx) 具有以下好處。" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="將 VST 轉換為 VTX 的免費應用程序" sectionDescription="查看我們的現場演示 [VST 到 VTX 的轉換](https://products.aspose.app/diagram/conversion/vst-to-vtx) 具有以下好處。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載或設置任何東西。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 無需編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 VST 文件並點擊“轉換”按鈕。" >}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 專門設計用於處理 Microsoft Visio 文件的 Diagram 管理庫。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作圖表元素以將結果導出為其他格式。
+ 專門設計用於處理 Microsoft Visio 文件的 Diagram 管理庫。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作 diagram 的元素以其他格式導出結果。
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-帶有 VST 擴展名的文件是使用 Microsoft Visio 創建的矢量圖像文件，用作創建更多文件的模板。這些模板文件為二進製文件格式，包含用於創建新 Visio 圖紙的默認佈局和設置。在 Microsoft Visio 中打開 VST 文件時，它包含現有設置以繼續使用該文檔。通常，Visio 文件用於創建包含視覺對象、流程圖、UML 圖、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的圖形。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。
+具有 VST 擴展名的文件是使用 Microsoft Visio 創建的矢量圖像文件，並用作創建更多文件的模板。這些模板文件為二進製文件格式，包含用於創建新 Visio 圖紙的默認佈局和設置。在 Microsoft Visio 中打開 VST 文件時，它包含現有設置以繼續使用該文檔。通常，Visio 文件用於創建包含視覺對象、流程圖、UML diagram、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的圖形。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vtx" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-擴展名為 .vtx 的文件是 Microsoft Visio 繪圖模板，以 XML 文件格式保存到光盤。該模板旨在提供具有基本設置的文件，可用於創建具有相同設置的多個 Visio 文件。另一種類似的格式是 VST，它以二進制格式而不是 XML 格式保存。 Visio 2010 和更新版本支持 VTX 文件。 Visio 文件用於創建包含視覺對象、流程圖、UML 圖、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的圖形。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。
+擴展名為 .vtx 的文件是以 XML 文件格式保存到光盤的 Microsoft Visio 繪圖模板。該模板旨在提供具有基本設置的文件，可用於創建具有相同設置的多個 Visio 文件。另一種類似的格式是 VST，它以二進制格式而不是 XML 格式保存。 Visio 2010 和更新版本支持 VTX 文件。 Visio 文件用於創建包含視覺對象、流程圖、UML diagram、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的圖形。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,14 +113,14 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-svg/" name="VST 轉 SVG" description="可縮放矢量圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-swf/" name="VST 轉 SWF" description="SWF 格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST 到 TIFF" description="標記圖像格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST 轉 VDX" description="Microsoft Visio 繪圖格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST 到 VSDM" description="Microsoft Visio 繪圖格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="到 VSDX 的 VST" description="微軟Visio格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST 到 VSSM" description="Microsoft Visio 模具文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST 到 VSSX" description="繪圖模具" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST 到 VSTM" description="Microsoft Visio 模板文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST 到 VSTX" description="Microsoft Visio 繪圖模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST 到 VSX" description="模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="到 VDX 的 VST" description="Microsoft Visio 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="到 VSDM 的 VST" description="Microsoft Visio 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="到 VSDX 的 VST" description="Microsoft Visio 格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="到 VSSM 的 VST" description="Microsoft Visio 模板文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="到 VSSX 的 VST" description="繪圖模具" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="到 VSTM 的 VST" description="Microsoft Visio 模板文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="到 VSTX 的 VST" description="Microsoft Visio 繪圖模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="到 VSX 的 VST" description="模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xaml/" name="VST 到 XAML" description="可擴展的應用程序標記語言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xps/" name="VST 轉 XPS" description="XML 紙張規格" >}}
 

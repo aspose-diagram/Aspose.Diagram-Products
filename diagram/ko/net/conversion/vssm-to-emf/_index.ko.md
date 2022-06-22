@@ -2,7 +2,7 @@
 title: C#를 통해 VSSM을 EMF로 변환 
 weight: 4680
 url: /ko/net/conversion/vssm-to-emf/ 
-description: VSSM에서 EMF로의 C# 변환을 위한 샘플 코드입니다. VB.NET, Asp.NET 또는 모든 .NET 기반 애플리케이션 내에서 일괄 VSSM 파일을 EMF로 변환하는 API 예제 코드를 사용합니다.
+description: VSSM에서 EMF C#로의 변환을 위한 샘플 코드. VB.NET, Asp.NET 또는 모든 .NET 기반 애플리케이션 내에서 배치 VSSM 파일을 EMF로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#를 통해 VSSM을 EMF로 변환" h2="Microsoft® Visio VSSM 파일을 .NET Framework, .NET Core, Mono 또는 COM Interop에서 EMF로 내보냅니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSM" >}}
@@ -12,10 +12,10 @@ description: VSSM에서 EMF로의 C# 변환을 위한 샘플 코드입니다. VB
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 VSSM을 EMF로 변환하는 방법" %}}
 
- VSSM을 EMF로 변환하려면 다음을 사용합니다.
+ VSSM을 EMF로 변환하기 위해 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환API입니다. 열려 있는
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  Aspose.Diagram 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Microsoft Visio 파일과 함께 작동하도록 특별히 설계된 Diagram 관리 라이브러리. 이를 통해 개발자는 기본 Visio 형식을 생성, 조작 및 변환할 수 있습니다. 개발자는 다이어그램을 처음부터 생성할 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 다이어그램의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.
+ Microsoft Visio 파일과 함께 작동하도록 특별히 설계된 Diagram 관리 라이브러리. 이를 통해 개발자는 기본 Visio 형식을 생성, 조작 및 변환할 수 있습니다. 개발자는 다이어그램을 처음부터 만들 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 diagram의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
-확장자가 .VSSM인 파일은 매크로 지원을 제공하는 Microsoft Visio 스텐실 파일입니다. VSSM 파일을 열면 매크로를 실행하여 다이어그램에서 원하는 형식과 모양을 배치할 수 있습니다. 일반적으로 Microsoft Visio는 다양한 모양의 사용자 정의 정보를 포함하고 나타낼 수 있는 파일을 만들 수 있는 그리기 소프트웨어입니다. 이들 중 가장 일반적인 것은 UML 다이어그램, 순서도, 시각적 개체, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보를 포함하지만 이에 국한되지 않습니다. Visio를 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환할 수도 있습니다.
+확장자가 .VSSM인 파일은 매크로 지원을 제공하는 Microsoft Visio 스텐실 파일입니다. VSSM 파일을 열면 매크로를 실행하여 diagram에서 원하는 형식 및 모양 배치를 얻을 수 있습니다. 일반적으로 Microsoft Visio은(는) 다양한 모양의 사용자 정의 정보를 포함하고 나타낼 수 있는 파일을 만들 수 있는 그리기 소프트웨어입니다. 이들 중 가장 일반적인 것은 UML 다이어그램, 순서도, 시각적 개체, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보를 포함하지만 이에 국한되지 않습니다. Visio을 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환할 수도 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,25 +102,25 @@ EMF(Enhanced Metafile Format)는 그래픽 이미지를 장치에 독립적으�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="아래에 나열된 몇 가지를 포함하여 VSSM을 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
+{{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="VSSM을(는) 아래 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-bmp/" name="VSSM에서 BMP로" description="비트맵 이미지" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-html/" name="VSSM에서 HTML로" description="하이퍼 텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-html/" name="VSSM HTML로" description="하이퍼 텍스트 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-jpeg/" name="VSSM에서 JPEG로" description="JPEG 이미지" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-pdf/" name="VSSM을 PDF로" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-pdf/" name="VSSM PDF로" description="휴대용 문서 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-png/" name="VSSM에서 PNG로" description="휴대용 네트워크 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-svg/" name="VSSM에서 SVG로" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-svg/" name="VSSM SVG로" description="확장 가능한 벡터 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-swf/" name="VSSM에서 SWF로" description="SWF 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-tiff/" name="VSSM에서 TIFF로" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vdx/" name="VSSM에서 VDX로" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdm/" name="VSDM에서 VSDM으로" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdx/" name="VSSM에서 VSDX까지" description="Microsoft Visio 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vssx/" name="VSSM에서 VSSX로" description="드로잉 스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstm/" name="VSSM에서 VSTM으로" description="Microsoft Visio 템플릿 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstx/" name="VSSM에서 VSTX로" description="Microsoft Visio 도면 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsx/" name="VSSM에서 VSX로" description="스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vtx/" name="VSSM에서 VTX로" description="Microsoft Visio 도면 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xaml/" name="VSSM에서 XAML로" description="확장 가능한 애플리케이션 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-tiff/" name="VSSM TIFF로" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vdx/" name="VSSM ~ VDX" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdm/" name="VSSM ~ VSDM" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdx/" name="VSSM ~ VSDX" description="Microsoft Visio 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vssx/" name="VSSM ~ VSSX" description="드로잉 스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstm/" name="VSSM ~ VSTM" description="Microsoft Visio 템플릿 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstx/" name="VSSM ~ VSTX" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsx/" name="VSSM ~ VSX" description="스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vtx/" name="VSSM ~ VTX" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xaml/" name="VSSM XAML로" description="확장 가능한 애플리케이션 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xps/" name="VSSM에서 XPS로" description="XML 용지 사양" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

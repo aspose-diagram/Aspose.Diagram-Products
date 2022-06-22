@@ -14,7 +14,7 @@ description: Contoh Java kode konversi untuk format VSD ke file PNG. Gunakan kod
 
  Untuk merender VSD ke PNG, kami akan menggunakan
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
- API yang merupakan platform API for Java konversi yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform konversi API for Java yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -102,7 +102,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Pustaka Manipulasi" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
 
-File VSD adalah gambar yang dibuat dengan aplikasi Microsoft Visio untuk mewakili berbagai objek grafis dan interkoneksi di antaranya. Gambar tersebut dapat berisi objek visual seperti objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. Microsoft Visio menawarkan kemampuan untuk mengonversi Visio file ke sejumlah format file yang berbeda termasuk PNG, BMP, PDF, dan lainnya.
+File VSD adalah gambar yang dibuat dengan aplikasi Microsoft Visio untuk mewakili berbagai objek grafis dan interkoneksi di antaranya. Gambar tersebut dapat berisi objek visual seperti objek visual, diagram alir, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. Microsoft Visio menawarkan kemampuan untuk mengonversi Visio file ke sejumlah format file yang berbeda termasuk PNG, BMP, PDF, dan lainnya.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yang menggunakan kompresi tanpa kehilangan. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun, format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar tanpa kehilangan yang membuatnya populer di kalangan penggunanya. Dengan berlalunya waktu, PNG telah berkembang sebagai salah satu format file gambar yang paling banyak digunakan. Hampir semua Sistem Operasi memiliki dukungan untuk membuka file PNG. Misalnya, penampil Microsoft Windows memiliki kemampuan untuk membuka file PNG karena OS secara default memiliki dukungan yang tersedia sebagai bagian dari instalasi.
+PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yang menggunakan kompresi tanpa kehilangan. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun, format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar tanpa kehilangan yang membuatnya populer di kalangan penggunanya. Dengan berlalunya waktu, PNG telah berkembang sebagai salah satu format file gambar yang paling banyak digunakan. Hampir semua Sistem Operasi memiliki dukungan untuk membuka file PNG. Misalnya, Microsoft Windows viewer memiliki kemampuan untuk membuka file PNG karena OS secara default memiliki dukungan yang tersedia sebagai bagian dari penginstalan.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -141,9 +141,9 @@ PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yan
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD KE TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD KE VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD KE VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD KE VSSX" description="Menggambar Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD KE VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD KE VTX" description="Microsoft Visio Template Menggambar" >}}

@@ -14,7 +14,7 @@ description: Przykładowy kod konwersji VSDX na XPS C#. Użyj API przykładowego
 
  Aby przekonwertować VSDX na XPS, użyjemy
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do manipulacji i konwersji dokumentów API na platformę C#. otwarty
+ API to bogata w funkcje, wydajna i łatwa w użyciu platforma do manipulacji i konwersji dokumentów API na C#. otwarty
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  menedżer pakietów, szukaj
  Aspose.Diagram 
@@ -73,12 +73,12 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/demobox sectionTitle="Darmowa aplikacja do konwersji VSDX na XPS" sectionDescription="Sprawdź nasze prezentacje na żywo dla [Konwersja VSDX do XPS](https://products.aspose.app/diagram/conversion/vsdx-to-xps) z następującymi korzyściami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz niczego pobierać ani konfigurować." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie musisz pisać żadnego kodu." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij plik VSDX i naciśnij przycisk „Konwertuj”." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VSDX i naciśnij przycisk „Konwertuj”." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Natychmiast otrzymasz link do pobrania wynikowego pliku XPS." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Biblioteka zarządzania Diagram zaprojektowana specjalnie do pracy z plikami firmy Microsoft Visio. Pozwala programistom tworzyć, manipulować i konwertować natywne formaty Visio. Deweloperzy mogą tworzyć diagramy od podstaw, a także łatwo ładować istniejące pliki i manipulować elementami diagramu, aby wyeksportować wynik w innych formatach.
+ Biblioteka zarządzania Diagram zaprojektowana specjalnie do pracy z plikami Microsoft Visio. Pozwala programistom tworzyć, manipulować i konwertować natywne formaty Visio. Deweloperzy mogą tworzyć diagramy od podstaw, a także łatwo ładować istniejące pliki i manipulować elementami diagram, aby wyeksportować wynik w innych formatach.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-Pliki z rozszerzeniem .VSDX reprezentują format plików Microsoft Visio wprowadzony od Microsoft Office 2013 i nowszych. Został opracowany w celu zastąpienia formatu pliku binarnego .VSD, który jest obsługiwany przez wcześniejsze wersje firmy Microsoft Visio. Jest również obsługiwana w Visio Usługach w Microsoft SharePoint Server 2013 i nie wymaga pośredniego formatu pliku do publikowania na SharePoint Server. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
+Pliki z rozszerzeniem .VSDX reprezentują format pliku Microsoft Visio wprowadzony od Microsoft Office 2013 r. Został opracowany w celu zastąpienia formatu pliku binarnego .VSD, który jest obsługiwany przez wcześniejsze wersje Microsoft Visio. Jest również obsługiwany w usługach Visio w Microsoft SharePoint Server 2013 i nie wymaga pośredniego formatu pliku do publikowania na serwerze SharePoint. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xps" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
-Plik XPS reprezentuje pliki układu strony oparte na specyfikacjach papieru XML utworzonych przez firmę Microsoft. Ten format został opracowany przez firmę Microsoft jako zamiennik formatu pliku EMF i jest podobny do formatu pliku PDF, ale wykorzystuje XML w układzie, wyglądzie i drukowaniu dokumentu. W rzeczywistości bardziej uzasadnione jest stwierdzenie, że XPS jest próbą wykorzystania PDF, ale z wielu powodów nie mógł uzyskać wystarczającej popularności jako własność PDF. Firma Microsoft domyślnie udostępnia narzędzie XPS Document Writer od systemu Windows 7 do tworzenia plików XPS. Pliki XPS można generować, wybierając „Microsoft XPS Document Writer” jako drukarkę podczas drukowania dokumentu.
+Plik XPS reprezentuje pliki układu strony oparte na specyfikacjach papieru XML utworzonych przez Microsoft. Ten format został opracowany przez Microsoft jako zamiennik formatu pliku EMF i jest podobny do formatu pliku PDF, ale wykorzystuje XML w układzie, wyglądzie i drukowaniu dokumentu. W rzeczywistości bardziej uzasadnione jest stwierdzenie, że XPS jest próbą wykorzystania PDF, ale z wielu powodów nie mógł uzyskać wystarczającej popularności jako własność PDF. Microsoft domyślnie udostępnia narzędzie XPS Document Writer od systemu Windows 7 do tworzenia plików XPS. Pliki XPS można generować, wybierając „Microsoft XPS Document Writer” jako drukarkę podczas drukowania dokumentu.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,12 +115,12 @@ Plik XPS reprezentuje pliki układu strony oparte na specyfikacjach papieru XML 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-tiff/" name="VSDX DO TIFF" description="Oznaczony format obrazu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vdx/" name="VSDX DO VDX" description="Microsoft Visio Format rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsdm/" name="VSDX DO VSDM" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX DO VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX DO VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssx/" name="VSDX DO VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstm/" name="VSDX DO VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstx/" name="VSDX DO VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstx/" name="VSDX DO VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsx/" name="VSDX DO VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vtx/" name="VSDX DO VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vtx/" name="VSDX DO VTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-xaml/" name="VSDX DO XAML" description="Rozszerzalny język znaczników aplikacji" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

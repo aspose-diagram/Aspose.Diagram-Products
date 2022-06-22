@@ -15,7 +15,7 @@ description: VST 형식을 PNG 파일로 변환하는 샘플 Java 변환 코드.
  VST를 PNG로 렌더링하려면 다음을 사용합니다.
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API는 기능이 풍부하고 강력하며 사용하기 쉬운 전환 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
- [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
@@ -71,7 +71,7 @@ description: VST 형식을 PNG 파일로 변환하는 샘플 Java 변환 코드.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 Java 런타임 환경과 호환되는 OS.- Maven에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오.
+- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경과 호환되는 OS.- Maven에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VST에서 PNG로 Java 변환 소스 코드" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram 조작 라이브러리" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio를 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다.
+VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML diagram, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio을 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-PNG(Portable Network Graphics)는 무손실 압축을 사용하는 래스터 이미지 파일 형식 유형을 나타냅니다. 이 파일 형식은 GIF(Graphics Interchange Format)를 대체하기 위해 만들어졌으며 저작권 제한이 없습니다. 그러나 PNG 파일 형식은 애니메이션을 지원하지 않습니다. PNG 파일 형식은 무손실 이미지 압축을 지원하여 사용자들에게 인기가 있습니다. 시간이 지남에 따라 PNG는 가장 많이 사용되는 이미지 파일 형식 중 하나로 발전했습니다. 거의 모든 운영 체제는 PNG 파일 열기를 지원합니다. 예를 들어, Microsoft Windows 뷰어에는 OS가 기본적으로 설치의 일부로 지원을 제공하므로 PNG 파일을 열 수 있는 기능이 있습니다.
+PNG(Portable Network Graphics)는 무손실 압축을 사용하는 래스터 이미지 파일 형식 유형을 나타냅니다. 이 파일 형식은 GIF(Graphics Interchange Format)를 대체하기 위해 만들어졌으며 저작권 제한이 없습니다. 그러나 PNG 파일 형식은 애니메이션을 지원하지 않습니다. PNG 파일 형식은 무손실 이미지 압축을 지원하여 사용자들에게 인기가 있습니다. 시간이 지남에 따라 PNG는 가장 많이 사용되는 이미지 파일 형식 중 하나로 발전했습니다. 거의 모든 운영 체제는 PNG 파일 열기를 지원합니다. 예를 들어, Microsoft Windows 뷰어는 OS가 기본적으로 설치의 일부로 지원을 제공하므로 PNG 파일을 열 수 있습니다.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ PNG(Portable Network Graphics)는 무손실 압축을 사용하는 래스터 이
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-pdf/" name="VST를 PDF로" description="휴대용 문서 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-svg/" name="VST에서 SVG로" description="확장 가능한 벡터 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="VST에서 TIFF로" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST에서 VDX로" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST에서 VSDM으로" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST ~ VDX" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST ~ VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VST ~ VSDX" description="Microsoft Visio 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST에서 VSSM으로" description="Microsoft Visio 스텐실 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST에서 VSSX로" description="드로잉 스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VSTM에서 VSTM으로" description="Microsoft Visio 템플릿 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST에서 VSTX로" description="Microsoft Visio 도면 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST에서 VSX로" description="스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST에서 VTX로" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST ~ VSSM" description="Microsoft Visio 스텐실 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST ~ VSSX" description="드로잉 스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST ~ VSTM" description="Microsoft Visio 템플릿 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST ~ VSTX" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST ~ VSX" description="스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST ~ VTX" description="Microsoft Visio 도면 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xaml/" name="VST에서 XAML로" description="확장 가능한 애플리케이션 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xps/" name="VST에서 XPS로" description="XML 용지 사양" >}}
 

@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje
+ Vytvoření organizačního schématu s
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
@@ -51,7 +51,7 @@ PM> Install-Package Aspose.Diagram
 + Přidejte na stránku konektory pro připojení tvaru a jeho rodiče.
 + Automatické rozvržení vyvoláním metody rozvržení
 + Zavolejte metodu Save() a předejte název souboru (úplnou cestu) a formát (VSDX) jako parametr.
-+ Nyní můžete otevřít a používat soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
++ Nyní můžete otevřít a použít soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí, jako je Microsoft Visual Studio- Aspose.Diagram DLL for .NET, na kterou odkazuje váš projekt – Nainstalujte z webu NuGet pomocí tlačítka Stáhnout výše
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Vytvořit organizační schéma v souborech VST – C#" offSpacer="" %}}
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě vytvoří organizační schéma ve stylu CompactTree v dokumentech VST." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-Soubory s příponou VST jsou soubory vektorových obrázků vytvořené pomocí Microsoft Visio a fungují jako šablona pro vytváření dalších souborů. Tyto soubory šablon jsou v binárním formátu souboru a obsahují výchozí rozvržení a nastavení, která se používají pro vytváření nových kreseb Visio. Když je soubor VST otevřen v Microsoft Visio, obsahuje stávající nastavení pro pokračování v práci s dokumentem. Obecně se soubory Visio používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další. 
+Soubory s příponou VST jsou soubory vektorových obrázků vytvořené pomocí Microsoft Visio a fungují jako šablona pro vytváření dalších souborů. Tyto soubory šablon jsou v binárním formátu souboru a obsahují výchozí rozvržení a nastavení, která se používají pro vytváření nových kreseb Visio. Když je soubor VST otevřen v Microsoft Visio, obsahuje stávající nastavení pro pokračování v práci s dokumentem. Obecně se soubory Visio používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, UML diagram, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -107,7 +107,7 @@ Soubory s příponou VST jsou soubory vektorových obrázků vytvořené pomocí
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované formáty organizačních diagramů" subTitle="Pomocí C# lze snadno vytvořit organizační schéma ve stylu CompactTree v různých formátech, včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsd/" name="Vsd" description="Nákresy Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsd/" name="Vsd" description="Microsoft Visio Nákresy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vdx/" name="Vdx" description="Visio soubor XML výkresu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vstx/" name="VSTX" description="Soubor šablony Visio" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsdm/" name="VSDM" description="Soubor výkresu s podporou maker Visio" >}}

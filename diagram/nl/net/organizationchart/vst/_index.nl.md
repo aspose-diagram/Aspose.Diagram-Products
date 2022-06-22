@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met
+ Organigram maken met
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API's kunnen worden gemaakt met slechts enkele regels code.
 
@@ -51,7 +51,7 @@ PM> Install-Package Aspose.Diagram
 + Voeg verbindingslijnen toe aan de pagina om de vorm en het bovenliggende element te verbinden.
 + Automatische lay-out door Layout-mothod aan te roepen
 + Roep de methode Save() aan en geef de bestandsnaam (volledig pad) en formaat (VSDX) door als parameter.
-+ Nu kunt u het VSDX-bestand openen en gebruiken in Microsoft Office, Adobe PDF of een ander compatibel programma.
++ Nu kunt u het bestand VSDX openen en gebruiken in Microsoft Office, Adobe PDF of een ander compatibel programma.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Over Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het zal direct een CompactTree-stijl organigram in VST-documenten creëren." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-Bestanden met de extensie VST zijn vectorafbeeldingsbestanden die zijn gemaakt met Microsoft Visio en fungeren als sjabloon voor het maken van verdere bestanden. Deze sjabloonbestanden hebben een binaire bestandsindeling en bevatten de standaardlay-out en instellingen die worden gebruikt voor het maken van nieuwe Visio-tekeningen. Wanneer een VST-bestand wordt geopend in Microsoft Visio, bevat het de bestaande instellingen om verder te werken met het document. Over het algemeen worden Visio-bestanden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere. 
+Bestanden met de extensie VST zijn vectorafbeeldingsbestanden die zijn gemaakt met Microsoft Visio en fungeren als sjabloon voor het maken van verdere bestanden. Deze sjabloonbestanden zijn in binaire bestandsindeling en bevatten de standaardlay-out en instellingen die worden gebruikt voor het maken van nieuwe Visio tekeningen. Wanneer een VST-bestand wordt geopend in Microsoft Visio, bevat het de bestaande instellingen om verder te werken met het document. Over het algemeen worden Visio-bestanden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

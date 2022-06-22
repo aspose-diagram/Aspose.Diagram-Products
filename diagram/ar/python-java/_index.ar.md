@@ -2,10 +2,10 @@
 title: Visio المستندات Python API - Aspose 
 weight: 4630
 url: /ar/python-java/ 
-description: Aspose.Diagram لـ Python عبر Java هو Visio javascript API لقراءة وكتابة وتحويل مستندات Microsoft Visio مثل VSDX و VDX والمزيد من التنسيقات
+description: Aspose.Diagram لـ Python عبر Java عبارة عن visio جافا سكريبت API لقراءة وكتابة وتحويل Microsoft Visio مستندات مثل VSDX و VDX والمزيد من التنسيقات
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Visio الملفات API" h2="يمكنك إنشاء تنسيقات Microsoft Visio وقراءتها وكتابتها وتصديرها بما في ذلك تنسيقات VSDX و VDX و VSX و VTX والمزيد باستخدام Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Visio الملفات API" h2="يمكنك إنشاء وقراءة وكتابة وتصدير Microsoft Visio تنسيقات تشمل VSDX و VDX و VSX و VTX والمزيد باستخدام Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Python via Java" >}}
 
@@ -13,7 +13,7 @@ description: Aspose.Diagram لـ Python عبر Java هو Visio javascript API ل
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram لـ Python عبر Java هو أحد حلول معالجة مستندات Microsoft Visio. يمكن للمرء قراءة وكتابة وحماية وتصدير وطباعة التنسيقات الأصلية Visio بالإضافة إلى دعم بعض تنسيقات الصور والتخطيط الثابت شائعة الاستخدام. من السهل تحميل الملفات الموجودة ، وتعديل عناصر الرسم البياني للتصدير إلى التنسيق المطلوب بما في ذلك الصور أو تنسيقات التخطيط الثابت مثل PDF أو XPS.
+ Aspose.Diagram لـ Python عبر Java هو Microsoft Visio حل لمعالجة المستندات. يمكن للمرء قراءة وكتابة وحماية وتصدير وطباعة التنسيقات الأصلية Visio بالإضافة إلى دعم بعض تنسيقات الصور والتخطيط الثابت شائعة الاستخدام. من السهل تحميل الملفات الموجودة ، وتعديل عناصر diagram للتصدير إلى التنسيق المطلوب بما في ذلك الصور أو تنسيقات التخطيط الثابت مثل PDF أو XPS.
 </p>
 
 <p>
@@ -86,7 +86,7 @@ description: Aspose.Diagram لـ Python عبر Java هو Visio javascript API ل
   <footer>
    <small>
     <em>
-     بالنسبة
+     ل
     </em>
     Python عبر Java
    </small>
@@ -132,7 +132,7 @@ description: Aspose.Diagram لـ Python عبر Java هو Visio javascript API ل
   <footer>
    <small>
     <em>
-     بالنسبة
+     ل
     </em>
     Python عبر Java
    </small>
@@ -143,7 +143,7 @@ description: Aspose.Diagram لـ Python عبر Java هو Visio javascript API ل
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم Aspose.Diagram لـ Python عبر Java تنسيقات Microsoft Visio الشائعة والمزيد." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم Aspose.Diagram لـ Python عبر Java التنسيقات الشائعة Microsoft Visio والمزيد." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -155,7 +155,7 @@ description: Aspose.Diagram لـ Python عبر Java هو Visio javascript API ل
    <ul>
     <li>
      <b>
-      مايكروسوفت Visio:
+      Microsoft Visio:
      </b>
      VSDX ، VDX ، VSX ، VTX ، VSSX ، VSTX ، VSDM ، VSSM ، VSTM
     </li>
@@ -168,7 +168,7 @@ description: Aspose.Diagram لـ Python عبر Java هو Visio javascript API ل
    <ul>
     <li>
      <b>
-      مايكروسوفت Visio:
+      Microsoft Visio:
      </b>
      VDW و VSD و VSS و VST
     </li>
@@ -213,7 +213,7 @@ description: Aspose.Diagram لـ Python عبر Java هو Visio javascript API ل
   <footer>
    <small>
     <em>
-     بالنسبة
+     ل
     </em>
     Python عبر Java
    </small>
@@ -291,7 +291,7 @@ description: Aspose.Diagram لـ Python عبر Java هو Visio javascript API ل
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تصدير الرسوم البيانية إلى تنسيقات مختلفة
+     تصدير الرسوم البيانية إلى صيغ مختلفة
     </p>
    </div>
    <div class="col-lg-12">
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      الوصول إلى ملفات Visio ومعالجتها
     </h2>
     <p>
-     يسمح Python الرسم التخطيطي API بقراءة تنسيقات Microsoft الأصلية Visio بالإضافة إلى توفير الوصول إلى بيانات الرسم التخطيطي مثل المستند والصفحة والصفحة الرئيسية والشكل وورقة الأنماط والاتصال وما إلى ذلك. يمكن معالجة هذه الكائنات من خلال API ، ويمكن كتابة النتيجة على القرص بأي من التنسيقات المدعومة.
+     Python diagram API يسمح بقراءة التنسيقات الأصلية Microsoft Visio بالإضافة إلى توفير الوصول إلى diagram البيانات مثل المستند والصفحة والصفحة الرئيسية والشكل وورقة الأنماط والاتصال وما إلى ذلك. يمكن معالجة هذه الكائنات من خلال API ، ويمكن كتابة النتيجة على القرص بأي من التنسيقات المدعومة.
     </p>
    </div>
    <div class="col-lg-12">
@@ -363,7 +363,7 @@ diagram.save("output.png", options)</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/diagram" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="مقالات" href="https://blog.aspose.com/category/diagram/" >}}
+{{< blocks/products/pf/slr-element name="مدونة او مذكرة" href="https://blog.aspose.com/category/diagram/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells لـ Python عبر Java؟" tabId="success-stories" >}}

@@ -2,7 +2,7 @@
 title: Javaを介してVSDMをJPEGに変換します 
 weight: 1160
 url: /ja/java/conversion/vsdm-to-jpeg/ 
-description: VSDM形式からJPEGファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でVSDMをJPEGに変換します。
+description: VSDM形式のJPEGファイルへのJava変換コードのサンプル。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でVSDMをJPEGに変換します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javaを介してVSDMをJPEGに変換します" h2="ネイティブJavaライブラリを使用してMicrosoftVisioVSDMをJPEGにエクスポートします。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSDM" >}}
@@ -60,7 +60,7 @@ description: VSDM形式からJPEGファイルへのサンプルJava変換コー�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Diagramクラスのインスタンスを含むVSDMファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとして使用してDiagram.saveメソッドを呼び出します1. JPEGファイルは指定されたパスに保存されます
+1. Diagramクラスのインスタンスを含むVSDMファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとしてDiagram.saveメソッドを呼び出します1. JPEGファイルは指定されたパスに保存されます
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}
@@ -71,10 +71,10 @@ description: VSDM形式からJPEGファイルへのサンプルJava変換コー�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを入手します。
+- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSDMからJPEGへの変換ソースコード" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSDMからJPEGJavaへの変換ソースコード" offSpacer="" %}}
 
 ```cs
 // DiagramのオブジェクトにVSDMをロードします 
@@ -94,7 +94,7 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VSDMからJPEGへの変換ライブデモ" sectionDescription="[VSDMをJPEGに変換する](https://products.aspose.app/diagram/conversion/vsdm-to-jpeg) 今すぐライブデモのウェブサイトにアクセスしてください。ライブデモには次の利点があります。" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSDMからJPEGへの変換ライブデモ" sectionDescription="[VSDMをJPEGに変換](https://products.aspose.app/diagram/conversion/vsdm-to-jpeg) 今すぐライブデモのウェブサイトにアクセスしてください。ライブデモには次の利点があります。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" AsposeAPIをダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" コードを書く必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" VSDMファイルをアップロードするだけで、すぐにJPEGに変換されます。" >}}
@@ -102,7 +102,7 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
     {{% blocks/products/pf/agp/content h2="JavaDiagram操作ライブラリ" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
 
-VSDM拡張子の付いたファイルは、マクロをサポートするMicrosoftVisioアプリケーションで作成された描画ファイルです。 VSDMファイルは、VSDXに似たOPC / XML図面ですが、ファイルを開いたときにマクロを実行する機能も提供します。マクロは、Visual Basic for Applications（VBA）で開発されたユーザー定義のアクション/ステップであり、反復的なタスクを実行するために使用できます。 VSDMファイル形式は、Microsoft Visio 2013の発売時に導入されました。Visioファイルは、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織チャート、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトのマッピングおよびその他の同様の情報。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。
+拡張子がVSDMのファイルは、マクロをサポートするMicrosoftVisioアプリケーションで作成された描画ファイルです。 VSDMファイルはVSDXに似たOPC/XML図面ですが、ファイルを開いたときにマクロを実行する機能も提供します。マクロは、Visual Basic for Applications（VBA）で開発されたユーザー定義のアクション/ステップであり、反復的なタスクを実行するために使用できます。 VSDMファイル形式は、Microsoft Visio 2013のリリースで導入されました。Visioファイルは、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェア図を含む図面を作成するために使用されます。ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" >}}
 
-JPEGは、非可逆圧縮方式を使用して保存される画像形式の一種です。圧縮の結果として出力される画像は、ストレージサイズと画質の間のトレードオフです。ユーザーは、圧縮レベルを調整して目的の品質レベルを達成すると同時に、ストレージサイズを減らすことができます。 10：1の圧縮が画像に適用されている場合、画質への影響はごくわずかです。圧縮値が高いほど、画質の低下が大きくなります。 JPEG画像ファイル形式はJointPhotographicExperts Groupによって標準化されたため、JPEGという名前が付けられました。このフォーマットは、写真画像をWeb上に保存および送信するための選択肢です。現在、ほとんどすべてのオペレーティングシステムには、JPEG画像の視覚化をサポートするビューアがあります。JPEG画像は、JPG拡張子で保存されることもよくあります。 WebブラウザでさえJPEG画像の視覚化をサポートしています。
+JPEGは、非可逆圧縮方式を使用して保存される画像形式の一種です。圧縮の結果としての出力画像は、ストレージサイズと画質の間のトレードオフです。ユーザーは、圧縮レベルを調整して目的の品質レベルを達成すると同時に、ストレージサイズを減らすことができます。 10：1の圧縮が画像に適用されている場合、画質への影響はごくわずかです。圧縮値が高いほど、画質の低下が大きくなります。 JPEG画像ファイル形式はJointPhotographicExperts Groupによって標準化されたため、JPEGという名前が付けられました。このフォーマットは、写真画像をWeb上に保存および送信するための選択肢です。現在、ほとんどすべてのオペレーティングシステムには、JPEG画像の視覚化をサポートするビューアがあります。JPEG画像は、JPG拡張子で保存されることもよくあります。 WebブラウザでさえJPEG画像の視覚化をサポートしています。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,16 +130,16 @@ JPEGは、非可逆圧縮方式を使用して保存される画像形式の一�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="VSDMを、以下にリストされているいくつかを含む他の多くのファイル形式に変換することもできます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="VSDMを、以下にリストされているものを含む他の多くのファイル形式に変換することもできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-bmp/" name="VSDMからBMP" description="ビットマップ画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-emf/" name="VSDMからEMF" description="強化されたメタファイル形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-emf/" name="VSDMEMFへ" description="強化されたメタファイル形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-html/" name="VSDMからHTMLへ" description="ハイパーテキストマークアップ言語" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-pdf/" name="VSDMからPDFへ" description="ポータブルドキュメントフォーマット" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-png/" name="VSDMからPNGへ" description="ポータブルネットワークグラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-svg/" name="VSDMからSVG" description="スケーラブルなベクターグラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-tiff/" name="VSDMからTIFF" description="タグ付き画像形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vdx/" name="VSDMからVDX" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-png/" name="VSDMからPNG" description="ポータブルネットワークグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-svg/" name="VSDMからSVGへ" description="スケーラブルなベクターグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-tiff/" name="VSDM TO TIFF" description="タグ付き画像フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vdx/" name="VSDMからVDX" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vsdx/" name="VSDMからVSDX" description="MicrosoftVisio形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vssm/" name="VSDMからVSSM" description="MicrosoftVisioステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vssx/" name="VSDMからVSSX" description="ステンシルの描画" >}}
@@ -147,8 +147,8 @@ JPEGは、非可逆圧縮方式を使用して保存される画像形式の一�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vstx/" name="VSDMからVSTX" description="MicrosoftVisio図面テンプレート" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vsx/" name="VSDMからVSX" description="ステンシル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vtx/" name="VSDMからVTX" description="MicrosoftVisio図面テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-xaml/" name="VSDMからXAML" description="拡張可能なアプリケーションマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-xps/" name="VSDMからXPS" description="XML用紙仕様" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-xaml/" name="VSDMからXAMLへ" description="拡張可能なアプリケーションマークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-xps/" name="VSDMからXPS" description="XML紙の仕様" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

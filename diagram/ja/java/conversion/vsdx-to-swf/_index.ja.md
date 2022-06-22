@@ -55,7 +55,7 @@ VSDXをSWFにレンダリングするために、 <a href="https://products.aspo
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Diagramクラスのインスタンスを含むVSDXファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとして使用してDiagram.saveメソッドを呼び出します1. SWFファイルは指定されたパスに保存されます
+1. Diagramクラスのインスタンスを含むVSDXファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとしてDiagram.saveメソッドを呼び出します1. SWFファイルは指定されたパスに保存されます
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,7 +68,7 @@ VSDXをSWFにレンダリングするために、 <a href="https://products.aspo
 
 {{% /blocks/products/pf/agp/text %}}
 
-- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを入手します。
+- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDXからSWFJavaへの変換ソースコード" offSpacer="" %}}
@@ -101,7 +101,7 @@ visio.save("output.swf", SaveFileFormat.SWF);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。    
+Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。    
 
 
 
@@ -110,12 +110,12 @@ Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。�
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-拡張子が.VSDXのファイルは、MicrosoftOffice2013以降で導入されたMicrosoftVisioファイル形式を表します。これは、以前のバージョンのMicrosoftVisioでサポートされているバイナリファイル形式.VSDを置き換えるために開発されました。また、Microsoft SharePoint Server 2013のVisioサービスでもサポートされており、SharePointServerに公開するための中間ファイル形式は必要ありません。 Visioファイルは、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織チャート、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。
+拡張子が.VSDXのファイルは、MicrosoftOffice2013以降に導入されたMicrosoftVisioファイル形式を表します。これは、以前のバージョンのMicrosoftVisioでサポートされているバイナリファイル形式。VSDを置き換えるために開発されました。また、Microsoft SharePoint Server 2013のVisioサービスでもサポートされており、SharePointServerに公開するための中間ファイル形式は必要ありません。 Visioファイルは、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SWF" readMoreLink="https://docs.fileformat.com/page-description-language/swf/" >}}
-SWFは、テキスト、ビデオ、ベクターグラフィック、およびActionScriptをインターネット経由で転送するために使用されるファイル形式であり、AdobeFlashPlayerでサポートされています。 SWFファイル形式は、グラフィックスの交換だけでなく、アンチエイリアシングとオンスクリーン表示のサポートも提供する、リソースの豊富な転送形式になるように設計されています。アンチエイリアシングは、ビットマップの高速レンダリングと、インタラクティブボタン、シェーディング、アニメーションなどの関連する特性にとって重要な機能です。
+SWFは、テキスト、ビデオ、ベクターグラフィック、およびActionScriptをインターネット経由で転送するために使用されるファイル形式であり、AdobeFlashPlayerでサポートされています。 SWFファイル形式は、グラフィックスの交換だけでなく、アンチエイリアシングと画面上の表示のサポートも提供する、機知に富んだ転送形式になるように設計されています。アンチエイリアシングは、ビットマップの高速レンダリングと、インタラクティブボタン、シェーディング、アニメーションなどの関連する特性にとって重要な機能です。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,7 +127,7 @@ SWFは、テキスト、ビデオ、ベクターグラフィック、およびAc
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="VSDXを、以下にリストされているものを含む他の多くのファイル形式に変換することもできます。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-bmp/" name="VSDXからBMP" description="ビットマップ画像" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-emf/" name="VSDXEMFへ" description="強化されたメタファイル形式" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-html/" name="VSDXからHTMLへ" description="ハイパーテキストマークアップ言語" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-jpeg/" name="VSDXからJPEGへ" description="JPEG画像" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-pdf/" name="VSDXからPDFへ" description="ポータブルドキュメントフォーマット" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-png/" name="VSDXからPNGへ" description="ポータブルネットワークグラフィックス" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-svg/" name="VSDXからSVGへ" description="スケーラブルなベクターグラフィックス" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-tiff/" name="VSDX TO TIFF" description="タグ付き画像形式" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDXからVDXへ" description="MicrosoftVisioの描画形式" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsdm/" name="VSDXからVSDMへ" description="MicrosoftVisioの描画形式" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDXからVSSMへ" description="MicrosoftVisioステンシルファイル" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssx/" name="VSDXからVSSXへ" description="ステンシルの描画" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDXからVSTMへ" description="MicrosoftVisioテンプレートファイル" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDXからVSTXへ" description="MicrosoftVisio図面テンプレート" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsx/" name="VSDXからVSX" description="ステンシル" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDXからVTX" description="MicrosoftVisio図面テンプレート" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xaml/" name="VSDXからXAMLへ" description="拡張可能なアプリケーションマークアップ言語" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xps/" name="VSDXからXPS" description="XML用紙仕様" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-bmp/" name="VSDXからBMP" description="ビットマップ画像" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-emf/" name="VSDXEMFへ" description="強化されたメタファイル形式" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-html/" name="VSDXからHTMLへ" description="ハイパーテキストマークアップ言語" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-jpeg/" name="VSDXからJPEG" description="JPEG画像" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-pdf/" name="VSDXからPDFへ" description="ポータブルドキュメントフォーマット" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-png/" name="VSDXからPNG" description="ポータブルネットワークグラフィックス" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-svg/" name="VSDXからSVGへ" description="スケーラブルなベクターグラフィックス" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-tiff/" name="VSDX TO TIFF" description="タグ付き画像フォーマット" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDXからVDX" description="MicrosoftVisio描画形式" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsdm/" name="VSDXからVSDM" description="MicrosoftVisio描画形式" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDXからVSSM" description="MicrosoftVisioステンシルファイル" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssx/" name="VSDXからVSSX" description="ステンシルの描画" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDXからVSTM" description="MicrosoftVisioテンプレートファイル" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDXからVSTX" description="MicrosoftVisio図面テンプレート" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsx/" name="VSDXからVSX" description="ステンシル" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDXからVTX" description="MicrosoftVisio図面テンプレート" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xaml/" name="VSDXからXAMLへ" description="拡張可能なアプリケーションマークアップ言語" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xps/" name="VSDXからXPS" description="XML紙の仕様" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -13,7 +13,7 @@ description: Code source C# pour modifier le document VSD sur les plates-formes 
 
 Afin de modifier le fichier VSD, nous utiliserons <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API qui est une plate-forme API pour C# riche en fonctionnalités, puissante et facile à utiliser pour n'importe quel éditeur. Ouvrir <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> gestionnaire de paquets, recherchez <b>Aspose.Diagram</b> et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
-{{% blocks/products/pf/agp/code-block title="Commander" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
 
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms- Environnement de développement comme Microsoft Visual Studio- Aspose.Diagram for .NET DLL référencée dans votre projet : installez-la à partir de NuGet à l'aide du bouton Télécharger ci-dessus
+- Microsoft Windows ou un système d'exploitation compatible avec les plates-formes .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin- Environnement de développement tel que Microsoft Visual Studio- Aspose.Diagram for .NET DLL référencée dans votre projet – Installez à partir de NuGet à l'aide du bouton Télécharger ci-dessus
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Modifier VSD fichiers - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram est une manipulation de format de document Microsoft Visio API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.    
+Aspose.Diagram est une Microsoft Visio manipulation de format de document API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram est une manipulation de format de document Microsoft Visio API. O
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ensuite, enregistrez et téléchargez." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Les fichiers VSD sont des dessins créés avec l'application Microsoft Visio pour représenter une variété d'objets graphiques et l'interconnexion entre ceux-ci. Ces dessins peuvent contenir des objets visuels tels que des objets visuels, des organigrammes, des diagrammes UML, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Microsoft Visio offre la possibilité de convertir des fichiers Visio dans un certain nombre de formats de fichiers différents, notamment PNG, BMP, PDF et autres. 
+Les fichiers VSD sont des dessins créés avec l'application Microsoft Visio pour représenter une variété d'objets graphiques et l'interconnexion entre ceux-ci. Ces dessins peuvent contenir des objets visuels tels que des objets visuels, des organigrammes, UML diagram, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Microsoft Visio offre la possibilité de convertir des fichiers Visio dans un certain nombre de formats de fichiers différents, notamment PNG, BMP, PDF et autres. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

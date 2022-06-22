@@ -11,7 +11,7 @@ description: C# källkod för att redigera VSS-dokument på .NET Framework, .NET
 
 {{% blocks/products/pf/agp/content h2="Så här redigerar du VSS-fil med C#" %}}
 
-För att redigera VSS-fil kommer vi att använda <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API som är en funktionsrik, kraftfull och lättanvänd API för C#-plattform för alla redaktörer. Öppet <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> pakethanterare, sök efter <b>Aspose.Diagram</b> och installera. Du kan också använda följande kommando från Package Manager Console.
+För att redigera VSS-fil kommer vi att använda <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API som är en funktionsrik, kraftfull och lättanvänd API för C#-plattform för alla redaktörer. Öppen <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> pakethanterare, sök efter <b>Aspose.Diagram</b> och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.    
+Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan en
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Spara sedan och ladda ner." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS är stencilfiler skapade med Microsoft Visio 2007 och tidigare. Ett relativt nytt filformat är .VSSX som introducerades med Microsoft Visio 2013. Stencilfiler tillhandahåller ritobjekt som kan inkluderas i en .VSD Visio-ritning. Microsoft Visio i sig är känt för att skapa ritelement som samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektmappning och annan liknande information. Den har också omfattande konverteringsfunktioner för Visio dokument till andra filformat som PNG, BMP, PDF och andra. Visio är tillgängligt för både Windows och Mac OS. 
+VSS är stencilfiler skapade med Microsoft Visio 2007 och tidigare. Ett relativt nytt filformat är .VSSX som introducerades med Microsoft Visio 2013. Stencilfiler tillhandahåller ritobjekt som kan inkluderas i en .VSD Visio-ritning. Microsoft Visio i sig är känt för att skapa ritningselement som samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektmappning och annan liknande information. Den har också omfattande konverteringsfunktioner för Visio-dokument till andra filformat som PNG, BMP, PDF och andra. Visio är tillgängligt för både Windows och Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

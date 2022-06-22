@@ -2,7 +2,7 @@
 title: .NET을(를) 통해 VDW 문서에서 순서도 스타일 조직도 만들기 
 weight: 3050
 url: /ko/net/flowchart/vdw/ 
-description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono Platform의 vdw 파일에 순서도 스타일 조직도를 만듭니다.
+description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 플랫폼의 vdw 파일에 순서도 스타일 조직도를 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#의 VDW에서 순서도 스타일 조직도 만들기" h2="기본 및 고성능은 Microsoft 또는 Open Office, Adobe PDF와 같은 소프트웨어를 사용하지 않고 서버측 Aspose.Diagram for .NET API를 사용하여 VDW 문서에서 순서도 스타일의 조직도를 생성합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -15,7 +15,7 @@ description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono Pl
  VDW 파일에 순서도 스타일의 조직도를 생성하기 위해 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려 있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  **Aspose.Diagram** 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -39,13 +39,13 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서
+ 다음을 사용하여 순서도 스타일 조직도 만들기
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API는 몇 줄의 코드로 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ 스텐실에서 다이어그램을 만듭니다.
++ 스텐실에서 diagram를 만듭니다.
 + ID를 통해 페이지 선택
 + 페이지에 조직 노드 셰이프를 추가합니다.
 + 모양과 부모를 연결하기 위해 페이지에 커넥터를 추가합니다.
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
+- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop이 있는 호환 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDW 파일에서 순서도 스타일 조직도 만들기 - C#" offSpacer="" %}}
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" VDW 문서에 FlowChart 스타일의 조직도를 즉시 생성합니다." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW는 웹 그림을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio 그래픽 서비스 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 다이어그램 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다. 
+VDW는 웹 그림을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio 그래픽 서비스 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 diagram 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -107,7 +107,7 @@ VDW는 웹 그림을 렌더링하는 데 필요한 스트림과 저장소를 지
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 조직도 형식" subTitle="C#을(를) 사용하면 다음을 포함한 다양한 형식의 순서도 스타일 조직도를 쉽게 만들 수 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vdx/" name="VDX" description="Visio 도면 XML 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vdx/" name="Vdx" description="Visio 도면 XML 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vssx/" name="VSSX" description="Visio 스텐실 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vstx/" name="VSTX" description="Visio 템플릿 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsdm/" name="VSDM" description="Visio 매크로 사용 도면 파일" >}}

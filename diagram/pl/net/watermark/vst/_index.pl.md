@@ -2,7 +2,7 @@
 title: Znak wodny dokumentu VST za pośrednictwem .NET 
 weight: 3050
 url: /pl/net/watermark/vst/ 
-description: C# kod źródłowy, aby dodać znak wodny do pliku vst na .NET Framework, .NET Core, Mono Platforms.
+description: C# kod źródłowy, aby dodać znak wodny do pliku vst na platformach .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Dodaj tekstowy znak wodny do VST w C#" h2="Natywny i wydajny znak wodny dokumentu VST przy użyciu interfejsów API Aspose.Diagramfor .NET po stronie serwera, bez użycia oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie natychmiast oznaczony znakiem wodnym i połączony." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-Pliki z rozszerzeniem VST są plikami obrazów wektorowych utworzonymi za pomocą Microsoft Visio i działają jako szablon do tworzenia kolejnych plików. Te pliki szablonów są w formacie binarnym i zawierają domyślny układ i ustawienia używane do tworzenia nowych rysunków Visio. Gdy plik VST jest otwierany w Microsoft Visio, zawiera istniejące ustawienia umożliwiające kontynuowanie pracy z dokumentem. Ogólnie pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. 
+Pliki z rozszerzeniem VST są plikami obrazów wektorowych utworzonymi za pomocą Microsoft Visio i działają jako szablon do tworzenia kolejnych plików. Te pliki szablonów są w formacie binarnym i zawierają domyślny układ i ustawienia używane do tworzenia nowych Visio rysunków. Gdy plik VST jest otwierany w Microsoft Visio, zawiera istniejące ustawienia umożliwiające kontynuowanie pracy z dokumentem. Ogólnie rzecz biorąc, pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ Pliki z rozszerzeniem VST są plikami obrazów wektorowych utworzonymi za pomoc�
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty znaków wodnych" subTitle="Używając C#, można łatwo znakować różne formaty, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsd/" name="VSD" description="Rysunki Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsd/" name="Vsd" description="Microsoft Visio Rysunki" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vdx/" name="Vdx" description="Visio plik XML rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vstx/" name="VSTX" description="Visio plik szablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsdm/" name="VSDM" description="Visio plik rysunku z włączonymi makrami" >}}

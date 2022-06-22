@@ -14,7 +14,7 @@ description: Contoh Java kode konversi untuk format VSS ke file VDX. Gunakan kod
 
  Untuk merender VSS ke VDX, kami akan menggunakan
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
- API yang merupakan platform API for Java konversi yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform konversi API for Java yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -52,15 +52,15 @@ description: Contoh Java kode konversi untuk format VSS ke file VDX. Gunakan kod
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah Mengonversi VSS ke VDX melalui Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah untuk Mengonversi VSS ke VDX melalui Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Java pengembang dapat dengan mudah mengonversi file VSS ke VDX hanya dalam beberapa baris kode.
+ Java pengembang dapat dengan mudah mengonversi berkas VSS ke VDX hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Muat file VSS dengan instance Diagram class1. Panggil metode Diagram.save dengan jalur file keluaran dan SaveFileFormat sebagai parameter1. File VDX akan disimpan di jalur yang ditentukan
+1. Muat file VSS dengan instance Diagram class1. Panggil metode Diagram.save dengan jalur file keluaran dan SaveFileFormat sebagai parameter1. VDX file akan disimpan di jalur yang ditentukan
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan sistem" %}}
@@ -94,15 +94,15 @@ visio.save("output.vdx", SaveFileFormat.VDX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Konversi VSS ke VDX" sectionDescription="[Mengkonversi VSS ke VDX](https://products.aspose.app/diagram/conversion/vss-to-vdx) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSS ke VDX Demo Konversi Langsung" sectionDescription="[Konversikan VSS ke VDX](https://products.aspose.app/diagram/conversion/vss-to-vdx) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VSS Anda, itu akan langsung dikonversi ke VDX." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VSS Anda, itu akan langsung dikonversi menjadi VDX." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduhan." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Pustaka Manipulasi" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -119,7 +119,7 @@ VSS adalah file stensil yang dibuat dengan Microsoft Visio 2007 dan sebelumnya. 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
 
-Setiap gambar atau bagan yang dibuat di Microsoft Visio, tetapi disimpan dalam format XML memiliki ekstensi .VDX. File XML gambar Visio dibuat dalam perangkat lunak Visio, yang dikembangkan oleh Microsoft. Microsoft Visio memiliki kemampuan untuk menghasilkan dokumen visual yang dapat digunakan dalam presentasi dan dokumen. File XML gambar Visio berisi objek visual dan detail metadata elemen visual. Teks juga dapat ditambahkan ke elemen visual ini. Visi menggambar file XML. File XML gambar Visio ini terintegrasi dengan standar pemformatan berbasis XML dan spesifikasi penyandian data gambar yang memungkinkan kontennya dirender dan disimpan oleh perangkat lunak Microsoft Visio dalam format file VDX.
+Setiap gambar atau bagan yang dibuat dalam Microsoft Visio, tetapi disimpan dalam format XML memiliki ekstensi .VDX. File XML gambar Visio dibuat dalam perangkat lunak Visio, yang dikembangkan oleh Microsoft. Microsoft Visio memiliki kemampuan untuk menghasilkan dokumen visual yang dapat digunakan dalam presentasi dan dokumen. File XML gambar Visio berisi objek visual dan detail metadata dari elemen visual. Teks juga dapat ditambahkan ke elemen visual ini. Visi menggambar file XML. File XML gambar Visio ini terintegrasi dengan standar pemformatan berbasis XML dan spesifikasi penyandian data gambar yang memungkinkan kontennya dirender dan disimpan oleh perangkat lunak Microsoft Visio dalam format file VDX.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -142,9 +142,9 @@ Setiap gambar atau bagan yang dibuat di Microsoft Visio, tetapi disimpan dalam f
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS KE TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS KE VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS KE VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS KE VSSX" description="Menggambar Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS KE VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS KE VTX" description="Microsoft Visio Template Menggambar" >}}

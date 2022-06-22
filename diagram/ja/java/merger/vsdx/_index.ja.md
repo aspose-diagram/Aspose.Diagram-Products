@@ -1,5 +1,5 @@
 ﻿---
-title: Javaを介してVSDXファイルをマージ 
+title: Javaを介してVSDXファイルをマージします 
 weight: 760
 url: /ja/java/merger/vsdx/ 
 description: JSP/JSFアプリケーションとデスクトップアプリケーションのJavaランタイム環境でVSDXドキュメントを組み合わせるためのJavaサンプルコード。
@@ -52,11 +52,11 @@ description: JSP/JSFアプリケーションとデスクトップアプリケー
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="JavaのVSDXファイルをマージする手順" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java内のVSDXファイルをマージする手順" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- とマージおよび連結する基本的なドキュメント
+ マージおよび連結する基本的なドキュメント
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  APIは、ほんの数行のコードで実行できます。
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
 
     {{% blocks/products/pf/agp/content h2="約Aspose.Diagramfor JavaAPI" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 即座にマージおよび連結されます。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-拡張子が.VSDXのファイルは、MicrosoftOffice2013以降で導入されたMicrosoftVisioファイル形式を表します。これは、以前のバージョンのMicrosoftVisioでサポートされているバイナリファイル形式.VSDを置き換えるために開発されました。また、Microsoft SharePoint Server 2013のVisioサービスでもサポートされており、SharePointServerに公開するための中間ファイル形式は必要ありません。 Visioファイルは、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織チャート、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 
+拡張子が.VSDXのファイルは、MicrosoftOffice2013以降に導入されたMicrosoftVisioファイル形式を表します。これは、以前のバージョンのMicrosoftVisioでサポートされているバイナリファイル形式。VSDを置き換えるために開発されました。また、Microsoft SharePoint Server 2013のVisioサービスでもサポートされており、SharePointServerに公開するための中間ファイル形式は必要ありません。 Visioファイルは、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,9 +129,9 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているマージ形式" subTitle="Javaを使用すると、を含む他の多くのファイル形式をマージすることもできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visioグラフィックサービスファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="MicrosoftVisio図面" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="ステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="MicrosoftVisioステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="ステンシルの描画" >}}

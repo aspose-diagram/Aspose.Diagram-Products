@@ -71,7 +71,7 @@ description: Voorbeeld Java conversiecode voor VDW-indeling naar EMF-bestand. Ge
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
+- Microsoft Windows of een compatibel besturingssysteem met Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDW naar EMF Java conversie broncode" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulatiebibliotheek" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDW is de Visio Graphics Service-bestandsindeling die de streams en opslag specificeert die nodig zijn voor het renderen van een webtekening. Een webtekening is een verzameling tekenpagina's, vormen, lettertypen, afbeeldingen, gegevensverbindingen en informatie over diagramupdates die als vector- of rastertekening kan worden weergegeven. VDW-bestanden kunnen ook worden geopend in Microsoft Visio, maar worden voornamelijk opgeslagen voor gebruik op internet. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere.
+VDW is de Visio Graphics Service-bestandsindeling die de streams en opslag specificeert die nodig zijn voor het renderen van een webtekening. Een webtekening is een verzameling tekenpagina's, vormen, lettertypen, afbeeldingen, gegevensverbindingen en diagram update-informatie die kan worden weergegeven als vector- of rastertekening. VDW-bestanden kunnen ook worden geopend in Microsoft Visio, maar worden voornamelijk opgeslagen voor gebruik op internet. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}
 
-Verbeterde metabestandsindeling (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, opdrachten voor tekenen en grafische eigenschappen die essentieel zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het platform van het openende apparaat.
+Verbeterde metabestandsindeling (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met een variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, opdrachten voor tekenen en grafische eigenschappen die essentieel zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het platform van het openende apparaat.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -141,10 +141,10 @@ Verbeterde metabestandsindeling (EMF) slaat grafische afbeeldingen apparaatonafh
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDW NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW NAAR VDX" description="Microsoft Visio Tekenindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW NAAR VSDX" description="Microsoft Visio-indeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW NAAR VSDX" description="Microsoft Visio Indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW NAAR VTX" description="Microsoft Visio Tekensjabloon" >}}

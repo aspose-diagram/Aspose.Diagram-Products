@@ -13,7 +13,7 @@ description: Bibliothèque Visio pour la création, la manipulation et la conver
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java est un puissant outil Microsoft Visio de traitement de documents API. Il fournit des fonctionnalités communes telles que créer, analyser et amp; convertit les formats natifs Visio et prend en charge certains formats d'image et de mise en page fixes couramment utilisés. Les applications peuvent charger des documents existants et manipuler les éléments du diagramme pour exporter le résultat dans ses propres formats, images ou formats à mise en page fixe.
+ Aspose.Diagram for Java est un puissant Microsoft Visio traitement de documents API. Il fournit des fonctionnalités communes telles que créer, analyser et amp; convertit les formats Visio natifs et prend en charge certains formats d'image et de mise en page fixes couramment utilisés. Les applications peuvent charger des documents existants et manipuler les éléments diagram pour exporter le résultat dans ses propres formats, images ou formats à mise en page fixe.
 </p>
 
 <p>
@@ -212,7 +212,7 @@ description: Bibliothèque Visio pour la création, la manipulation et la conver
    <ul>
     <li>
      <b>
-      MicrosoftVisio :
+      Microsoft Visio :
      </b>
      VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
@@ -225,7 +225,7 @@ description: Bibliothèque Visio pour la création, la manipulation et la conver
    <ul>
     <li>
      <b>
-      MicrosoftVisio :
+      Microsoft Visio :
      </b>
      VDW, VSD, VSS, VST
     </li>
@@ -389,7 +389,7 @@ description: Bibliothèque Visio pour la création, la manipulation et la conver
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Créer une cellule définie par l'utilisateur dans la feuille de forme
+     Créer une cellule définie par l'utilisateur dans la feuille de formes
     </p>
    </div>
    <div class="col-lg-4">
@@ -408,10 +408,10 @@ description: Bibliothèque Visio pour la création, la manipulation et la conver
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Analyser les documents Microsoft Visio
+     Analyser Microsoft Visio documents
     </h2>
     <p>
-     Le diagramme Java API permet de lire les formats de fichiers natifs de l'application Microsoft Visio, vous permettant ainsi d'accéder aux données du diagramme telles que les pages de document, les propriétés, les maîtres, les images, les formes, les connexions, la solution XML, les calques, les hyperliens, les commentaires. , StyleSheet, cellules définies par l'utilisateur, etc. Ces objets peuvent être manipulés via API et le résultat peut être écrit sur le disque dans n'importe quel format pris en charge.
+     Java diagram API permet de lire les formats de fichiers natifs de l'application Microsoft Visio, vous permettant ainsi d'accéder aux données diagram telles que les pages de document, les propriétés, les maîtres, les images, les formes, les connexions, la solution XML , Calques, Liens hypertexte, Commentaires, Feuille de style, cellules définies par l'utilisateur, etc. Ces objets peuvent être manipulés via le API, et le résultat peut être écrit sur le disque dans n'importe lequel des formats pris en charge.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Bibliothèque Visio pour la création, la manipulation et la conver
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Enregistrer le diagramme dans différents formats - Java
+      Enregistrez diagram dans différents formats - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Organiser les formes dans un conteneur
     </h2>
     <p>
-     Normalement, les développeurs ajoutent des formes dans un conteneur pour garder les choses bien organisées et compréhensibles. Les conteneurs ajoutent une limite visuelle autour des formes, y compris une étiquette. Pour ajouter un conteneur et des sous-formes au diagramme, les développeurs peuvent utiliser la bibliothèque car elle offre une approche simple et rapide.
+     Normalement, les développeurs ajoutent des formes dans un conteneur pour garder les choses bien organisées et compréhensibles. Les conteneurs ajoutent une limite visuelle autour des formes, y compris une étiquette. Pour ajouter un conteneur et des sous-formes au diagram, les développeurs peuvent utiliser la bibliothèque car elle offre une approche simple et rapide.
     </p>
    </div>
    <div class="col-lg-12">

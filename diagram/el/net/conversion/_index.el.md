@@ -1,7 +1,7 @@
 ﻿---
-title: C# Μετατροπή αρχείων Microsoft Visio
+title: C# Microsoft Visio Μετατροπή αρχείων
 url: /el/net/conversion/
-description: Μετατρέψτε τις μορφές Microsoft Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST σε PDF HTML και Εικόνες με λίγες γραμμές κώδικα C# μέσω της βιβλιοθήκης .NET.
+description: Μετατροπή Microsoft Visio μορφών VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST σε PDF HTML και εικόνες με λίγες γραμμές C# κωδικός μέσω βιβλιοθήκης .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Μετατροπή μορφών μέσω C#" h2="Μετατρέψτε τα διαγράμματα MS Visio σε PDF, HTML και Εικόνες, συμπεριλαμβανομένων BMP, JPG, PNG, TIFF για τη δημιουργία εφαρμογών .NET μεταξύ πλατφορμών." >}}
@@ -13,7 +13,7 @@ description: Μετατρέψτε τις μορφές Microsoft Visio VSDX VSX V
 
 {{% blocks/products/pf/feature-page-section h2="Αρχεία μετατροπής Visio" %}}
 
-Visio αρχεία όπως VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM μπορούν να μετατραπούν μεταξύ τους με λίγες μόνο γραμμές κώδικα C#. Ας εξετάσουμε την περίπτωση της μετατροπής **VSD σε VSDX**. Το API παρέχει α [Diagram τάξη](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) για να φορτώσετε το αρχείο πηγής VSD. Μετά τη φόρτωση του αρχείου, καλέστε τη μέθοδο Αποθήκευση με διαδρομή εξόδου με όνομα αρχείου VSDX και [SaveFileFormat](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)Η επέκταση .targetFile ως παράμετροι.
+Visio αρχεία όπως VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM μπορούν να μετατραπούν μεταξύ τους με λίγες μόνο γραμμές C# κωδικός. Ας εξετάσουμε την περίπτωση της μετατροπής **VSD σε VSDX**. Το API παρέχει α [Diagram τάξη](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) για να φορτώσετε το αρχείο πηγής VSD. Μετά τη φόρτωση του αρχείου, καλέστε τη μέθοδο Αποθήκευση με διαδρομή εξόδου με όνομα αρχείου VSDX και [SaveFileFormat](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)Η επέκταση .targetFile ως παράμετροι.
 
 {{% blocks/products/pf/feature-page-code h3="C# Κωδικός για μετατροπή VSD σε VSDX" %}}
 
@@ -26,7 +26,7 @@ Visio αρχεία όπως VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM μ
 
 {{% blocks/products/pf/feature-page-section h2="Visio Μετατροπή μορφών σε εικόνες" %}}
 
-Όποτε υπάρχει ανάγκη μετατροπής της Microsoft<sup>&reg;</sup> Visio αρχεία σε Εικόνες συμπεριλαμβανομένων JPG, PNG, BMP, TIFF και SVG. Το API το κάνει εύκολο και η διαδικασία μετατροπής είναι ίδια. Χρησιμοποιήστε την κλάση Diagram για να φορτώσετε το αρχείο και να καλέσετε τη μέθοδο αποθήκευσης παρέχοντας όνομα εικόνας με πλήρη διαδρομή και SaveFileFormat ως παραμέτρους. Για συγκεκριμένη ρύθμιση εικόνας το API παρέχει [Κλάση ImageSaveOptions](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
+Όποτε υπάρχει ανάγκη μετατροπής Microsoft<sup>&reg;</sup> Visio αρχεία σε Εικόνες συμπεριλαμβανομένων JPG, PNG, BMP, TIFF και SVG. Το API το κάνει εύκολο και η διαδικασία μετατροπής είναι ίδια. Χρησιμοποιήστε την κλάση Diagram για να φορτώσετε το αρχείο και να καλέσετε τη μέθοδο αποθήκευσης παρέχοντας όνομα εικόνας με πλήρη διαδρομή και SaveFileFormat ως παραμέτρους. Για συγκεκριμένη ρύθμιση εικόνας το API παρέχει [Κλάση ImageSaveOptions](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
 
 {{% blocks/products/pf/feature-page-code h3="C# Κώδικας για μετατροπή Visio σε μορφές εικόνας" %}}
 
@@ -39,7 +39,7 @@ Visio αρχεία όπως VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM μ
 
 {{% blocks/products/pf/feature-page-section h2="Μετατροπή αρχείων Visio σε PDF" %}}
 
-Το API έχει τη δυνατότητα μετατροπής μορφών visio σε PDF. Η διαδικασία μετατροπής είναι απλή. Φορτώστε το αρχείο χρησιμοποιώντας την τάξη Diagram. Δημιουργώ ένα [Αντικείμενο Memostream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) και αποθηκεύστε το αρχείο visio ως PDF σε ροή χρησιμοποιώντας τη μέθοδο Save με αντικείμενο ροής και SaveFileFormat.PDF ως παραμέτρους. Δημιουργήστε ένα αντικείμενο FileStream για το αρχείο που μετατράπηκε για να το αποθηκεύσετε χρησιμοποιώντας [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) μέθοδος. 
+Το API έχει τη δυνατότητα μετατροπής visio μορφών σε PDF. Η διαδικασία μετατροπής είναι απλή. Φορτώστε το αρχείο χρησιμοποιώντας την τάξη Diagram. Δημιουργώ ένα [Αντικείμενο Memostream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) και αποθηκεύστε το αρχείο visio ως PDF σε ροή χρησιμοποιώντας τη μέθοδο Save με αντικείμενο ροής και SaveFileFormat.PDF ως παραμέτρους. Δημιουργήστε ένα αντικείμενο FileStream για το αρχείο που μετατράπηκε για να το αποθηκεύσετε χρησιμοποιώντας [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) μέθοδος. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Κωδικός για μετατροπή Visio σε PDF" %}}
 

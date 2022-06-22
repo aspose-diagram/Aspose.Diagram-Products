@@ -2,7 +2,7 @@
 title: Converter VSX para BMP via C# 
 weight: 2680
 url: /pt/net/conversion/vsx-to-bmp/ 
-description: Código de exemplo para conversão de VSX para BMP C#. Use API código de exemplo para arquivos VSX em lote para conversão BMP em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
+description: Código de amostra para conversão de VSX para BMP C#. Use API código de exemplo para arquivos em lote VSX para conversão BMP em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter VSX para BMP via C#" h2="Exporte arquivos Microsoft® Visio VSX para BMP em .NET Framework, .NET Core, Mono ou COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSX" >}}
@@ -12,10 +12,10 @@ description: Código de exemplo para conversão de VSX para BMP C#. Use API cód
 
 {{% blocks/products/pf/agp/content h2="Como converter VSX para BMP usando C#" %}}
 
- Para converter VSX para BMP, usaremos
+ Para converter VSX em BMP, usaremos
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API que é uma plataforma de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar API para C#. Abrir
- [NuGetName](https://www.nuget.org/packages/aspose.diagram) 
+ API que é uma plataforma de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar API para C#. Aberto
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  gerenciador de pacotes, procure
  Aspose.Diagram 
  e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
@@ -35,11 +35,11 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Etapas para converter VSX para BMP via C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Etapas para converter VSX em BMP via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET os desenvolvedores podem facilmente carregar e converter arquivos VSX para BMP em apenas algumas linhas de código.
+ .NET os desenvolvedores podem facilmente carregar e converter VSX arquivos em BMP em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou COM Interop.- Ambiente de desenvolvimento como o Microsoft Visual Studio.- Aspose.Diagram for .NET DLL referenciada em seu projeto.
+- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou COM Interop.- Ambiente de desenvolvimento como Microsoft Visual Studio.- Aspose.Diagram for .NET DLL referenciada em seu projeto.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Este código de amostra mostra a conversão de VSX para BMP C#" offSpacer="" %}}
@@ -70,15 +70,15 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo gratuito para converter VSX para BMP" sectionDescription="Confira nossas demonstrações ao vivo para [Conversão de VSX para BMP](https://products.aspose.app/diagram/conversion/vsx-to-bmp) com os seguintes benefícios." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo gratuito para converter VSX para BMP" sectionDescription="Confira nossas demonstrações ao vivo para [VSX para conversão de BMP](https://products.aspose.app/diagram/conversion/vsx-to-bmp) com os seguintes benefícios." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo VSX e clicar no botão \"Converter\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seu arquivo VSX e clicar no botão \"Converter\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Você receberá instantaneamente o link de download para o arquivo BMP resultante." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Uma Diagram Biblioteca de Gerenciamento especialmente projetada para funcionar com arquivos Microsoft Visio. Ele permite que os desenvolvedores criem, manipulem e convertam formatos Visio nativos. Os desenvolvedores podem criar diagramas do zero, bem como carregar facilmente arquivos existentes e manipular os elementos do diagrama para exportar o resultado em outros formatos.
+ Uma biblioteca de gerenciamento Diagram especialmente projetada para funcionar com arquivos Microsoft Visio. Ele permite que os desenvolvedores criem, manipulem e convertam formatos Visio nativos. Os desenvolvedores podem criar diagramas do zero, bem como carregar facilmente os arquivos existentes e manipular os elementos do diagram para exportar o resultado em outros formatos.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
-Arquivos com extensão .VSX referem-se a estênceis que consistem em desenhos e formas usados para criar diagramas no Microsoft Visio. Os arquivos VSX são salvos no formato de arquivo XML e tinham suporte até Visio 2013. Eles são diferentes do formato de arquivo principal VSDX que foi introduzido com o Microsoft Visio 2013. Os arquivos VSX podem ser abertos em qualquer editor de texto para visualizar o conteúdo.
+Arquivos com extensão .VSX referem-se a estênceis que consistem em desenhos e formas usados para criar diagramas em Microsoft Visio. VSX arquivos são salvos no formato de arquivo XML e eram suportados até Visio 2013. Eles são diferentes do formato de arquivo principal VSDX que foi introduzido com Microsoft Visio 2013. VSX arquivos podem ser abertos em qualquer editor de texto para visualizar o conteúdo.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,24 +102,24 @@ Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são us
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outras conversões compatíveis" subTitle="Você também pode converter o VSX em muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outras conversões compatíveis" subTitle="Você também pode converter VSX em muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-emf/" name="VSX PARA EMF" description="Formato de metarquivo aprimorado" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-html/" name="VSX PARA HTML" description="Linguagem de marcação de hipertexto" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-jpeg/" name="VSX PARA JPEG" description="Imagem JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-pdf/" name="VSX PARA PDF" description="Formato de Documento Portátil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-png/" name="VSX PARA PNG" description="Gráficos Portáteis de Rede" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-svg/" name="VSX para SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-svg/" name="VSX PARA SVG" description="Gráficos vetoriais escalonáveis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-swf/" name="VSX PARA SWF" description="Formato SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-tiff/" name="VSX PARA TIFF" description="Formato de imagem marcada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vdx/" name="VSX PARA VDX" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vsdm/" name="VSX PARA VSDM" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vsdx/" name="VSX PARA VSDX" description="Formato da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vssm/" name="VSX PARA VSSM" description="Arquivos de estêncil do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vssx/" name="VSX PARA VSX" description="Estênceis de desenho" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vstm/" name="VSX PARA VSTM" description="Arquivos de modelo da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vstx/" name="VSX PARA VSTX" description="Modelo de desenho da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vtx/" name="VSX PARA VTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vdx/" name="VSX PARA VDX" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vsdm/" name="VSX PARA VSDM" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vsdx/" name="VSX PARA VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vssm/" name="VSX PARA VSSM" description="Microsoft Visio Arquivos de estêncil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vssx/" name="VSX PARA VSSX" description="Estênceis de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vstm/" name="VSX PARA VSTM" description="Microsoft Visio Arquivos de modelo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vstx/" name="VSX PARA VSTX" description="Microsoft Visio Modelo de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vtx/" name="VSX PARA VTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-xaml/" name="VSX PARA XAML" description="Linguagem de marcação de aplicativo extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-xps/" name="VSX PARA XPS" description="Especificações do papel XML" >}}
 

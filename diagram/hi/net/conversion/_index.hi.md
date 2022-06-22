@@ -1,19 +1,19 @@
 ﻿---
 title: C# Microsoft Visio फ़ाइलें रूपांतरण
 url: /hi/net/conversion/
-description: Microsoft Visio स्वरूपों VSDX VSX VTX VDX VSSX VSTX VSDM VSTM VSTM VDW VSD VSS VST को PDF HTML और छवियों को C# कोड की कुछ पंक्तियों के साथ .NET लाइब्रेरी में कनवर्ट करें।
+description: Microsoft Visio स्वरूपों VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST को PDF HTML और छवियों की कुछ पंक्तियों में कनवर्ट करें C# कोड .NET लाइब्रेरी के माध्यम से।
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio के माध्यम से रूपांतरण प्रारूपित करता है C#" h2="क्रॉस-प्लेटफ़ॉर्म .NET एप्लिकेशन बनाने के लिए एमएस Visio डायग्राम को पीडीएफ, एचटीएमएल और बीएमपी, जेपीजी, पीएनजी, टीआईएफएफ सहित छवियों में कनवर्ट करें।" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio C# के माध्यम से रूपांतरण प्रारूपित करता है" h2="क्रॉस-प्लेटफ़ॉर्म .NET एप्लिकेशन बनाने के लिए एमएस Visio डायग्राम को पीडीएफ, एचटीएमएल और बीएमपी, जेपीजी, पीएनजी, टीआईएफएफ सहित छवियों में कनवर्ट करें।" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-किसी भी समाधान के लिए, फ्लोचार्ट और बिजनेस फ्लो डायग्राम आदि डिजाइन करना या जब भी एपलोकेशन में MS Visio डायग्राम को हैंडल करने की आवश्यकता हो। इसलिए Visio प्रारूपों को पार्स करने के साथ-साथ अन्य प्रारूपों में परिवर्तित करने की आवश्यकता है। .NET Visio API यह सब आसान कर सकता है। API न केवल Visio फाइलें बनाते हैं, पढ़ते हैं और उनमें हेरफेर करते हैं बल्कि छवियों, पीडीएफ और एचटीएमएल प्रारूपों में भी परिवर्तित होते हैं।
+किसी भी समाधान के लिए, फ्लोचार्ट और बिजनेस फ्लो डायग्राम आदि डिजाइन करना या जब भी एपलोकेशन में MS Visio डायग्राम को हैंडल करने की आवश्यकता हो। इसलिए Visio प्रारूपों को पार्स करने के साथ-साथ अन्य प्रारूपों में परिवर्तित करने की आवश्यकता है। .NET Visio API यह सब सुविधा प्रदान कर सकता है। API न केवल Visio फाइलें बनाते हैं, पढ़ते हैं और उनमें हेरफेर करते हैं बल्कि छवियों, पीडीएफ और एचटीएमएल प्रारूपों में भी परिवर्तित होते हैं।
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="अंतर रूपांतरण Visio फ़ाइलें" %}}
 
-Visio फ़ाइलें जैसे VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM को C# कोड की कुछ ही पंक्तियों के साथ इंटर कनवर्ट किया जा सकता है। आइए **VSD से VSDX रूपांतरण** के मामले पर विचार करें। API एक प्रदान करता है [Diagram कक्षा](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) स्रोत VSD फ़ाइल लोड करने के लिए। फ़ाइल लोड करने के बाद, VSDX फ़ाइल नाम के साथ आउटपुट पथ के साथ सहेजें विधि को कॉल करें और [सहेजेंफ़ाइलफ़ॉर्मेट](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFile एक्सटेंशन पैरामीटर के रूप में।
+Visio फ़ाइलें जैसे VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM को केवल कुछ पंक्तियों के साथ आपस में रूपांतरित किया जा सकता है C# कोड। आइए **VSD से VSDX रूपांतरण** के मामले पर विचार करें। API एक प्रदान करता है [Diagram कक्षा](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) स्रोत VSD फ़ाइल लोड करने के लिए। फ़ाइल लोड करने के बाद, VSDX फ़ाइल नाम के साथ आउटपुट पथ के साथ सहेजें विधि को कॉल करें और [सहेजेंफ़ाइलफ़ॉर्मेट](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFile एक्सटेंशन पैरामीटर के रूप में।
 
 {{% blocks/products/pf/feature-page-code h3="C# VSD से VSDX रूपांतरण के लिए कोड" %}}
 
@@ -26,7 +26,7 @@ Visio फ़ाइलें जैसे VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, 
 
 {{% blocks/products/pf/feature-page-section h2="Visio छवि रूपांतरण के लिए प्रारूप" %}}
 
-जब भी Microsoft को कनवर्ट करने की आवश्यकता हो<sup>&reg;</sup> Visio जेपीजी, पीएनजी, बीएमपी, टीआईएफएफ और एसवीजी सहित छवियों के लिए फ़ाइलें। API इसे आसान बनाता है और रूपांतरण प्रक्रिया समान है। फ़ाइल को लोड करने के लिए Diagram वर्ग का उपयोग करें और छवि नाम को पूर्ण पथ और SaveFileFormat को पैरामीटर के रूप में प्रदान करके सेव विधि को कॉल करें। विशिष्ट छवि सेटिंग के लिए API प्रदान करता है [ImageSaveOptions वर्ग](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
+जब भी बदलने की आवश्यकता हो Microsoft<sup>&reg;</sup> Visio जेपीजी, पीएनजी, बीएमपी, टीआईएफएफ और एसवीजी सहित छवियों के लिए फ़ाइलें। API इसे आसान बनाता है और रूपांतरण प्रक्रिया समान है। फ़ाइल को लोड करने के लिए Diagram वर्ग का उपयोग करें और छवि नाम को पूर्ण पथ और SaveFileFormat को पैरामीटर के रूप में प्रदान करके सेव विधि को कॉल करें। विशिष्ट छवि सेटिंग के लिए API प्रदान करता है [ImageSaveOptions वर्ग](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
 
 {{% blocks/products/pf/feature-page-code h3="C# Visio को छवि प्रारूप में बदलने के लिए कोड" %}}
 
@@ -39,7 +39,7 @@ Visio फ़ाइलें जैसे VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, 
 
 {{% blocks/products/pf/feature-page-section h2="Visio फाइलों को पीडीएफ में बदलें" %}}
 
-API विज़िओ प्रारूपों को पीडीएफ में बदलने में सक्षम है। रूपांतरण की प्रक्रिया सरल है। Diagram वर्ग का उपयोग करके फ़ाइल लोड करें। बनाओ [मेमोस्ट्रीम वस्तु](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) और पैरामीटर के रूप में स्ट्रीम ऑब्जेक्ट और SaveFileFormat.PDF वाले सेव मेथड का उपयोग करके visio फ़ाइल को PDF के रूप में स्ट्रीम में सेव करें। कनवर्ट की गई फ़ाइल का उपयोग करके इसे सहेजने के लिए एक फ़ाइलस्ट्रीम ऑब्जेक्ट बनाएं [मेमोरीस्ट्रीम। राइट टू (फाइलस्ट्रीम)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) तरीका। 
+API visio स्वरूपों को PDF में बदलने में सक्षम है। रूपांतरण की प्रक्रिया सरल है। Diagram कक्षा का उपयोग करके फ़ाइल लोड करें। बनाओ [मेमोस्ट्रीम वस्तु](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) और स्ट्रीम ऑब्जेक्ट वाली सेव विधि और पैरामीटर के रूप में SaveFileFormat.PDF का उपयोग करके visio फ़ाइल को PDF के रूप में स्ट्रीम में सहेजें। कनवर्ट की गई फ़ाइल का उपयोग करके इसे सहेजने के लिए एक फ़ाइलस्ट्रीम ऑब्जेक्ट बनाएं [मेमोरीस्ट्रीम। राइट टू (फाइलस्ट्रीम)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) तरीका। 
 
 {{% blocks/products/pf/feature-page-code h3="C# Visio से PDF रूपांतरण के लिए कोड" %}}
 

@@ -47,7 +47,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή VSSM σε SWF μέσω Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή του VSSM σε SWF μέσω Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -55,7 +55,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Φορτώστε το αρχείο VSSM με μια παρουσία της κλάσης Diagram1. Καλέστε τη μέθοδο Diagram.save με τη διαδρομή αρχείου εξόδου και το SaveFileFormat ως παραμέτρους1. Το αρχείο SWF θα αποθηκευτεί στην καθορισμένη διαδρομή
+1. Φόρτωση αρχείου VSSM με μια παρουσία της τάξης Diagram1. Καλέστε τη μέθοδο Diagram.save με τη διαδρομή αρχείου εξόδου και το SaveFileFormat ως παραμέτρους1. Το αρχείο SWF θα αποθηκευτεί στην καθορισμένη διαδρομή
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,13 +68,13 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application and Desktop Applications.- Λάβετε την τελευταία έκδοση του Aspose.Diagram for Java απευθείας από τη Maven.
+- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application και Desktop Applications.- Λάβετε την πιο πρόσφατη έκδοση του Aspose.Diagram for Java απευθείας από το Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Πηγαίος κώδικας μετατροπής VSSM σε SWF Java" offSpacer="" %}}
 
 ```cs
-// φορτώστε το VSSM σε ένα αντικείμενο Diagram 
+// φορτώστε το VSSM σε ένα αντικείμενο του Diagram 
 Diagram visio = new Diagram("template.vssm");
 // αποθηκεύστε το VSSM ως SWF 
 visio.save("output.swf", SaveFileFormat.SWF);   
@@ -96,12 +96,12 @@ visio.save("output.swf", SaveFileFormat.SWF);
 {{< blocks/products/pf/agp/demobox sectionTitle="Ζωντανές επιδείξεις μετατροπής VSSM σε SWF" sectionDescription="[Μετατροπή VSSM σε SWF](https://products.aspose.app/diagram/conversion/vssm-to-swf) αυτή τη στιγμή, επισκεπτόμενοι τον ιστότοπο Live Demos. Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κάνετε λήψη του Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε το αρχείο VSSM, θα μετατραπεί αμέσως σε SWF." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε το αρχείο σας VSSM, θα μετατραπεί αμέσως σε SWF." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα λάβετε τον σύνδεσμο λήψης." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου της Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.    
+Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.    
 
 
 
@@ -110,7 +110,7 @@ visio.save("output.swf", SaveFileFormat.SWF);
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
-Τα αρχεία με επέκταση .VSSM είναι αρχεία Stencil της Microsoft Visio που υποστηρίζουν την παροχή υποστήριξης για μακροεντολές. Ένα αρχείο VSSM όταν ανοίγει επιτρέπει την εκτέλεση των μακροεντολών για την επίτευξη της επιθυμητής μορφοποίησης και τοποθέτησης σχημάτων σε ένα διάγραμμα. Γενικά, το Microsoft Visio είναι λογισμικό σχεδίασης που επιτρέπει τη δημιουργία αρχείων που μπορούν να περιέχουν και να αναπαριστούν πληροφορίες που ορίζονται από τον χρήστη σε διαφορετικά σχήματα. Τα πιο κοινά από αυτά περιλαμβάνουν, αλλά δεν περιορίζονται σε, διαγράμματα UML, διαγράμματα ροής, οπτικά αντικείμενα, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να μετατραπούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
+Τα αρχεία με επέκταση .VSSM είναι αρχεία στένσιλ Microsoft Visio που υποστηρίζουν την παροχή υποστήριξης για μακροεντολές. Ένα αρχείο VSSM όταν ανοίγει επιτρέπει την εκτέλεση των μακροεντολών για την επίτευξη της επιθυμητής μορφοποίησης και τοποθέτησης σχημάτων σε ένα diagram. Γενικά, το Microsoft Visio είναι λογισμικό σχεδίασης που επιτρέπει τη δημιουργία αρχείων που μπορούν να περιέχουν και να αναπαριστούν πληροφορίες που ορίζονται από τον χρήστη σε διαφορετικά σχήματα. Τα πιο συνηθισμένα από αυτά περιλαμβάνουν, ενδεικτικά, διαγράμματα UML, διαγράμματα ροής, οπτικά αντικείμενα, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να μετατραπούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,7 +127,7 @@ visio.save("output.swf", SaveFileFormat.SWF);
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το VSSM σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-bmp/" name="VSSM TO BMP" description="Εικόνα Bitmap" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-emf/" name="VSSM ΣΕ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-html/" name="VSSM ΣΕ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-jpeg/" name="VSSM ΣΕ JPEG" description="Εικόνα JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-pdf/" name="VSSM ΣΕ PDF" description="Μορφή φορητού εγγράφου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-png/" name="VSSM ΣΕ PNG" description="Φορητά γραφικά δικτύου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-svg/" name="VSSM ΣΕ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-tiff/" name="VSSM TO TIFF" description="Με ετικέτα Μορφή εικόνας" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM ΣΕ VDX" description="Μορφή σχεδίασης Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM ΣΕ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM ΣΕ VSSX" description="Στένσιλ σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="VSSM ΣΕ VSX" description="Στένσιλ" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM ΣΕ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xaml/" name="VSSM TO XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xps/" name="VSSM ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-bmp/" name="VSSM ΠΡΟΣ BMP" description="Εικόνα Bitmap" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-emf/" name="VSSM ΠΡΟΣ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-html/" name="VSSM ΣΕ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-jpeg/" name="VSSM ΣΕ JPEG" description="Εικόνα JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-pdf/" name="VSSM ΣΕ PDF" description="Μορφή φορητού εγγράφου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-png/" name="VSSM ΣΕ PNG" description="Φορητά γραφικά δικτύου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-svg/" name="VSSM ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-tiff/" name="VSSM ΣΕ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM ΠΡΟΣ VDX" description="Microsoft Visio Μορφή σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="VSSM ΠΡΟΣ VSX" description="Στένσιλ" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xaml/" name="VSSM ΠΡΟΣ XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xps/" name="VSSM ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

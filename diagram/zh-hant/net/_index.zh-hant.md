@@ -2,19 +2,19 @@
 title: C# .NET Visio Diagram API - Aspose 
 weight: 1020
 url: /zh-hant/net/ 
-description: C# VB.NET ASP.NET Visio 圖表庫用於導出 Visio 圖表 VSD VSDX VSS VST VSX VTX VDW VDX VSSX 和 VSTX 到 PDF XPS HTML SVG SWF 和圖像格式
+description: C# VB.NET ASP.NET Visio 圖表庫，用於將 Visio 圖表 VSD VSDX VSS VST VSX VTX VDW VDX VSSX 和 VSTX 導出為 PDF XPS HTML SVG SWF 和圖像格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio 文件處理 API" h2="生成、編輯、操作 Microsoft Visio 圖表並將其轉換為 XPS、HTML、SVG、SWF、XAML、圖像或 PDF 格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio 文件處理 API" h2="生成、編輯、操作和轉換 Microsoft Visio 圖表為 XPS、HTML、SVG、SWF、XAML、圖像或 PDF 格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NET 是專門用於處理 Microsoft Visio 文檔的 API。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作圖表元素以將結果導出為其他格式。</p>
+<p>Aspose.Diagram for .NET 是專門用於處理 Microsoft Visio 文檔的 API。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作 diagram 的元素以將結果導出為其他格式。</p>
 
-<p>Aspose.Diagram for .NET 支持幾乎所有原生 Visio 格式以及一些常用的圖像和固定佈局格式。此 API 是 Microsoft Visio 對像模型的替代品，可提供更好的性能。它利用 Visio 服務的高級功能來操作服務器上的文檔。</p>
+<p>Aspose.Diagram for .NET 支持幾乎所有原生 Visio 格式以及一些常用的圖像和固定佈局格式。此 API 是 Microsoft Visio 對像模型的替代品，並提供更好的性能。它利用 Visio 服務的高級功能來操作服務器上的文檔。</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -121,7 +121,7 @@ description: C# VB.NET ASP.NET Visio 圖表庫用於導出 Visio 圖表 VSD VSDX
      形狀幾何
     </li>
     <li>
-     註釋
+     評論
     </li>
    </ul>
   </div>
@@ -147,7 +147,7 @@ description: C# VB.NET ASP.NET Visio 圖表庫用於導出 Visio 圖表 VSD VSDX
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台獨立性" description="API 支持從 2.0 和 Mono 開始的 .NET 框架。此外，它還可以通過 COM Interop 與其他語言一起使用。" >}}
+{{< blocks/products/pf/carousel-item h3="平台獨立性" description="API 從 2.0 和 Mono 開始支持 .NET Framework。此外，它還可以通過 COM Interop 與其他語言一起使用。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,7 +168,7 @@ description: C# VB.NET ASP.NET Visio 圖表庫用於導出 Visio 圖表 VSD VSDX
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET 框架
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -220,7 +220,7 @@ description: C# VB.NET ASP.NET Visio 圖表庫用於導出 Visio 圖表 VSD VSDX
    <ul>
     <li>
      <b>
-      微軟 Visio：
+      Microsoft Visio：
      </b>
      VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM
     </li>
@@ -233,7 +233,7 @@ description: C# VB.NET ASP.NET Visio 圖表庫用於導出 Visio 圖表 VSD VSDX
    <ul>
     <li>
      <b>
-      微軟 Visio：
+      Microsoft Visio：
      </b>
      VDW、VSD、VSS、VST
     </li>
@@ -334,7 +334,7 @@ description: C# VB.NET ASP.NET Visio 圖表庫用於導出 Visio 圖表 VSD VSDX
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     讀取圖表不同對象的屬性
+     讀取 diagram 的不同對象的屬性
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET Visio 圖表庫用於導出 Visio 圖表 VSD VSDX
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     通過 XpsPrint API 在服務器上打印圖表
+     通過 XpsPrint 在服務器上打印 diagram API
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: C# VB.NET ASP.NET Visio 圖表庫用於導出 Visio 圖表 VSD VSDX
     </p>
     <div class="codeblock" id="code">
      <h3>
-      以不同格式保存圖表 - C#
+      以不同格式保存 diagram - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -469,10 +469,10 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     處理 Microsoft Visio 圖表
+     操作 Microsoft Visio 圖表
     </h2>
     <p>
-     Aspose.Diagram for .NET API 允許以原生 VSD/VSDX 格式以及其他格式讀取 Microsoft Visio 文件，包括 VSS、VST、VSX、VTX、VDW、VDX、VSSX、VSTX、VSDM、 VSSM 和 VSTM。圖表的內容可以通過 API 進行操作。對文檔進行必要的更改後，可以將文檔以任何受支持的格式寫入磁盤。
+     Aspose.Diagram for .NET API 允許讀取原生 VSD/VSDX 格式的 Microsoft Visio 文件以及其他格式，包括 VSS、VST、VSX、VTX、VDW、{9 }、VSSX、VSTX、VSDM、VSSM 和 VSTM。 diagram 的內容可以通過 API 進行操作。對文檔進行必要的更改後，可以將文檔以任何受支持的格式寫入磁盤。
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      從 Visio 圖表訪問數據
     </h2>
     <p>
-     Aspose.Diagram for .NET 允許開發人員輕鬆讀取圖表的數據，例如文檔屬性、頁面、母版、形狀、圖像、連接、解決方案 XML、評論、超鏈接、樣式表、圖層、用戶定義的單元格等。
+     Aspose.Diagram for .NET 允許開發人員輕鬆讀取 diagram 的數據，如文檔屬性、頁面、母版、形狀、圖像、連接、解決方案 XML、評論、超鏈接、樣式表、圖層、用戶定義的單元格等.
     </p>
    </div>
    <div class="col-lg-12">
@@ -530,7 +530,7 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     微軟辦公自動化——不需要
+     Microsoft Office 自動化 - 不需要
     </h2>
     <p>
      Aspose.Diagram for .NET 是使用託管代碼構建的，無需在計算機上安裝 Microsoft Office 或 Microsoft Visio 即可處理 Visio 文檔。在支持的功能、安全性、穩定性、可擴展性、速度和價格方面，它是一個完美的 Microsoft Office Visio 自動化替代方案。
@@ -548,7 +548,7 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/diagram/net/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-diagram/Aspose.Diagram-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 參考資料" href="https://apireference.aspose.com/net/diagram" >}}
+{{< blocks/products/pf/slr-element name="API 參考文獻" href="https://apireference.aspose.com/net/diagram" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

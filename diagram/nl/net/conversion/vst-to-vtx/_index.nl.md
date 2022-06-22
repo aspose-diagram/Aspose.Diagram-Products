@@ -2,7 +2,7 @@
 title: Converteer VST naar VTX via C# 
 weight: 1380
 url: /nl/net/conversion/vst-to-vtx/ 
-description: Voorbeeldcode voor conversie van VST naar VTX C#. Gebruik API voorbeeldcode voor batchconversie van VST-bestanden naar VTX binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
+description: Voorbeeldcode voor conversie van VST naar VTX C#. Gebruik API voorbeeldcode voor batch VST-bestanden naar VTX-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer VST naar VTX via C#" h2="Exporteer Microsoft® Visio VST-bestanden naar VTX op .NET Framework, .NET Core, Mono of COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VST" >}}
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Laad VST-bestand met een instantie van Diagram class1. Roep de Diagram.Save-methode aan met pad naar uitvoerbestand en SaveFileFormat.VTX als parameters1. VTX-bestand wordt opgeslagen op het opgegeven pad
+1. Laad VST-bestand met een instantie van Diagram class1. Roep de methode Diagram.Save met pad naar uitvoerbestand en SaveFileFormat.VTX als parameters aan1. VTX bestand wordt opgeslagen op het opgegeven pad
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
@@ -74,11 +74,11 @@ PM> Install-Package Aspose.Diagram
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft niets te downloaden of in te stellen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VST-bestand en klik op de knop \"Converteren\"." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" krijgt direct de downloadlink voor het resulterende VTX-bestand." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" U krijgt direct de downloadlink voor het resulterende VTX-bestand." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Een Diagram beheerbibliotheek die speciaal is ontworpen om te werken met Microsoft Visio-bestanden. Hiermee kunnen ontwikkelaars native Visio-indelingen maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van het diagram manipuleren om het resultaat naar andere indelingen te exporteren.
+ Een Diagram beheerbibliotheek die speciaal is ontworpen om met Microsoft Visio bestanden te werken. Hiermee kunnen ontwikkelaars native Visio-formaten maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van de diagram manipuleren om het resultaat naar andere formaten te exporteren.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Bestanden met de extensie VST zijn vectorafbeeldingsbestanden die zijn gemaakt met Microsoft Visio en fungeren als sjabloon voor het maken van verdere bestanden. Deze sjabloonbestanden hebben een binaire bestandsindeling en bevatten de standaardlay-out en instellingen die worden gebruikt voor het maken van nieuwe Visio-tekeningen. Wanneer een VST-bestand wordt geopend in Microsoft Visio, bevat het de bestaande instellingen om verder te werken met het document. Over het algemeen worden Visio-bestanden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
+Bestanden met de extensie VST zijn vectorafbeeldingsbestanden die zijn gemaakt met Microsoft Visio en fungeren als sjabloon voor het maken van verdere bestanden. Deze sjabloonbestanden zijn in binaire bestandsindeling en bevatten de standaardlay-out en instellingen die worden gebruikt voor het maken van nieuwe Visio tekeningen. Wanneer een VST-bestand wordt geopend in Microsoft Visio, bevat het de bestaande instellingen om verder te werken met het document. Over het algemeen worden Visio-bestanden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vtx" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-Een bestand met de extensie .vtx is een Microsoft Visio-tekeningsjabloon die op schijf wordt opgeslagen in XML-bestandsindeling. De sjabloon is bedoeld om een bestand te bieden met basisinstellingen die kunnen worden gebruikt om meerdere Visio bestanden met dezelfde instellingen te maken. Een ander soortgelijk formaat is VST, dat wordt opgeslagen in binair formaat in plaats van XML. VTX-bestanden worden ondersteund met Visio 2010 en nieuwere versies. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
+Een bestand met de extensie .vtx is een Microsoft Visio tekensjabloon die op schijf wordt opgeslagen in XML-bestandsindeling. De sjabloon is bedoeld om een bestand te bieden met basisinstellingen die kunnen worden gebruikt om meerdere Visio bestanden met dezelfde instellingen te maken. Een ander soortgelijk formaat is VST, dat wordt opgeslagen in binair formaat in plaats van XML. VTX-bestanden worden ondersteund met Visio 2010 en nieuwere versies. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,10 +115,10 @@ Een bestand met de extensie .vtx is een Microsoft Visio-tekeningsjabloon die op 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST NAAR VDX" description="Microsoft Visio Tekenindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST NAAR VSDX" description="Microsoft Visio-indeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST NAAR VSDX" description="Microsoft Visio Indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xaml/" name="VST NAAR XAML" description="Uitbreidbare opmaaktaal voor toepassingen" >}}

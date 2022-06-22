@@ -1,7 +1,7 @@
 ﻿---
 title: .NETを介してVSDファイルを編集する 
 url: /ja/net/editor/vsd/ 
-description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでVSDドキュメントを編集するためのC#ソースコード。
+description: .NET Framework、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでVSDドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#のVSD形式を編集" h2="MicrosoftやAdobePDFなどのソフトウェアを使用せずに、サーバー側のAspose.Diagramfor .NETAPIを使用したネイティブで高性能なVSDドキュメント編集。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows、または.NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームと互換性のあるOS- MicrosoftVisualStudioのような開発環境- プロジェクトで参照されているAspose.Diagramfor .NETDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
+- MicrosoftWindowsまたは.NETFramework、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームと互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDファイルの編集-C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。    
+Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。�
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 次に、保存してダウンロードします。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-VSDファイルは、さまざまなグラフィカルオブジェクトとそれらの間の相互接続を表すためにMicrosoftVisioアプリケーションで作成された図面です。このような図面には、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、その他の同様の情報などのビジュアルオブジェクトを含めることができます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。 
+VSDファイルは、さまざまなグラフィックオブジェクトとそれらの間の相互接続を表すためにMicrosoftVisioアプリケーションで作成された図面です。このような図面には、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、その他の同様の情報などのビジュアルオブジェクトを含めることができます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

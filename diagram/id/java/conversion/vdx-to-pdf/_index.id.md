@@ -2,7 +2,7 @@
 title: Konversikan VDX ke PDF melalui Java 
 weight: 2800
 url: /id/java/conversion/vdx-to-pdf/ 
-description: Contoh Java kode konversi untuk format VDX ke file PDF. Gunakan kode contoh ini untuk mengonversi VDX ke PDF dalam aplikasi berbasis Web atau Desktop Java.
+description: Contoh Java kode konversi untuk format VDX ke file PDF. Gunakan kode contoh ini untuk mengonversi VDX ke PDF dalam aplikasi berbasis Web atau Desktop Java mana pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversikan VDX ke PDF melalui Java" h2="Ekspor Microsoft Visio VDX ke PDF menggunakan pustaka Java asli." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDX" >}}
@@ -14,7 +14,7 @@ description: Contoh Java kode konversi untuk format VDX ke file PDF. Gunakan kod
 
  Untuk merender VDX ke PDF, kami akan menggunakan
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
- API yang merupakan platform API for Java konversi yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform konversi API for Java yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -52,11 +52,11 @@ description: Contoh Java kode konversi untuk format VDX ke file PDF. Gunakan kod
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah Mengonversi VDX ke PDF melalui Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah untuk Mengonversi VDX ke PDF melalui Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Java pengembang dapat dengan mudah mengonversi file VDX ke PDF hanya dalam beberapa baris kode.
+ Java pengembang dapat dengan mudah mengonversi berkas VDX ke PDF hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -94,7 +94,7 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Konversi VDX ke PDF" sectionDescription="[Konversi VDX ke PDF](https://products.aspose.app/diagram/conversion/vdx-to-pdf) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VDX ke Demo Langsung Konversi PDF" sectionDescription="[Konversikan VDX ke PDF](https://products.aspose.app/diagram/conversion/vdx-to-pdf) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VDX Anda, itu akan langsung dikonversi ke PDF." >}}
@@ -102,7 +102,7 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Pustaka Manipulasi" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
 
-Setiap gambar atau bagan yang dibuat di Microsoft Visio, tetapi disimpan dalam format XML memiliki ekstensi .VDX. File XML gambar Visio dibuat dalam perangkat lunak Visio, yang dikembangkan oleh Microsoft. Microsoft Visio memiliki kemampuan untuk menghasilkan dokumen visual yang dapat digunakan dalam presentasi dan dokumen. File XML gambar Visio berisi objek visual dan detail metadata elemen visual. Teks juga dapat ditambahkan ke elemen visual ini. Visi menggambar file XML. File XML gambar Visio ini terintegrasi dengan standar pemformatan berbasis XML dan spesifikasi penyandian data gambar yang memungkinkan kontennya dirender dan disimpan oleh perangkat lunak Microsoft Visio dalam format file VDX.
+Setiap gambar atau bagan yang dibuat dalam Microsoft Visio, tetapi disimpan dalam format XML memiliki ekstensi .VDX. File XML gambar Visio dibuat dalam perangkat lunak Visio, yang dikembangkan oleh Microsoft. Microsoft Visio memiliki kemampuan untuk menghasilkan dokumen visual yang dapat digunakan dalam presentasi dan dokumen. File XML gambar Visio berisi objek visual dan detail metadata dari elemen visual. Teks juga dapat ditambahkan ke elemen visual ini. Visi menggambar file XML. File XML gambar Visio ini terintegrasi dengan standar pemformatan berbasis XML dan spesifikasi penyandian data gambar yang memungkinkan kontennya dirender dan disimpan oleh perangkat lunak Microsoft Visio dalam format file VDX.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/view/pdf/" >}}
 
-Portable Document Format (PDF) adalah jenis dokumen yang dibuat oleh Adobe pada tahun 1990-an. Tujuan dari format file ini adalah untuk memperkenalkan standar representasi dokumen dan bahan referensi lainnya dalam format yang independen dari perangkat lunak aplikasi, perangkat keras, serta Sistem Operasi. File PDF dapat dibuka di Adobe Acrobat Reader/Writer juga di sebagian besar browser modern seperti Chrome, Safari, Firefox melalui ekstensi/plug-in. Sebagian besar suite perangkat lunak yang tersedia secara komersial juga menawarkan konversi dokumen mereka ke format file PDF tanpa persyaratan komponen perangkat lunak tambahan. Dengan demikian, format file PDF memiliki kemampuan penuh untuk memuat informasi seperti teks, gambar, hyperlink, bidang formulir, media kaya, tanda tangan digital, lampiran, metadata, fitur Geospasial dan objek 3D di dalamnya yang dapat menjadi bagian dari dokumen sumber.
+Portable Document Format (PDF) adalah jenis dokumen yang dibuat oleh Adobe pada tahun 1990-an. Tujuan format file ini adalah untuk memperkenalkan standar representasi dokumen dan bahan referensi lainnya dalam format yang independen dari perangkat lunak aplikasi, perangkat keras, serta Sistem Operasi. File PDF dapat dibuka di Adobe Acrobat Reader/Writer juga di sebagian besar browser modern seperti Chrome, Safari, Firefox melalui ekstensi/plug-in. Sebagian besar suite perangkat lunak yang tersedia secara komersial juga menawarkan konversi dokumen mereka ke format file PDF tanpa persyaratan komponen perangkat lunak tambahan. Dengan demikian, format file PDF memiliki kemampuan penuh untuk memuat informasi seperti teks, gambar, hyperlink, bidang formulir, media kaya, tanda tangan digital, lampiran, metadata, fitur Geospasial dan objek 3D di dalamnya yang dapat menjadi bagian dari dokumen sumber.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -141,9 +141,9 @@ Portable Document Format (PDF) adalah jenis dokumen yang dibuat oleh Adobe pada 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-tiff/" name="VDX KE TIFF" description="Format Gambar yang Ditandai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdm/" name="VDX KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdx/" name="VDX KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssm/" name="VDX KE VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssm/" name="VDX KE VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssx/" name="VDX KE VSSX" description="Menggambar Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstm/" name="VDX KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstm/" name="VDX KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstx/" name="VDX KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsx/" name="VDX KE VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vtx/" name="VDX KE VTX" description="Microsoft Visio Template Menggambar" >}}

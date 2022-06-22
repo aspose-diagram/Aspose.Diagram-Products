@@ -2,10 +2,10 @@
 title: Visio Dokumenty Python API - Aspose 
 weight: 4630
 url: /pl/python-java/ 
-description: Aspose.Diagram dla Python przez Java to visio javascript API do czytania, pisania i konwertowania dokumentów Microsoft Visio, takich jak VSDX, VDX i inne formaty
+description: Aspose.Diagram dla Python przez Java to visio javascript API do czytania, pisania i konwertowania Microsoft Visio dokumentów, takich jak VSDX, VDX i innych formatów
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Visio Pliki API" h2="Twórz, odczytuj, zapisuj i eksportuj formaty Microsoft Visio, w tym VSDX, VDX, VSX, VTX i inne przy użyciu Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Visio Pliki API" h2="Twórz, odczytuj, zapisuj i eksportuj MicrosoftVisio formaty, w tym VSDX, VDX, VSX, VTX i inne przy użyciu Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Python via Java" >}}
 
@@ -13,7 +13,7 @@ description: Aspose.Diagram dla Python przez Java to visio javascript API do czy
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram dla Python przez Java to rozwiązanie firmy Microsoft Visio do manipulacji dokumentami. Można czytać, zapisywać, chronić, eksportować i drukować natywne formaty Visio, a także obsługuje niektóre powszechnie używane formaty obrazów i o stałym układzie. Łatwo jest ładować istniejące pliki, modyfikować elementy diagramu w celu wyeksportowania do pożądanego formatu, w tym obrazów lub formatów o stałym układzie, takich jak PDF lub XPS.
+ Aspose.Diagram dla Python przez Java to Microsoft Visio rozwiązanie do manipulacji dokumentami. Można odczytywać, zapisywać, zabezpieczać, eksportować i drukować natywne formaty Visio, a także obsługiwać niektóre powszechnie używane formaty obrazów i o stałym układzie. Łatwe ładowanie istniejących plików, modyfikowanie elementów diagram w celu wyeksportowania do żądanego formatu, w tym obrazów lub formatów o stałym układzie, takich jak PDF lub XPS.
 </p>
 
 <p>
@@ -190,7 +190,7 @@ description: Aspose.Diagram dla Python przez Java to visio javascript API do czy
     </li>
     <li>
      <b>
-      Zdjęcia:
+      Obrazy:
      </b>
      JPEG, PNG, BMP, TIFF, SVG, EMF
     </li>
@@ -299,7 +299,7 @@ description: Aspose.Diagram dla Python przez Java to visio javascript API do czy
      Utwórz Visio dokumenty od podstaw
     </h2>
     <p>
-     Aspose.Diagram dla Python jest prosty i łatwy w użyciu. Pozwala użytkownikom pracować z diagramami bez zrozumienia podstawowego formatu, tak jak można tworzyć VSDX pliki od podstaw za pomocą zaledwie kilku linijek kodu.
+     Aspose.Diagram dla Python jest prosty i łatwy w użyciu. Pozwala użytkownikom pracować z diagramami bez zrozumienia podstawowego formatu, tak jak można tworzyć VSDX pliki od podstaw za pomocą kilku linijek kodu.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      Uzyskaj dostęp i manipuluj Visio plikami
     </h2>
     <p>
-     Python diagram API umożliwia odczytywanie natywnych formatów Microsoft Visio, a także zapewnia dostęp do danych diagramu, takich jak dokument, strona, wzorzec, kształt, arkusz stylów, połączenie i tak dalej. Obiektami tymi można manipulować za pomocą API, a wynik można zapisać na dysku w dowolnym z obsługiwanych formatów.
+     Python diagram API umożliwia odczytywanie natywnych formatów Microsoft Visio, a także zapewnia dostęp do diagram danych, takich jak dokument, strona, wzorzec, kształt, arkusz stylów, połączenie i tak dalej. Obiektami tymi można manipulować za pomocą API, a wynik można zapisać na dysku w dowolnym z obsługiwanych formatów.
     </p>
    </div>
    <div class="col-lg-12">

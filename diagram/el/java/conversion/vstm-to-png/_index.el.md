@@ -2,7 +2,7 @@
 title: Μετατροπή VSTM σε PNG μέσω Java 
 weight: 3110
 url: /el/java/conversion/vstm-to-png/ 
-description: Δείγμα κώδικα μετατροπής Java για μορφή VSTM σε αρχείο PNG. Χρησιμοποιήστε αυτό το παράδειγμα κώδικα για να μετατρέψετε VSTM σε PNG σε οποιαδήποτε εφαρμογή που βασίζεται στο Web ή στην επιφάνεια εργασίας Java.
+description: Δείγμα κώδικα μετατροπής Java για μορφή VSTM σε αρχείο PNG. Χρησιμοποιήστε αυτό το παράδειγμα κώδικα για να μετατρέψετε το VSTM σε PNG σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή VSTM σε PNG μέσω Java" h2="Εξαγωγή Microsoft Visio VSTM σε PNG χρησιμοποιώντας την εγγενή βιβλιοθήκη Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSTM" >}}
@@ -52,7 +52,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή VSTM σε PNG μέσω Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή του VSTM σε PNG μέσω Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -60,7 +60,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Φορτώστε το αρχείο VSTM με μια παρουσία κλάσης Diagram1. Καλέστε τη μέθοδο Diagram.save με τη διαδρομή αρχείου εξόδου και το SaveFileFormat ως παραμέτρους1. Το αρχείο PNG θα αποθηκευτεί στην καθορισμένη διαδρομή
+1. Φόρτωση αρχείου VSTM με μια παρουσία της τάξης Diagram1. Καλέστε τη μέθοδο Diagram.save με τη διαδρομή αρχείου εξόδου και το SaveFileFormat ως παραμέτρους1. Το αρχείο PNG θα αποθηκευτεί στην καθορισμένη διαδρομή
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις συστήματος" %}}
@@ -71,13 +71,13 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application and Desktop Applications.- Λάβετε την τελευταία έκδοση του Aspose.Diagram for Java απευθείας από τη Maven.
+- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application και Desktop Applications.- Λάβετε την πιο πρόσφατη έκδοση του Aspose.Diagram for Java απευθείας από το Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Πηγαίος κώδικας μετατροπής VSTM σε PNG Java" offSpacer="" %}}
 
 ```cs
-// φορτώστε το VSTM σε ένα αντικείμενο Diagram 
+// φορτώστε το VSTM σε ένα αντικείμενο του Diagram 
 Diagram visio = new Diagram("template.vstm");
 // αποθηκεύστε το VSTM ως PNG 
 visio.save("output.png", SaveFileFormat.PNG);   
@@ -97,12 +97,12 @@ visio.save("output.png", SaveFileFormat.PNG);
 {{< blocks/products/pf/agp/demobox sectionTitle="Ζωντανές επιδείξεις μετατροπής VSTM σε PNG" sectionDescription="[Μετατροπή VSTM σε PNG](https://products.aspose.app/diagram/conversion/vstm-to-png) αυτή τη στιγμή, επισκεπτόμενοι τον ιστότοπο Live Demos. Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κάνετε λήψη του Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε το αρχείο VSTM, θα μετατραπεί αμέσως σε PNG." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε το αρχείο σας VSTM, θα μετατραπεί αμέσως σε PNG." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα λάβετε τον σύνδεσμο λήψης." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Βιβλιοθήκη χειρισμού" %}}
 
- Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου της Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
+ Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
 
-Τα αρχεία με επέκταση VSTM είναι αρχεία προτύπων που έχουν δημιουργηθεί με τη Microsoft Visio και υποστηρίζουν μακροεντολές. Σε αντίθεση με τα αρχεία VSDX, τα αρχεία που δημιουργούνται από πρότυπα VSTM μπορούν να εκτελούν μακροεντολές που έχουν αναπτυχθεί σε κώδικα Visual Basic for Applications (VBA). Μπορεί να δημιουργηθεί ένα αρχείο προτύπου προκειμένου να παρέχονται βασικές ρυθμίσεις του εγγράφου που μπορούν να χρησιμοποιηθούν για τη δημιουργία περαιτέρω εγγράφων με αυτές τις ρυθμίσεις. Τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, διάγραμμα UML, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσης δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων όπως PNG, BMP, PDF και άλλες.
+Τα αρχεία με επέκταση VSTM είναι αρχεία προτύπων που δημιουργήθηκαν με το Microsoft Visio και υποστηρίζουν μακροεντολές. Σε αντίθεση με τα αρχεία VSDX, τα αρχεία που δημιουργούνται από πρότυπα VSTM μπορούν να εκτελούν μακροεντολές που έχουν αναπτυχθεί σε κώδικα Visual Basic for Applications (VBA). Ένα αρχείο προτύπου μπορεί να δημιουργηθεί για να παρέχει βασικές ρυθμίσεις του εγγράφου που μπορούν να χρησιμοποιηθούν για τη δημιουργία περαιτέρω εγγράφων με αυτές τις ρυθμίσεις. Τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, UML diagram, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων όπως PNG, BMP, PDF και άλλες.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-Το PNG, Portable Network Graphics, αναφέρεται σε έναν τύπο μορφής αρχείου εικόνας ράστερ που χρησιμοποιεί συμπίεση χωρίς απώλεια. Αυτή η μορφή αρχείου δημιουργήθηκε ως αντικατάσταση του Graphics Interchange Format (GIF) και δεν έχει περιορισμούς πνευματικών δικαιωμάτων. Ωστόσο, η μορφή αρχείου PNG δεν υποστηρίζει κινούμενα σχέδια. Η μορφή αρχείου PNG υποστηρίζει συμπίεση εικόνας χωρίς απώλειες που το κάνει δημοφιλές στους χρήστες του. Με το πέρασμα του χρόνου, το PNG έχει εξελιχθεί ως μία από τις πιο χρησιμοποιούμενες μορφές αρχείων εικόνας. Σχεδόν όλα τα λειτουργικά συστήματα έχουν υποστήριξη για το άνοιγμα αρχείων PNG. Για παράδειγμα, το πρόγραμμα προβολής Microsoft Windows έχει τη δυνατότητα να ανοίγει αρχεία PNG καθώς το λειτουργικό σύστημα έχει από προεπιλογή την υποστήριξη που είναι διαθέσιμη ως μέρος της εγκατάστασης.
+Το PNG, Portable Network Graphics, αναφέρεται σε έναν τύπο μορφής αρχείου εικόνας ράστερ που χρησιμοποιεί συμπίεση χωρίς απώλεια. Αυτή η μορφή αρχείου δημιουργήθηκε ως αντικατάσταση του Graphics Interchange Format (GIF) και δεν έχει περιορισμούς πνευματικών δικαιωμάτων. Ωστόσο, η μορφή αρχείου PNG δεν υποστηρίζει κινούμενα σχέδια. Η μορφή αρχείου PNG υποστηρίζει συμπίεση εικόνας χωρίς απώλειες που το κάνει δημοφιλές στους χρήστες του. Με το πέρασμα του χρόνου, το PNG έχει εξελιχθεί ως μία από τις πιο χρησιμοποιούμενες μορφές αρχείων εικόνας. Σχεδόν όλα τα λειτουργικά συστήματα έχουν υποστήριξη για το άνοιγμα αρχείων PNG. Για παράδειγμα, το πρόγραμμα προβολής των Windows Microsoft έχει τη δυνατότητα να ανοίγει αρχεία PNG καθώς το λειτουργικό σύστημα έχει από προεπιλογή την υποστήριξη που είναι διαθέσιμη ως μέρος της εγκατάστασης.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -132,22 +132,22 @@ visio.save("output.png", SaveFileFormat.PNG);
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το VSTM σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-bmp/" name="VSTM ΣΕ BMP" description="Εικόνα Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-emf/" name="VSTM ΣΕ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-bmp/" name="VSTM ΠΡΟΣ BMP" description="Εικόνα Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-emf/" name="VSTM ΠΡΟΣ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-html/" name="VSTM ΣΕ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-jpeg/" name="VSTM ΣΕ JPEG" description="Εικόνα JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-pdf/" name="VSTM ΣΕ PDF" description="Μορφή φορητού εγγράφου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-svg/" name="VSTM ΣΕ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-tiff/" name="VSTM TO TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vdx/" name="VSTM ΣΕ VDX" description="Μορφή σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsdm/" name="VSTM ΣΕ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-svg/" name="VSTM ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-tiff/" name="VSTM ΣΕ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vdx/" name="VSTM ΠΡΟΣ VDX" description="Microsoft Visio Μορφή σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsdm/" name="VSTM ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsdx/" name="VSTM ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vssm/" name="VSTM ΣΕ VSSM" description="Αρχεία Stencil της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vssx/" name="VSTM ΣΕ VSSX" description="Στένσιλ σχεδίασης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vstx/" name="VSTM ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsx/" name="VSTM ΣΕ VSX" description="Στένσιλ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vtx/" name="VSTM ΣΕ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-xaml/" name="VSTM TO XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vssm/" name="VSTM ΠΡΟΣ VSSM" description="Microsoft Visio Αρχεία στένσιλ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vssx/" name="VSTM ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vstx/" name="VSTM ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsx/" name="VSTM ΠΡΟΣ VSX" description="Στένσιλ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vtx/" name="VSTM ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-xaml/" name="VSTM ΠΡΟΣ XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-xps/" name="VSTM ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

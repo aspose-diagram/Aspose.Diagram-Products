@@ -2,10 +2,10 @@
 title: Visio 문서 Node.js API - Aspose 
 weight: 1630
 url: /ko/nodejs-java/ 
-description: Java을 통한 Node.js용 Aspose.Diagram은(는) VSDX, VDX 및 기타 형식과 같은 Microsoft Visio 문서를 읽고, 쓰고, 변환하는 visio 자바스크립트 API입니다.
+description: Java을 통한 Node.js용 Aspose.Diagram은(는) Microsoft Visio VSDX, VDX 등의 문서를 읽고, 쓰고, 변환하는 visio 자바스크립트 API 및 기타 형식입니다.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio 파일 API" h2="Node.js API를 사용하여 VSDX, VDX, VSX, VTX 및 기타 형식을 포함한 Microsoft Visio 형식을 만들고, 읽고, 쓰고, 내보낼 수 있습니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio 파일 API" h2="Node.js API를 사용하여 VSDX, VDX, VSX, VTX 및 기타 형식을 포함한 Microsoft Visio 형식을 만들고, 읽고, 쓰고, 내보냅니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +13,11 @@ description: Java을 통한 Node.js용 Aspose.Diagram은(는) VSDX, VDX 및 기�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Java을 통한 Node.js용 Aspose.Diagram은 Microsoft Visio 문서 조작 솔루션입니다. 기본 Visio 형식을 읽고, 쓰고, 보호하고, 내보내고 인쇄할 수 있을 뿐만 아니라 일반적으로 사용되는 일부 이미지 및 고정 레이아웃 형식을 지원합니다. 기존 파일을 쉽게 로드하고 다이어그램 요소를 수정하여 이미지 또는 PDF 또는 XPS와 같은 고정 레이아웃 형식을 포함한 원하는 형식으로 내보낼 수 있습니다.
+ Java을 통한 Node.js용 Aspose.Diagram은 Microsoft Visio 문서 조작 솔루션입니다. 기본 Visio 형식을 읽고, 쓰고, 보호하고, 내보내고 인쇄할 수 있을 뿐만 아니라 일반적으로 사용되는 일부 이미지 및 고정 레이아웃 형식을 지원합니다. 기존 파일을 쉽게 로드하고, diagram 요소를 수정하여 이미지 또는 PDF 또는 XPS와 같은 고정 레이아웃 형식을 포함한 원하는 형식으로 내보낼 수 있습니다.
 </p>
 
 <p>
- Java을 통한 Node.js용 Aspose.Diagram은 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어 설치가 필요하지 않습니다. 또한 처음부터 다이어그램 만들기, 다양한 형식 읽기 또는 쓰기, Visio 개체 수식을 포함한 속성 액세스 및 읽기, 여러 형식으로 다이어그램 내보내기, 충실도 높은 다이어그램 인쇄 등과 같이 쉽게 수행할 수 있는 작업은 거의 없습니다.
+ Java을 통한 Node.js용 Aspose.Diagram은 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어 설치가 필요하지 않습니다. 또한 처음부터 다이어그램 만들기, 다양한 형식 읽기 또는 쓰기, Visio 개체 수식을 포함한 속성 액세스 및 읽기, 여러 형식으로 다이어그램 내보내기, 충실도가 높은 다이어그램 인쇄 등과 같이 쉽게 수행할 수 있는 작업은 거의 없습니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -86,7 +86,7 @@ description: Java을 통한 Node.js용 Aspose.Diagram은(는) VSDX, VDX 및 기�
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     Java를 통한 Node.js
    </small>
@@ -132,7 +132,7 @@ description: Java을 통한 Node.js용 Aspose.Diagram은(는) VSDX, VDX 및 기�
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     Java를 통한 Node.js
    </small>
@@ -155,7 +155,7 @@ description: Java을 통한 Node.js용 Aspose.Diagram은(는) VSDX, VDX 및 기�
    <ul>
     <li>
      <b>
-      마이크로소프트 Visio:
+      Microsoft Visio:
      </b>
      VSDX, VDX, VSX, VTX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
@@ -168,7 +168,7 @@ description: Java을 통한 Node.js용 Aspose.Diagram은(는) VSDX, VDX 및 기�
    <ul>
     <li>
      <b>
-      마이크로소프트 Visio:
+      Microsoft Visio:
      </b>
      VDW, VSD, VSS, VST
     </li>
@@ -213,7 +213,7 @@ description: Java을 통한 Node.js용 Aspose.Diagram은(는) VSDX, VDX 및 기�
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     Java를 통한 Node.js
    </small>
@@ -319,7 +319,7 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
      Visio 파일 액세스 및 조작
     </h2>
     <p>
-     Node.js 다이어그램 API은(는) 기본 Microsoft Visio 형식을 읽을 수 있을 뿐만 아니라 문서, 페이지, 마스터, 모양, 스타일시트, 연결 등과 같은 다이어그램 데이터에 대한 액세스를 제공합니다. 이러한 개체는 API를 통해 조작할 수 있으며 결과는 지원되는 형식으로 디스크에 쓸 수 있습니다.
+     Node.js diagram API은(는) 기본 Microsoft Visio 형식을 읽을 수 있을 뿐만 아니라 문서, 페이지, 마스터, 모양, 스타일시트, 연결 등과 같은 diagram 데이터에 대한 액세스를 제공합니다. 이러한 개체는 API를 통해 조작할 수 있으며 결과는 지원되는 형식으로 디스크에 쓸 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">

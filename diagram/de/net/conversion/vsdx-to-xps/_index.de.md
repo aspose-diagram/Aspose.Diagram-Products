@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft-Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente des Diagramms bearbeiten, um das Ergebnis in andere Formate zu exportieren.
+ Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente der diagram manipulieren, um das Ergebnis in andere Formate zu exportieren.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-Dateien mit der Erweiterung .VSDX stellen das Microsoft Visio-Dateiformat dar, das ab Microsoft Office 2013 eingeführt wurde. Es wurde entwickelt, um das binäre Dateiformat .VSD zu ersetzen, das von früheren Versionen von Microsoft Visio unterstützt wird. Es wird auch von Visio-Diensten in Microsoft SharePoint Server 2013 unterstützt und erfordert kein Zwischendateiformat für die Veröffentlichung auf SharePoint Server. Visio-Dateien werden verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML-Diagramme, Informationsflüsse, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio erstellte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden.
+Dateien mit der Erweiterung .VSDX stellen das Dateiformat Microsoft Visio dar, das ab Microsoft Office 2013 eingeführt wurde. Es wurde entwickelt, um das binäre Dateiformat .VSD zu ersetzen, das von früheren Versionen von Microsoft Visio unterstützt wird. Es wird auch von Visio Services in Microsoft SharePoint Server 2013 unterstützt und erfordert kein Zwischendateiformat für die Veröffentlichung auf SharePoint Server. Visio-Dateien werden verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML diagram, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio erstellte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xps" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
-Eine XPS-Datei stellt Seitenlayoutdateien dar, die auf von Microsoft erstellten XML-Papierspezifikationen basieren. Dieses Format wurde von Microsoft als Ersatz für das EMF-Dateiformat entwickelt und ähnelt dem PDF-Dateiformat, verwendet jedoch XML für Layout, Aussehen und Druckinformationen eines Dokuments. Es ist in der Tat gerechtfertigter zu sagen, dass XPS ein Versuch auf PDF ist, aber aus einer Reihe von Gründen nicht genug Popularität als Eigentum von PDF erlangen konnte. Microsoft stellt XPS Document Writer standardmäßig ab Windows 7 für die Erstellung von XPS-Dateien zur Verfügung. XPS-Dateien können generiert werden, indem beim Drucken des Dokuments der "Microsoft XPS Document Writer" als Drucker ausgewählt wird.
+Eine XPS-Datei stellt Seitenlayoutdateien dar, die auf von Microsoft erstellten XML-Papierspezifikationen basieren. Dieses Format wurde von Microsoft als Ersatz für das EMF-Dateiformat entwickelt und ähnelt dem PDF-Dateiformat, verwendet jedoch XML für Layout, Erscheinungsbild und Druckinformationen eines Dokuments. Es ist in der Tat gerechtfertigter zu sagen, dass XPS ein Versuch auf PDF ist, aber aus einer Reihe von Gründen nicht genug Popularität als Eigentum von PDF erlangen konnte. Microsoft stellt ab Windows 7 standardmäßig XPS Document Writer für die Erstellung von XPS-Dateien bereit. XPS-Dateien können generiert werden, indem beim Drucken des Dokuments der "Microsoft XPS Document Writer" als Drucker ausgewählt wird.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,13 +113,13 @@ Eine XPS-Datei stellt Seitenlayoutdateien dar, die auf von Microsoft erstellten 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-svg/" name="VSDX ZU SVG" description="Skalierbare Vektorgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-swf/" name="VSDX AN SWF" description="SWF-Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-tiff/" name="VSDX ZU TIFF" description="Markiertes Bildformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vdx/" name="VSDX ZU VDX" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsdm/" name="VSDX ZU VSDM" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX AN VSSM" description="Microsoft Visio-Schablonendateien" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssx/" name="VSDX ZU VSSX" description="Zeichenschablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstm/" name="VSDX ZU VSTM" description="Microsoft Visio Vorlagendateien" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstx/" name="VSDX ZU VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsx/" name="VSDX ZU VSX" description="Schablonen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vdx/" name="VSDX AN VDX" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsdm/" name="VSDX AN VSDM" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX AN VSSM" description="Microsoft Visio Schablonendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssx/" name="VSDX AN VSSX" description="Zeichenschablonen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstm/" name="VSDX AN VSTM" description="Microsoft Visio Vorlagendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstx/" name="VSDX AN VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsx/" name="VSDX AN VSX" description="Schablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vtx/" name="VSDX AN VTX" description="Microsoft Visio Zeichnungsvorlage" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-xaml/" name="VSDX ZU XAML" description="Extensible Application Markup Language" >}}
 

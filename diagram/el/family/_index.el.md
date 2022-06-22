@@ -1,17 +1,17 @@
 ﻿---
-title: Visio .NET και Java API | Δημιουργία μετατροπής ή χειρισμού διαγραμμάτων 
+title: Visio .NET Java Python Node.js API | Δημιουργία μετατροπής ή χειρισμού διαγραμμάτων 
 weight: 10
 url: /el/family
 description: Diagram βιβλιοθήκη για τη δημιουργία ανοιχτής εκτύπωσης επεξεργασίας και μετατροπής Visio αρχείων σε εφαρμογές .NET Java και Mono χωρίς εγκατεστημένο το Microsoft Visio
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio API χειραγώγησης αρχείων" h2=".NET και Java API για δημιουργία, επεξεργασία και μετατροπή αρχείων Microsoft Visio σε οποιαδήποτε πλατφόρμα." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio API χειρισμού αρχείων" h2=".NET και Java API για δημιουργία, επεξεργασία και μετατροπή αρχείων Microsoft Visio σε οποιαδήποτε πλατφόρμα." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram Περιλαμβάνονται τα API High Code" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
-Στοχεύστε Windows Forms, ASP.NET, WPF, WCF ή οποιονδήποτε τύπο εφαρμογής που βασίζεται στο .NET Framework 2.0 ή νεότερη έκδοση.
+Στοχεύστε Φόρμες Windows, ASP.NET, WPF, WCF ή οποιονδήποτε τύπο εφαρμογής που βασίζεται σε .NET Framework 2.0 ή νεότερη έκδοση.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productLink="/diagram/java/" >}}
@@ -19,11 +19,11 @@ description: Diagram βιβλιοθήκη για τη δημιουργία αν�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Node.js μέσω Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
-Δημιουργήστε, διαβάστε, γράψτε και αποδώστε έγγραφα Microsoft Visio μέσω του Node.js.
+Δημιουργήστε, διαβάστε, γράψτε και αποδώστε Microsoft Visio έγγραφα μέσω του Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Python μέσω Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
-Δημιουργήστε, διαβάστε, γράψτε και αποδώστε έγγραφα Microsoft Visio μέσω του Python.
+Δημιουργήστε, διαβάστε, γράψτε και αποδώστε Microsoft Visio έγγραφα μέσω Python.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

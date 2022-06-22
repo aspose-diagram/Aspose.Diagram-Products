@@ -2,7 +2,7 @@
 title: Visualize ou edite metadados de arquivos VSS por meio de .NET 
 weight: 3050
 url: /pt/net/metadata/vss/ 
-description: C# código-fonte para editar ou visualizar metadados de formato VSS em .NET Framework, .NET Core, Mono Platforms.
+description: C# código-fonte para editar ou visualizar metadados de formato VSS nas plataformas .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extraia metadados VSS em C#" h2="Crie seus próprios aplicativos .NET para adicionar, editar, remover ou extrair metadados de arquivos VSS usando APIs do lado do servidor." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -15,7 +15,7 @@ description: C# código-fonte para editar ou visualizar metadados de formato VSS
  Para extrair metadados VSS, usaremos
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API que é uma plataforma de manipulação e mesclagem de documentos rica em recursos, poderosa e fácil de usar API para C#. Aberto
- [NuGetName](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  gerenciador de pacotes, procure
  **Aspose.Diagram** 
  e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
@@ -59,7 +59,7 @@ Obter DocumentProps do objeto Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou COM Interop- Ambiente de desenvolvimento como o Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale do NuGet usando o botão Download acima
+- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou COM Interop- Ambiente de desenvolvimento como Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale de NuGet usando o botão Download acima
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Extraindo Metadados VSS - C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ Obter DocumentProps do objeto Diagram
 
     {{% blocks/products/pf/agp/content h2="Sobre Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagrama e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
+ Aspose.Diagram é uma manipulação de formato de documento Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagramas e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
 
 
 
@@ -93,7 +93,7 @@ Obter DocumentProps do objeto Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ele será compactado e concatenado instantaneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS são arquivos de estêncil criados com o Microsoft Visio 2007 e anterior. Um formato de arquivo relativamente novo é o .VSSX que foi introduzido com o Microsoft Visio 2013. Os arquivos de estêncil fornecem objetos de desenho que podem ser incluídos em um desenho .VSD Visio. A própria Microsoft Visio é conhecida por criar elementos de desenho como coleção de formas, conectores, fluxogramas, layout de rede, diagramas UML, diagramas de software, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Ele também possui recursos avançados de conversão de documentos Visio para outros formatos de arquivo, como PNG, BMP, PDF e outros. Visio está disponível para Windows e Mac OS. 
+VSS são arquivos de estêncil criados com Microsoft Visio 2007 e anteriores. Um formato de arquivo relativamente novo é .VSSX que foi introduzido com Microsoft Visio 2013. Os arquivos de estêncil fornecem objetos de desenho que podem ser incluídos em um desenho .VSD Visio. O próprio Microsoft Visio é conhecido por criar elementos de desenho, como coleção de formas, conectores, fluxogramas, layout de rede, diagramas UML, diagramas de software, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Ele também possui recursos avançados de conversão de documentos Visio para outros formatos de arquivo, como PNG, BMP, PDF e outros. Visio está disponível para Windows e Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ VSS são arquivos de estêncil criados com o Microsoft Visio 2007 e anterior. Um
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de metadados suportados" subTitle="Usando C#, pode-se manipular facilmente metadados de diferentes formatos, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Desenhos da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Desenhos" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio arquivo XML de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio arquivo de estêncil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio arquivo de modelo" >}}

@@ -2,7 +2,7 @@
 title: สร้างแผนผังองค์กรในเอกสาร VSDX ผ่าน .NET 
 weight: 3050
 url: /th/net/organizationchart/vsdx/ 
-description: C# ซอร์สโค้ดเพื่อสร้างแผนผังองค์กรในไฟล์ vsdx บน .NET Framework, .NET Core, Mono Platforms
+description: C# ซอร์สโค้ดเพื่อสร้างแผนผังองค์กรในไฟล์ vsdx ใน .NET Framework, .NET Core, Mono Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="สร้างแผนผังองค์กรใน VSDX ใน C#" h2="เนทีฟและมีประสิทธิภาพสูงสร้างแผนผังองค์กรในเอกสาร VSDX โดยใช้ API ฝั่งเซิร์ฟเวอร์ Aspose.Diagram for .NET โดยไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ Open Office, Adobe PDF" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมเอกสารพื้นฐานและการต่อกับ
+ การสร้างแผนผังองค์กรด้วย
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
 
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ - ติดตั้งจาก NuGet โดยใช้ปุ่มดาวน์โหลดด้านบน
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ - ติดตั้งจาก NuGet โดยใช้ปุ่มดาวน์โหลดด้านบน
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="สร้างแผนผังองค์กรใน VSDX ไฟล์ - C#" offSpacer="" %}}
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram คือการจัดการรูปแบบเอกสารของ Microsoft Visio API หนึ่งสามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นการทำงานแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
+ Aspose.Diagram คือการจัดการรูปแบบเอกสาร Microsoft Visio API สามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะสร้างแผนผังองค์กรสไตล์ CompactTree ในเอกสาร VSDX ฉบับทันที" >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-ไฟล์ที่มีนามสกุล .VSDX แสดงถึงรูปแบบไฟล์ Microsoft Visio ที่เปิดตัวจาก Microsoft Office 2013 เป็นต้นไป ได้รับการพัฒนาเพื่อแทนที่รูปแบบไฟล์ไบนารี .VSD ซึ่งรองรับโดย Microsoft Visio เวอร์ชันก่อนหน้า นอกจากนี้ยังได้รับการสนับสนุนบน Visio Services ใน Microsoft SharePoint Server 2013 และไม่ต้องการรูปแบบไฟล์ตัวกลางสำหรับการเผยแพร่ไปยัง SharePoint Server ไฟล์ Visio ใช้สำหรับสร้างภาพวาดที่มีออบเจ็กต์ที่มองเห็นได้ โฟลว์ชาร์ต ไดอะแกรม UML โฟลว์ข้อมูล แผนผังองค์กร ไดอะแกรมซอฟต์แวร์ เลย์เอาต์เครือข่าย โมเดลฐานข้อมูล การแมปออบเจ็กต์ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ 
+ไฟล์ที่มีนามสกุล .VSDX หมายถึง Microsoft Visio รูปแบบไฟล์ที่เริ่มใช้ตั้งแต่ Microsoft Office 2013 เป็นต้นไป ได้รับการพัฒนาเพื่อแทนที่รูปแบบไฟล์ไบนารี .VSD ซึ่งรองรับโดย Microsoft Visio เวอร์ชันก่อนหน้า นอกจากนี้ยังได้รับการสนับสนุนบน Visio Services ใน Microsoft SharePoint Server 2013 และไม่ต้องการรูปแบบไฟล์ตัวกลางสำหรับการเผยแพร่ไปยัง SharePoint Server ไฟล์ Visio ใช้สำหรับสร้างภาพวาดที่มีออบเจ็กต์ที่มองเห็นได้ โฟลว์ชาร์ต ไดอะแกรม UML โฟลว์ข้อมูล แผนผังองค์กร ไดอะแกรมซอฟต์แวร์ เลย์เอาต์เครือข่าย โมเดลฐานข้อมูล การแมปออบเจ็กต์ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

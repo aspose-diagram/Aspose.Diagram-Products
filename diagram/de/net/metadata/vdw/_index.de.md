@@ -2,7 +2,7 @@
 title: Anzeigen oder Bearbeiten von Metadaten von VDW-Dateien über .NET 
 weight: 3050
 url: /de/net/metadata/vdw/ 
-description: C#-Quellcode zum Bearbeiten oder Anzeigen von Metadaten im VDW-Format auf .NET Framework-, .NET Core-, Mono-Plattformen.
+description: C# Quellcode zum Bearbeiten oder Anzeigen von Metadaten im VDW-Format auf den Plattformen .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VDW-Metadaten in C# extrahieren" h2="Erstellen Sie Ihre eigenen .NET-Apps, um mithilfe serverseitiger APIs Metadaten aus VDW-Dateien hinzuzufügen, zu bearbeiten, zu entfernen oder zu extrahieren." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -78,7 +78,7 @@ Holen Sie sich DocumentProps von Diagram Objekt
 
     {{% blocks/products/pf/agp/content h2="Über Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram ist eine Manipulation des Microsoft Visio-Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
+ Aspose.Diagram ist eine Microsoft Visio Manipulation des Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
 
 
 
@@ -93,7 +93,7 @@ Holen Sie sich DocumentProps von Diagram Objekt
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort komprimiert und verkettet." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW ist das Visio Graphics Service-Dateiformat, das die Streams und Speicher angibt, die zum Rendern einer Webzeichnung erforderlich sind. Eine Webzeichnung ist eine Sammlung von Zeichenseiten, Formen, Schriftarten, Bildern, Datenverbindungen und Diagrammaktualisierungsinformationen, die als Vektor- oder Rasterzeichnung gerendert werden können. VDW-Dateien können auch in Microsoft Visio geöffnet werden, werden aber hauptsächlich für die Verwendung im Web gespeichert. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere. 
+VDW ist das Visio Graphics Service-Dateiformat, das die Streams und Speicher angibt, die zum Rendern einer Webzeichnung erforderlich sind. Eine Webzeichnung ist eine Sammlung von Zeichenseiten, Formen, Schriftarten, Bildern, Datenverbindungen und diagram Aktualisierungsinformationen, die als Vektor- oder Rasterzeichnung gerendert werden können. VDW-Dateien können auch in Microsoft Visio geöffnet werden, werden aber hauptsächlich für die Verwendung im Web gespeichert. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ VDW ist das Visio Graphics Service-Dateiformat, das die Streams und Speicher ang
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Metadatenformate" subTitle="Mit C# kann man leicht Metadaten verschiedener Formate bearbeiten, einschließlich." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio-Zeichnungen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Zeichnungen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio Zeichnungs-XML-Datei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio Schablonendatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio Vorlagendatei" >}}

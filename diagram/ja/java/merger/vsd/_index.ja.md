@@ -1,5 +1,5 @@
 ﻿---
-title: Javaを介してVSDファイルをマージ 
+title: Javaを介してVSDファイルをマージします 
 weight: 3600
 url: /ja/java/merger/vsd/ 
 description: JSP/JSFアプリケーションとデスクトップアプリケーションのJavaランタイム環境でVSDドキュメントを組み合わせるためのJavaサンプルコード。
@@ -52,11 +52,11 @@ description: JSP/JSFアプリケーションとデスクトップアプリケー
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="JavaのVSDファイルをマージする手順" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java内のVSDファイルをマージする手順" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- とマージおよび連結する基本的なドキュメント
+ マージおよび連結する基本的なドキュメント
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  APIは、ほんの数行のコードで実行できます。
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSD);
 
     {{% blocks/products/pf/agp/content h2="約Aspose.Diagramfor JavaAPI" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSD);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 即座にマージおよび連結されます。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-VSDファイルは、さまざまなグラフィカルオブジェクトとそれらの間の相互接続を表すためにMicrosoftVisioアプリケーションで作成された図面です。このような図面には、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、その他の同様の情報などのビジュアルオブジェクトを含めることができます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。 
+VSDファイルは、さまざまなグラフィックオブジェクトとそれらの間の相互接続を表すためにMicrosoftVisioアプリケーションで作成された図面です。このような図面には、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、その他の同様の情報などのビジュアルオブジェクトを含めることができます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,8 +129,8 @@ VSDファイルは、さまざまなグラフィカルオブジェクトとそ�
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているマージ形式" subTitle="Javaを使用すると、を含む他の多くのファイル形式をマージすることもできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visioグラフィックサービスファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="MicrosoftVisioの描画形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="MicrosoftVisio描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="MicrosoftVisio形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="ステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="MicrosoftVisioステンシルファイル" >}}

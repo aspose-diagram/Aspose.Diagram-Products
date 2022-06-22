@@ -15,8 +15,8 @@ description: Ejemplo de código de conversión Java para formato VST a archivo V
  Para renderizar VST a VSDX, usaremos
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, que es una plataforma de conversión API for Java rica en funciones, potente y fácil de usar. Puedes descargar su última versión directamente desde
- [Experto](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -102,7 +102,7 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteca de manipulación" %}}
 
- Aspose.Diagram es una manipulación de formato de documento Visio de Microsoft API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
+ Aspose.Diagram es una Microsoft Visio manipulación de formato de documento API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-Los archivos con extensión VST son archivos de imágenes vectoriales creados con Microsoft Visio y actúan como plantilla para crear más archivos. Estos archivos de plantilla están en formato de archivo binario y contienen el diseño y la configuración predeterminados que se utilizan para la creación de nuevos dibujos Visio. Cuando se abre un archivo VST en Microsoft Visio, contiene la configuración existente para continuar trabajando con el documento. En general, los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, diagramas UML, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros.
+Los archivos con extensión VST son archivos de imágenes vectoriales creados con Microsoft Visio y actúan como plantilla para crear más archivos. Estos archivos de plantilla están en formato de archivo binario y contienen el diseño y la configuración predeterminados que se utilizan para la creación de nuevos dibujos Visio. Cuando se abre un archivo VST en Microsoft Visio, contiene la configuración existente para continuar trabajando con el documento. En general, los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, UML diagram, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-Los archivos con la extensión .VSDX representan el formato de archivo de Microsoft Visio introducido desde Microsoft Office 2013 en adelante. Fue desarrollado para reemplazar el formato de archivo binario, .VSD, que es compatible con versiones anteriores de Microsoft Visio. También es compatible con Visio Services en Microsoft SharePoint Server 2013 y no requiere un formato de archivo intermedio para publicar en SharePoint Server. Los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, diagramas UML, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros.
+Los archivos con la extensión .VSDX representan el formato de archivo Microsoft Visio introducido desde Microsoft Office 2013 en adelante. Fue desarrollado para reemplazar el formato de archivo binario, .VSD, que es compatible con versiones anteriores de Microsoft Visio. También es compatible con Visio Servicios en Microsoft SharePoint Server 2013 y no requiere un formato de archivo intermedio para publicar en SharePoint Server. Los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, UML diagram, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,14 +140,14 @@ Los archivos con la extensión .VSDX representan el formato de archivo de Micros
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-png/" name="VST A PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-svg/" name="VST A SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="VST A TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST A VDX" description="Formato de dibujo de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST A VSDM" description="Formato de dibujo de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST A VSSM" description="Archivos de plantilla Visio de Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST A VDX" description="Microsoft Visio formato de dibujo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST A VSDM" description="Microsoft Visio formato de dibujo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST A VSSM" description="Microsoft Visio archivos de plantilla" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST A VSSX" description="Plantillas de dibujo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST A VSTM" description="Archivos de plantilla Visio de Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST A VSTX" description="Plantilla de dibujo de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST A VSTM" description="Microsoft Visio archivos de plantilla" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST A VSTX" description="Microsoft Visio plantilla de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST A VSX" description="plantillas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST A VTX" description="Plantilla de dibujo de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST A VTX" description="Microsoft Visio plantilla de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xaml/" name="VST A XAML" description="Lenguaje de marcado de aplicaciones extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xps/" name="VST A XPS" description="Especificaciones de papel XML" >}}
 

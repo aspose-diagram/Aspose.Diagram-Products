@@ -2,7 +2,7 @@
 title: Skompresuj VSDX dokument przez .NET 
 weight: 3050
 url: /pl/net/compress/vsdx/ 
-description: C# kod źródłowy do kompresji pliku vsdx na .NET Framework, .NET Core, Mono Platforms.
+description: C# kod źródłowy do skompresowania pliku vsdx na platformach .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Kompresuj VSDX w C#" h2="Natywny i wysokowydajny kompresor dokumentów VSDX wykorzystujący interfejsy API Aspose.Diagram for .NET po stronie serwera, bez użycia oprogramowania takiego jak Microsoft lub Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -79,7 +79,7 @@ Użyj funkcji RemoveHiddenInformation użytkownika Diagram
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -94,7 +94,7 @@ Użyj funkcji RemoveHiddenInformation użytkownika Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie natychmiast skompresowany i połączony." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-Pliki z rozszerzeniem .VSDX reprezentują format plików Microsoft Visio wprowadzony od Microsoft Office 2013 i nowszych. Został opracowany w celu zastąpienia formatu pliku binarnego .VSD, który jest obsługiwany przez wcześniejsze wersje firmy Microsoft Visio. Jest również obsługiwana w Visio Usługach w Microsoft SharePoint Server 2013 i nie wymaga pośredniego formatu pliku do publikowania na SharePoint Server. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. 
+Pliki z rozszerzeniem .VSDX reprezentują format pliku Microsoft Visio wprowadzony od Microsoft Office 2013 r. Został opracowany w celu zastąpienia formatu pliku binarnego .VSD, który jest obsługiwany przez wcześniejsze wersje Microsoft Visio. Jest również obsługiwany w usługach Visio w Microsoft SharePoint Server 2013 i nie wymaga pośredniego formatu pliku do publikowania na serwerze SharePoint. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,7 +104,7 @@ Pliki z rozszerzeniem .VSDX reprezentują format plików Microsoft Visio wprowad
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty kompresji" subTitle="Używając C#, można łatwo kompresować różne formaty, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="VSD" description="Rysunki Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="Vsd" description="Microsoft Visio Rysunki" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vdx/" name="Vdx" description="Visio plik XML rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssx/" name="VSSX" description="Visio plik szablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstx/" name="VSTX" description="Visio plik szablonu" >}}

@@ -2,7 +2,7 @@
 title: "A VSDX fájlok metaadatainak megtekintése vagy szerkesztése a következőn keresztül: .NET "
 weight: 3050
 url: /hu/net/metadata/vsdx/ 
-description: C# forráskód a VSDX formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono Platforms felületeken.
+description: C# forráskód a VSDX formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A(z) VSDX metaadatok kibontása a(z) C# mappában" h2="Készítse el saját .NET alkalmazásait, amellyel metaadatokat adhat hozzá, szerkeszthet, távolíthat el vagy bonthat ki VSDX fájlokból szerveroldali API-k segítségével." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -59,7 +59,7 @@ A(z) Diagram objektum DocumentProps lekérése
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM Interop funkcióval- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET A projektben hivatkozott DLL-re – Telepítse a NuGetből a fenti Letöltés gomb segítségével
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM-együttműködéssel- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET DLL-re hivatkozik a projektben – Telepítse innen: NuGet a fenti Letöltés gombbal
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDX metaadatok kinyerése – C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ A(z) Diagram objektum DocumentProps lekérése
 
     {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyedén betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges Microsoft Visio vagy más szoftver telepítése.  
+ A Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyen betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges a Microsoft Visio vagy más szoftver telepítése.  
 
 
 
@@ -93,7 +93,7 @@ A(z) Diagram objektum DocumentProps lekérése
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal tömörítésre és összefűzésre kerül." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-A .VSDX kiterjesztésű fájlok a Microsoft Office 2013-tól kezdődően bevezetett Microsoft Visio fájlformátumot képviselik. A bináris fájlformátum, a .VSD helyettesítésére fejlesztették ki, amelyet a Microsoft Visio korábbi verziói támogatnak. A Microsoft SharePoint Server 2013 Visio szolgáltatásai is támogatják, és nem igényel közvetítő fájlformátumot a SharePoint Serveren való közzétételhez. A Visio fájlokat vizuális objektumokat, folyamatábrákat, UML-diagramokat, információáramlást, szervezeti diagramokat, szoftverdiagramokat, hálózati elrendezést, adatbázis-modelleket, objektumleképezést és más hasonló információkat tartalmazó rajzok létrehozására használjuk. A Visio használatával generált fájlok exportálhatók különböző fájlformátumokba is, például PNG, BMP, PDF és más formátumokba. 
+.VSDX kiterjesztésű fájlok Microsoft Visio fájlformátumot képviselnek, amelyet 2013-tól kezdve vezettünk be: Microsoft Office. A bináris fájlformátum, a .VSD helyettesítésére fejlesztették ki, amelyet a Microsoft Visio korábbi verziói támogatnak. A SharePoint Server 2013 Visio szolgáltatásai is támogatják, és nincs szükség közvetítő fájlformátumra a SharePoint Serveren való közzétételhez. A Visio fájlok vizuális objektumokat, folyamatábrákat, UML-t diagram, információáramlást, szervezeti diagramokat, szoftverdiagramokat, hálózati elrendezést, adatbázis-modelleket, objektumleképezést és más hasonló információkat tartalmazó rajzok létrehozására szolgálnak. A Visio használatával generált fájlok különböző fájlformátumokba is exportálhatók, például PNG, BMP, PDF és mások. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ A .VSDX kiterjesztésű fájlok a Microsoft Office 2013-tól kezdődően bevezet
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott metaadat-formátumok" subTitle="A C# használatával könnyen kezelhetők a különböző formátumok metaadatai, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio rajzok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Rajzok" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio rajz XML fájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio sablonfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio sablonfájl" >}}

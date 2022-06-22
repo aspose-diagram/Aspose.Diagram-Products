@@ -14,8 +14,8 @@ description: VSS에서 SVG로의 C# 변환을 위한 샘플 코드입니다. VB.
 
  VSS를 SVG로 변환하려면 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환API입니다. 열려 있는
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  Aspose.Diagram 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Microsoft Visio 파일과 함께 작동하도록 특별히 설계된 Diagram 관리 라이브러리. 이를 통해 개발자는 기본 Visio 형식을 생성, 조작 및 변환할 수 있습니다. 개발자는 다이어그램을 처음부터 생성할 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 다이어그램의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.
+ Microsoft Visio 파일과 함께 작동하도록 특별히 설계된 Diagram 관리 라이브러리. 이를 통해 개발자는 기본 Visio 형식을 생성, 조작 및 변환할 수 있습니다. 개발자는 다이어그램을 처음부터 만들 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 diagram의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 개체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은 Windows와 Mac OS 모두에서 사용할 수 있습니다.
+VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013년에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 객체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은(는) Windows와 Mac OS 모두에서 사용할 수 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-png/" name="VSS에서 PNG로" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-swf/" name="VSS에서 SWF로" description="SWF 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-tiff/" name="VSS에서 TIFF로" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vdx/" name="VSS에서 VDX로" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdm/" name="VSDM에서 VSDM으로" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vdx/" name="VSS TO VDX" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdm/" name="VSS TO VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="VSS TO VSDX" description="Microsoft Visio 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="VSS에서 VSSM으로" description="Microsoft Visio 스텐실 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssx/" name="VSS에서 VSSX로" description="드로잉 스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="VSTM에서 VSTM으로" description="Microsoft Visio 템플릿 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="VSS에서 VSTX로" description="Microsoft Visio 도면 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsx/" name="VSS에서 VSX로" description="스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS에서 VTX로" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="VSS TO VSSM" description="Microsoft Visio 스텐실 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssx/" name="VSS TO VSSX" description="드로잉 스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="VSS TO VSTM" description="Microsoft Visio 템플릿 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="VSS TO VSTX" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsx/" name="VSS TO VSX" description="스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS TO VTX" description="Microsoft Visio 도면 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xaml/" name="VSS에서 XAML로" description="확장 가능한 애플리케이션 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xps/" name="VSS에서 XPS로" description="XML 용지 사양" >}}
 

@@ -71,7 +71,7 @@ description: Przykładowy kod konwersji Java dla formatu VSDX do pliku XPS. Uży
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od firmy Maven.
+- Microsoft Windows lub zgodny system operacyjny z Java środowiskiem wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDX do XPS Java Kod źródłowy konwersji" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteka manipulacji" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-Pliki z rozszerzeniem .VSDX reprezentują format plików Microsoft Visio wprowadzony od Microsoft Office 2013 i nowszych. Został opracowany w celu zastąpienia formatu pliku binarnego .VSD, który jest obsługiwany przez wcześniejsze wersje firmy Microsoft Visio. Jest również obsługiwana w Visio Usługach w Microsoft SharePoint Server 2013 i nie wymaga pośredniego formatu pliku do publikowania na SharePoint Server. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
+Pliki z rozszerzeniem .VSDX reprezentują format pliku Microsoft Visio wprowadzony od Microsoft Office 2013 r. Został opracowany w celu zastąpienia formatu pliku binarnego .VSD, który jest obsługiwany przez wcześniejsze wersje Microsoft Visio. Jest również obsługiwany w usługach Visio w Microsoft SharePoint Server 2013 i nie wymaga pośredniego formatu pliku do publikowania na serwerze SharePoint. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
 
-Plik XPS reprezentuje pliki układu strony oparte na specyfikacjach papieru XML utworzonych przez firmę Microsoft. Ten format został opracowany przez firmę Microsoft jako zamiennik formatu pliku EMF i jest podobny do formatu pliku PDF, ale wykorzystuje XML w układzie, wyglądzie i drukowaniu dokumentu. W rzeczywistości bardziej uzasadnione jest stwierdzenie, że XPS jest próbą wykorzystania PDF, ale z wielu powodów nie mógł uzyskać wystarczającej popularności jako własność PDF. Firma Microsoft domyślnie udostępnia narzędzie XPS Document Writer od systemu Windows 7 do tworzenia plików XPS. Pliki XPS można generować, wybierając „Microsoft XPS Document Writer” jako drukarkę podczas drukowania dokumentu.
+Plik XPS reprezentuje pliki układu strony oparte na specyfikacjach papieru XML utworzonych przez Microsoft. Ten format został opracowany przez Microsoft jako zamiennik formatu pliku EMF i jest podobny do formatu pliku PDF, ale wykorzystuje XML w układzie, wyglądzie i drukowaniu dokumentu. W rzeczywistości bardziej uzasadnione jest stwierdzenie, że XPS jest próbą wykorzystania PDF, ale z wielu powodów nie mógł uzyskać wystarczającej popularności jako własność PDF. Microsoft domyślnie udostępnia narzędzie XPS Document Writer od systemu Windows 7 do tworzenia plików XPS. Pliki XPS można generować, wybierając „Microsoft XPS Document Writer” jako drukarkę podczas drukowania dokumentu.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -142,12 +142,12 @@ Plik XPS reprezentuje pliki układu strony oparte na specyfikacjach papieru XML 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-tiff/" name="VSDX DO TIFF" description="Oznaczony format obrazu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX DO VDX" description="Microsoft Visio Format rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsdm/" name="VSDX DO VSDM" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX DO VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX DO VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssx/" name="VSDX DO VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX DO VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX DO VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX DO VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsx/" name="VSDX DO VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX DO VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX DO VTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xaml/" name="VSDX DO XAML" description="Rozszerzalny język znaczników aplikacji" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

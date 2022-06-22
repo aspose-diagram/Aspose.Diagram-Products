@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.    
+Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft AP
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Quindi salva e scarica." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS sono file stencil creati con Microsoft Visio 2007 e versioni precedenti. Un formato di file relativamente nuovo è .VSSX, introdotto con Microsoft Visio 2013. I file stencil forniscono oggetti di disegno che possono essere inclusi in un disegno .VSD Visio. Microsoft Visio stesso è noto per la creazione di elementi di disegno come raccolta di forme, connettori, diagrammi di flusso, layout di rete, diagrammi UML, diagrammi software, modelli di database, mappatura di oggetti e altre informazioni simili. Dispone inoltre di funzionalità avanzate di conversione di Visio documenti in altri formati di file come PNG, BMP, PDF e altri. Visio è disponibile sia per Windows che per Mac OS. 
+VSS sono file stencil creati con Microsoft Visio 2007 e precedenti. Un formato di file relativamente nuovo è .VSSX, introdotto con Microsoft Visio 2013. I file stencil forniscono oggetti di disegno che possono essere inclusi in un disegno .VSD Visio. Microsoft Visio stesso è noto per la creazione di elementi di disegno come raccolta di forme, connettori, diagrammi di flusso, layout di rete, diagrammi UML, diagrammi software, modelli di database, mappatura di oggetti e altre informazioni simili. Dispone inoltre di funzionalità avanzate di conversione di Visio documenti in altri formati di file come PNG, BMP, PDF e altri. Visio è disponibile sia per Windows che per Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

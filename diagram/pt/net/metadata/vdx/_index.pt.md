@@ -12,10 +12,10 @@ description: C# código-fonte para editar ou visualizar metadados de formato VDX
 
 {{% blocks/products/pf/agp/content h2="Como extrair metadados VDX usando C#" %}}
 
- Para extrair os metadados do VDX, usaremos
+ Para extrair metadados VDX, usaremos
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API que é uma plataforma de manipulação e mesclagem de documentos rica em recursos, poderosa e fácil de usar API para C#. Aberto
- [NuGetName](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  gerenciador de pacotes, procure
  **Aspose.Diagram** 
  e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Etapas para extrair metadados VDX em C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Etapas para extrair metadados de VDX em C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -59,10 +59,10 @@ Obter DocumentProps do objeto Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou COM Interop- Ambiente de desenvolvimento como o Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale do NuGet usando o botão Download acima
+- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou COM Interop- Ambiente de desenvolvimento como Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale de NuGet usando o botão Download acima
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Extraindo metadados VDX - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Extraindo metadados de VDX - C#" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-Diagrams-AccessingDocumentProperties.cs" >}}
 
@@ -78,7 +78,7 @@ Obter DocumentProps do objeto Diagram
 
     {{% blocks/products/pf/agp/content h2="Sobre Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagrama e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
+ Aspose.Diagram é uma manipulação de formato de documento Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagramas e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
 
 
 
@@ -86,14 +86,14 @@ Obter DocumentProps do objeto Diagram
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Extrair metadados do VDX via aplicativo online" sectionDescription="Visualize e edite metadados para documentos VDX visitando nosso [Site de demonstrações ao vivo](https://products.aspose.app/diagram/metadata). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Extraia metadados de VDX via aplicativo online" sectionDescription="Visualize e edite metadados para VDX documentos visitando nosso [Site de demonstrações ao vivo](https://products.aspose.app/diagram/metadata). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos VDX." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus VDX arquivos." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ele será compactado e concatenado instantaneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/visio/vdx/" >}}
-Qualquer desenho ou gráfico criado no Microsoft Visio, mas salvo no formato XML, tem extensão .VDX. Um arquivo XML de desenho Visio é criado no software Visio, desenvolvido pela Microsoft. A Microsoft Visio tem a capacidade de gerar documentos visuais que podem ser usados em apresentações e documentos. O arquivo XML de desenho Visio contém os objetos visuais e detalhes de metadados dos elementos visuais. O texto também pode ser adicionado a esses elementos visuais Arquivo XML de desenho de visão. Esses Visio arquivos XML de desenho são integrados com padrões de formatação baseados em XML e especificações de codificação de dados de imagem que permitem que seu conteúdo seja renderizado e armazenado pelo software Microsoft Visio no formato de arquivo VDX. 
+Qualquer desenho ou gráfico criado em Microsoft Visio, mas salvo no formato XML, tem extensão .VDX. Um arquivo XML de desenho Visio é criado no software Visio, que é desenvolvido por Microsoft. Microsoft Visio tem a capacidade de gerar documentos visuais que podem ser usados em apresentações e documentos. O arquivo XML de desenho Visio contém os objetos visuais e detalhes de metadados dos elementos visuais. O texto também pode ser adicionado a esses elementos visuais Arquivo XML de desenho de visão. Esses Visio arquivos XML de desenho são integrados com padrões de formatação baseados em XML e especificações de codificação de dados de imagem que permitem que seu conteúdo seja renderizado e armazenado pelo software Microsoft Visio no formato de arquivo VDX. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ Qualquer desenho ou gráfico criado no Microsoft Visio, mas salvo no formato XML
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de metadados suportados" subTitle="Usando C#, pode-se manipular facilmente metadados de diferentes formatos, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Desenhos da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Desenhos" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio arquivo de estêncil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio arquivo de modelo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsdm/" name="VSDM" description="Visio arquivo de desenho habilitado para macro" >}}

@@ -2,7 +2,7 @@
 title: Javaを介してVSDMをSVGに変換します 
 weight: 1010
 url: /ja/java/conversion/vsdm-to-svg/ 
-description: VSDM形式からSVGファイルへのサンプルJava変換コード。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でVSDMをSVGに変換します。
+description: VSDM形式のサンプルJava変換コードからSVGファイルへ。このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でVSDMをSVGに変換します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javaを介してVSDMをSVGに変換します" h2="ネイティブJavaライブラリを使用してMicrosoftVisioVSDMをSVGにエクスポートします。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSDM" >}}
@@ -60,7 +60,7 @@ description: VSDM形式からSVGファイルへのサンプルJava変換コー�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Diagramクラスのインスタンスを含むVSDMファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとして使用してDiagram.saveメソッドを呼び出します1. SVGファイルは指定されたパスに保存されます
+1. Diagramクラスのインスタンスを含むVSDMファイルをロードします1. 出力ファイルパスとSaveFileFormatをパラメーターとしてDiagram.saveメソッドを呼び出します1. SVGファイルは指定されたパスに保存されます
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}
@@ -71,7 +71,7 @@ description: VSDM形式からSVGファイルへのサンプルJava変換コー�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを入手します。
+- MicrosoftWindowsまたはJSP/JSFアプリケーションおよびデスクトップアプリケーション用のJavaランタイム環境と互換性のあるOS。- Mavenから直接Aspose.Diagramfor Javaの最新バージョンを取得します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDMからSVGJavaへの変換ソースコード" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.svg", SaveFileFormat.SVG);
 
     {{% blocks/products/pf/agp/content h2="JavaDiagram操作ライブラリ" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.svg", SaveFileFormat.SVG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
 
-VSDM拡張子の付いたファイルは、マクロをサポートするMicrosoftVisioアプリケーションで作成された描画ファイルです。 VSDMファイルは、VSDXに似たOPC / XML図面ですが、ファイルを開いたときにマクロを実行する機能も提供します。マクロは、Visual Basic for Applications（VBA）で開発されたユーザー定義のアクション/ステップであり、反復的なタスクを実行するために使用できます。 VSDMファイル形式は、Microsoft Visio 2013の発売時に導入されました。Visioファイルは、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織チャート、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトのマッピングおよびその他の同様の情報。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。
+拡張子がVSDMのファイルは、マクロをサポートするMicrosoftVisioアプリケーションで作成された描画ファイルです。 VSDMファイルはVSDXに似たOPC/XML図面ですが、ファイルを開いたときにマクロを実行する機能も提供します。マクロは、Visual Basic for Applications（VBA）で開発されたユーザー定義のアクション/ステップであり、反復的なタスクを実行するために使用できます。 VSDMファイル形式は、Microsoft Visio 2013のリリースで導入されました。Visioファイルは、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェア図を含む図面を作成するために使用されます。ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}
 
-SVGファイルは、画像の外観を記述するためにXMLベースのテキスト形式を使用するScalableVectorGraphicsファイルです。スケーラブルという言葉は、SVGが品質を損なうことなくさまざまなサイズにスケーリングできるという事実を指します。このようなファイルのテキストベースの説明により、解像度に依存しなくなります。これは、スケーラビリティを実現するためにWebサイトや印刷グラフィックを構築するために最もよく使用される形式の1つです。ただし、この形式は2次元グラフィックスにのみ使用できます。 SVGファイルは、Chrome、Internet Explorer、Firefox、Safariを含むほとんどすべての最新のブラウザーで表示/開くことができます。
+SVGファイルは、画像の外観を記述するためにXMLベースのテキスト形式を使用するScalableVectorGraphicsファイルです。スケーラブルという言葉は、SVGが品質を損なうことなくさまざまなサイズにスケーリングできるという事実を指します。このようなファイルのテキストベースの説明により、解像度に依存しなくなります。これは、スケーラビリティを実現するためにWebサイトや印刷グラフィックを構築するために最もよく使用される形式の1つです。ただし、この形式は2次元グラフィックスにのみ使用できます。 SVGファイルは、Chrome、Internet Explorer、Firefox、Safariなどのほとんどすべての最新のブラウザで表示/開くことができます。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,16 +130,16 @@ SVGファイルは、画像の外観を記述するためにXMLベースのテ�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="VSDMを、以下にリストされているいくつかを含む他の多くのファイル形式に変換することもできます。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="VSDMを、以下にリストされているものを含む他の多くのファイル形式に変換することもできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-bmp/" name="VSDMからBMP" description="ビットマップ画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-emf/" name="VSDMからEMF" description="強化されたメタファイル形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-emf/" name="VSDMEMFへ" description="強化されたメタファイル形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-html/" name="VSDMからHTMLへ" description="ハイパーテキストマークアップ言語" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-jpeg/" name="VSDMからJPEG" description="JPEG画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-pdf/" name="VSDMからPDFへ" description="ポータブルドキュメントフォーマット" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-png/" name="VSDMからPNGへ" description="ポータブルネットワークグラフィックス" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-tiff/" name="VSDMからTIFF" description="タグ付き画像形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vdx/" name="VSDMからVDX" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-png/" name="VSDMからPNG" description="ポータブルネットワークグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-tiff/" name="VSDM TO TIFF" description="タグ付き画像フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vdx/" name="VSDMからVDX" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vsdx/" name="VSDMからVSDX" description="MicrosoftVisio形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vssm/" name="VSDMからVSSM" description="MicrosoftVisioステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vssx/" name="VSDMからVSSX" description="ステンシルの描画" >}}
@@ -147,8 +147,8 @@ SVGファイルは、画像の外観を記述するためにXMLベースのテ�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vstx/" name="VSDMからVSTX" description="MicrosoftVisio図面テンプレート" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vsx/" name="VSDMからVSX" description="ステンシル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-vtx/" name="VSDMからVTX" description="MicrosoftVisio図面テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-xaml/" name="VSDMからXAML" description="拡張可能なアプリケーションマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-xps/" name="VSDMからXPS" description="XML用紙仕様" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-xaml/" name="VSDMからXAMLへ" description="拡張可能なアプリケーションマークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdm-to-xps/" name="VSDMからXPS" description="XML紙の仕様" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

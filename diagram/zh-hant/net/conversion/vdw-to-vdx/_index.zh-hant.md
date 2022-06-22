@@ -2,7 +2,7 @@
 title: 通過 C# 將 VDW 轉換為 VDX 
 weight: 2390
 url: /zh-hant/net/conversion/vdw-to-vdx/ 
-description: VDW 到 VDX C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 VDW 文件批量轉換為 VDX。
+description: VDW 到 VDX C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼批量 VDW 文件到 VDX 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通過 C# 將 VDW 轉換為 VDX" h2="將 Microsoft® Visio VDW 文件導出到 .NET Framework、.NET Core、Mono 或 COM Interop 上的 VDX。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VDX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDW" >}}
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 使用 Diagram 類的實例加載 VDW 文件1. 使用輸出文件路徑和 SaveFileFormat.VDX 作為參數調用 Diagram.Save 方法1. VDX文件將保存在指定路徑
+1. 使用 Diagram 類的實例加載 VDW 文件1. 使用輸出文件路徑和 SaveFileFormat.VDX 作為參數調用 Diagram.Save 方法1. VDX 文件將保存在指定路徑
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系統要求" %}}
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="將 VDW 轉換為 VDX 的免費應用程序" sectionDescription="查看我們的現場演示 [VDW 到 VDX 轉換](https://products.aspose.app/diagram/conversion/vdw-to-vdx) 具有以下好處。" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="將 VDW 轉換為 VDX 的免費應用程序" sectionDescription="查看我們的現場演示 [VDW 到 VDX 的轉換](https://products.aspose.app/diagram/conversion/vdw-to-vdx) 具有以下好處。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載或設置任何東西。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 無需編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 VDW 文件並點擊“轉換”按鈕。" >}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 專門設計用於處理 Microsoft Visio 文件的 Diagram 管理庫。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作圖表元素以將結果導出為其他格式。
+ 專門設計用於處理 Microsoft Visio 文件的 Diagram 管理庫。它允許開發人員創建、操作和轉換原生 Visio 格式。開發人員可以從頭開始創建圖表，也可以輕鬆加載現有文件並操作 diagram 的元素以其他格式導出結果。
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW 是 Visio 圖形服務文件格式，它指定呈現 Web 繪圖所需的流和存儲。 Web 繪圖是繪圖頁面、形狀、字體、圖像、數據連接和圖表更新信息的集合，可以呈現為矢量或光柵繪圖。 VDW 文件也可以在 Microsoft Visio 中打開，但主要保存在 Web 上使用。 Microsoft Visio 提供將 Visio 文件轉換為多種不同文件格式的功能，包括 PNG、BMP、PDF 等。
+VDW 是 Visio 圖形服務文件格式，它指定呈現 Web 繪圖所需的流和存儲。 Web 繪圖是繪圖頁面、形狀、字體、圖像、數據連接和diagram更新信息的集合，可以呈現為矢量或光柵繪圖。 VDW 文件也可以在 Microsoft Visio 中打開，但主要保存在網絡上使用。 Microsoft Visio 能夠將 Visio 文件轉換為多種不同的文件格式，包括 PNG、BMP、PDF 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vdx" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-在 Microsoft Visio 中創建但以 XML 格式保存的任何繪圖或圖表都具有 .VDX 擴展名。 Visio 繪圖 XML 文件是在 Microsoft 開發的 Visio 軟件中創建的。 Microsoft Visio 能夠生成可用於演示文稿和文檔的可視文檔。 Visio 繪圖 XML 文件包含視覺對象和視覺元素的元數據詳細信息。文本也可以添加到這些視覺元素視覺繪圖 XML 文件中。這些 Visio 繪圖 XML 文件與基於 XML 的格式標準和圖像數據編碼規範集成，允許其內容由 Microsoft Visio 軟件以 VDX 文件格式呈現和存儲。
+在 Microsoft Visio 中創建但以 XML 格式保存的任何繪圖或圖表都具有 .VDX 擴展名。在 Microsoft 開發的 Visio 軟件中創建 Visio 繪圖 XML 文件。 Microsoft Visio 能夠生成可用於演示文稿和文檔的可視文檔。 Visio 繪圖 XML 文件包含視覺對象和視覺元素的元數據詳細信息。文本也可以添加到這些視覺元素視覺繪圖 XML 文件中。這些 Visio 繪圖 XML 文件與基於 XML 的格式化標準和圖像數據編碼規範相集成，允許 Microsoft Visio 軟件以 VDX 文件格式呈現和存儲其內容。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,14 +113,14 @@ VDW 是 Visio 圖形服務文件格式，它指定呈現 Web 繪圖所需的流�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-svg/" name="VDW 轉 SVG" description="可縮放矢量圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-swf/" name="VDW 轉 SWF" description="SWF 格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-tiff/" name="VDW 轉 TIFF" description="標記圖像格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW 到 VSDM" description="Microsoft Visio 繪圖格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW 至 VSDX" description="微軟Visio格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW 到 VSSM" description="Microsoft Visio 模具文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW 到 VSSX" description="繪圖模具" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW 轉 VSTM" description="Microsoft Visio 模板文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW 到 VSTX" description="Microsoft Visio 繪圖模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW 轉 VSX" description="模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW 轉 VTX" description="Microsoft Visio 繪圖模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW 至 VSDM" description="Microsoft Visio 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW 至 VSDX" description="Microsoft Visio 格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW 至 VSSM" description="Microsoft Visio 模板文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW 至 VSSX" description="繪圖模具" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW 至 VSTM" description="Microsoft Visio 模板文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW 至 VSTX" description="Microsoft Visio 繪圖模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW 至 VSX" description="模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW 至 VTX" description="Microsoft Visio 繪圖模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW 到 XAML" description="可擴展的應用程序標記語言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xps/" name="VDW 轉 XPS" description="XML 紙張規格" >}}
 

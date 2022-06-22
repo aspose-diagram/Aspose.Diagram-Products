@@ -2,7 +2,7 @@
 title: Pisahkan VSDX Berkas melalui .NET 
 weight: 1300
 url: /id/net/splitter/vsdx/ 
-description: C# kode sumber untuk Membagi file vsdx pada .NET Framework, .NET Core, Mono Platforms.
+description: C# kode sumber untuk Membagi file vsdx di .NET Framework, .NET Inti, Mono Platform.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Pisahkan VSDX menjadi C#" h2="Pemisah dokumen VSDX asli dan berkinerja tinggi menggunakan Aspose.Diagram for .NET API sisi server, tanpa menggunakan perangkat lunak apa pun seperti Microsoft atau Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ Ulangi setiap halaman
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -91,11 +91,11 @@ Ulangi setiap halaman
         {{< blocks/products/pf/agp/demobox sectionTitle="Online VSDX Demo Langsung Terpisah" sectionDescription="Pisahkan VSDX dokumen sekarang dengan mengunjungi [Situs web Demo Langsung](https://products.aspose.app/diagram/splitter). Demo langsung memiliki manfaat sebagai berikut" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file VSDM Anda." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah VSDM file Anda." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ini akan dikompresi dan digabungkan secara instan." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-File dengan ekstensi .VSDX mewakili format file Microsoft Visio yang diperkenalkan dari Microsoft Office 2013 dan seterusnya. Ini dikembangkan untuk menggantikan format file biner, .VSD, yang didukung oleh versi Microsoft Visio sebelumnya. Ini juga didukung di Visio Layanan di Microsoft SharePoint Server 2013 dan tidak memerlukan format file perantara untuk penerbitan ke SharePoint Server. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya. 
+Berkas dengan ekstensi .VSDX mewakili format berkas Microsoft Visio yang diperkenalkan mulai Microsoft Office 2013 dan seterusnya. Ini dikembangkan untuk menggantikan format file biner, .VSD, yang didukung oleh versi Microsoft Visio sebelumnya. Ini juga didukung di Visio Layanan di Microsoft SharePoint Server 2013 dan tidak memerlukan format file perantara untuk penerbitan ke SharePoint Server. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

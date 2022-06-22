@@ -2,7 +2,7 @@
 title: Konvertera VSSM till PDF via Java 
 weight: 4250
 url: /sv/java/conversion/vssm-to-pdf/ 
-description: Exempel Java-konverteringskod för VSSM-format till PDF-fil. Använd den här exempelkoden för att konvertera VSSM till PDF i valfri webb- eller datorbaserad applikation Java.
+description: Exempel på Java-konverteringskod för VSSM-format till PDF-fil. Använd den här exempelkoden för att konvertera VSSM till PDF i valfri webb- eller datorbaserad applikation Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera VSSM till PDF via Java" h2="Exportera Microsoft Visio VSSM till PDF med inbyggt Java-bibliotek." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSM" >}}
@@ -60,7 +60,7 @@ description: Exempel Java-konverteringskod för VSSM-format till PDF-fil. Använ
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Ladda VSSM-fil med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. PDF-filen kommer att sparas på den angivna sökvägen
+1. Ladda filen VSSM med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. PDF-filen kommer att sparas på den angivna sökvägen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
@@ -74,7 +74,7 @@ description: Exempel Java-konverteringskod för VSSM-format till PDF-fil. Använ
 - Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.- Hämta den senaste versionen av Aspose.Diagram for Java direkt från Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSSM till PDF Java Källkod för konvertering" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSSM till PDF Java Källkod för omvandling" offSpacer="" %}}
 
 ```cs
 // ladda VSSM i ett objekt av Diagram 
@@ -94,7 +94,7 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VSSM till PDF-konvertering Live Demos" sectionDescription="[Konvertera VSSM till PDF](https://products.aspose.app/diagram/conversion/vssm-to-pdf) just nu genom att besöka vår Live Demos-webbplats. Livedemon har följande fördelar" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Livedemonstrationer för konvertering av VSSM till PDF" sectionDescription="[Konvertera VSSM till PDF](https://products.aspose.app/diagram/conversion/vssm-to-pdf) just nu genom att besöka vår Live Demos-webbplats. Livedemon har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ned Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSSM-fil, den konverteras omedelbart till PDF." >}}
@@ -102,7 +102,7 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulationsbibliotek" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-Filer med filtillägget .VSSM är Microsoft Visio-stencilfiler som stöder ger stöd för makron. En VSSM-fil när den öppnas gör det möjligt att köra makron för att uppnå önskad formatering och placering av former i ett diagram. I allmänhet är Microsoft Visio ritprogram som gör det möjligt att skapa filer som kan innehålla och representera användardefinierad information i olika former. De vanligaste av dessa inkluderar, men inte begränsat till, UML-diagram, flödesscheman, visuella objekt, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också konverteras till olika filformat som PNG, BMP, PDF och andra.
+Filer med tillägget .VSSM är Microsoft Visio stencilfiler som stöder ger stöd för makron. En VSSM-fil när den öppnas gör det möjligt att köra makron för att uppnå önskad formatering och placering av former i en diagram. I allmänhet är Microsoft Visio ritprogram som gör det möjligt att skapa filer som kan innehålla och representera användardefinierad information i olika former. De vanligaste av dessa inkluderar, men inte begränsat till, UML-diagram, flödesscheman, visuella objekt, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också konverteras till olika filformat som PNG, BMP, PDF och andra.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/view/pdf/" >}}
 
-Portable Document Format (PDF) är en typ av dokument som skapades av Adobe redan på 1990-talet. Syftet med detta filformat var att införa en standard för representation av dokument och annat referensmaterial i ett format som är oberoende av applikationsprogramvara, hårdvara samt operativsystem. PDF-filer kan öppnas i Adobe Acrobat Reader/Writer samt i de flesta moderna webbläsare som Chrome, Safari, Firefox via tillägg/plugin-program. De flesta av de kommersiellt tillgängliga programvarupaketen erbjuder även konvertering av sina dokument till PDF-filformat utan krav på någon ytterligare programvarukomponent. Således har PDF-filformatet full förmåga att innehålla information som text, bilder, hyperlänkar, formulärfält, rich media, digitala signaturer, bilagor, metadata, geospatiala funktioner och 3D-objekt i det som kan bli en del av källdokumentet.
+Portable Document Format (PDF) är en typ av dokument som skapades av Adobe redan på 1990-talet. Syftet med detta filformat var att införa en standard för representation av dokument och annat referensmaterial i ett format som är oberoende av applikationsprogramvara, hårdvara samt operativsystem. PDF-filer kan öppnas i Adobe Acrobat Reader/Writer samt i de flesta moderna webbläsare som Chrome, Safari, Firefox via tillägg/plugin-program. De flesta av de kommersiellt tillgängliga programvarupaketen erbjuder också konvertering av sina dokument till PDF-filformat utan krav på någon ytterligare programvarukomponent. Således har PDF-filformatet full förmåga att innehålla information som text, bilder, hyperlänkar, formulärfält, rich media, digitala signaturer, bilagor, metadata, geospatiala funktioner och 3D-objekt i det som kan bli en del av källdokumentet.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,7 +130,7 @@ Portable Document Format (PDF) är en typ av dokument som skapades av Adobe reda
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera VSSM till många andra filformat inklusive några som anges nedan." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera VSSM till många andra filformat, inklusive några som anges nedan." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-bmp/" name="VSSM TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-emf/" name="VSSM TILL EMF" description="Förbättrat metafilformat" >}}
@@ -141,12 +141,12 @@ Portable Document Format (PDF) är en typ av dokument som skapades av Adobe reda
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-tiff/" name="VSSM TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM TILL VDX" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM TILL VSDX" description="Microsoft Visio-format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM TILL VSDX" description="Microsoft Visio Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="VSSM TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xaml/" name="VSSM TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xps/" name="VSSM TILL XPS" description="XML-pappersspecifikationer" >}}
 

@@ -77,7 +77,7 @@ description: Java przykładowy kod do łączenia dokumentów VDW w Java środowi
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows lub zgodny system operacyjny z Java środowiskiem wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VDW);
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -111,14 +111,14 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VDW);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Internetowe demonstracje fuzji VDW na żywo" sectionDescription="Scal dokumenty VDW już teraz, odwiedzając nasze [Witryna demonstracyjna na żywo](https://products.aspose.app/diagram/merger). Demo na żywo ma następujące zalety" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Prezentacje na żywo dotyczące fuzji VDW online" sectionDescription="Scal dokumenty VDW już teraz, odwiedzając nasze [Witryna demonstracyjna na żywo](https://products.aspose.app/diagram/merger). Demo na żywo ma następujące zalety" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie musisz pisać żadnego kodu." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki VDW." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie on natychmiast scalony i połączony." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW to format pliku Visio Graphics Service, który określa strumienie i magazyny wymagane do renderowania rysunku internetowego. Rysunek internetowy to zbiór stron rysunku, kształtów, czcionek, obrazów, połączeń danych i informacji o aktualizacji diagramu, które można renderować jako rysunek wektorowy lub rastrowy. Pliki VDW można również otwierać w Microsoft Visio, ale są one przede wszystkim zapisywane do użytku w Internecie. Firma Microsoft Visio oferuje możliwość konwertowania plików Visio na wiele różnych formatów plików, w tym PNG, BMP, PDF i inne. 
+VDW to format pliku Visio Graphics Service, który określa strumienie i magazyny wymagane do renderowania rysunku internetowego. Rysunek internetowy to zbiór stron rysunku, kształtów, czcionek, obrazów, połączeń danych i diagram informacji o aktualizacjach, które można renderować jako rysunek wektorowy lub rastrowy. Pliki VDW można również otwierać w Microsoft Visio, ale są one przede wszystkim zapisywane do użytku w Internecie. Microsoft Visio oferuje możliwość konwertowania Visio plików na wiele różnych formatów plików, w tym PNG, BMP, PDF i inne. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,17 +129,17 @@ VDW to format pliku Visio Graphics Service, który określa strumienie i magazyn
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając Java, można również połączyć wiele innych formatów plików, w tym..." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Rysunki Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Rysunki" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Format Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="VST" description="Pliki obrazów wektorowych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio Szablon rysunku" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

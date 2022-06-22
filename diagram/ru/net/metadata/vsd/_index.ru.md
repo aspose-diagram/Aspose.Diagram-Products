@@ -59,7 +59,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или COM Interop- Среда разработки, такая как Microsoft Visual Studio- Aspose.Diagram for .NET DLL, на которые есть ссылка в вашем проекте. Установите из NuGet с помощью кнопки «Загрузить» выше.
+- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или COM Interop- Среда разработки, такая как Microsoft Visual Studio- Aspose.Diagram for .NET DLL, на которые ссылается ваш проект. Установите из NuGet с помощью кнопки "Загрузить" выше.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Извлечение метаданных VSD – C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="О Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram – это манипулирование форматом документа Microsoft VisioAPI. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
+ Aspose.Diagram — это Microsoft Visioобработка формата документа API. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
 
 
 
@@ -93,7 +93,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Он будет сжат и объединен мгновенно." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-Файлы VSD представляют собой рисунки, созданные с помощью приложения Microsoft Visio для представления различных графических объектов и взаимосвязей между ними. Такие чертежи могут содержать визуальные объекты, такие как визуальные объекты, блок-схемы, UML-диаграммы, информационные потоки, организационные диаграммы, программные диаграммы, схемы сети, модели баз данных, сопоставление объектов и другую подобную информацию. Microsoft Visio предлагает возможность конвертировать файлы Visio в различные форматы файлов, включая PNG, BMP, PDF и другие. 
+Файлы VSD — это рисунки, созданные с помощью приложения Microsoft Visio для представления различных графических объектов и взаимосвязей между ними. Такие чертежи могут содержать визуальные объекты, такие как визуальные объекты, блок-схемы, UML diagram, информационный поток, организационные диаграммы, схемы программного обеспечения, сетевую компоновку, модели баз данных, сопоставление объектов и другую подобную информацию. Microsoft Visio предлагает возможность конвертировать файлы Visio в различные форматы файлов, включая PNG, BMP, PDF и другие. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -106,9 +106,9 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio XML-файл чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio файл трафарета" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio файл шаблона" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsdm/" name="ВСДМ" description="Visio файл чертежа с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssm/" name="ВССМ" description="Visio файл шаблона с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstm/" name="ВСТМ" description="Visio файл шаблона с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsdm/" name="VSDM" description="Visio файл чертежа с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssm/" name="VSSM" description="Visio файл шаблона с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstm/" name="VSTM" description="Visio файл шаблона с поддержкой макросов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsdx/" name="VSDX" description="Visio файл чертежа" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

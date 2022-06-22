@@ -82,7 +82,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="关于Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
+ Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一个独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
 
 
 
@@ -97,7 +97,7 @@ System.Diagnostics.Process.Start(output);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 如果需要，从链接下载 VSS 文件" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS 是使用 Microsoft Visio 2007 及更早版本创建的模具文件。一种相对较新的文件格式是 Microsoft Visio 2013 引入的 .VSSX。模板文件提供了可以包含在 .VSD Visio 图形中的图形对象。 Microsoft Visio 本身以创建绘图元素而闻名，例如形状集合、连接器、流程图、网络布局、UML 图、软件图、数据库模型、对象映射和其他类似信息。它还具有丰富的Visio文档到其他文件格式的转换功能，如PNG、BMP、PDF等。 Visio 适用于 Windows 和 Mac OS。
+VSS 是使用 Microsoft Visio 2007 及更早版本创建的模板文件。 .VSSX 是一种相对较新的文件格式，它是在 2013 年的 Microsoft Visio 中引入的。模板文件提供了可以包含在 .VSD Visio 绘图中的绘图对象。 Microsoft Visio 本身以创建绘图元素而闻名，例如形状、连接器、流程图、网络布局、UML 图、软件图、数据库模型、对象映射和其他类似信息的集合。它还具有丰富的Visio文档到PNG、BMP、PDF等其他文件格式的转换功能。 Visio 适用于 Windows 和 Mac OS。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -111,14 +111,14 @@ VSS 是使用 Microsoft Visio 2007 及更早版本创建的模具文件。一种
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vdx/" name="VDX" description="Microsoft Visio 绘图格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsd/" name="VSD" description="Microsoft Visio 绘图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsdm/" name="VSDM" description="Microsoft Visio 绘图格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsdx/" name="VSDX" description="微软Visio格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vssm/" name="VSSM" description="Microsoft Visio 模具文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsdx/" name="VSDX" description="Microsoft Visio 格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vssm/" name="VSSM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vssx/" name="VSSX" description="绘图模具" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vst/" name="VST" description="矢量图像文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vstm/" name="VSTM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vstx/" name="VSTX" description="Microsoft Visio 绘图模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsx/" name="VSX" description="模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vtx/" name="视频传输" description="Microsoft Visio 绘图模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vtx/" name="VTX" description="Microsoft Visio 绘图模板" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

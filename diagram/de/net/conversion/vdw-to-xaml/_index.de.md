@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft-Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente des Diagramms bearbeiten, um das Ergebnis in andere Formate zu exportieren.
+ Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente der diagram manipulieren, um das Ergebnis in andere Formate zu exportieren.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW ist das Visio Graphics Service-Dateiformat, das die Streams und Speicher angibt, die zum Rendern einer Webzeichnung erforderlich sind. Eine Webzeichnung ist eine Sammlung von Zeichenseiten, Formen, Schriftarten, Bildern, Datenverbindungen und Diagrammaktualisierungsinformationen, die als Vektor- oder Rasterzeichnung gerendert werden können. VDW-Dateien können auch in Microsoft Visio geöffnet werden, werden aber hauptsächlich für die Verwendung im Web gespeichert. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere.
+VDW ist das Visio Graphics Service-Dateiformat, das die Streams und Speicher angibt, die zum Rendern einer Webzeichnung erforderlich sind. Eine Webzeichnung ist eine Sammlung von Zeichenseiten, Formen, Schriftarten, Bildern, Datenverbindungen und diagram Aktualisierungsinformationen, die als Vektor- oder Rasterzeichnung gerendert werden können. VDW-Dateien können auch in Microsoft Visio geöffnet werden, werden aber hauptsächlich für die Verwendung im Web gespeichert. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xaml" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
-XAML, Extensible Application Markup Language, Erweiterungsdateien beschreiben die Elemente der Benutzeroberfläche für Softwareanwendungen, die auf Windows Presentation Foundation (WPF) basieren. Obwohl es sich um eine Sprache handelt, muss es nicht programmiert werden, da es auf dem Standardformat von XML basiert, das einfach zu verwenden und zu verstehen ist. XAML (ausgesprochen als „zammel“) wurde von Microsoft speziell für die Erstellung von Benutzeroberflächen entwickelt. Das ursprüngliche Akronym stand für Extensible Avalon Markup Language, wobei Avalon der Codename für WPF war. XAML-Dateien werden manchmal auch mit der XOML-Erweiterung gespeichert.
+XAML, Extensible Application Markup Language, Erweiterungsdateien beschreiben die Elemente der Benutzeroberfläche für Softwareanwendungen, die auf Windows Presentation Foundation (WPF) basieren. Obwohl es sich um eine Sprache handelt, muss es nicht programmiert werden, da es auf dem Standardformat von XML basiert, das einfach zu verwenden und zu verstehen ist. XAML (ausgesprochen als "zammel") wurde von Microsoft speziell für die Erstellung von Benutzeroberflächen entwickelt. Das ursprüngliche Akronym stand für Extensible Avalon Markup Language, wobei Avalon der Codename für WPF war. XAML-Dateien werden manchmal auch mit der XOML-Erweiterung gespeichert.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,15 +113,15 @@ XAML, Extensible Application Markup Language, Erweiterungsdateien beschreiben di
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-svg/" name="VDW ZU SVG" description="Skalierbare Vektorgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-swf/" name="VDW ZU SWF" description="SWF-Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-tiff/" name="VDW NACH TIFF" description="Markiertes Bildformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW ZU VDX" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW AN VSDM" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW NACH VSDX" description="Microsoft Visio-Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW AN VSSM" description="Microsoft Visio-Schablonendateien" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW ZU VSSX" description="Zeichenschablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW AN VSTM" description="Microsoft Visio Vorlagendateien" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW ZU VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW ZU VSX" description="Schablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW ZU VTX" description="Microsoft Visio Zeichnungsvorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW NACH VDX" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW NACH VSDM" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW NACH VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW NACH VSSM" description="Microsoft Visio Schablonendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW NACH VSSX" description="Zeichenschablonen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW NACH VSTM" description="Microsoft Visio Vorlagendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW NACH VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW NACH VSX" description="Schablonen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW NACH VTX" description="Microsoft Visio Zeichnungsvorlage" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xps/" name="VDW ZU XPS" description="XML-Papierspezifikationen" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

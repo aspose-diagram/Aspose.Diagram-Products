@@ -4,7 +4,7 @@ url: /es/net/metadata/
 description: Vea, agregue, edite, elimine o extraiga metadatos de archivos Visio con solo unas pocas líneas de código C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Administrar metadatos de archivos de Microsoft<sup>&reg;</sup> Visio a través de .NET" h2="Vea, agregue, actualice, elimine o extraiga propiedades de archivo Visio integradas y personalizadas mediante las API .NET del lado del servidor." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Administrar Microsoft<sup>&reg;</sup> Visio metadatos de archivos a través de .NET" h2="Vea, agregue, actualice, elimine o extraiga propiedades de archivo Visio integradas y personalizadas mediante las API .NET del lado del servidor." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [.NET Visio API](/diagram/net/) admite la gestión de propiedades definidas por el sistema (incorporadas), como el título, el nombre del autor, las estadísticas del documento, etc., así como las propiedades definidas por el usuario (personalizadas) en forma de par nombre-valor. Hay [Diagram clase](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) para cargar los archivos, y [Colección de páginas](https://apireference.aspose.com/diagram/net/aspose.diagram/pagecollection) se ocupa de la colección de páginas, así como [Clase de página](https://apireference.aspose.com/diagram/net/aspose.diagram/page) para representar una sola página. Junto con estas clases, documentproperties, customprops simplifica el proceso para la gestión de metadatos. 
 {{% /blocks/products/pf/feature-page-summary %}}

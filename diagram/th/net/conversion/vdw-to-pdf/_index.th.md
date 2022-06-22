@@ -14,7 +14,7 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
  ในการแปลง VDW เป็น PDF เราจะใช้
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API ซึ่งเป็นการจัดการและแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและการแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  package manager ค้นหา
  Aspose.Diagram 
@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดง VDW เป็น PDF C# Conversion" offSpacer="" %}}
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW คือ Visioรูปแบบไฟล์บริการกราฟิกที่ระบุสตรีมและพื้นที่เก็บข้อมูลที่จำเป็นสำหรับการแสดงภาพวาดเว็บ การวาดเว็บคือชุดของหน้าการวาด รูปร่าง แบบอักษร รูปภาพ การเชื่อมต่อข้อมูล และข้อมูลการอัพเดทไดอะแกรมที่สามารถแสดงผลเป็นภาพวาดเวกเตอร์หรือแรสเตอร์ ไฟล์ VDW สามารถเปิดได้ใน Microsoft Visio เช่นกัน แต่จะบันทึกไว้สำหรับใช้งานบนเว็บเป็นหลัก Microsoft Visio เสนอความสามารถในการแปลงไฟล์ Visio เป็นรูปแบบไฟล์ต่างๆ รวมทั้ง PNG, BMP, PDF และอื่นๆ
+VDW คือ Visioรูปแบบไฟล์บริการกราฟิกที่ระบุสตรีมและพื้นที่เก็บข้อมูลที่จำเป็นสำหรับการแสดงภาพวาดเว็บ การวาดเว็บคือชุดของหน้าการวาด รูปร่าง แบบอักษร รูปภาพ การเชื่อมต่อข้อมูล และข้อมูลการอัพเดทไดอะแกรมที่สามารถแสดงผลเป็นภาพวาดเวกเตอร์หรือแรสเตอร์ ไฟล์ VDW สามารถเปิดได้ใน Microsoft Visio เช่นกัน แต่จะบันทึกไว้สำหรับใช้งานบนเว็บเป็นหลัก Microsoft Visio เสนอความสามารถในการแปลงไฟล์ Visio ไฟล์เป็นรูปแบบไฟล์ต่างๆ รวมทั้ง PNG, BMP, PDF และอื่นๆ
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ Portable Document Format (PDF) เป็นเอกสารประเภท�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-svg/" name="VDW เป็น SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-swf/" name="VDW เป็น SWF" description="รูปแบบ SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-tiff/" name="VDW ถึง TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW เป็น VDX" description="Microsoft Visio รูปแบบการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW ถึง VDX" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW ถึง VSDM" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW ถึง VSDX" description="Microsoft Visio รูปแบบ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW ถึง VSSM" description="Microsoft Visio ไฟล์ลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW ถึง VSSX" description="วาดลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW ถึง VSTM" description="Microsoft Visio ไฟล์เทมเพลต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW เป็น VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW เป็น VSX" description="ลายฉลุ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW เป็น VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW ถึง VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW ถึง VSX" description="ลายฉลุ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW ถึง VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW เป็น XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xps/" name="VDW เป็น XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
 

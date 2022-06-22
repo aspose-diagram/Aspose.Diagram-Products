@@ -2,7 +2,7 @@
 title: Преобразование VSD в VSTM через Java 
 weight: 5000
 url: /ru/java/conversion/vsd-to-vstm/ 
-description: Пример кода преобразования Java для формата VSD в файл VSTM. Используйте этот пример кода для преобразования VSD в VSTM в любом веб-приложении или настольном Java приложении.
+description: Пример кода преобразования Java для формата VSD в файл VSTM. Используйте этот пример кода для преобразования VSD в VSTM в любом веб-приложении или настольном приложении Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование VSD в VSTM через Java" h2="Экспортируйте Microsoft Visio VSD в VSTM, используя собственную библиотеку Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSD" >}}
@@ -12,10 +12,10 @@ description: Пример кода преобразования Java для фо
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать VSD в VSTM с помощью Java" %}}
 
- Чтобы отобразить VSD в VSTM, мы будем использовать
+ Чтобы преобразовать VSD в VSTM, мы будем использовать
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API – это многофункциональная, мощная и простая в использовании платформа преобразования API for Java. Вы можете скачать его последнюю версию прямо с
- [Мавен](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
@@ -60,7 +60,7 @@ description: Пример кода преобразования Java для фо
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузить файл VSD с экземпляром класса Diagram1. Вызовите метод Diagram.save с путем к выходному файлу и SaveFileFormat в качестве параметров.1. Файл VSTM будет сохранен по указанному пути
+1. Загрузить файл VSD с экземпляром класса Diagram1. Вызовите метод Diagram.save с путем к выходному файлу и SaveFileFormat в качестве параметров.1. VSTM файл будет сохранен по указанному пути
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}
@@ -74,7 +74,7 @@ description: Пример кода преобразования Java для фо
 - Microsoft Windows или совместимая ОС с Java средой выполнения для приложений JSP/JSF и настольных приложений.- Получите последнюю версию Aspose.Diagram for Java непосредственно из Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Исходный код преобразования VSD в VSTM Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSD в VSTM Java Исходный код преобразования" offSpacer="" %}}
 
 ```cs
 // загрузить VSD в объект Diagram 
@@ -94,7 +94,7 @@ visio.save("output.vstm", SaveFileFormat.VSTM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Преобразование VSD в VSTM Live Demos" sectionDescription="[Преобразовать VSD в VSTM](https://products.aspose.app/diagram/conversion/vsd-to-vstm) прямо сейчас, посетив наш веб-сайт Live Demos. Живая демонстрация имеет следующие преимущества" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Преобразование VSD в VSTM демонстрации в реальном времени" sectionDescription="[Преобразовать VSD в VSTM](https://products.aspose.app/diagram/conversion/vsd-to-vstm) прямо сейчас, посетив наш веб-сайт Live Demos. Живая демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файл VSD, и он будет мгновенно преобразован в VSTM." >}}
@@ -102,7 +102,7 @@ visio.save("output.vstm", SaveFileFormat.VSTM);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Библиотека манипуляций" %}}
 
- Aspose.Diagram – это манипулирование форматом документа Microsoft VisioAPI. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
+ Aspose.Diagram — это Microsoft Visioобработка формата документа API. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vstm", SaveFileFormat.VSTM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
 
-Файлы VSD представляют собой рисунки, созданные с помощью приложения Microsoft Visio для представления различных графических объектов и взаимосвязей между ними. Такие чертежи могут содержать визуальные объекты, такие как визуальные объекты, блок-схемы, UML-диаграммы, информационные потоки, организационные диаграммы, программные диаграммы, сетевые схемы, модели баз данных, сопоставление объектов и другую подобную информацию. Microsoft Visio предлагает возможность конвертировать файлы Visio в различные форматы файлов, включая PNG, BMP, PDF и другие.
+Файлы VSD — это рисунки, созданные с помощью приложения Microsoft Visio для представления различных графических объектов и взаимосвязей между ними. Такие чертежи могут содержать визуальные объекты, такие как визуальные объекты, блок-схемы, UML diagram, информационный поток, организационные диаграммы, схемы программного обеспечения, сетевую компоновку, модели баз данных, сопоставление объектов и другую подобную информацию. Microsoft Visio предлагает возможность конвертировать файлы Visio в различные форматы файлов, включая PNG, BMP, PDF и другие.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
 
-Файлы с расширением VSTM представляют собой файлы шаблонов, созданные с помощью Microsoft Visio и поддерживающие макросы. В отличие от файлов VSDX, файлы, созданные из шаблонов VSTM, могут запускать макросы, разработанные в коде Visual Basic для приложений (VBA). Файл шаблона может быть создан для предоставления основных настроек документа, которые можно использовать для создания дополнительных документов с этими настройками. Файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, диаграмму UML, информационный поток, организационные диаграммы, диаграммы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие.
+Файлы с расширением VSTM – это файлы шаблонов, созданные с помощью Microsoft Visio и поддерживающие макросы. В отличие от файлов VSDX, файлы, созданные из шаблонов VSTM, могут запускать макросы, разработанные в коде Visual Basic для приложений (VBA). Файл шаблона может быть создан для предоставления основных настроек документа, которые можно использовать для создания дополнительных документов с этими настройками. Файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, UML diagram, информационные потоки, организационные диаграммы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,13 +140,13 @@ visio.save("output.vstm", SaveFileFormat.VSTM);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSD В PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSD В SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD В TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD В ВСДМ" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD К VSDX" description="Формат Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD В ВССМ" description="Файлы трафаретов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD В VSSX" description="Трафареты для рисования" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD В VSTX" description="Шаблон чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD В VSX" description="Трафареты" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD К видеопередатчику" description="Шаблон чертежа Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD К VSDM" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD К VSDX" description="Microsoft Visio Формат" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD К VSSM" description="Microsoft Visio Файлы трафаретов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD К VSSX" description="Трафареты для рисования" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD К VSTX" description="Microsoft Visio Шаблон чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD К VSX" description="Трафареты" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD К VTX" description="Microsoft Visio Шаблон чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSD В XAML" description="Расширяемый язык разметки приложений" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xps/" name="VSD В XPS" description="Спецификации XML-бумаги" >}}
 

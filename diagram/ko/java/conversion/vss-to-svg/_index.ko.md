@@ -15,7 +15,7 @@ description: VSS 형식을 SVG 파일로 변환하는 샘플 Java 변환 코드.
  VSS를 SVG로 렌더링하려면 다음을 사용합니다.
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API는 기능이 풍부하고 강력하며 사용하기 쉬운 전환 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
- [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
@@ -71,7 +71,7 @@ description: VSS 형식을 SVG 파일로 변환하는 샘플 Java 변환 코드.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 Java 런타임 환경과 호환되는 OS.- Maven에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오.
+- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경과 호환되는 OS.- Maven에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSS에서 SVG로의 Java 변환 소스 코드" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.svg", SaveFileFormat.SVG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram 조작 라이브러리" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.svg", SaveFileFormat.SVG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 개체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은 Windows와 Mac OS 모두에서 사용할 수 있습니다.
+VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013년에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 객체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은(는) Windows와 Mac OS 모두에서 사용할 수 있습니다.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-pdf/" name="VSS를 PDF로" description="휴대용 문서 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="VSS에서 PNG로" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS에서 TIFF로" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS에서 VDX로" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSDM에서 VSDM으로" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS TO VDX" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS TO VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS TO VSDX" description="Microsoft Visio 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS에서 VSSM으로" description="Microsoft Visio 스텐실 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS에서 VSSX로" description="드로잉 스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSTM에서 VSTM으로" description="Microsoft Visio 템플릿 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS에서 VSTX로" description="Microsoft Visio 도면 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS에서 VSX로" description="스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS에서 VTX로" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS TO VSSM" description="Microsoft Visio 스텐실 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS TO VSSX" description="드로잉 스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS TO VSTM" description="Microsoft Visio 템플릿 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS TO VSTX" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS TO VSX" description="스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS TO VTX" description="Microsoft Visio 도면 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS에서 XAML로" description="확장 가능한 애플리케이션 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS에서 XPS로" description="XML 용지 사양" >}}
 

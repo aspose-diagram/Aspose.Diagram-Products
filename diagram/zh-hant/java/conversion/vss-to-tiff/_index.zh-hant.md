@@ -15,7 +15,7 @@ description: VSS 格式到 TIFF 文件的示例 Java 轉換代碼。使用此示
  為了將 VSS 渲染為 TIFF，我們將使用
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API 是一個功能豐富、功能強大且易於使用的轉換API for Java 平台。您可以直接從
- [馬文](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="存儲庫" offSpacer="true" %}}
@@ -71,7 +71,7 @@ description: VSS 格式到 TIFF 文件的示例 Java 轉換代碼。使用此示
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 Java JSP/JSF 應用程序和桌面應用程序運行時環境的兼容操作系統。- 直接從 Maven 獲取最新版本的 Aspose.Diagram for Java。
+- Microsoft Windows 或具有Java JSP/JSF 應用程序和桌面應用程序運行時環境的兼容操作系統。- 直接從 Maven 獲取最新版本的 Aspose.Diagram for Java。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSS 到 TIFF Java 轉換源代碼" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram 操作庫" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。  
+ Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一個獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS 是使用 Microsoft Visio 2007 及更早版本創建的模具文件。一種相對較新的文件格式是 Microsoft Visio 2013 引入的 .VSSX。模板文件提供了可以包含在 .VSD Visio 圖形中的圖形對象。 Microsoft Visio 本身以創建繪圖元素而聞名，例如形狀集合、連接器、流程圖、網絡佈局、UML 圖、軟件圖、數據庫模型、對象映射和其他類似信息。它還具有豐富的Visio文檔到其他文件格式的轉換功能，如PNG、BMP、PDF等。 Visio 適用於 Windows 和 Mac OS。
+VSS 是使用 Microsoft Visio 2007 及更早版本創建的模板文件。 .VSSX 是一種相對較新的文件格式，它是在 2013 年的 Microsoft Visio 中引入的。模板文件提供了可以包含在 .VSD Visio 繪圖中的繪圖對象。 Microsoft Visio 本身以創建繪圖元素而聞名，例如形狀、連接器、流程圖、網絡佈局、UML 圖、軟件圖、數據庫模型、對象映射和其他類似信息的集合。它還具有豐富的Visio文檔到PNG、BMP、PDF等其他文件格式的轉換功能。 Visio 適用於 Windows 和 Mac OS。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ TIFF 或 TIF，標記圖像文件格式，表示用於在符合此文件格式�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-pdf/" name="VSS轉PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="VSS轉PNG" description="便攜式網絡圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS 轉 SVG" description="可縮放矢量圖形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS 轉 VDX" description="Microsoft Visio 繪圖格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS 到 VDX" description="Microsoft Visio 繪圖格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS 到 VSDM" description="Microsoft Visio 繪圖格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS 到 VSDX" description="微軟Visio格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS 到 VSSM" description="Microsoft Visio 模具文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS 到 VSDX" description="Microsoft Visio 格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS 到 VSSM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS 到 VSSX" description="繪圖模具" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS 到 VSTM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS 到 VSTX" description="Microsoft Visio 繪圖模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS 到 VSX" description="模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS 轉 VTX" description="Microsoft Visio 繪圖模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS 到 VTX" description="Microsoft Visio 繪圖模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS 到 XAML" description="可擴展的應用程序標記語言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS 轉 XPS" description="XML 紙張規格" >}}
 

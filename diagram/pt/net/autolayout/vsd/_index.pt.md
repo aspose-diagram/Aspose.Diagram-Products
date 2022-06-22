@@ -2,7 +2,7 @@
 title: Layout automático de documento VSD via .NET 
 weight: 3050
 url: /pt/net/autolayout/vsd/ 
-description: C# código-fonte para arquivo vsd de layout automático em .NET Framework, .NET Core, Mono Platforms.
+description: C# código-fonte para arquivo de layout automático vsd em .NET Framework, .NET Core, Mono Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Documento de layout automático VSD em C#" h2="Documento de layout automático nativo e de alto desempenho VSD usando APIs Aspose.Diagram for .NET do lado do servidor, sem o uso de qualquer software como Microsoft ou Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -15,7 +15,7 @@ description: C# código-fonte para arquivo vsd de layout automático em .NET Fra
  Para fazer o layout automático do arquivo VSD, usaremos
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API que é uma plataforma de manipulação e mesclagem de documentos rica em recursos, poderosa e fácil de usar API para C#. Aberto
- [NuGetName](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  gerenciador de pacotes, procure
  **Aspose.Diagram** 
  e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com
+ Um layout básico de documento automático com
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  APIs podem ser feitas com apenas algumas linhas de código.
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Selecione a página por meio de seu id
 + Use a função Layout da página
 + Chame o método Save() e passe o nome do arquivo (caminho completo) e o formato (VSDX) como parâmetro.
-+ Agora você pode abrir e usar o arquivo VSDX no Microsoft Office, Adobe PDF ou qualquer outro programa compatível.
++ Agora você pode abrir e usar o arquivo VSDX em Microsoft Office, Adobe PDF ou qualquer outro programa compatível.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou COM Interop- Ambiente de desenvolvimento como o Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale do NuGet usando o botão Download acima
+- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou COM Interop- Ambiente de desenvolvimento como Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale de NuGet usando o botão Download acima
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Layout Automático de Arquivos VSD - C#" offSpacer="" %}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Sobre Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagrama e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
+ Aspose.Diagram é uma manipulação de formato de documento Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagramas e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Será layout automático e concatenado instantaneamente." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-Arquivos VSD são desenhos criados com o aplicativo Microsoft Visio para representar vários objetos gráficos e a interconexão entre eles. Tais desenhos podem conter objetos visuais, como objetos visuais, fluxogramas, diagrama UML, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. A Microsoft Visio oferece a capacidade de converter arquivos Visio em vários formatos de arquivo diferentes, incluindo PNG, BMP, PDF e outros. 
+VSD arquivos são desenhos criados com o aplicativo Microsoft Visio para representar uma variedade de objetos gráficos e a interconexão entre eles. Esses desenhos podem conter objetos visuais, como objetos visuais, fluxogramas, UML diagram, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Microsoft Visio oferece a capacidade de converter Visio arquivos em vários formatos de arquivo diferentes, incluindo PNG, BMP, PDF e outros. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

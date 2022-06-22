@@ -15,8 +15,8 @@ description: वीएसटी प्रारूप के लिए पीड
  VST को PDF में रेंडर करने के लिए, हम उपयोग करेंगे
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान रूपांतरण API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं
- [मावेना](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने मावेन-आधारित प्रोजेक्ट में स्थापित करें।
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -71,7 +71,7 @@ description: वीएसटी प्रारूप के लिए पीड
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows या JavaJSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश के साथ संगत OS।- मावेन से सीधे Aspose.Diagram for Java का नवीनतम संस्करण प्राप्त करें।
+- Microsoft जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट के साथ विंडोज या संगत ओएस।- सीधे Maven से Aspose.Diagram for Java का नवीनतम संस्करण प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VST से PDF Java रूपांतरण स्रोत कोड" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram मैनिपुलेशन लाइब्रेरी" %}}
 
- Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसके लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर को स्थापित करने की आवश्यकता नहीं है।  
+ Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अधिक जैसे अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसे स्थापित करने के लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर की आवश्यकता नहीं है।  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-वीएसटी एक्सटेंशन वाली फाइलें माइक्रोसॉफ्ट Visio के साथ बनाई गई वेक्टर छवि फाइलें हैं और आगे की फाइलें बनाने के लिए टेम्पलेट के रूप में कार्य करती हैं। ये टेम्प्लेट फ़ाइलें बाइनरी फ़ाइल स्वरूप में होती हैं और इनमें डिफ़ॉल्ट लेआउट और सेटिंग्स होती हैं जिनका उपयोग नए Visio आरेखण के निर्माण के लिए किया जाता है। जब Microsoft Visio में एक VST फ़ाइल खोली जाती है, तो इसमें दस्तावेज़ के साथ काम करना जारी रखने के लिए मौजूदा सेटिंग्स होती हैं। सामान्य तौर पर, Visio फाइलों का उपयोग ऐसे चित्र बनाने के लिए किया जाता है जिनमें दृश्य वस्तुएं, प्रवाह चार्ट, यूएमएल आरेख, सूचना प्रवाह, संगठनात्मक चार्ट, सॉफ्टवेयर आरेख, नेटवर्क लेआउट, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी होती है। Visio का उपयोग करके जेनरेट की गई फ़ाइलों को पीएनजी, बीएमपी, पीडीएफ और अन्य जैसे विभिन्न फ़ाइल स्वरूपों में भी निर्यात किया जा सकता है।
+वीएसटी एक्सटेंशन वाली फाइलें वेक्टर छवि फाइलें हैं जो Microsoft Visio के साथ बनाई गई हैं और आगे की फाइलें बनाने के लिए टेम्पलेट के रूप में कार्य करती हैं। ये टेम्प्लेट फ़ाइलें बाइनरी फ़ाइल स्वरूप में होती हैं और इनमें डिफ़ॉल्ट लेआउट और सेटिंग्स होती हैं जिनका उपयोग नए Visio चित्र बनाने के लिए किया जाता है। जब कोई VST फ़ाइल Microsoft Visio में खोली जाती है, तो उसमें दस्तावेज़ के साथ काम करना जारी रखने के लिए मौजूदा सेटिंग्स होती हैं। सामान्य तौर पर, Visio फाइलों का उपयोग ऐसे चित्र बनाने के लिए किया जाता है जिनमें दृश्य वस्तुएं, प्रवाह चार्ट, यूएमएल diagram, सूचना प्रवाह, संगठनात्मक चार्ट, सॉफ्टवेयर आरेख, नेटवर्क लेआउट, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी होती है। Visio का उपयोग करके जेनरेट की गई फ़ाइलों को पीएनजी, बीएमपी, पीडीएफ और अन्य जैसे विभिन्न फ़ाइल स्वरूपों में भी निर्यात किया जा सकता है।
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/view/pdf/" >}}
 
-पोर्टेबल डॉक्यूमेंट फॉर्मेट (पीडीएफ) 1990 के दशक में एडोब द्वारा बनाया गया एक प्रकार का दस्तावेज है। इस फ़ाइल प्रारूप का उद्देश्य दस्तावेजों और अन्य संदर्भ सामग्री के प्रतिनिधित्व के लिए एक मानक को एक प्रारूप में पेश करना था जो एप्लिकेशन सॉफ्टवेयर, हार्डवेयर और साथ ही ऑपरेटिंग सिस्टम से स्वतंत्र हो। पीडीएफ फाइलें एडोब एक्रोबेट रीडर/राइटर के साथ-साथ क्रोम, सफारी, फ़ायरफ़ॉक्स जैसे अधिकांश आधुनिक ब्राउज़रों में एक्सटेंशन/प्लग-इन के माध्यम से खोली जा सकती हैं। अधिकांश व्यावसायिक रूप से उपलब्ध सॉफ़्टवेयर सूट बिना किसी अतिरिक्त सॉफ़्टवेयर घटक की आवश्यकता के अपने दस्तावेज़ों को PDF फ़ाइल स्वरूप में बदलने की पेशकश करते हैं। इस प्रकार, पीडीएफ फाइल फॉर्मेट में टेक्स्ट, इमेज, हाइपरलिंक्स, फॉर्म-फील्ड्स, रिच मीडिया, डिजिटल सिग्नेचर, अटैचमेंट, मेटाडेटा, जियोस्पेशियल फीचर्स और 3D ऑब्जेक्ट्स जैसी जानकारी शामिल करने की पूरी क्षमता है जो सोर्स डॉक्यूमेंट के हिस्से के रूप में बन सकती हैं।
+पोर्टेबल डॉक्यूमेंट फॉर्मेट (पीडीएफ) 1990 के दशक में एडोब द्वारा बनाया गया एक प्रकार का दस्तावेज है। इस फाइल फॉर्मेट का उद्देश्य दस्तावेजों और अन्य संदर्भ सामग्री के प्रतिनिधित्व के लिए एक मानक को एक प्रारूप में पेश करना था जो एप्लिकेशन सॉफ्टवेयर, हार्डवेयर और साथ ही ऑपरेटिंग सिस्टम से स्वतंत्र हो। पीडीएफ फाइलें एडोब एक्रोबेट रीडर/राइटर के साथ-साथ क्रोम, सफारी, फ़ायरफ़ॉक्स जैसे अधिकांश आधुनिक ब्राउज़रों में एक्सटेंशन/प्लग-इन के माध्यम से खोली जा सकती हैं। अधिकांश व्यावसायिक रूप से उपलब्ध सॉफ़्टवेयर सूट बिना किसी अतिरिक्त सॉफ़्टवेयर घटक की आवश्यकता के अपने दस्तावेज़ों को PDF फ़ाइल स्वरूप में बदलने की पेशकश करते हैं। इस प्रकार, पीडीएफ फाइल फॉर्मेट में टेक्स्ट, इमेज, हाइपरलिंक्स, फॉर्म-फील्ड्स, रिच मीडिया, डिजिटल सिग्नेचर, अटैचमेंट, मेटाडेटा, जियोस्पेशियल फीचर्स और 3D ऑब्जेक्ट्स जैसी जानकारी शामिल करने की पूरी क्षमता है जो सोर्स डॉक्यूमेंट के हिस्से के रूप में बन सकती हैं।
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ visio.save("output.pdf", SaveFileFormat.PDF);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-png/" name="पीएनजी के लिए वीएसटी" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-svg/" name="वीएसटी से एसवीजी" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="झगड़ा करने के लिए वीएसटी" description="टैग की गई छवि प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="वीएसटी से वीडीएक्स" description="Microsoft Visio आरेखण प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="वीएसटी से वीएसडीएम" description="Microsoft Visio आरेखण प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="वीएसटी से VSDX" description="माइक्रोसॉफ्ट Visio प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="वीएसटी से वीएसएसएम" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="वीएसटी से वीएसएसएक्स" description="ड्राइंग स्टेंसिल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="वीएसटी से वीएसटी" description="माइक्रोसॉफ्ट Visio टेम्पलेट फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="वीएसटी से वीएसटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="वीएसटी से वीएसएक्स" description="स्टेंसिल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="वीएसटी से वीटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="वीएसटी से VDX" description="Microsoft Visio आरेखण प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="वीएसटी से VSDM" description="Microsoft Visio आरेखण प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="वीएसटी से VSDX" description="Microsoft Visio प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="वीएसटी से VSSM" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="वीएसटी से VSSX" description="ड्राइंग स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="वीएसटी से VSTM" description="Microsoft Visio टेम्प्लेट फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="वीएसटी से VSTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="वीएसटी से VSX" description="स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="वीएसटी से VTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xaml/" name="वीएसटी से एक्सएएमएल" description="एक्स्टेंसिबल एप्लिकेशन मार्कअप लैंग्वेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xps/" name="वीएसटी से एक्सपीएस" description="एक्सएमएल पेपर निर्दिष्टीकरण" >}}
 

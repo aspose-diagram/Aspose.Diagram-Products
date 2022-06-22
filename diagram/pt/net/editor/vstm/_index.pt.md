@@ -1,5 +1,5 @@
 ﻿---
-title: Edite arquivos VSTM por meio de .NET 
+title: Edite VSTM arquivos por meio de .NET 
 url: /pt/net/editor/vstm/ 
 description: C# código-fonte para editar o documento VSTM nas plataformas .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.
 ---
@@ -11,7 +11,7 @@ description: C# código-fonte para editar o documento VSTM nas plataformas .NET 
 
 {{% blocks/products/pf/agp/content h2="Como editar o arquivo VSTM usando C#" %}}
 
-Para editar o arquivo VSTM, usaremos <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API que é uma plataforma rica em recursos, poderosa e fácil de usar API para C# para qualquer editor. Abrir <a href="https://www.nuget.org/packages/aspose.diagram">NuGetName</a> gerenciador de pacotes, procure <b>Aspose.Diagram</b> e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para editar o arquivo VSTM, usaremos <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API que é uma plataforma rica em recursos, poderosa e fácil de usar API para C# para qualquer editor. Aberto <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> gerenciador de pacotes, procure <b>Aspose.Diagram</b> e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -50,10 +50,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Windows Azure, Mono ou plataformas Xamarin- Ambiente de desenvolvimento como o Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale do NuGet usando o botão Download acima
+- Microsoft Windows ou um sistema operacional compatível com plataformas .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin- Ambiente de desenvolvimento como Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale de NuGet usando o botão Download acima
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Editar arquivos VSTM - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Editar VSTM arquivos - C#" offSpacer="" %}}
 
 ```cs
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagrama e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.    
+Aspose.Diagram é uma manipulação de formato de documento Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagramas e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.    
 
 
 
@@ -80,14 +80,14 @@ Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio A
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo do editor VSTM online" sectionDescription="Edite documentos VSTM agora mesmo visitando nosso [Site de demonstrações ao vivo](https://products.aspose.app/diagram/editor). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações on-line do editor VSTM ao vivo" sectionDescription="Edite VSTM documentos agora mesmo visitando nosso [Site de demonstrações ao vivo](https://products.aspose.app/diagram/editor). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos VSTM, use o editor online para editar instantaneamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos VSTM, use o editor on-line para editar instantaneamente." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Em seguida, salve e baixe." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
-Arquivos com extensão VSTM são arquivos de modelo criados com o Microsoft Visio que suportam macros. Ao contrário dos arquivos VSDX, os arquivos criados a partir de modelos VSTM podem executar macros que são desenvolvidas no código do Visual Basic for Applications (VBA). Um arquivo de modelo pode ser criado para fornecer configurações básicas do documento que podem ser utilizadas para gerar outros documentos com essas configurações. Visio arquivos são usados para criar desenhos que contêm objetos visuais, fluxogramas, diagrama UML, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Arquivos gerados usando Visio também podem ser exportados para diferentes formatos de arquivo, como PNG, BMP, PDF e outros. 
+Arquivos com extensão VSTM são arquivos de modelo criados com Microsoft Visio que suportam macros. Ao contrário dos arquivos VSDX, os arquivos criados a partir de modelos VSTM podem executar macros que são desenvolvidas no código do Visual Basic for Applications (VBA). Um arquivo de modelo pode ser criado para fornecer configurações básicas do documento que podem ser utilizadas para gerar outros documentos com essas configurações. Visio arquivos são usados para criar desenhos que contêm objetos visuais, fluxogramas, UML diagram, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Os arquivos gerados usando Visio também podem ser exportados para diferentes formatos de arquivo, como PNG, BMP, PDF e outros. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -2,7 +2,7 @@
 title: Konvertera VSS till VDX via C# 
 weight: 1330
 url: /sv/net/conversion/vss-to-vdx/ 
-description: Exempelkod för konvertering av VSS till VDX C#. Använd API exempelkod för batch-VSS-filer till VDX-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+description: Exempelkod för konvertering från VSS till VDX C#. Använd API exempelkod för batch-VSS-filer till VDXkonvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera VSS till VDX via C#" h2="Exportera Microsoft® Visio VSS-filer till VDX på .NET Framework, .NET Core, Mono eller COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VDX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSS" >}}
@@ -14,7 +14,7 @@ description: Exempelkod för konvertering av VSS till VDX C#. Använd API exempe
 
  För att konvertera VSS till VDX kommer vi att använda
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppet
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  pakethanterare, sök efter
  Aspose.Diagram 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Ladda VSS-fil med en instans av klassen Diagram1. Anropa metoden Diagram.Save med utdatafilsökväg och SaveFileFormat.VDX som parametrar1. VDX-filen kommer att sparas på den angivna sökvägen
+1. Ladda VSS-fil med en instans av klassen Diagram1. Anropa Diagram.Save-metoden med utdatafilsökväg och SaveFileFormat.VDX som parametrar1. VDX fil kommer att sparas på den angivna sökvägen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Mono eller COM Interop.- Utvecklingsmiljö som Microsoft Visual Studio.- Aspose.Diagram for .NET DLL som refereras till i ditt projekt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Den här exempelkoden visar VSS till VDX C#-konvertering" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Den här exempelkoden visar VSS till VDX C#-omvandling" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vss-to-vdx.cs" >}}
 
@@ -70,15 +70,15 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att konvertera VSS till VDX" sectionDescription="Kolla in våra livedemos för [VSS till VDX konvertering](https://products.aspose.app/diagram/conversion/vss-to-vdx) med följande förmåner." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att konvertera VSS till VDX" sectionDescription="Kolla in våra livedemos för [VSS till VDX omvandling](https://products.aspose.app/diagram/conversion/vss-to-vdx) med följande förmåner." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSS-fil och tryck på \"Konvertera\"-knappen." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du kommer omedelbart att få nedladdningslänken för den resulterande VDX-filen." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du får omedelbart nedladdningslänken för den resulterande filen VDX." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagrammet för att exportera resultatet till andra format.
+ Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagram för att exportera resultatet till andra format.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS är stencilfiler skapade med Microsoft Visio 2007 och tidigare. Ett relativt nytt filformat är .VSSX som introducerades med Microsoft Visio 2013. Stencilfiler tillhandahåller ritobjekt som kan inkluderas i en .VSD Visio-ritning. Microsoft Visio i sig är känt för att skapa ritelement som samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektmappning och annan liknande information. Den har också omfattande konverteringsfunktioner för Visio dokument till andra filformat som PNG, BMP, PDF och andra. Visio är tillgängligt för både Windows och Mac OS.
+VSS är stencilfiler skapade med Microsoft Visio 2007 och tidigare. Ett relativt nytt filformat är .VSSX som introducerades med Microsoft Visio 2013. Stencilfiler tillhandahåller ritobjekt som kan inkluderas i en .VSD Visio-ritning. Microsoft Visio i sig är känt för att skapa ritningselement som samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektmappning och annan liknande information. Den har också omfattande konverteringsfunktioner för Visio-dokument till andra filformat som PNG, BMP, PDF och andra. Visio är tillgängligt för både Windows och Mac OS.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vdx" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Alla ritningar eller diagram som skapats i Microsoft Visio men sparats i XML-format har filtillägget .VDX. En Visio-ritnings-XML-fil skapas i programvaran Visio, som är utvecklad av Microsoft. Microsoft Visio har förmågan att generera visuella dokument som kan användas i presentationer och dokument. Visio-ritnings-XML-filen innehåller visuella objekt och metadatadetaljer för de visuella elementen. Text kan också läggas till dessa visuella element Vision drawing XML-fil. Dessa Visio-ritnings-XML-filer är integrerade med XML-baserade formateringsstandarder och bilddatakodningsspecifikationer som gör att dess innehåll kan renderas och lagras av Microsofts Visio-programvara i VDX-filformatet.
+Alla ritningar eller diagram skapade i Microsoft Visio men sparade i XML-format har tillägget .VDX. En Visio-ritnings-XML-fil skapas i programvaran Visio, som är utvecklad av Microsoft. Microsoft Visio har förmågan att generera visuella dokument som kan användas i presentationer och dokument. Visio-ritnings-XML-filen innehåller visuella objekt och metadatadetaljer för de visuella elementen. Text kan också läggas till dessa visuella element Vision drawing XML-fil. Dessa Visio-ritnings-XML-filer är integrerade med XML-baserade formateringsstandarder och bilddatakodningsspecifikationer som gör att dess innehåll kan renderas och lagras av programvaran Microsoft Visio i filformatet VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,13 +114,13 @@ Alla ritningar eller diagram som skapats i Microsoft Visio men sparats i XML-for
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-swf/" name="VSS TILL SWF" description="SWF-format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-tiff/" name="VSS TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdm/" name="VSS TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="VSS TILL VSDX" description="Microsoft Visio-format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="VSS TILL VSSM" description="Microsoft Visio stencilfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="VSS TILL VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="VSS TILL VSSM" description="Microsoft Visio Stencilfiler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssx/" name="VSS TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="VSS TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="VSS TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="VSS TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="VSS TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsx/" name="VSS TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xaml/" name="VSS TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xps/" name="VSS TILL XPS" description="XML-pappersspecifikationer" >}}
 

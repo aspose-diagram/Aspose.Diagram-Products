@@ -60,7 +60,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или COM Interop- Среда разработки, такая как Microsoft Visual Studio- Aspose.Diagram for .NET DLL, на которые есть ссылка в вашем проекте. Установите из NuGet с помощью кнопки «Загрузить» выше.
+- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или COM Interop- Среда разработки, такая как Microsoft Visual Studio- Aspose.Diagram for .NET DLL, на которые ссылается ваш проект. Установите из NuGet с помощью кнопки "Загрузить" выше.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Сжать файлы VDW — C#" offSpacer="" %}}
@@ -79,7 +79,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="О Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram – это манипулирование форматом документа Microsoft VisioAPI. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
+ Aspose.Diagram — это Microsoft Visioобработка формата документа API. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
 
 
 
@@ -94,7 +94,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Он будет сжат и объединен мгновенно." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW – это формат файлов графической службы Visio, определяющий потоки и хранилища, необходимые для визуализации веб-чертежа. Веб-рисунок — это набор страниц чертежа, фигур, шрифтов, изображений, подключений к данным и информации об обновлении схемы, которые можно отобразить как векторный или растровый рисунок. Файлы VDW также можно открывать в Microsoft Visio, но в основном они сохраняются для использования в Интернете. Microsoft Visio предлагает возможность конвертировать файлы Visio в различные форматы файлов, включая PNG, BMP, PDF и другие. 
+VDW – это формат файлов графической службы Visio, определяющий потоки и хранилища, необходимые для визуализации веб-чертежа. Веб-рисунок – это набор страниц, фигур, шрифтов, изображений, подключений к данным и информации об обновлении diagram, которая может быть представлена в виде векторного или растрового рисунка. Файлы VDW также можно открывать в Microsoft Visio, но в основном они сохраняются для использования в Интернете. Microsoft Visio предлагает возможность конвертировать файлы Visio в различные форматы файлов, включая PNG, BMP, PDF и другие. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,13 +104,13 @@ VDW – это формат файлов графической службы Vi
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы сжатия" subTitle="Используя C#, можно легко сжимать различные форматы, в том числе." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="VSD" description="Чертежи Майкрософт Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="Vsd" description="Microsoft Visio Чертежи" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vdx/" name="Vdx" description="Visio XML-файл чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssx/" name="VSSX" description="Visio файл трафарета" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstx/" name="VSTX" description="Visio файл шаблона" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsdm/" name="ВСДМ" description="Visio файл чертежа с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssm/" name="ВССМ" description="Visio файл шаблона с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstm/" name="ВСТМ" description="Visio файл шаблона с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsdm/" name="VSDM" description="Visio файл чертежа с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssm/" name="VSSM" description="Visio файл шаблона с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstm/" name="VSTM" description="Visio файл шаблона с поддержкой макросов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsdx/" name="VSDX" description="Visio файл чертежа" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

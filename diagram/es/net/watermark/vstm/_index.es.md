@@ -1,5 +1,5 @@
 ﻿---
-title: Documento de marca de agua VSTM a través de .NET 
+title: Marca de agua VSTM documento a través de .NET 
 weight: 3050
 url: /es/net/watermark/vstm/ 
 description: C# código fuente para agregar una marca de agua al archivo vstm en .NET Framework, .NET Core, Mono Platforms.
@@ -12,7 +12,7 @@ description: C# código fuente para agregar una marca de agua al archivo vstm en
 
 {{% blocks/products/pf/agp/content h2="Cómo poner una marca de agua en un archivo VSTM usando C#" %}}
 
- Para agregar una marca de agua al archivo VSTM, usaremos
+ Para poner una marca de agua en el archivo VSTM, usaremos
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API, que es una plataforma de manipulación y fusión de documentos rica en funciones, potente y fácil de usar API para la plataforma C#. Abierto
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
@@ -61,10 +61,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o COM Interop- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto: instálelo desde NuGet mediante el botón Descargar de arriba
+- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o COM Interop- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto - Instale desde NuGet usando el botón Descargar arriba
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Archivos VSTM de marca de agua: C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Archivos de marca de agua VSTM - C#" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Text-AddWatermarkToVisio-AddWatermarkToVisio.cs" >}}
 
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram es una manipulación de formato de documento Visio de Microsoft API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
+ Aspose.Diagram es una Microsoft Visio manipulación de formato de documento API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
 
 
 
@@ -88,14 +88,14 @@ PM> Install-Package Aspose.Diagram
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Demostraciones en vivo de VSTM WaterMark en línea" sectionDescription="WaterMark VSTM documentos ahora mismo visitando nuestro [Sitio web de demostraciones en vivo](https://products.aspose.app/diagram/watermark). La demostración en vivo tiene los siguientes beneficios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="En línea VSTM Demostraciones en vivo de WaterMark" sectionDescription="WaterMark VSTM documentos ahora mismo visitando nuestro [Sitio web de demostraciones en vivo](https://products.aspose.app/diagram/watermark). La demostración en vivo tiene los siguientes beneficios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Simplemente cargue sus archivos VSTM." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Tendrá una marca de agua y se concatenará al instante." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/visio/vstm/" >}}
-Los archivos con la extensión VSTM son archivos de plantilla creados con Microsoft Visio que admiten macros. A diferencia de los archivos VSDX, los archivos creados a partir de plantillas VSTM pueden ejecutar macros desarrolladas en código Visual Basic para aplicaciones (VBA). Se puede crear un archivo de plantilla para proporcionar la configuración básica del documento que se puede utilizar para generar más documentos con esta configuración. Los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, diagramas UML, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros. 
+Los archivos con extensión VSTM son archivos de plantilla creados con Microsoft Visio que admiten macros. A diferencia de los archivos VSDX, los archivos creados a partir de plantillas VSTM pueden ejecutar macros desarrolladas en código Visual Basic para aplicaciones (VBA). Se puede crear un archivo de plantilla para proporcionar la configuración básica del documento que se puede utilizar para generar más documentos con esta configuración. Los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, UML diagram, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ Los archivos con la extensión VSTM son archivos de plantilla creados con Micros
 
 {{< blocks/products/pf/agp/other-supported-section title="Otros formatos de marca de agua admitidos" subTitle="Usando C#, uno puede marcar fácilmente diferentes formatos, incluidos." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsd/" name="vsd" description="Dibujos de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsd/" name="Vsd" description="Microsoft Visio Dibujos" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vdx/" name="Vdx" description="Visio archivo XML de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vstx/" name="VSTX" description="Visio archivo de plantilla" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsdm/" name="VSDM" description="Visio archivo de dibujo habilitado para macros" >}}

@@ -2,7 +2,7 @@
 title: Converteer VSDX naar VSDM via Java 
 weight: 3300
 url: /nl/java/conversion/vsdx-to-vsdm/ 
-description: Voorbeeld Java conversiecode voor VSDX formaat naar VSDM-bestand. Gebruik deze voorbeeldcode om VSDX naar VSDM te converteren binnen een web- of desktoptoepassing op Java.
+description: Voorbeeld Java conversiecode voor VSDX formaat naar VSDM bestand. Gebruik deze voorbeeldcode om VSDX naar VSDM te converteren binnen elke web- of desktoptoepassing op Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer VSDX naar VSDM via Java" h2="Exporteer Microsoft Visio VSDX naar VSDM met behulp van native Java-bibliotheek." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSDX" >}}
@@ -12,7 +12,7 @@ description: Voorbeeld Java conversiecode voor VSDX formaat naar VSDM-bestand. G
 
 {{% blocks/products/pf/agp/content h2="Hoe u VSDX naar VSDM converteert met Java" %}}
 
- Om VSDX naar VSDM weer te geven, gebruiken we
+ Om VSDX weer te geven tot VSDM, gebruiken we
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, een veelzijdig, krachtig en gebruiksvriendelijk conversieplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -56,11 +56,11 @@ description: Voorbeeld Java conversiecode voor VSDX formaat naar VSDM-bestand. G
 
 {{% blocks/products/pf/agp/text %}}
 
- Java ontwikkelaars kunnen het VSDX-bestand gemakkelijk converteren naar VSDM in slechts een paar regels code.
+ Java ontwikkelaars kunnen VSDX bestand gemakkelijk converteren naar VSDM in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Laad VSDX bestand met een instantie van Diagram class1. Roep Diagram.save-methode aan met pad naar uitvoerbestand en SaveFileFormat als parameters1. VSDM-bestand wordt opgeslagen op het opgegeven pad
+1. Laad VSDX bestand met een instantie van Diagram class1. Roep Diagram.save-methode aan met pad naar uitvoerbestand en SaveFileFormat als parameters1. VSDM bestand wordt opgeslagen op het opgegeven pad
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
@@ -71,10 +71,10 @@ description: Voorbeeld Java conversiecode voor VSDX formaat naar VSDM-bestand. G
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
+- Microsoft Windows of een compatibel besturingssysteem met Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSDX naar VSDM Java Broncode voor conversie" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSDX naar VSDM Java Conversiebroncode" offSpacer="" %}}
 
 ```cs
 // laad de VSDX in een object van Diagram 
@@ -94,15 +94,15 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VSDX naar VSDM-conversie Live demo\'s" sectionDescription="[Converteer VSDX naar VSDM](https://products.aspose.app/diagram/conversion/vsdx-to-vsdm) op dit moment door onze Live Demo\'s-website te bezoeken. De live demo heeft de volgende voordelen:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSDX naar VSDM conversie live demo\'s" sectionDescription="[Converteer VSDX naar VSDM](https://products.aspose.app/diagram/conversion/vsdx-to-vsdm) op dit moment door onze Live Demo\'s-website te bezoeken. De live demo heeft de volgende voordelen:" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft Aspose API niet te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VSDX-bestand, het wordt direct geconverteerd naar VSDM." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VSDX-bestand, het wordt onmiddellijk geconverteerd naar VSDM." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" U krijgt de downloadlink." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulatiebibliotheek" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-Bestanden met de extensie .VSDX vertegenwoordigen de Microsoft Visio-bestandsindeling die is geïntroduceerd vanaf Microsoft Office 2013. Het is ontwikkeld om het binaire bestandsformaat .VSD te vervangen, dat wordt ondersteund door eerdere versies van Microsoft Visio. Het wordt ook ondersteund op Visio Services in Microsoft SharePoint Server 2013 en vereist geen tussenliggende bestandsindeling voor publicatie naar SharePoint Server. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
+Bestanden met de extensie .VSDX vertegenwoordigen de bestandsindeling Microsoft Visio die is geïntroduceerd vanaf Microsoft Office 2013 en later. Het is ontwikkeld om het binaire bestandsformaat .VSD te vervangen, dat wordt ondersteund door eerdere versies van Microsoft Visio. Het wordt ook ondersteund op Visio Services in Microsoft SharePoint Server 2013 en vereist geen tussenliggende bestandsindeling voor publicatie naar SharePoint Server. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
 
-Bestanden met de VSDM-extensie zijn tekenbestanden die zijn gemaakt met de Microsoft Visio-toepassing die macro's ondersteunt. VSDM-bestanden zijn OPC/XML-tekeningen die lijken op VSDX, maar die ook de mogelijkheid bieden om macro's uit te voeren wanneer het bestand wordt geopend. Macro's zijn door de gebruiker gedefinieerde acties/stappen die zijn ontwikkeld in Visual Basic for Applications (VBA) en kunnen worden gebruikt om herhalende taken uit te voeren. De VSDM-bestandsindeling werd geïntroduceerd met de lancering van Microsoft Visio 2013. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecten in kaart brengen en andere soortgelijke informatie. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
+Bestanden met de extensie VSDM zijn tekenbestanden die zijn gemaakt met de toepassing Microsoft Visio die macro's ondersteunt. VSDM-bestanden zijn OPC/XML-tekeningen die lijken op VSDX, maar bieden ook de mogelijkheid om macro's uit te voeren wanneer het bestand wordt geopend. Macro's zijn door de gebruiker gedefinieerde acties/stappen die zijn ontwikkeld in Visual Basic for Applications (VBA) en kunnen worden gebruikt om herhalende taken uit te voeren. De bestandsindeling VSDM is geïntroduceerd met de lancering van Microsoft Visio 2013. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -141,9 +141,9 @@ Bestanden met de VSDM-extensie zijn tekenbestanden die zijn gemaakt met de Micro
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-svg/" name="VSDX NAAR SVG" description="Schaalbare vectorafbeeldingen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-tiff/" name="VSDX NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX NAAR VDX" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssx/" name="VSDX NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsx/" name="VSDX NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX NAAR VTX" description="Microsoft Visio Tekensjabloon" >}}

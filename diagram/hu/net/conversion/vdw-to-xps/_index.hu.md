@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM Interop funkcióval.- Fejlesztői környezet, például a Microsoft Visual Studio.- Aspose.Diagram for .NET DLL-re hivatkozik a projektben.
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM együttműködéssel.- Fejlesztői környezet, például a Microsoft Visual Studio.- Aspose.Diagram for .NET DLL-re hivatkozik a projektben.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Ez a mintakód a VDW-ből XPS-be való C# átalakítást mutatja" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Egy Diagram Management Library, amelyet kifejezetten a Microsoft Visio fájljaival való együttműködésre terveztek. Lehetővé teszi a fejlesztők számára natív Visio formátumok létrehozását, kezelését és konvertálását. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetik a meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.
+ Egy Diagram Kezelőkönyvtár, amelyet kifejezetten Microsoft Visio fájl kezelésére terveztek. Lehetővé teszi a fejlesztők számára natív Visio formátumok létrehozását, kezelését és konvertálását. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetnek meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagramfrissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW fájlok a Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál arra, hogy Visio fájlokat konvertáljon számos különböző fájlformátumba, beleértve a PNG, BMP, PDF és más formátumokat.
+A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagram frissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW-fájlok a(z) Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál a Visio fájlok számos különböző formátumba konvertálására, beleértve a PNG, BMP, PDF és más formátumokat.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xps" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
-Az XPS-fájlok olyan oldalelrendezési fájlok, amelyek a Microsoft által létrehozott XML-papírspecifikációkon alapulnak. Ezt a formátumot a Microsoft fejlesztette ki az EMF fájlformátum helyettesítésére, és hasonló a PDF fájlformátumhoz, de XML-t használ a dokumentum elrendezésében, megjelenésében és nyomtatási információiban. Valójában indokoltabb azt állítani, hogy az XPS egy kísérlet a PDF-re, de több okból sem tudott elég népszerűséget szerezni a PDF tulajdonában. A Microsoft alapértelmezés szerint XPS Document Writert biztosít a Windows 7-től kezdve az XPS-fájlok létrehozásához. XPS-fájlok generálhatók a „Microsoft XPS Document Writer” nyomtató kiválasztásával a dokumentum nyomtatása közben.
+Az XPS-fájlok olyan oldalelrendezési fájlokat képviselnek, amelyek a(z) Microsoft által létrehozott XML papírspecifikációkon alapulnak. Ezt a formátumot a Microsoft fejlesztette ki az EMF fájlformátum helyettesítésére, és hasonló a PDF fájlformátumhoz, de XML-t használ a dokumentum elrendezésében, megjelenésében és nyomtatási információiban. Valójában indokoltabb azt állítani, hogy az XPS egy kísérlet a PDF-re, de több okból sem tudott elég népszerűséget szerezni a PDF tulajdonában. A Microsoft alapértelmezés szerint az XPS Document Writert biztosítja a Windows 7-től kezdve az XPS-fájlok létrehozásához. Az XPS-fájlok úgy hozhatók létre, hogy a dokumentum nyomtatása közben az "Microsoft XPS Document Writer" nyomtatót választják ki.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,15 +113,15 @@ Az XPS-fájlok olyan oldalelrendezési fájlok, amelyek a Microsoft által létr
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-svg/" name="VDW - SVG" description="Skálázható vektorgrafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-swf/" name="VDW - SWF" description="SWF formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-tiff/" name="VDW - TIFF" description="Címkézett képformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW - VDX" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW – VSDM" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW – VSDX" description="Microsoft Visio formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW - VSSM" description="Microsoft Visio Stencil-fájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW - VSSX" description="Rajzsablonok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW - VSTM" description="Microsoft Visio sablonfájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW - VSTX" description="Microsoft Visio rajzsablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW - VSX" description="Stencilek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW - VTX" description="Microsoft Visio rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW – VDX" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW – VSDM" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW – VSDX" description="Microsoft Visio Formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW – VSSM" description="Microsoft Visio Sablonfájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW – VSSX" description="Rajzsablonok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW – VSTM" description="Microsoft Visio Sablonfájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW – VSTX" description="Microsoft Visio Rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW – VSX" description="Stencilek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW – VTX" description="Microsoft Visio Rajzsablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW - XAML" description="Bővíthető alkalmazásjelölő nyelv" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -15,7 +15,7 @@ description: Java 用于在 Java JSP/JSF 应用程序和桌面应用程序的运
  为了合并 VST 文件，我们将使用
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API 是一个功能丰富、功能强大且易于使用的合并API for Java 平台。您可以直接从
- [马文](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
@@ -77,7 +77,7 @@ description: Java 用于在 Java JSP/JSF 应用程序和桌面应用程序的运
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 Java JSP/JSF 应用程序和桌面应用程序运行时环境的兼容操作系统。- 直接从 Aspose.Diagram for Java 获取最新版本 [马文](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows 或具有Java JSP/JSF 应用程序和桌面应用程序运行时环境的兼容操作系统。- 直接从 Aspose.Diagram for Java 获取最新版本 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
 
     {{% blocks/products/pf/agp/content h2="关于Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
+ Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一个独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 它将立即合并和连接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-带有 VST 扩展名的文件是使用 Microsoft Visio 创建的矢量图像文件，用作创建更多文件的模板。这些模板文件为二进制文件格式，包含用于创建新 Visio 图纸的默认布局和设置。在 Microsoft Visio 中打开 VST 文件时，它包含现有设置以继续使用该文档。通常，Visio 文件用于创建包含可视对象、流程图、UML 图、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。 
+具有 VST 扩展名的文件是使用 Microsoft Visio 创建的矢量图像文件，并用作创建更多文件的模板。这些模板文件为二进制文件格式，包含用于创建新 Visio 图纸的默认布局和设置。在 Microsoft Visio 中打开 VST 文件时，它包含现有设置以继续使用该文档。通常，Visio 文件用于创建包含可视对象、流程图、UML diagram、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,14 +132,14 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio 绘图格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio 绘图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio 绘图格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="微软Visio格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio 格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="模板文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio 模具文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="绘图模具" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio 绘图模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="视频传输" description="Microsoft Visio 绘图模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio 绘图模板" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

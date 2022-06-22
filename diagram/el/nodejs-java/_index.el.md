@@ -2,10 +2,10 @@
 title: Visio Έγγραφα Node.js API - Aspose 
 weight: 1630
 url: /el/nodejs-java/ 
-description: Το Aspose.Diagram για το Node.js μέσω Java είναι ένα javascript visio API για ανάγνωση, εγγραφή και μετατροπή εγγράφων Microsoft Visio όπως VSDX, VDX και άλλες μορφές
+description: Το Aspose.Diagram για το Node.js μέσω Java είναι ένα visio javascript API για ανάγνωση, εγγραφή και μετατροπή Microsoft Visio εγγράφων όπως VSDX, VDX και περισσότερες μορφές
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio Αρχεία API" h2="Δημιουργία, ανάγνωση, εγγραφή και εξαγωγή μορφών Microsoft Visio, συμπεριλαμβανομένων των μορφών VSDX, VDX, VSX, VTX και άλλων μορφών χρησιμοποιώντας το Node.js API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio Αρχεία API" h2="Δημιουργία, ανάγνωση, εγγραφή και εξαγωγή μορφών Microsoft Visio συμπεριλαμβανομένων των μορφών VSDX, VDX, VSX, VTX και άλλων μορφών χρησιμοποιώντας το Node.js API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +13,11 @@ description: Το Aspose.Diagram για το Node.js μέσω Java είναι έ
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Το Aspose.Diagram για το Node.js μέσω του Java είναι μια λύση χειρισμού εγγράφων της Microsoft Visio. Κάποιος μπορεί να διαβάζει, να γράφει, να προστατεύει, να εξάγει και να εκτυπώνει εγγενείς μορφές Visio, καθώς και να υποστηρίζει ορισμένες κοινώς χρησιμοποιούμενες μορφές εικόνας και σταθερής διάταξης. Είναι εύκολο να φορτώσετε υπάρχοντα αρχεία, να τροποποιήσετε τα στοιχεία του διαγράμματος για εξαγωγή στην επιθυμητή μορφή, συμπεριλαμβανομένων εικόνων ή μορφών σταθερής διάταξης, όπως PDF ή XPS.
+ Το Aspose.Diagram για το Node.js μέσω του Java είναι μια λύση χειρισμού εγγράφων Microsoft Visio. Κάποιος μπορεί να διαβάζει, να γράφει, να προστατεύει, να εξάγει και να εκτυπώνει εγγενείς μορφές Visio, καθώς και να υποστηρίζει ορισμένες κοινώς χρησιμοποιούμενες μορφές εικόνας και σταθερής διάταξης. Είναι εύκολο να φορτώσετε υπάρχοντα αρχεία, να τροποποιήσετε τα στοιχεία diagram για εξαγωγή στην επιθυμητή μορφή, συμπεριλαμβανομένων εικόνων ή μορφών σταθερής διάταξης, όπως PDF ή XPS.
 </p>
 
 <p>
- Το Aspose.Diagram για το Node.js μέσω Java είναι αυτόνομο API και δεν απαιτεί εγκατάσταση του Microsoft Visio ή άλλου λογισμικού. Επιπλέον, λίγες εργασίες που μπορεί κανείς να εκτελέσει εύκολα, όπως η δημιουργία διαγραμμάτων από την αρχή, η ανάγνωση ή η εγγραφή διαφόρων μορφών, η πρόσβαση και η ανάγνωση των ιδιοτήτων, συμπεριλαμβανομένων των τύπων αντικειμένων Visio, η εξαγωγή διαγραμμάτων σε πολλές μορφές, η εκτύπωση διαγραμμάτων με υψηλή πιστότητα και πολλά άλλα.
+ Το Aspose.Diagram για το Node.js μέσω του Java είναι αυτόνομο API και δεν απαιτεί εγκατάσταση Microsoft Visio ή άλλου λογισμικού. Επιπλέον, λίγες εργασίες που μπορεί κανείς να εκτελέσει εύκολα, όπως η δημιουργία διαγραμμάτων από την αρχή, η ανάγνωση ή η εγγραφή διαφόρων μορφών, η πρόσβαση και η ανάγνωση των ιδιοτήτων, συμπεριλαμβανομένων των τύπων αντικειμένων Visio, η εξαγωγή διαγραμμάτων σε πολλές μορφές, η εκτύπωση διαγραμμάτων με υψηλή πιστότητα και πολλά άλλα.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -319,7 +319,7 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
      Πρόσβαση και χειρισμός αρχείων Visio
     </h2>
     <p>
-     Το διάγραμμα Node.js API επιτρέπει την ανάγνωση εγγενών μορφών Microsoft Visio, καθώς και την παροχή πρόσβασης στα δεδομένα του διαγράμματος, όπως έγγραφο, σελίδα, κύρια, σχήμα, φύλλο στυλ, σύνδεση και ούτω καθεξής. Αυτά τα αντικείμενα μπορούν να χειριστούν μέσω του API και το αποτέλεσμα μπορεί να γραφτεί στο δίσκο σε οποιαδήποτε από τις υποστηριζόμενες μορφές.
+     Το Node.js diagram API επιτρέπει την ανάγνωση εγγενών μορφών Microsoft Visio καθώς και την παροχή πρόσβασης στα δεδομένα diagram όπως έγγραφο, σελίδα, κύρια, σχήμα, φύλλο στυλ, σύνδεση και ούτω καθεξής. Αυτά τα αντικείμενα μπορούν να χειριστούν μέσω του API και το αποτέλεσμα μπορεί να γραφτεί στο δίσκο σε οποιαδήποτε από τις υποστηριζόμενες μορφές.
     </p>
    </div>
    <div class="col-lg-12">

@@ -1,5 +1,5 @@
 ﻿---
-title: Visio .NET & Java API |創建轉換或操作圖表 
+title: Visio .NET Java Python Node.js API |創建轉換或操作圖表 
 weight: 10
 url: /zh-hant/family
 description: Diagram 庫，用於在未安裝 Microsoft Visio 的 .NET Java 和 Mono 應用程序中創建打開的編輯打印和轉換 Visio 文件
@@ -11,7 +11,7 @@ description: Diagram 庫，用於在未安裝 Microsoft Visio 的 .NET Java 和 
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram 高代碼 API 包括" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
-面向 Windows 窗體、ASP.NET、WPF、WCF 或任何類型的基於 .NET Framework 2.0 或更高版本的應用程序。
+面向 Windows 窗體、ASP.NET、WPF、WCF 或任何基於 .NET Framework 2.0 或更高版本的應用程序。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productLink="/diagram/java/" >}}
@@ -33,7 +33,7 @@ description: Diagram 庫，用於在未安裝 Microsoft Visio 的 .NET Java 和 
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/diagram/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-diagram?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API 參考資料" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 參考文獻" href="https://apireference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

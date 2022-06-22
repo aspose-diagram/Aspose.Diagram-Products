@@ -2,7 +2,7 @@
 title: Pisahkan File VST melalui .NET 
 weight: 1300
 url: /id/net/splitter/vst/ 
-description: C# kode sumber untuk Membagi file vst pada .NET Framework, .NET Core, Mono Platforms.
+description: C# kode sumber untuk Membagi file vst di .NET Framework, .NET Inti, Mono Platform.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Pisahkan VST di C#" h2="Pemisah dokumen VST asli dan berkinerja tinggi menggunakan Aspose.Diagram for .NET API sisi server, tanpa menggunakan perangkat lunak apa pun seperti Microsoft atau Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ Ulangi setiap halaman
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -95,7 +95,7 @@ Ulangi setiap halaman
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ini akan dikompresi dan digabungkan secara instan." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-File dengan ekstensi VST adalah file gambar vektor yang dibuat dengan Microsoft Visio dan bertindak sebagai template untuk membuat file lebih lanjut. Berkas kerangka ini dalam format berkas biner dan berisi tata letak dan setelan bawaan yang digunakan untuk pembuatan gambar Visio baru. Saat file VST dibuka di Microsoft Visio, file tersebut berisi pengaturan yang ada untuk terus bekerja dengan dokumen. Secara umum, file Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya. 
+Berkas dengan ekstensi VST adalah berkas gambar vektor yang dibuat dengan Microsoft Visio dan bertindak sebagai kerangka untuk membuat berkas lebih lanjut. File template ini dalam format file biner dan berisi tata letak dan setelan default yang digunakan untuk pembuatan gambar Visio baru. Saat file VST dibuka di Microsoft Visio, file tersebut berisi pengaturan yang ada untuk terus bekerja dengan dokumen. Secara umum, file Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

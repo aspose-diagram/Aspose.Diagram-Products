@@ -2,7 +2,7 @@
 title: Konversikan VTX ke HTML melalui C# 
 weight: 3030
 url: /id/net/conversion/vtx-to-html/ 
-description: Contoh kode untuk konversi VTX ke HTML C#. Gunakan API kode contoh untuk file batch VTX ke konversi HTML dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
+description: Contoh kode untuk konversi VTX ke HTML C#. Gunakan API kode contoh untuk kumpulan VTX file ke konversi HTML dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversikan VTX ke HTML melalui C#" h2="Ekspor file Microsoft® Visio VTX ke HTML pada .NET Framework, .NET Core, Mono atau COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET pengembang dapat dengan mudah memuat & mengonversi file VTX ke HTML hanya dalam beberapa baris kode.
+ .NET pengembang dapat dengan mudah memuat & mengonversi VTX file ke HTML hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Mengonversi VTX ke HTML" sectionDescription="Periksa demo langsung kami untuk [Konversi VTX ke HTML](https://products.aspose.app/diagram/conversion/vtx-to-html) dengan manfaat sebagai berikut." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Mengonversi VTX ke HTML" sectionDescription="Periksa demo langsung kami untuk [VTX ke konversi HTML](https://products.aspose.app/diagram/conversion/vtx-to-html) dengan manfaat sebagai berikut." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VTX Anda dan tekan tombol \"Konversi\"." >}}
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-File dengan ekstensi .vtx adalah template gambar Visio Microsoft yang disimpan ke disk dalam format file XML. Kerangka ditujukan untuk menyediakan berkas dengan setelan dasar yang dapat digunakan untuk membuat beberapa Visio berkas dengan setelan yang sama. Format serupa lainnya adalah VST yang disimpan dalam format biner daripada XML. File VTX didukung dengan Visio 2010 dan versi yang lebih baru. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
+Berkas dengan ekstensi .vtx adalah kerangka gambar Microsoft Visio yang disimpan ke disk dalam format berkas XML. Template ditujukan untuk menyediakan file dengan pengaturan dasar yang dapat digunakan untuk membuat beberapa file Visio dengan pengaturan yang sama. Format serupa lainnya adalah VST yang disimpan dalam format biner daripada XML. File VTX didukung dengan Visio 2010 dan versi yang lebih baru. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alur, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,9 +115,9 @@ HTML (Hyper Text Markup Language) adalah ekstensi untuk halaman web yang dibuat 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vdx/" name="VTX KE VDX" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdm/" name="VTX KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdx/" name="VTX KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssm/" name="VTX KE VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssm/" name="VTX KE VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssx/" name="VTX KE VSSX" description="Menggambar Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstm/" name="VTX KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstm/" name="VTX KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstx/" name="VTX KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsx/" name="VTX KE VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vtx/" name="VTX KE VTX" description="Microsoft Visio Template Menggambar" >}}

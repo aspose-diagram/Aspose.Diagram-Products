@@ -12,7 +12,7 @@ description: Codice di esempio per la conversione da VDX a HTML C#. Utilizza API
 
 {{% blocks/products/pf/agp/content h2="Come convertire VDX in HTML utilizzando C#" %}}
 
- Per convertire VDX in HTML, useremo
+ Per convertire VDX in HTML, utilizzeremo
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API che è una piattaforma di manipolazione e conversione di documenti API ricca di funzionalità, potente e facile da usare per C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
@@ -39,11 +39,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET gli sviluppatori possono caricare e convertire facilmente i file VDX in HTML in poche righe di codice.
+ .NET gli sviluppatori possono caricare e convertire facilmente VDX file in HTML in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carica il file VDX con un'istanza della classe Diagram1. Chiama il metodo Diagram.Save con il percorso del file di output e SaveFileFormat.HTML come parametri1. Il file HTML verrà salvato nel percorso specificato
+1. Carica il file VDX con un'istanza di classe Diagram1. Chiama il metodo Diagram.Save con il percorso del file di output e SaveFileFormat.HTML come parametri1. Il file HTML verrà salvato nel percorso specificato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di sistema" %}}
@@ -70,15 +70,15 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per convertire VDX in HTML" sectionDescription="Controlla le nostre demo dal vivo per [Conversione da VDX a HTML](https://products.aspose.app/diagram/conversion/vdx-to-html) con i seguenti vantaggi." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per convertire VDX in HTML" sectionDescription="Controlla le nostre demo dal vivo per [VDX in conversione HTML](https://products.aspose.app/diagram/conversion/vdx-to-html) con i seguenti vantaggi." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file VDX e premere il pulsante \"Converti\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Carica il tuo file VDX e premi il pulsante \"Converti\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Otterrai immediatamente il link per il download per il file HTML risultante." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Una Diagram Libreria di gestione appositamente progettata per funzionare con i file Microsoft Visio. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, caricare facilmente file esistenti e manipolare gli elementi del diagramma per esportare il risultato in altri formati.
+ Una Diagram Libreria di gestione appositamente progettata per funzionare con Microsoft Visio file. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, nonché caricare facilmente file esistenti e manipolare gli elementi di diagram per esportare il risultato in altri formati.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Qualsiasi disegno o grafico creato in Microsoft Visio, ma salvato in formato XML ha l'estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio, sviluppato da Microsoft. Microsoft Visio ha la capacità di generare documenti visivi che possono essere utilizzati in presentazioni e documenti. Il file XML di disegno Visio contiene gli oggetti visivi ei dettagli dei metadati degli elementi visivi. Il testo può anche essere aggiunto a questi elementi visivi File XML di disegno di visione. Questi file XML di disegno Visio sono integrati con standard di formattazione basati su XML e specifiche di codifica dei dati di immagine che consentono il rendering e l'archiviazione del contenuto da parte del software Microsoft Visio nel formato file VDX.
+Qualsiasi disegno o grafico creato in Microsoft Visio, ma salvato in formato XML ha l'estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio, sviluppato da Microsoft. Microsoft Visio ha la capacità di generare documenti visivi che possono essere utilizzati in presentazioni e documenti. Il file XML di disegno Visio contiene gli oggetti visivi ei dettagli dei metadati degli elementi visivi. Il testo può anche essere aggiunto a questi elementi visivi File XML di disegno di visione. Questi Visio file XML di disegno sono integrati con standard di formattazione basati su XML e specifiche di codifica dei dati di immagine che consentono il rendering e la memorizzazione del contenuto da parte del software Microsoft Visio nel formato di file VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="html" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per la visualizzazione nei browser. Conosciuto come linguaggio del web, l'HTML si è evoluto con i requisiti di nuovi requisiti informativi da visualizzare come parte delle pagine web. L'ultima variante è nota come HTML 5 che offre molta flessibilità per lavorare con la lingua. Le pagine HTML vengono ricevute dal server, dove sono ospitate, oppure possono essere caricate anche dal sistema locale. Ogni pagina HTML è composta da elementi HTML come moduli, testo, immagini, animazioni, collegamenti, ecc. Questi elementi sono rappresentati da tag come img, a, p e molti altri in cui ogni tag ha inizio e fine. Può anche incorporare applicazioni scritte in linguaggi di scripting come JavaScript e fogli di stile (CSS) per la rappresentazione generale del layout.
+HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per la visualizzazione nei browser. Conosciuto come la lingua del web, l'HTML si è evoluto con i requisiti di nuovi requisiti di informazione da visualizzare come parte delle pagine web. L'ultima variante è nota come HTML 5 che offre molta flessibilità per lavorare con la lingua. Le pagine HTML vengono ricevute dal server, dove sono ospitate, oppure possono essere caricate anche dal sistema locale. Ogni pagina HTML è composta da elementi HTML come moduli, testo, immagini, animazioni, collegamenti, ecc. Questi elementi sono rappresentati da tag come img, a, p e molti altri in cui ogni tag ha inizio e fine. Può anche incorporare applicazioni scritte in linguaggi di scripting come JavaScript e fogli di stile (CSS) per la rappresentazione generale del layout.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,21 +105,21 @@ HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per l
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire VDX in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-bmp/" name="VDX A BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-emf/" name="VDX A EMF" description="Formato Metafile migliorato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-emf/" name="VDX A CEM" description="Formato Metafile migliorato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-jpeg/" name="VDX IN JPEG" description="Immagine JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-pdf/" name="VDX IN PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-png/" name="VDX IN PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-svg/" name="VDX IN SVG" description="Grafica vettoriale scalabile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-swf/" name="VDX IN SWF" description="Formato SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-tiff/" name="VDX IN TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdm/" name="VDX A VSDM" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdx/" name="VDX A VSDX" description="Formato Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX A VSSM" description="File stencil di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdm/" name="VDX A VSDM" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdx/" name="VDX A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX A VSSM" description="Microsoft Visio File stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssx/" name="VDX A VSSX" description="Stencil da disegno" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX A VSTM" description="File modello Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX A VSTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX A VSTM" description="Microsoft Visio File modello" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX A VSTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsx/" name="VDX A VSX" description="Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX A VTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX A VTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xaml/" name="VDX IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xps/" name="VDX A XPS" description="Specifiche della carta XML" >}}
 

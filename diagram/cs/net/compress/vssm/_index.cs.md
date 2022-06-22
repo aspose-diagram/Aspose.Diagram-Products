@@ -1,5 +1,5 @@
 ﻿---
-title: Komprimovat dokument VSSM přes .NET 
+title: Komprimovat dokument VSSM prostřednictvím .NET 
 weight: 3050
 url: /cs/net/compress/vssm/ 
 description: Zdrojový kód C# pro komprimaci souboru vssm na platformách .NET Framework, .NET Core, Mono.
@@ -12,7 +12,7 @@ description: Zdrojový kód C# pro komprimaci souboru vssm na platformách .NET 
 
 {{% blocks/products/pf/agp/content h2="Jak komprimovat soubor VSSM pomocí C#" %}}
 
- Pro komprimaci souboru VSSM použijeme
+ Ke komprimaci souboru VSSM použijeme
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci a slučování dokumentů API pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroky pro kompresi souborů VSSM v C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroky pro kompresi VSSM souborů v C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Diagram
 + Načíst soubor Visio pomocí objektu třídy Diagram
 Použijte funkci RemoveHiddenInformation aplikace Diagram
 + Zavolejte metodu Save() a předejte název souboru (úplnou cestu) a formát (VSDX) jako parametr.
-+ Nyní můžete otevřít a používat soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
++ Nyní můžete otevřít a použít soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -60,7 +60,7 @@ Použijte funkci RemoveHiddenInformation aplikace Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí, jako je Microsoft Visual Studio- Aspose.Diagram DLL for .NET, na kterou odkazuje váš projekt – Nainstalujte z webu NuGet pomocí tlačítka Stáhnout výše
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Komprimovat soubory VSSM – C#" offSpacer="" %}}
@@ -79,7 +79,7 @@ Použijte funkci RemoveHiddenInformation aplikace Diagram
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -87,14 +87,14 @@ Použijte funkci RemoveHiddenInformation aplikace Diagram
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online ukázky VSSM Compress Live" sectionDescription="Komprimujte dokumenty VSSM právě teď na našem webu [Web živé ukázky](https://products.aspose.app/diagram/compress). Živé demo má následující výhody" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online VSSM komprimované živé ukázky" sectionDescription="Komprimujte dokumenty v počtu VSSM hned teď, když navštívíte naše [Web živé ukázky](https://products.aspose.app/diagram/compress). Živé demo má následující výhody" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubory VSSM." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát své soubory VSSM." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude komprimován a zřetězen." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/visio/vssm/" >}}
-Soubory s příponou .VSSM jsou soubory šablon Microsoft Visio, které podporují a poskytují podporu pro makra. Soubor VSSM při otevření umožňuje spouštět makra pro dosažení požadovaného formátování a umístění tvarů v diagramu. Microsoft Visio je obecně kreslicí software, který umožňuje vytvářet soubory, které mohou obsahovat a reprezentovat uživatelem definované informace v různých tvarech. Mezi nejběžnější z nich patří mimo jiné diagramy UML, vývojové diagramy, vizuální objekty, tok informací, organizační diagramy, softwarové diagramy, uspořádání sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí Visio lze také převést do různých formátů souborů, jako jsou PNG, BMP, PDF a další. 
+Soubory s příponou .VSSM jsou Microsoft Visio soubory vzorníků, které podporují a poskytují podporu pro makra. Soubor VSSM po otevření umožňuje spouštět makra pro dosažení požadovaného formátování a umístění tvarů v diagram. Obecně platí, že Microsoft Visio je kreslicí software, který umožňuje vytvářet soubory, které mohou obsahovat a reprezentovat uživatelem definované informace v různých tvarech. Mezi nejběžnější z nich patří mimo jiné diagramy UML, vývojové diagramy, vizuální objekty, tok informací, organizační diagramy, softwarové diagramy, uspořádání sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí Visio lze také převést do různých formátů souborů, jako jsou PNG, BMP, PDF a další. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,7 +104,7 @@ Soubory s příponou .VSSM jsou soubory šablon Microsoft Visio, které podporuj
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované kompresní formáty" subTitle="Pomocí C# lze snadno komprimovat různé formáty včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="Vsd" description="Nákresy Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="Vsd" description="Microsoft Visio Nákresy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vdx/" name="Vdx" description="Visio soubor XML výkresu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssx/" name="VSSX" description="Soubor vzorníku Visio" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstx/" name="VSTX" description="Soubor šablony Visio" >}}

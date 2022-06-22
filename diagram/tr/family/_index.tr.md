@@ -1,11 +1,11 @@
 ﻿---
-title: Visio .NET ve Java API'leri | Dönüştürme veya İşleme Diyagramları Oluşturun 
+title: Visio .NET Java Python Node.js API'leri | Dönüştürme veya İşleme Diyagramları Oluşturun 
 weight: 10
 url: /tr/family
-description: Microsoft Visio yüklü olmadan .NET Java ve Mono uygulamalarında açık düzenleme baskısı oluşturmak ve Visio dosyalarını dönüştürmek için Diagram kitaplığı
+description: Microsoft Visio kurulu olmadan .NET Java ve Mono uygulamalarda açık düzenleme baskısı oluşturmak ve Visio dosyalarını dönüştürmek için Diagram kitaplığı
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio Dosya İşleme API\'leri" h2="Herhangi bir platformda Microsoft Visio dosyalarını oluşturmak, düzenlemek ve dönüştürmek için .NET ve Java API\'leri." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio Dosya Manipülasyon API\'leri" h2="Herhangi bir platformda Microsoft Visio dosyası oluşturmak, düzenlemek ve dönüştürmek için .NET ve Java API\'leri." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram Yüksek Kod API\'leri Dahildir" >}}
@@ -19,11 +19,11 @@ Java SE veya EE'ye dayalı masaüstü, web veya her tür uygulama için yerel Ja
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Java üzerinden Node.js" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
-Node.js aracılığıyla Microsoft Visio belgeleri oluşturun, okuyun, yazın ve oluşturun.
+Node.js aracılığıyla Microsoft Visio belgesi oluşturun, okuyun, yazın ve oluşturun.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Java aracılığıyla Python" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
-Python aracılığıyla Microsoft Visio belgelerini oluşturun, okuyun, yazın ve oluşturun.
+Python aracılığıyla Microsoft Visio belgeleri oluşturun, okuyun, yazın ve oluşturun.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

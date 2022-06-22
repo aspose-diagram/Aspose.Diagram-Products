@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Een Diagram beheerbibliotheek die speciaal is ontworpen om te werken met Microsoft Visio-bestanden. Hiermee kunnen ontwikkelaars native Visio-indelingen maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van het diagram manipuleren om het resultaat naar andere indelingen te exporteren.
+ Een Diagram beheerbibliotheek die speciaal is ontworpen om met Microsoft Visio bestanden te werken. Hiermee kunnen ontwikkelaars native Visio-formaten maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van de diagram manipuleren om het resultaat naar andere formaten te exporteren.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-Bestanden met de extensie .VSDX vertegenwoordigen de Microsoft Visio-bestandsindeling die is geïntroduceerd vanaf Microsoft Office 2013. Het is ontwikkeld om het binaire bestandsformaat .VSD te vervangen, dat wordt ondersteund door eerdere versies van Microsoft Visio. Het wordt ook ondersteund op Visio Services in Microsoft SharePoint Server 2013 en vereist geen tussenliggende bestandsindeling voor publicatie naar SharePoint Server. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
+Bestanden met de extensie .VSDX vertegenwoordigen de bestandsindeling Microsoft Visio die is geïntroduceerd vanaf Microsoft Office 2013 en later. Het is ontwikkeld om het binaire bestandsformaat .VSD te vervangen, dat wordt ondersteund door eerdere versies van Microsoft Visio. Het wordt ook ondersteund op Visio Services in Microsoft SharePoint Server 2013 en vereist geen tussenliggende bestandsindeling voor publicatie naar SharePoint Server. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xaml" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
-XAML, Extensible Application Markup Language, extensiebestanden beschrijven de elementen van de gebruikersinterface voor softwaretoepassingen op basis van Windows Presentation Foundation (WPF). Hoewel het een taal is, hoeft het niet te worden geprogrammeerd, omdat het is gebaseerd op het standaardformaat van XML dat gemakkelijk te gebruiken en te begrijpen is. XAML (uitgesproken als "zammel") is ontwikkeld door Microsoft met als specifiek doel het creëren van gebruikersinterfaces. Het originele acroniem stond voor Extensible Avalon Markup Language, waarbij Avalon de codenaam was voor WPF. XAML-bestanden worden soms ook opgeslagen met de XOML-extensie.
+XAML, Extensible Application Markup Language, extensiebestanden beschrijven de elementen van de gebruikersinterface voor softwaretoepassingen op basis van Windows Presentation Foundation (WPF). Hoewel het een taal is, hoeft het niet te worden geprogrammeerd, omdat het is gebaseerd op het standaardformaat van XML dat gemakkelijk te gebruiken en te begrijpen is. XAML (uitgesproken als "zammel") is ontwikkeld door Microsoft met een specifiek doel voor het maken van gebruikersinterfaces. Het originele acroniem stond voor Extensible Avalon Markup Language, waarbij Avalon de codenaam was voor WPF. XAML-bestanden worden soms ook opgeslagen met de XOML-extensie.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,9 +115,9 @@ XAML, Extensible Application Markup Language, extensiebestanden beschrijven de e
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-tiff/" name="VSDX NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vdx/" name="VSDX NAAR VDX" description="Microsoft Visio Tekenindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsdm/" name="VSDX NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssx/" name="VSDX NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstm/" name="VSDX NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstm/" name="VSDX NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstx/" name="VSDX NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsx/" name="VSDX NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vtx/" name="VSDX NAAR VTX" description="Microsoft Visio Tekensjabloon" >}}

@@ -1,7 +1,7 @@
 ﻿---
 title: Editar VSD archivos a través de .NET 
 url: /es/net/editor/vsd/ 
-description: C# código fuente para editar VSD documento en .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms.
+description: Código fuente de C# para editar el documento VSD en las plataformas .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Editar VSD formatos en C#" h2="Edición de documentos VSD nativa y de alto rendimiento mediante API Aspose.Diagram for .NET del lado del servidor, sin el uso de ningún software como Microsoft o Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -13,7 +13,7 @@ description: C# código fuente para editar VSD documento en .NET Framework, .NET
 
 Para editar el archivo VSD, usaremos <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API, que es una plataforma API para C# rica en funciones, potente y fácil de usar para cualquier editor. Abierto <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> administrador de paquetes, busque <b>Aspose.Diagram</b> e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
-{{% blocks/products/pf/agp/code-block title="Mando" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
 ```cs
 
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto: instálelo desde NuGet mediante el botón Descargar de arriba
+- Microsoft Windows o un sistema operativo compatible con las plataformas .NET Framework, .NET Core, Windows Azure, Mono o Xamarin- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto - Instale desde NuGet usando el botón Descargar arriba
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Editar VSD archivos - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram es una manipulación de formato de documento Visio de Microsoft API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.    
+Aspose.Diagram es una Microsoft Visio manipulación de formato de documento API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram es una manipulación de formato de documento Visio de Microsoft A
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Luego guarde y descargue." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Los archivos VSD son dibujos creados con la aplicación Microsoft Visio para representar una variedad de objetos gráficos y la interconexión entre estos. Dichos dibujos pueden contener objetos visuales como objetos visuales, diagramas de flujo, diagrama UML, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Microsoft Visio ofrece la capacidad de convertir archivos Visio a varios formatos de archivo diferentes, incluidos PNG, BMP, PDF y otros. 
+Los archivos VSD son dibujos creados con la aplicación Microsoft Visio para representar una variedad de objetos gráficos y la interconexión entre estos. Dichos dibujos pueden contener objetos visuales como objetos visuales, diagramas de flujo, UML diagram, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Microsoft Visio ofrece la capacidad de convertir archivos Visio a varios formatos de archivo diferentes, incluidos PNG, BMP, PDF y otros. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

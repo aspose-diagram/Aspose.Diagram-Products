@@ -14,7 +14,7 @@ description: Ukázkový kód pro konverzi VSD na SVG C#. Použijte API ukázkov�
 
  Abychom převedli VSD na SVG, použijeme
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci a konverzi dokumentů API pro platformu C#. Otevřeno
+ API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci a konverzi dokumentů API pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  správce balíčků, vyhledejte
  Aspose.Diagram 
@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop.- Vývojové prostředí jako Microsoft Visual Studio.- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu.
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop.- Vývojové prostředí, jako je Microsoft Visual Studio.- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Tento ukázkový kód ukazuje konverzi VSD na SVG C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Knihovna pro správu Diagram speciálně navržená pro práci se soubory Microsoft Visio. Umožňuje vývojářům vytvářet, manipulovat a převádět nativní formáty Visio. Vývojáři mohou vytvářet diagramy od začátku a také snadno načítat existující soubory a manipulovat s prvky diagramu pro export výsledku do jiných formátů.
+ Knihovna správy Diagram speciálně navržená pro práci se soubory Microsoft Visio. Umožňuje vývojářům vytvářet, manipulovat a převádět nativní formáty Visio. Vývojáři mohou vytvářet diagramy od začátku a také snadno načítat existující soubory a manipulovat s prvky diagram a exportovat výsledek do jiných formátů.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Soubory VSD jsou kresby vytvořené pomocí aplikace Microsoft Visio, které představují různé grafické objekty a vzájemné propojení mezi nimi. Takové výkresy mohou obsahovat vizuální objekty, jako jsou vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších.
+Soubory VSD jsou kresby vytvořené pomocí aplikace Microsoft Visio, které představují různé grafické objekty a vzájemné propojení mezi nimi. Takové výkresy mohou obsahovat vizuální objekty, jako jsou vizuální objekty, vývojové diagramy, UML diagram, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ Soubory SVG jsou soubory škálovatelné vektorové grafiky, které k popisu vzh
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-png/" name="VSD DO PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-swf/" name="VSD DO SWF" description="Formát SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-tiff/" name="VSD NA TIFF" description="Formát tagovaného obrázku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD DO VDX" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD DO VSDM" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD DO VSDX" description="Formát Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD DO VSSM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssx/" name="VSD NA VSSX" description="Kreslicí šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD DO VSTM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD DO VSTX" description="Šablona výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD NA VSX" description="Šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD DO VTX" description="Šablona výkresu Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD DO VDX" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD DO VSDM" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD DO VSDX" description="Microsoft Formát Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD DO VSSM" description="Soubory šablon: Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssx/" name="VSD DO VSSX" description="Kreslicí šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD DO VSTM" description="Microsoft Visio Soubory šablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD DO VSTX" description="Microsoft Visio Šablona výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD DO VSX" description="Šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD DO VTX" description="Microsoft Visio Šablona výkresu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xaml/" name="VSD DO XAML" description="Rozšiřitelný aplikační značkovací jazyk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xps/" name="VSD NA XPS" description="Specifikace papíru XML" >}}
 

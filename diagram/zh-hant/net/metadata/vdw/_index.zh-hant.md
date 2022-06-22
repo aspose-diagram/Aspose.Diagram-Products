@@ -2,7 +2,7 @@
 title: 通過 .NET 查看或編輯 VDW 文件元數據 
 weight: 3050
 url: /zh-hant/net/metadata/vdw/ 
-description: C# 用於在 .NET 框架、.NET 核心、Mono 平台上編輯或查看 VDW 格式元數據的源代碼。
+description: C# 用於在 .NET Framework、.NET Core、Mono 平台上編輯或查看 VDW 格式元數據的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 C# 中的 VDW 元數據" h2="構建您自己的 .NET 應用，以使用服務器端 API 添加、編輯、刪除或提取 VDW 文件中的元數據。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -59,7 +59,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系統- Microsoft Visual Studio 等開發環境- Aspose.Diagram for .NET 項目中引用的 DLL - 使用上面的下載按鈕從 NuGet 安裝
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系統- Microsoft Visual Studio 等開發環境- Aspose.Diagram for .NET 在您的項目中引用的 DLL - 使用上面的下載按鈕從 NuGet 安裝
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="提取 VDW 元數據 - C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="關於Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。  
+ Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一個獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。  
 
 
 
@@ -93,7 +93,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 它將立即被壓縮和連接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW 是 Visio 圖形服務文件格式，它指定呈現 Web 繪圖所需的流和存儲。 Web 繪圖是繪圖頁面、形狀、字體、圖像、數據連接和圖表更新信息的集合，可以呈現為矢量或光柵繪圖。 VDW 文件也可以在 Microsoft Visio 中打開，但主要保存在 Web 上使用。 Microsoft Visio 提供將 Visio 文件轉換為多種不同文件格式的功能，包括 PNG、BMP、PDF 等。 
+VDW 是 Visio 圖形服務文件格式，它指定呈現 Web 繪圖所需的流和存儲。 Web 繪圖是繪圖頁面、形狀、字體、圖像、數據連接和diagram更新信息的集合，可以呈現為矢量或光柵繪圖。 VDW 文件也可以在 Microsoft Visio 中打開，但主要保存在網絡上使用。 Microsoft Visio 能夠將 Visio 文件轉換為多種不同的文件格式，包括 PNG、BMP、PDF 等。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ VDW 是 Visio 圖形服務文件格式，它指定呈現 Web 繪圖所需的流�
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的元數據格式" subTitle="使用 C#，可以輕鬆操作不同格式的元數據，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="VSD" description="Microsoft Visio 繪圖" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio 繪圖" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio 繪圖 XML 文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio 模具文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio 模板文件" >}}

@@ -15,7 +15,7 @@ description: VDW 형식을 PNG 파일로 변환하는 샘플 Java 변환 코드.
  VDW를 PNG로 렌더링하려면 다음을 사용합니다.
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API는 기능이 풍부하고 강력하며 사용하기 쉬운 전환 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
- [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
@@ -71,7 +71,7 @@ description: VDW 형식을 PNG 파일로 변환하는 샘플 Java 변환 코드.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 Java 런타임 환경과 호환되는 OS.- Maven에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오.
+- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경과 호환되는 OS.- Maven에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDW에서 PNG로 Java 변환 소스 코드" offSpacer="" %}}
@@ -94,7 +94,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VDW에서 PNG로 변환 라이브 데모" sectionDescription="[VDW를 PNG로 변환](https://products.aspose.app/diagram/conversion/vdw-to-png) 지금 바로 라이브 데모 웹사이트를 방문하세요. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VDW에서 PNG로의 변환 라이브 데모" sectionDescription="[VDW를 PNG로 변환](https://products.aspose.app/diagram/conversion/vdw-to-png) 지금 바로 라이브 데모 웹사이트를 방문하세요. 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을(를) 다운로드할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" VDW 파일을 업로드하기만 하면 즉시 PNG로 변환됩니다." >}}
@@ -102,7 +102,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram 조작 라이브러리" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDW는 웹 그림을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio 그래픽 서비스 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 다이어그램 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다.
+VDW는 웹 그림을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio 그래픽 서비스 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 diagram 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-PNG(Portable Network Graphics)는 무손실 압축을 사용하는 래스터 이미지 파일 형식 유형을 나타냅니다. 이 파일 형식은 GIF(Graphics Interchange Format)를 대체하기 위해 만들어졌으며 저작권 제한이 없습니다. 그러나 PNG 파일 형식은 애니메이션을 지원하지 않습니다. PNG 파일 형식은 무손실 이미지 압축을 지원하여 사용자들에게 인기가 있습니다. 시간이 지남에 따라 PNG는 가장 많이 사용되는 이미지 파일 형식 중 하나로 발전했습니다. 거의 모든 운영 체제는 PNG 파일 열기를 지원합니다. 예를 들어, Microsoft Windows 뷰어에는 OS가 기본적으로 설치의 일부로 지원을 제공하므로 PNG 파일을 열 수 있는 기능이 있습니다.
+PNG(Portable Network Graphics)는 무손실 압축을 사용하는 래스터 이미지 파일 형식 유형을 나타냅니다. 이 파일 형식은 GIF(Graphics Interchange Format)를 대체하기 위해 만들어졌으며 저작권 제한이 없습니다. 그러나 PNG 파일 형식은 애니메이션을 지원하지 않습니다. PNG 파일 형식은 무손실 이미지 압축을 지원하여 사용자들에게 인기가 있습니다. 시간이 지남에 따라 PNG는 가장 많이 사용되는 이미지 파일 형식 중 하나로 발전했습니다. 거의 모든 운영 체제는 PNG 파일 열기를 지원합니다. 예를 들어, Microsoft Windows 뷰어는 OS가 기본적으로 설치의 일부로 지원을 제공하므로 PNG 파일을 열 수 있습니다.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ PNG(Portable Network Graphics)는 무손실 압축을 사용하는 래스터 이
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-pdf/" name="PDF로 VDW" description="휴대용 문서 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-svg/" name="VDW에서 SVG로" description="확장 가능한 벡터 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDW에서 TIFF로" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW에서 VDX로" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW에서 VSDM으로" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW TO VDX" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW TO VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW TO VSDX" description="Microsoft Visio 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW에서 VSSM으로" description="Microsoft Visio 스텐실 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW에서 VSSX로" description="드로잉 스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW에서 VSTM으로" description="Microsoft Visio 템플릿 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW에서 VSTX로" description="Microsoft Visio 도면 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW에서 VSX로" description="스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW에서 VTX로" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW TO VSSM" description="Microsoft Visio 스텐실 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW TO VSSX" description="드로잉 스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW TO VSTM" description="Microsoft Visio 템플릿 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW TO VSTX" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW TO VSX" description="스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW TO VTX" description="Microsoft Visio 도면 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xaml/" name="VDW에서 XAML로" description="확장 가능한 애플리케이션 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="VDW에서 XPS로" description="XML 용지 사양" >}}
 

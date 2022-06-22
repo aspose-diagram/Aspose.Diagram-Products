@@ -15,8 +15,8 @@ description: VSS biçimi için TIFF dosyasına örnek Java dönüştürme kodu. 
  VSS'yi TIFF'e dönüştürmek için kullanacağız
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  Zengin özelliklere sahip, güçlü ve kullanımı kolay bir dönüşüm API for Java platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
- [Uzman](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ ve pom.xml dosyasına aşağıdaki yapılandırmaları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="depo" offSpacer="true" %}}
 
@@ -112,7 +112,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS, Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyalarıdır. Nispeten yeni bir dosya biçimi, Microsoft Visio 2013 ile tanıtılan .VSSX'tir. Şablon dosyaları, bir .VSD Visio çizimine dahil edilebilecek çizim nesneleri sağlar. Microsoft Visio, şekiller, bağlayıcılar, akış şemaları, ağ düzeni, UML diyagramları, yazılım diyagramları, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi çizim öğeleri oluşturmasıyla tanınır. Ayrıca Visio belgelerin PNG, BMP, PDF ve diğerleri gibi diğer dosya biçimlerine zengin dönüştürme özelliklerine sahiptir. Visio hem Windows hem de Mac OS için kullanılabilir.
+VSS, Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyalarıdır. Nispeten yeni bir dosya biçimi, Microsoft Visio 2013 ile tanıtılan .VSSX'dir. Şablon dosyaları, bir .VSD Visio çizimine dahil edilebilecek çizim nesneleri sağlar. Microsoft Visio, şekiller, bağlayıcılar, akış şemaları, ağ düzeni, UML diyagramları, yazılım diyagramları, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi çizim öğeleri oluşturmasıyla bilinir. Ayrıca Visio belgelerin PNG, BMP, PDF ve diğerleri gibi diğer dosya biçimlerine zengin dönüştürme özelliklerine sahiptir. Visio hem Windows hem de Mac OS için kullanılabilir.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ TIFF veya TIF, Etiketli Görüntü Dosyası Biçimi, bu dosya biçimi standardı
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-pdf/" name="VSS\'DEN PDF\'E" description="Taşınabilir Döküman Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="PNG\'ye Karşı" description="taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS\'DEN SVG\'ye" description="ölçeklendirilebilir Vektör Grafiği" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS\'DEN VDX\'E" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS\'DEN VSDM\'ye" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSDX\'A KARŞI" description="Microsoft Visio Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS\'DEN VSSM\'ye" description="Microsoft Visio Şablon dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS\'DEN VSSX\'E" description="Çizim Şablonları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSTM\'DEN VSTM\'ye" description="Microsoft Visio Şablon Dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS\'DEN VSTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS\'DEN VSX\'E" description="şablonlar" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VTX\'DEN VTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VDX\'A KARŞI" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSDM\'A KARŞI" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSDX\'A KARŞI" description="Microsoft Visio Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSSM\'A KARŞI" description="Microsoft Visio Şablon dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSSX\'A KARŞI" description="Çizim Şablonları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSTM\'A KARŞI" description="Microsoft Visio Şablon Dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSTX\'A KARŞI" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSX\'A KARŞI" description="şablonlar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VTX\'A KARŞI" description="Microsoft Visio Çizim Şablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="XAML\'YE VSS" description="Genişletilebilir Uygulama İşaretleme Dili" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="XPS\'YE KARŞI" description="XML Kağıt Özellikleri" >}}
 

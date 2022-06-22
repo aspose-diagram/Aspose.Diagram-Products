@@ -2,7 +2,7 @@
 title: Konversi VST ke VSTM melalui C# 
 weight: 750
 url: /id/net/conversion/vst-to-vstm/ 
-description: Contoh kode untuk konversi VST ke VSTM C#. Gunakan API kode contoh untuk file batch VST ke konversi VSTM dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
+description: Kode contoh untuk konversi VST ke VSTM C#. Gunakan API kode contoh untuk file batch VST ke VSTM konversi dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversi VST ke VSTM melalui C#" h2="Ekspor file Microsoft® Visio VST ke VSTM pada .NET Framework, .NET Core, Mono atau COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VST" >}}
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Muat file VST dengan instance Diagram class1. Panggil metode Diagram.Save dengan jalur file output dan SaveFileFormat.VSTM sebagai parameter1. File VSTM akan disimpan di jalur yang ditentukan
+1. Muat file VST dengan instance Diagram class1. Panggil metode Diagram.Save dengan jalur file keluaran dan SaveFileFormat.VSTM sebagai parameter1. VSTM file akan disimpan di jalur yang ditentukan
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan sistem" %}}
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Mengonversi VST ke VSTM" sectionDescription="Periksa demo langsung kami untuk [Konversi VST ke VSTM](https://products.aspose.app/diagram/conversion/vst-to-vstm) dengan manfaat sebagai berikut." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Mengonversi VST ke VSTM" sectionDescription="Periksa demo langsung kami untuk [VST ke VSTM konversi](https://products.aspose.app/diagram/conversion/vst-to-vstm) dengan manfaat sebagai berikut." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VST Anda dan tekan tombol \"Konversi\"." >}}
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-File dengan ekstensi VST adalah file gambar vektor yang dibuat dengan Microsoft Visio dan bertindak sebagai template untuk membuat file lebih lanjut. Berkas kerangka ini dalam format berkas biner dan berisi tata letak dan setelan bawaan yang digunakan untuk pembuatan gambar Visio baru. Saat file VST dibuka di Microsoft Visio, file tersebut berisi pengaturan yang ada untuk terus bekerja dengan dokumen. Secara umum, file Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
+Berkas dengan ekstensi VST adalah berkas gambar vektor yang dibuat dengan Microsoft Visio dan bertindak sebagai kerangka untuk membuat berkas lebih lanjut. File template ini dalam format file biner dan berisi tata letak dan setelan default yang digunakan untuk pembuatan gambar Visio baru. Saat file VST dibuka di Microsoft Visio, file tersebut berisi pengaturan yang ada untuk terus bekerja dengan dokumen. Secara umum, file Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vstm" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
-File dengan ekstensi VSTM adalah file template yang dibuat dengan Microsoft Visio yang mendukung makro. Tidak seperti file VSDX, file yang dibuat dari templat VSTM dapat menjalankan makro yang dikembangkan dalam kode Visual Basic for Applications (VBA). File template dapat dibuat untuk memberikan pengaturan dasar dokumen yang dapat digunakan untuk menghasilkan dokumen lebih lanjut dengan pengaturan ini. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
+Berkas dengan ekstensi VSTM adalah berkas kerangka yang dibuat dengan Microsoft Visio yang mendukung makro. Tidak seperti file VSDX, file yang dibuat dari template VSTM dapat menjalankan makro yang dikembangkan dalam kode Visual Basic for Applications (VBA). File template dapat dibuat untuk memberikan pengaturan dasar dokumen yang dapat digunakan untuk menghasilkan dokumen lebih lanjut dengan pengaturan ini. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alur, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -116,7 +116,7 @@ File dengan ekstensi VSTM adalah file template yang dibuat dengan Microsoft Visi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST KE VDX" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST KE VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST KE VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST KE VSSX" description="Menggambar Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST KE VSX" description="Stensil" >}}

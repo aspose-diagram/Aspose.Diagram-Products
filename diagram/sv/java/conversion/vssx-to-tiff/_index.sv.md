@@ -2,7 +2,7 @@
 title: Konvertera VSSX till TIFF via Java 
 weight: 3660
 url: /sv/java/conversion/vssx-to-tiff/ 
-description: Exempel på Java-konverteringskod för VSSX-format till TIFF-fil. Använd den här exempelkoden för att konvertera VSSX till TIFF i valfri webb- eller datorbaserad applikation Java.
+description: Exempel på konverteringskod från Java för formatet VSSX till TIFF-fil. Använd den här exempelkoden för att konvertera VSSX till TIFF i valfri webb- eller datorbaserad applikation Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera VSSX till TIFF via Java" h2="Exportera Microsoft Visio VSSX till TIFF med inbyggt Java-bibliotek." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSX" >}}
@@ -56,11 +56,11 @@ description: Exempel på Java-konverteringskod för VSSX-format till TIFF-fil. A
 
 {{% blocks/products/pf/agp/text %}}
 
- Java-utvecklare kan enkelt konvertera VSSX-fil till TIFF på bara några rader kod.
+ Java-utvecklare kan enkelt konvertera VSSX-filen till TIFF på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Ladda VSSX-fil med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. TIFF-filen kommer att sparas på den angivna sökvägen
+1. Ladda filen VSSX med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. TIFF-filen kommer att sparas på den angivna sökvägen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
@@ -74,7 +74,7 @@ description: Exempel på Java-konverteringskod för VSSX-format till TIFF-fil. A
 - Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.- Hämta den senaste versionen av Aspose.Diagram for Java direkt från Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSSX till TIFF Java konverteringskällkod" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSSX till TIFF Java Källkod för omvandling" offSpacer="" %}}
 
 ```cs
 // ladda VSSX i ett objekt av Diagram 
@@ -97,12 +97,12 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 {{< blocks/products/pf/agp/demobox sectionTitle="VSSX till TIFF Conversion Live Demos" sectionDescription="[Konvertera VSSX till TIFF](https://products.aspose.app/diagram/conversion/vssx-to-tiff) just nu genom att besöka vår Live Demos-webbplats. Livedemon har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ned Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSSX-fil, den kommer omedelbart att konverteras till TIFF." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSSX-fil, den konverteras omedelbart till TIFF." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du kommer att få nedladdningslänken." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulationsbibliotek" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSX" readMoreLink="https://docs.fileformat.com/image/vssx/" >}}
 
-Filer med tillägget .VSSX är ritstenciler skapade med Microsoft Visio 2013 och senare. VSSX-filformatet kan öppnas med Visio 2013 och senare. Visio-filer är kända för representation av en mängd ritningselement såsom samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektkartläggning och annan liknande information. Microsoft Visio ger också möjlighet att konvertera Visio-filer till olika filformat som PNG, BMP, PDF och andra. Den är tillgänglig för både Windows och Mac OS.
+Filer med tillägget .VSSX är ritschabloner skapade med Microsoft Visio 2013 och senare. Filformatet VSSX kan öppnas med Visio 2013 och senare. Visio-filer är kända för representation av en mängd ritningselement såsom samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektkartläggning och annan liknande information. Microsoft Visio ger också möjlighet att konvertera Visio-filer till olika filformat som PNG, BMP, PDF och andra. Den är tillgänglig för både Windows och Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -141,12 +141,12 @@ TIFF eller TIF, Tagged Image File Format, representerar rasterbilder som är avs
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-svg/" name="VSSX TILL SVG" description="Skalbar vektorgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vdx/" name="VSSX TILL VDX" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsdm/" name="VSSX TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsdx/" name="VSSX TILL VSDX" description="Microsoft Visio-format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vssm/" name="VSSX TILL VSSM" description="Microsoft Visio stencilfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vstm/" name="VSSX TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vstx/" name="VSSX TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsdx/" name="VSSX TILL VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vssm/" name="VSSX TILL VSSM" description="Microsoft Visio Stencilfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vstm/" name="VSSX TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vstx/" name="VSSX TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsx/" name="VSSX TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vtx/" name="VSSX TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vtx/" name="VSSX TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-xaml/" name="VSSX TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-xps/" name="VSSX TILL XPS" description="XML-pappersspecifikationer" >}}
 

@@ -2,7 +2,7 @@
 title: Converti VTX in HTML tramite Java 
 weight: 4120
 url: /it/java/conversion/vtx-to-html/ 
-description: Esempio di codice di conversione Java per il formato VTX in file HTML. Usa questo codice di esempio per convertire VTX in HTML all'interno di qualsiasi applicazione basata su Web o Desktop Java.
+description: Esempio di codice di conversione Java per il formato VTX in file HTML. Utilizza questo codice di esempio per convertire VTX in HTML all'interno di qualsiasi applicazione basata su Web o desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti VTX in HTML tramite Java" h2="Esporta Microsoft Visio VTX in HTML utilizzando la libreria Java nativa." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -12,10 +12,10 @@ description: Esempio di codice di conversione Java per il formato VTX in file HT
 
 {{% blocks/products/pf/agp/content h2="Come convertire VTX in HTML utilizzando Java" %}}
 
- Per rendere VTX in HTML, useremo
+ Per eseguire il rendering di VTX in HTML, utilizzeremo
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API che è una piattaforma di conversione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la sua ultima versione direttamente da
- [Esperto di](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -56,11 +56,11 @@ description: Esempio di codice di conversione Java per il formato VTX in file HT
 
 {{% blocks/products/pf/agp/text %}}
 
- Java gli sviluppatori possono convertire facilmente i file VTX in HTML in poche righe di codice.
+ Java gli sviluppatori possono convertire facilmente VTX file in HTML in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carica il file VTX con un'istanza della classe Diagram1. Chiama il metodo Diagram.save con il percorso del file di output e SaveFileFormat come parametri1. Il file HTML verrà salvato nel percorso specificato
+1. Carica il file VTX con un'istanza di classe Diagram1. Chiama il metodo Diagram.save con il percorso del file di output e SaveFileFormat come parametri1. Il file HTML verrà salvato nel percorso specificato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di sistema" %}}
@@ -77,7 +77,7 @@ description: Esempio di codice di conversione Java per il formato VTX in file HT
 {{% blocks/products/pf/agp/code-block title="Codice sorgente di conversione da VTX a HTML Java" offSpacer="" %}}
 
 ```cs
-// carica il VTX in un oggetto di Diagram 
+// carica VTX in un oggetto di Diagram 
 Diagram visio = new Diagram("template.vtx");
 // salva VTX come HTML 
 visio.save("output.html", SaveFileFormat.HTML);   
@@ -94,7 +94,7 @@ visio.save("output.html", SaveFileFormat.HTML);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo live di conversione da VTX a HTML" sectionDescription="[Converti VTX in HTML](https://products.aspose.app/diagram/conversion/vtx-to-html) in questo momento visitando il nostro sito Web di demo dal vivo. La demo dal vivo ha i seguenti vantaggi" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VTX in demo dal vivo di conversione HTML" sectionDescription="[Converti VTX in HTML](https://products.aspose.app/diagram/conversion/vtx-to-html) in questo momento visitando il nostro sito Web di demo dal vivo. La demo dal vivo ha i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file VTX, verrà convertito istantaneamente in HTML." >}}
@@ -102,7 +102,7 @@ visio.save("output.html", SaveFileFormat.HTML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Libreria di manipolazione" %}}
 
- Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.  
+ Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.html", SaveFileFormat.HTML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
 
-Un file con estensione .vtx è un modello di disegno Microsoft Visio che viene salvato su disco in formato file XML. Il modello ha lo scopo di fornire un file con le impostazioni di base che può essere utilizzato per creare più file Visio con le stesse impostazioni. Un altro formato simile è VST che viene salvato in formato binario anziché XML. I file VTX sono supportati con Visio 2010 e versioni successive. Visio i file vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri.
+Un file con estensione .vtx è un modello di disegno Microsoft Visio salvato su disco in formato file XML. Il modello ha lo scopo di fornire un file con le impostazioni di base che può essere utilizzato per creare più file Visio con le stesse impostazioni. Un altro formato simile è VST che viene salvato in formato binario anziché XML. VTX i file sono supportati con Visio 2010 e versioni successive. I file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, UML diagram, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
 
-HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per la visualizzazione nei browser. Conosciuto come linguaggio del web, l'HTML si è evoluto con i requisiti di nuovi requisiti informativi da visualizzare come parte delle pagine web. L'ultima variante è nota come HTML 5 che offre molta flessibilità per lavorare con la lingua. Le pagine HTML vengono ricevute dal server, dove sono ospitate, oppure possono essere caricate anche dal sistema locale. Ogni pagina HTML è composta da elementi HTML come moduli, testo, immagini, animazioni, collegamenti, ecc. Questi elementi sono rappresentati da tag come img, a, p e molti altri in cui ogni tag ha inizio e fine. Può anche incorporare applicazioni scritte in linguaggi di scripting come JavaScript e fogli di stile (CSS) per la rappresentazione generale del layout.
+HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per la visualizzazione nei browser. Conosciuto come la lingua del web, l'HTML si è evoluto con i requisiti di nuovi requisiti di informazione da visualizzare come parte delle pagine web. L'ultima variante è nota come HTML 5 che offre molta flessibilità per lavorare con la lingua. Le pagine HTML vengono ricevute dal server, dove sono ospitate, oppure possono essere caricate anche dal sistema locale. Ogni pagina HTML è composta da elementi HTML come moduli, testo, immagini, animazioni, collegamenti, ecc. Questi elementi sono rappresentati da tag come img, a, p e molti altri in cui ogni tag ha inizio e fine. Può anche incorporare applicazioni scritte in linguaggi di scripting come JavaScript e fogli di stile (CSS) per la rappresentazione generale del layout.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -133,19 +133,19 @@ HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per l
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire VTX in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-bmp/" name="VTX A BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-emf/" name="VTX A EMF" description="Formato Metafile migliorato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-emf/" name="VTX A CEM" description="Formato Metafile migliorato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-jpeg/" name="VTX IN JPEG" description="Immagine JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-pdf/" name="VTX IN PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-png/" name="VTX IN PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-svg/" name="VTX IN SVG" description="Grafica vettoriale scalabile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-tiff/" name="VTX IN TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX A VDX" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX A VSDM" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX A VSDX" description="Formato Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX A VSSM" description="File stencil di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX A VDX" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX A VSDM" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX A VSSM" description="Microsoft Visio File stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX A VSSX" description="Stencil da disegno" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX A VSTM" description="File modello Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX A VSTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX A VSTM" description="Microsoft Visio File modello" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX A VSTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX A VSX" description="Stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xaml/" name="VTX IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xps/" name="VTX A XPS" description="Specifiche della carta XML" >}}

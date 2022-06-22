@@ -2,7 +2,7 @@
 title: Dela VSDX filer via .NET 
 weight: 1300
 url: /sv/net/splitter/vsdx/ 
-description: C# källkod till Split vsdx-fil på .NET Framework, .NET Core, Mono Platforms.
+description: C# källkod till Split vsdx-fil på .NET Framework, .NET Core, Mono Plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Dela upp VSDX i C#" h2="Inbyggd och högpresterande VSDX dokumentdelare med hjälp av API:er på serversidan Aspose.Diagram for .NET, utan användning av någon programvara som Microsoft eller Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ Iterera genom varje sida
 
     {{% blocks/products/pf/agp/content h2="Om Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -91,11 +91,11 @@ Iterera genom varje sida
         {{< blocks/products/pf/agp/demobox sectionTitle="Online VSDX Split Live Demos" sectionDescription="Dela upp VSDX dokument just nu genom att besöka vår [Live Demos webbplats](https://products.aspose.app/diagram/splitter). Livedemon har följande fördelar" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ned Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp dina VSDM-filer." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp dina VSDM filer." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Det kommer att komprimeras och sammanfogas direkt." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introducerades från Microsoft Office 2013 och framåt. Det utvecklades för att ersätta det binära filformatet .VSD, som stöds av tidigare versioner av Microsoft Visio. Det stöds också på Visio-tjänster i Microsoft SharePoint Server 2013 och kräver inget mellanliggande filformat för publicering till SharePoint Server. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. 
+Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introducerades från Microsoft Office 2013 och framåt. Det utvecklades för att ersätta det binära filformatet .VSD, som stöds av tidigare versioner av Microsoft Visio. Det stöds också på Visio-tjänster i Microsoft SharePoint Server 2013 och kräver inget mellanliggande filformat för publicering till SharePoint Server. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introdu
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra uppdelningsformat som stöds" subTitle="Med C# kan man enkelt dela upp olika format inklusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Microsoft Visio-ritningar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Microsoft Visio Ritningar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vdx/" name="Vdx" description="Visio ritar XML-fil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssx/" name="VSSX" description="Visio stencilfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vstx/" name="VSTX" description="Visio mallfil" >}}

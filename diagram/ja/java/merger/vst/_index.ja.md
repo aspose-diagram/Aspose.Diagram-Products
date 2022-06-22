@@ -56,7 +56,7 @@ description: Java JSP/JSFアプリケーションとデスクトップアプリ�
 
 {{% blocks/products/pf/agp/text %}}
 
- とマージおよび連結する基本的なドキュメント
+ マージおよび連結する基本的なドキュメント
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  APIは、ほんの数行のコードで実行できます。
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
 
     {{% blocks/products/pf/agp/content h2="約Aspose.Diagramfor JavaAPI" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 即座にマージおよび連結されます。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-VST拡張子の付いたファイルは、Microsoft Visioで作成されたベクターイメージファイルであり、さらにファイルを作成するためのテンプレートとして機能します。これらのテンプレートファイルはバイナリファイル形式であり、新しいVisio図面の作成に使用されるデフォルトのレイアウトと設定が含まれています。 VSTファイルをMicrosoftVisioで開くと、ドキュメントの操作を続行するための既存の設定が含まれています。一般に、Visioファイルは、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 
+VST拡張子の付いたファイルは、Microsoft Visioで作成されたベクター画像ファイルであり、さらにファイルを作成するためのテンプレートとして機能します。これらのテンプレートファイルはバイナリファイル形式であり、新しいVisio図面の作成に使用されるデフォルトのレイアウトと設定が含まれています。 VSTファイルをMicrosoftVisioで開くと、ドキュメントの操作を続行するための既存の設定が含まれています。一般に、Visioファイルは、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,9 +129,9 @@ VST拡張子の付いたファイルは、Microsoft Visioで作成されたベ�
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているマージ形式" subTitle="Javaを使用すると、を含む他の多くのファイル形式をマージすることもできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visioグラフィックサービスファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="MicrosoftVisio図面" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="MicrosoftVisio形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="ステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="MicrosoftVisioステンシルファイル" >}}

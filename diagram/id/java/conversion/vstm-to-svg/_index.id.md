@@ -14,7 +14,7 @@ description: Contoh Java kode konversi untuk format VSTM ke file SVG. Gunakan ko
 
  Untuk merender VSTM ke SVG, kami akan menggunakan
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
- API yang merupakan platform API for Java konversi yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform konversi API for Java yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -56,7 +56,7 @@ description: Contoh Java kode konversi untuk format VSTM ke file SVG. Gunakan ko
 
 {{% blocks/products/pf/agp/text %}}
 
- Java pengembang dapat dengan mudah mengonversi file VSTM ke SVG hanya dalam beberapa baris kode.
+ Java pengembang dapat dengan mudah mengonversi berkas VSTM ke SVG hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -94,7 +94,7 @@ visio.save("output.svg", SaveFileFormat.SVG);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Konversi VSTM ke SVG" sectionDescription="[Mengonversi VSTM ke SVG](https://products.aspose.app/diagram/conversion/vstm-to-svg) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSTM ke Demo Langsung Konversi SVG" sectionDescription="[Konversikan VSTM ke SVG](https://products.aspose.app/diagram/conversion/vstm-to-svg) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VSTM Anda, itu akan langsung dikonversi ke SVG." >}}
@@ -102,7 +102,7 @@ visio.save("output.svg", SaveFileFormat.SVG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Pustaka Manipulasi" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.svg", SaveFileFormat.SVG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
 
-File dengan ekstensi VSTM adalah file template yang dibuat dengan Microsoft Visio yang mendukung makro. Tidak seperti file VSDX, file yang dibuat dari templat VSTM dapat menjalankan makro yang dikembangkan dalam kode Visual Basic for Applications (VBA). File template dapat dibuat untuk memberikan pengaturan dasar dokumen yang dapat digunakan untuk menghasilkan dokumen lebih lanjut dengan pengaturan ini. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
+Berkas dengan ekstensi VSTM adalah berkas kerangka yang dibuat dengan Microsoft Visio yang mendukung makro. Tidak seperti file VSDX, file yang dibuat dari template VSTM dapat menjalankan makro yang dikembangkan dalam kode Visual Basic for Applications (VBA). File template dapat dibuat untuk memberikan pengaturan dasar dokumen yang dapat digunakan untuk menghasilkan dokumen lebih lanjut dengan pengaturan ini. File Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alur, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -142,7 +142,7 @@ File SVG adalah File Grafik Vektor Scalable yang menggunakan format teks berbasi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vdx/" name="VSTM KE VDX" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsdm/" name="VSTM KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsdx/" name="VSTM KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vssm/" name="VSTM KE VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vssm/" name="VSTM KE VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vssx/" name="VSTM KE VSSX" description="Menggambar Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vstx/" name="VSTM KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsx/" name="VSTM KE VSX" description="Stensil" >}}

@@ -2,7 +2,7 @@
 title: 通过 Java 将 VSS 转换为 VSDM 
 weight: 3890
 url: /zh/java/conversion/vss-to-vsdm/ 
-description: VSS 格式到 VSDM 文件的示例 Java 转换代码。使用此示例代码在任何基于 Web 或桌面 Java 的应用程序中将 VSS 转换为 VSDM。
+description: VSS 格式到 VSDM 文件的示例 Java 转换代码。在任何基于 Web 或桌面 Java 的应用程序中，使用此示例代码将 VSS 转换为 VSDM。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Java 将 VSS 转换为 VSDM" h2="使用本机 Java 库将 Microsoft Visio VSS 导出到 VSDM。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSS" >}}
@@ -12,10 +12,10 @@ description: VSS 格式到 VSDM 文件的示例 Java 转换代码。使用此示
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 将 VSS 转换为 VSDM" %}}
 
- 为了将 VSS 渲染为 VSDM，我们将使用
+ 为了将 VSS 渲染到 VSDM，我们将使用
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API 是一个功能丰富、功能强大且易于使用的转换API for Java 平台。您可以直接从
- [马文](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
@@ -71,7 +71,7 @@ description: VSS 格式到 VSDM 文件的示例 Java 转换代码。使用此示
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 Java JSP/JSF 应用程序和桌面应用程序运行时环境的兼容操作系统。- 直接从 Maven 获取最新版本的 Aspose.Diagram for Java。
+- Microsoft Windows 或具有Java JSP/JSF 应用程序和桌面应用程序运行时环境的兼容操作系统。- 直接从 Maven 获取最新版本的 Aspose.Diagram for Java。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSS 到 VSDM Java 转换源代码" offSpacer="" %}}
@@ -97,12 +97,12 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 {{< blocks/products/pf/agp/demobox sectionTitle="VSS 到 VSDM 转换现场演示" sectionDescription="[将 VSS 转换为 VSDM](https://products.aspose.app/diagram/conversion/vss-to-vsdm) 立即访问我们的现场演示网站。现场演示具有以下好处" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 VSS 文件，它将立即转换为 VSDM。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 VSS 文件，它就会立即转换为 VSDM。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将获得下载链接。" >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram 操作库" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
+ Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一个独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS 是使用 Microsoft Visio 2007 及更早版本创建的模具文件。一种相对较新的文件格式是 Microsoft Visio 2013 引入的 .VSSX。模板文件提供了可以包含在 .VSD Visio 图形中的图形对象。 Microsoft Visio 本身以创建绘图元素而闻名，例如形状集合、连接器、流程图、网络布局、UML 图、软件图、数据库模型、对象映射和其他类似信息。它还具有丰富的Visio文档到其他文件格式的转换功能，如PNG、BMP、PDF等。 Visio 适用于 Windows 和 Mac OS。
+VSS 是使用 Microsoft Visio 2007 及更早版本创建的模板文件。 .VSSX 是一种相对较新的文件格式，它是在 2013 年的 Microsoft Visio 中引入的。模板文件提供了可以包含在 .VSD Visio 绘图中的绘图对象。 Microsoft Visio 本身以创建绘图元素而闻名，例如形状、连接器、流程图、网络布局、UML 图、软件图、数据库模型、对象映射和其他类似信息的集合。它还具有丰富的Visio文档到PNG、BMP、PDF等其他文件格式的转换功能。 Visio 适用于 Windows 和 Mac OS。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
 
-带有 VSDM 扩展名的文件是使用支持宏的 Microsoft Visio 应用程序创建的绘图文件。 VSDM 文件是类似于 VSDX 的 OPC/XML 图形，但也提供了在打开文件时运行宏的功能。宏是在 Visual Basic for Applications (VBA) 中开发的用户定义的操作/步骤，可用于执行重复性任务。 VSDM 文件格式是随着 Microsoft Visio 2013 的推出而引入的。Visio 文件用于创建包含视觉对象、流程图、UML 图、信息流、组织图、软件图、网络布局、数据库模型、对象映射和其他类似信息。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。
+扩展名为 VSDM 的文件是使用支持宏的 Microsoft Visio 应用程序创建的绘图文件。 VSDM 文件是类似于 VSDX 的 OPC/XML 绘图，但也提供了在打开文件时运行宏的功能。宏是在 Visual Basic for Applications (VBA) 中开发的用户定义的操作/步骤，可用于执行重复性任务。 VSDM 文件格式是在 Microsoft Visio 2013 年推出时引入的。Visio 文件用于创建包含视觉对象、流程图、UML diagram、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,14 +140,14 @@ VSS 是使用 Microsoft Visio 2007 及更早版本创建的模具文件。一种
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="VSS转PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS 转 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS 转 TIFF" description="标记图像格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS 转 VDX" description="Microsoft Visio 绘图格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS 到 VSDX" description="微软Visio格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS 到 VSSM" description="Microsoft Visio 模具文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS 到 VDX" description="Microsoft Visio 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS 到 VSDX" description="Microsoft Visio 格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS 到 VSSM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS 到 VSSX" description="绘图模具" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS 到 VSTM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS 到 VSTX" description="Microsoft Visio 绘图模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS 到 VSX" description="模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS 转 VTX" description="Microsoft Visio 绘图模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS 到 VTX" description="Microsoft Visio 绘图模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS 到 XAML" description="可扩展的应用程序标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS 转 XPS" description="XML 纸张规格" >}}
 

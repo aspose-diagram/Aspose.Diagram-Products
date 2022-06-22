@@ -1,7 +1,7 @@
 ﻿---
 title: تحرير ملفات VSD عبر .NET 
 url: /ar/net/editor/vsd/ 
-description: C# شفرة المصدر لتعديل VSD المستند على .NET Framework أو .NET Core أو Windows Azure Mono أو أنظمة Xamarin الأساسية.
+description: C# شفرة المصدر لتعديل VSD المستند على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحرير VSD التنسيقات في C#" h2="تحرير مستندات أصلي وعالي الأداء VSD باستخدام واجهات برمجة تطبيقات Aspose.Diagram for .NET من جانب الخادم ، بدون استخدام أي برنامج مثل Microsoft أو Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -11,7 +11,7 @@ description: C# شفرة المصدر لتعديل VSD المستند على .NE
 
 {{% blocks/products/pf/agp/content h2="كيفية تحرير VSD ملف باستخدام C#" %}}
 
-من أجل تحرير ملف VSD ، سنستخدم <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API وهو نظام غني بالميزات وقوي وسهل الاستخدام API لنظام أساسي C# لأي محرر. افتح <a href="https://www.nuget.org/packages/aspose.diagram">نوجيت</a> مدير الحزم ، ابحث عن <b>Aspose.Diagram</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+من أجل تحرير ملف VSD ، سنستخدم <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API وهو نظام غني بالميزات وقوي وسهل الاستخدام API لنظام أساسي C# لأي محرر. يفتح <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> مدير الحزم ، ابحث عن <b>Aspose.Diagram</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="أمر" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core أو Windows Azure Mono أو الأنظمة الأساسية Xamarin- بيئة التطوير مثل Microsoft Visual Studio- Aspose.Diagram for .NET DLL المشار إليه في مشروعك - قم بالتثبيت من NuGet باستخدام الزر "تنزيل" أعلاه
+- Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core أو Windows Azure Mono أو الأنظمة الأساسية Xamarin- بيئة التطوير مثل Microsoft Visual Studio- Aspose.Diagram for .NET DLL المشار إليه في مشروعك - التثبيت من NuGet باستخدام الزر "تنزيل" أعلاه
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="تحرير ملفات VSD - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه API مستقل ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.    
+Aspose.Diagram هو Microsoft Visio معالجة بتنسيق المستند API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه إصدار مستقل API ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمك
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" ثم احفظها ونزلها." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-ملفات VSD هي رسومات تم إنشاؤها باستخدام تطبيق Microsoft Visio لتمثيل مجموعة متنوعة من الكائنات الرسومية والترابط بينها. يمكن أن تحتوي هذه الرسومات على كائنات مرئية مثل الكائنات المرئية ، والمخططات الانسيابية ، ومخطط UML ، وتدفق المعلومات ، والمخططات التنظيمية ، ومخططات البرامج ، وتخطيط الشبكة ، ونماذج قواعد البيانات ، وتخطيط الكائنات ، وغيرها من المعلومات المماثلة. تقدم Microsoft Visio القدرة على تحويل ملفات Visio إلى عدد من تنسيقات الملفات المختلفة بما في ذلك PNG و BMP و PDF وغيرها. 
+ملفات VSD هي رسومات تم إنشاؤها باستخدام تطبيق Microsoft Visio لتمثيل مجموعة متنوعة من الكائنات الرسومية والترابط بينها. يمكن أن تحتوي مثل هذه الرسومات على كائنات مرئية مثل الكائنات المرئية والمخططات الانسيابية و UML diagram وتدفق المعلومات والمخططات التنظيمية ومخططات البرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يوفر Microsoft Visio القدرة على تحويل ملفات Visio إلى عدد من تنسيقات الملفات المختلفة بما في ذلك PNG و BMP و PDF وغيرها. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

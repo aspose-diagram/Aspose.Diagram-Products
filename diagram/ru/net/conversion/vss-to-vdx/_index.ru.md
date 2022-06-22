@@ -2,7 +2,7 @@
 title: Преобразование VSS в VDX через C# 
 weight: 1330
 url: /ru/net/conversion/vss-to-vdx/ 
-description: Пример кода для преобразования VSS в VDX C#. Используйте пример кода API для пакетного преобразования файлов VSS в VDX в VB.NET, Asp.NET или любом приложении на основе .NET.
+description: Пример кода для преобразования VSS в VDX C#. Используйте API пример кода для пакетного преобразования файлов VSS в VDX преобразование в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование VSS в VDX через C#" h2="Экспорт файлов Microsoft® Visio VSS в VDX на .NET Framework, .NET Core, Mono или COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VDX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSS" >}}
@@ -14,7 +14,7 @@ description: Пример кода для преобразования VSS в VD
 
  Чтобы преобразовать VSS в VDX, мы будем использовать
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API — многофункциональное, мощное и простое в использовании средство обработки и преобразования документов API для платформы C#. Открыть
+ API — многофункциональное, мощное и простое в использовании средство обработки и преобразования документов API для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  менеджер пакетов, поиск
  Aspose.Diagram 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузить файл VSS с экземпляром класса Diagram1. Вызовите метод Diagram.Save с путем к выходному файлу и SaveFileFormat.VDX в качестве параметров.1. Файл VDX будет сохранен по указанному пути
+1. Загрузить файл VSS с экземпляром класса Diagram1. Вызовите метод Diagram.Save с путем к выходному файлу и SaveFileFormat.VDX в качестве параметров.1. VDX файл будет сохранен по указанному пути
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Библиотека управления Diagram, специально разработанная для работы с файлами Microsoft Visio. Это позволяет разработчикам создавать, манипулировать и преобразовывать собственные форматы Visio. Разработчики могут создавать диаграммы с нуля, а также легко загружать существующие файлы и манипулировать элементами диаграммы, чтобы экспортировать результат в другие форматы.
+ Библиотека управления Diagram, специально разработанная для работы с файлами Microsoft Visio. Это позволяет разработчикам создавать, манипулировать и преобразовывать собственные форматы Visio. Разработчики могут создавать диаграммы с нуля, а также легко загружать существующие файлы и манипулировать элементами diagram, чтобы экспортировать результат в другие форматы.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS — это файлы шаблонов, созданные с помощью Microsoft Visio 2007 и более ранних версий. Относительно новым форматом файлов является .VSSX, который был представлен в Microsoft Visio 2013. Файлы трафаретов содержат объекты чертежа, которые можно включить в чертеж .VSD Visio. Сама Microsoft Visio известна тем, что создает элементы рисования, такие как набор фигур, соединители, блок-схемы, макет сети, диаграммы UML, диаграммы программного обеспечения, модели баз данных, сопоставление объектов и другую подобную информацию. Он также имеет широкие возможности преобразования документов Visio в другие форматы файлов, такие как PNG, BMP, PDF и другие. Visio доступен как для Windows, так и для Mac OS.
+VSS — это файлы шаблонов, созданные с помощью Microsoft Visio 2007 и более ранних версий. Относительно новым форматом файлов является .VSSX, который был представлен в Microsoft Visio 2013 г. Файлы трафаретов предоставляют объекты чертежа, которые можно включить в чертеж .VSD Visio. Microsoft Visio сама известна тем, что создает элементы рисования, такие как набор фигур, соединители, блок-схемы, макет сети, диаграммы UML, диаграммы программного обеспечения, модели баз данных, сопоставление объектов и другую подобную информацию. Он также имеет широкие возможности преобразования документов Visio в другие форматы файлов, такие как PNG, BMP, PDF и другие. Visio доступен как для Windows, так и для Mac OS.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vdx" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Любой рисунок или диаграмма, созданные в Microsoft Visio, но сохраненные в формате XML, имеют расширение .VDX. XML-файл чертежа Visio создается в программном обеспечении Visio, разработанном Microsoft. Microsoft Visio имеет возможность создавать визуальные документы, которые можно использовать в презентациях и документах. XML-файл чертежа Visio содержит визуальные объекты и сведения о метаданных визуальных элементов. К этим визуальным элементам также можно добавить текст. XML-файл визуального чертежа. Эти XML-файлы чертежей Visio интегрированы со стандартами форматирования на основе XML и спецификациями кодирования данных изображений, которые позволяют отображать и сохранять их содержимое программным обеспечением Microsoft Visio в формате файлов VDX.
+Любой рисунок или диаграмма, созданные в MicrosoftVisio, но сохраненные в формате XML, имеют расширение .VDX. XML-файл чертежа Visio создается в программном обеспечении Visio, разработанном Microsoft. Microsoft Visio имеет возможность создавать визуальные документы, которые можно использовать в презентациях и документах. XML-файл чертежа Visio содержит визуальные объекты и сведения о метаданных визуальных элементов. К этим визуальным элементам также можно добавить текст. XML-файл визуального чертежа. Эти XML-файлы чертежей Visio интегрированы со стандартами форматирования на основе XML и спецификациями кодирования данных изображений, которые позволяют отображать и сохранять их содержимое программным обеспечением Microsoft Visio в формате файла VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,14 +113,14 @@ VSS — это файлы шаблонов, созданные с помощью
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-svg/" name="VSS В SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-swf/" name="VSS В SWF" description="SWF-формат" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-tiff/" name="VSS В TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdm/" name="ВСС В ВСДМ" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="ВСС на VSDX" description="Формат Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="ВСС В ВССМ" description="Файлы трафаретов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssx/" name="ВСС В VSSX" description="Трафареты для рисования" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="ВСС В ВСТМ" description="Файлы шаблонов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="VSS В VSTX" description="Шаблон чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsx/" name="VSS В VSX" description="Трафареты" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS-VTX" description="Шаблон чертежа Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdm/" name="ВСС на VSDM" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="ВСС на VSDX" description="Microsoft Visio Формат" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="ВСС на VSSM" description="Microsoft Visio Файлы трафаретов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssx/" name="ВСС на VSSX" description="Трафареты для рисования" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="ВСС на VSTM" description="Microsoft Visio Файлы шаблонов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="ВСС на VSTX" description="Microsoft Visio Шаблон чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsx/" name="ВСС на VSX" description="Трафареты" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="ВСС на VTX" description="Microsoft Visio Шаблон чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xaml/" name="VSS В XAML" description="Расширяемый язык разметки приложений" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xps/" name="VSS В XPS" description="Спецификации XML-бумаги" >}}
 

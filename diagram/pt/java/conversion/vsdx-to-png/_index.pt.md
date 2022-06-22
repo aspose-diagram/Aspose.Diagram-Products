@@ -15,8 +15,8 @@ description: Exemplo de código de conversão Java para o formato VSDX para arqu
  Para renderizar VSDX para PNG, usaremos
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API que é uma plataforma de conversão API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
- [Especialista](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositório" offSpacer="true" %}}
 
@@ -71,7 +71,7 @@ description: Exemplo de código de conversão Java para o formato VSDX para arqu
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.- Obtenha a versão mais recente do Aspose.Diagram for Java diretamente do Maven.
+- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.- Obtenha a versão mais recente de Aspose.Diagram for Java diretamente de Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDX para PNG Java Código-fonte de conversão" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteca de manipulação" %}}
 
- Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagrama e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
+ Aspose.Diagram é uma manipulação de formato de documento Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagramas e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-Arquivos com extensão .VSDX representam o formato de arquivo Microsoft Visio introduzido a partir do Microsoft Office 2013. Ele foi desenvolvido para substituir o formato de arquivo binário, .VSD, que é suportado por versões anteriores do Microsoft Visio. Também é compatível com Visio Services no Microsoft SharePoint Server 2013 e não requer um formato de arquivo intermediário para publicação no SharePoint Server. Visio arquivos são usados para criar desenhos que contêm objetos visuais, fluxogramas, diagrama UML, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Os arquivos gerados usando Visio também podem ser exportados para diferentes formatos de arquivo, como PNG, BMP, PDF e outros.
+Arquivos com extensão .VSDX representam o formato de arquivo Microsoft Visio introduzido a partir de Microsoft Office 2013. Ele foi desenvolvido para substituir o formato de arquivo binário, .VSD, que é suportado por versões anteriores de Microsoft Visio. Também é compatível com Visio Serviços no Microsoft SharePoint Server 2013 e não requer um formato de arquivo intermediário para publicação no SharePoint Server. Visio arquivos são usados para criar desenhos que contêm objetos visuais, fluxogramas, UML diagram, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Os arquivos gerados usando Visio também podem ser exportados para diferentes formatos de arquivo, como PNG, BMP, PDF e outros.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de imagem raster que usa compactação sem perdas. Este formato de arquivo foi criado como uma substituição do Graphics Interchange Format (GIF) e não possui limitações de direitos autorais. No entanto, o formato de arquivo PNG não suporta animações. O formato de arquivo PNG suporta compressão de imagem sem perdas que o torna popular entre seus usuários. Com o passar do tempo, o PNG evoluiu como um dos formatos de arquivo de imagem mais usados. Quase todos os sistemas operacionais têm suporte para abrir arquivos PNG. Por exemplo, o visualizador do Microsoft Windows tem a capacidade de abrir arquivos PNG, pois o sistema operacional tem, por padrão, o suporte disponível como parte da instalação.
+PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de imagem raster que usa compactação sem perdas. Este formato de arquivo foi criado como uma substituição do Graphics Interchange Format (GIF) e não possui limitações de direitos autorais. No entanto, o formato de arquivo PNG não suporta animações. O formato de arquivo PNG suporta compressão de imagem sem perdas que o torna popular entre seus usuários. Com o passar do tempo, o PNG evoluiu como um dos formatos de arquivo de imagem mais usados. Quase todos os sistemas operacionais têm suporte para abrir arquivos PNG. Por exemplo, o Microsoft visualizador do Windows tem a capacidade de abrir arquivos PNG, pois o sistema operacional tem, por padrão, o suporte disponível como parte da instalação.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,14 +139,14 @@ PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de ima
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-pdf/" name="VSDX PARA PDF" description="Formato de Documento Portátil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-svg/" name="VSDX PARA SVG" description="Gráficos vetoriais escalonáveis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-tiff/" name="VSDX PARA TIFF" description="Formato de imagem marcada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX PARA VDX" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsdm/" name="VSDX PARA VSDM" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX PARA VSSM" description="Arquivos de estêncil do Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX PARA VDX" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsdm/" name="VSDX PARA VSDM" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX PARA VSSM" description="Microsoft Visio Arquivos de estêncil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssx/" name="VSDX PARA VSSX" description="Estênceis de desenho" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX PARA VSTM" description="Arquivos de modelo da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX PARA VSTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX PARA VSTM" description="Microsoft Visio Arquivos de modelo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX PARA VSTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsx/" name="VSDX PARA VSX" description="Estênceis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX PARA VTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX PARA VTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xaml/" name="VSDX PARA XAML" description="Linguagem de marcação de aplicativo extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xps/" name="VSDX PARA XPS" description="Especificações do papel XML" >}}
 

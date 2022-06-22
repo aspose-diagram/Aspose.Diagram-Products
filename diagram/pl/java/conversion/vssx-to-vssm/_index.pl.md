@@ -2,7 +2,7 @@
 title: Konwertuj VSSX na VSSM przez Java 
 weight: 1000
 url: /pl/java/conversion/vssx-to-vssm/ 
-description: Przykładowy kod konwersji Java dla formatu VSSX do pliku VSSM. Użyj tego przykładowego kodu, aby przekonwertować VSSX na VSSM w dowolnej aplikacji internetowej lub desktopowej Java.
+description: Przykładowy kod konwersji Java dla formatu VSSX na plik VSSM. Użyj tego przykładowego kodu, aby przekonwertować VSSX na VSSM w dowolnej aplikacji internetowej lub na komputerze Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj VSSX na VSSM przez Java" h2="Eksportuj Microsoft Visio VSSX do VSSM przy użyciu natywnej biblioteki Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSX" >}}
@@ -12,7 +12,7 @@ description: Przykładowy kod konwersji Java dla formatu VSSX do pliku VSSM. Uż
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować VSSX na VSSM za pomocą Java" %}}
 
- Aby renderować VSSX do VSSM, użyjemy
+ Aby wyrenderować VSSX do VSSM, użyjemy
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą konwersji API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -52,7 +52,7 @@ description: Przykładowy kod konwersji Java dla formatu VSSX do pliku VSSM. Uż
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VSSX na VSSM za pomocą Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VSSX na VSSM przez Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -60,7 +60,7 @@ description: Przykładowy kod konwersji Java dla formatu VSSX do pliku VSSM. Uż
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Załaduj plik VSSX z instancją klasy Diagram1. Wywołaj metodę Diagram.save ze ścieżką pliku wyjściowego i SaveFileFormat jako parametrami1. Plik VSSM zostanie zapisany pod określoną ścieżką
+1. Załaduj plik VSSX z instancją klasy Diagram1. Wywołaj metodę Diagram.save ze ścieżką pliku wyjściowego i SaveFileFormat jako parametrami1. VSSM plik zostanie zapisany pod określoną ścieżką
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}
@@ -71,10 +71,10 @@ description: Przykładowy kod konwersji Java dla formatu VSSX do pliku VSSM. Uż
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od firmy Maven.
+- Microsoft Windows lub zgodny system operacyjny z Java środowiskiem wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSSX do VSSM Java Kod źródłowy konwersji" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSSX do VSSM Java Kodu źródła konwersji" offSpacer="" %}}
 
 ```cs
 // załaduj VSSX do obiektu Diagram 
@@ -94,15 +94,15 @@ visio.save("output.vssm", SaveFileFormat.VSSM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Konwersja na żywo z VSSX do VSSM" sectionDescription="[Konwertuj VSSX na VSSM](https://products.aspose.app/diagram/conversion/vssx-to-vssm) teraz, odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Od VSSX do VSSM demonstracji konwersji na żywo" sectionDescription="[Konwertuj VSSX na VSSM](https://products.aspose.app/diagram/conversion/vssx-to-vssm) teraz, odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie musisz pisać żadnego kodu." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VSSX, zostanie on natychmiast przekonwertowany do VSSM." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VSSX, zostanie on natychmiast przekonwertowany na VSSM." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Otrzymasz link do pobrania." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteka manipulacji" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vssm", SaveFileFormat.VSSM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSX" readMoreLink="https://docs.fileformat.com/image/vssx/" >}}
 
-Pliki z rozszerzeniem .VSSX to szablony rysunkowe utworzone za pomocą Microsoft Visio 2013 i nowszych. Format pliku VSSX można otworzyć w wersji Visio 2013 i nowszych. Pliki Visio są znane z przedstawiania różnych elementów rysunkowych, takich jak zbiór kształtów, łączników, schematów blokowych, układu sieci, diagramów UML, diagramów oprogramowania, modeli baz danych, mapowania obiektów i innych podobnych informacji. Microsoft Visio zapewnia również możliwość konwertowania plików Visio na różne formaty plików, takie jak PNG, BMP, PDF i inne. Jest dostępny zarówno dla systemu Windows, jak i Mac OS.
+Pliki z rozszerzeniem .VSSX to szablony rysunkowe utworzone w wersji Microsoft Visio 2013 i nowszych. Format pliku VSSX można otworzyć w wersji Visio 2013 i nowszych. Pliki Visio są znane z przedstawiania różnych elementów rysunkowych, takich jak zbiór kształtów, łączników, schematów blokowych, układu sieci, diagramów UML, diagramów oprogramowania, modeli baz danych, mapowania obiektów i innych podobnych informacji. Microsoft Visio zapewnia również możliwość konwersji Visio plików na różne formaty plików, takie jak PNG, BMP, PDF i inne. Jest dostępny zarówno dla systemu Windows, jak i Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-Pliki z rozszerzeniem .VSSM to pliki szablonów firmy Microsoft Visio, które obsługują makra. Plik VSSM po otwarciu umożliwia uruchamianie makr w celu uzyskania pożądanego formatowania i rozmieszczenia kształtów na diagramie. Ogólnie rzecz biorąc, Microsoft Visio to oprogramowanie do rysowania, które umożliwia tworzenie plików, które mogą zawierać i przedstawiać informacje zdefiniowane przez użytkownika w różnych kształtach. Najczęstsze z nich to między innymi diagramy UML, schematy blokowe, obiekty wizualne, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również konwertować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
+Pliki z rozszerzeniem .VSSM to pliki szablonów Microsoft Visio, które obsługują makra. Plik VSSM po otwarciu pozwala na uruchomienie makr w celu uzyskania pożądanego formatowania i rozmieszczenia kształtów w diagram. Ogólnie Microsoft Visio to oprogramowanie do rysowania, które umożliwia tworzenie plików, które mogą zawierać i przedstawiać informacje zdefiniowane przez użytkownika w różnych kształtach. Najczęstsze z nich obejmują między innymi diagramy UML, schematy blokowe, obiekty wizualne, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również konwertować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -142,11 +142,11 @@ Pliki z rozszerzeniem .VSSM to pliki szablonów firmy Microsoft Visio, które ob
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-tiff/" name="VSSX DO TIFF" description="Oznaczony format obrazu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vdx/" name="VSSX DO VDX" description="Microsoft Visio Format rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsdm/" name="VSSX DO VSDM" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsdx/" name="VSSX DO VSDX" description="Format Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsdx/" name="VSSX DO VSDX" description="Microsoft Visio Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vstm/" name="VSSX DO VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vstx/" name="VSSX DO VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vstx/" name="VSSX DO VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsx/" name="VSSX DO VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vtx/" name="VSSX DO VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vtx/" name="VSSX DO VTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-xaml/" name="VSSX DO XAML" description="Rozszerzalny język znaczników aplikacji" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-xps/" name="VSSX DO XPS" description="Specyfikacje papieru XML" >}}
 

@@ -35,15 +35,15 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή VSSM σε HTML μέσω C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή του VSSM σε HTML μέσω του C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Οι προγραμματιστές του .NET μπορούν εύκολα να φορτώσουν και να μετατρέψουν αρχεία VSSM σε HTML σε λίγες μόνο γραμμές κώδικα.
+ Οι προγραμματιστές του .NET μπορούν εύκολα να φορτώσουν και να μετατρέψουν VSSM αρχεία σε HTML σε λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Φορτώστε το αρχείο VSSM με μια παρουσία της κλάσης Diagram1. Καλέστε τη μέθοδο Diagram.Save με τη διαδρομή αρχείου εξόδου και το SaveFileFormat.HTML ως παραμέτρους1. Το αρχείο HTML θα αποθηκευτεί στην καθορισμένη διαδρομή
+1. Φόρτωση αρχείου VSSM με μια παρουσία της τάξης Diagram1. Καλέστε τη μέθοδο Diagram.Save με τη διαδρομή αρχείου εξόδου και το SaveFileFormat.HTML ως παραμέτρους1. Το αρχείο HTML θα αποθηκευτεί στην καθορισμένη διαδρομή
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις συστήματος" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows ή συμβατό λειτουργικό σύστημα με .NET Framework, .NET Core, Mono ή COM Interop.- Περιβάλλον ανάπτυξης όπως το Microsoft Visual Studio.- Aspose.Diagram for .NET DLL που αναφέρεται στο έργο σας.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Αυτό το δείγμα κώδικα δείχνει τη Μετατροπή C# VSSM σε HTML" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Αυτό το δείγμα κώδικα δείχνει τη μετατροπή VSSM σε HTML C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssm-to-html.cs" >}}
 
@@ -73,12 +73,12 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/demobox sectionTitle="Δωρεάν εφαρμογή για μετατροπή VSSM σε HTML" sectionDescription="Ελέγξτε τις ζωντανές επιδείξεις μας για [Μετατροπή VSSM σε HTML](https://products.aspose.app/diagram/conversion/vssm-to-html) με τα ακόλουθα οφέλη." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε το αρχείο VSSM και πατήστε το κουμπί \"Μετατροπή\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς μεταφορτώστε το αρχείο σας VSSM και πατήστε το κουμπί \"Μετατροπή\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα λάβετε αμέσως τον σύνδεσμο λήψης για το αρχείο HTML που προκύπτει." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Μια Βιβλιοθήκη διαχείρισης Diagram ειδικά σχεδιασμένη για να λειτουργεί με αρχεία Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν εγγενείς μορφές Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του διαγράμματος για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.
+ Μια Βιβλιοθήκη διαχείρισης Diagram ειδικά σχεδιασμένη για να λειτουργεί με αρχεία Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν εγγενείς μορφές Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του diagram για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
-Τα αρχεία με επέκταση .VSSM είναι αρχεία Stencil της Microsoft Visio που υποστηρίζουν την παροχή υποστήριξης για μακροεντολές. Ένα αρχείο VSSM όταν ανοίγει επιτρέπει την εκτέλεση των μακροεντολών για την επίτευξη της επιθυμητής μορφοποίησης και τοποθέτησης σχημάτων σε ένα διάγραμμα. Γενικά, το Microsoft Visio είναι λογισμικό σχεδίασης που επιτρέπει τη δημιουργία αρχείων που μπορούν να περιέχουν και να αναπαριστούν πληροφορίες που ορίζονται από τον χρήστη σε διαφορετικά σχήματα. Τα πιο κοινά από αυτά περιλαμβάνουν, αλλά δεν περιορίζονται σε, διαγράμματα UML, διαγράμματα ροής, οπτικά αντικείμενα, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να μετατραπούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
+Τα αρχεία με επέκταση .VSSM είναι αρχεία στένσιλ Microsoft Visio που υποστηρίζουν την παροχή υποστήριξης για μακροεντολές. Ένα αρχείο VSSM όταν ανοίγει επιτρέπει την εκτέλεση των μακροεντολών για την επίτευξη της επιθυμητής μορφοποίησης και τοποθέτησης σχημάτων σε ένα diagram. Γενικά, το Microsoft Visio είναι λογισμικό σχεδίασης που επιτρέπει τη δημιουργία αρχείων που μπορούν να περιέχουν και να αναπαριστούν πληροφορίες που ορίζονται από τον χρήστη σε διαφορετικά σχήματα. Τα πιο συνηθισμένα από αυτά περιλαμβάνουν, ενδεικτικά, διαγράμματα UML, διαγράμματα ροής, οπτικά αντικείμενα, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να μετατραπούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="html" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-Η HTML (Hyper Text Markup Language) είναι η επέκταση για ιστοσελίδες που δημιουργούνται για εμφάνιση σε προγράμματα περιήγησης. Γνωστή ως γλώσσα του Ιστού, η HTML έχει εξελιχθεί με απαιτήσεις νέων απαιτήσεων πληροφοριών που πρέπει να εμφανίζονται ως μέρος ιστοσελίδων. Η τελευταία παραλλαγή είναι γνωστή ως HTML 5 που δίνει μεγάλη ευελιξία στην εργασία με τη γλώσσα. Οι σελίδες HTML είτε λαμβάνονται από τον διακομιστή, όπου φιλοξενούνται, είτε μπορούν να φορτωθούν και από το τοπικό σύστημα. Κάθε σελίδα HTML αποτελείται από στοιχεία HTML όπως φόρμες, κείμενο, εικόνες, κινούμενα σχέδια, σύνδεσμοι κ.λπ. Αυτά τα στοιχεία αντιπροσωπεύονται από ετικέτες όπως img, a, p και πολλές άλλες, όπου κάθε ετικέτα έχει αρχή και τέλος. Μπορεί επίσης να ενσωματώσει εφαρμογές γραμμένες σε γλώσσες δέσμης ενεργειών όπως JavaScript και Style Sheets (CSS) για συνολική αναπαράσταση διάταξης.
+Η HTML (Hyper Text Markup Language) είναι η επέκταση για ιστοσελίδες που δημιουργούνται για εμφάνιση σε προγράμματα περιήγησης. Γνωστή ως γλώσσα του Ιστού, η HTML έχει εξελιχθεί με απαιτήσεις νέων απαιτήσεων πληροφοριών που πρέπει να εμφανίζονται ως μέρος ιστοσελίδων. Η τελευταία παραλλαγή είναι γνωστή ως HTML 5 που δίνει μεγάλη ευελιξία στην εργασία με τη γλώσσα. Οι σελίδες HTML είτε λαμβάνονται από τον διακομιστή, όπου φιλοξενούνται, είτε μπορούν να φορτωθούν και από το τοπικό σύστημα. Κάθε σελίδα HTML αποτελείται από στοιχεία HTML όπως φόρμες, κείμενο, εικόνες, κινούμενα σχέδια, σύνδεσμοι κ.λπ. Αυτά τα στοιχεία αντιπροσωπεύονται από ετικέτες όπως img, a, p και πολλές άλλες όπου κάθε ετικέτα έχει αρχή και τέλος. Μπορεί επίσης να ενσωματώσει εφαρμογές γραμμένες σε γλώσσες δέσμης ενεργειών όπως JavaScript και Style Sheets (CSS) για συνολική αναπαράσταση διάταξης.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,23 +104,23 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το VSSM σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-bmp/" name="VSSM TO BMP" description="Εικόνα Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-emf/" name="VSSM ΣΕ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-bmp/" name="VSSM ΠΡΟΣ BMP" description="Εικόνα Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-emf/" name="VSSM ΠΡΟΣ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-jpeg/" name="VSSM ΣΕ JPEG" description="Εικόνα JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-pdf/" name="VSSM ΣΕ PDF" description="Μορφή φορητού εγγράφου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-png/" name="VSSM ΣΕ PNG" description="Φορητά γραφικά δικτύου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-svg/" name="VSSM ΣΕ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-svg/" name="VSSM ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-swf/" name="VSSM ΠΡΟΣ SWF" description="Μορφή SWF" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-tiff/" name="VSSM TO TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vdx/" name="VSSM ΣΕ VDX" description="Μορφή σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdm/" name="VSSM ΣΕ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-tiff/" name="VSSM ΣΕ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vdx/" name="VSSM ΠΡΟΣ VDX" description="Microsoft Visio Μορφή σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdm/" name="VSSM ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdx/" name="VSSM ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vssx/" name="VSSM ΣΕ VSSX" description="Στένσιλ σχεδίασης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstm/" name="VSSM ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstx/" name="VSSM ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsx/" name="VSSM ΣΕ VSX" description="Στένσιλ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vtx/" name="VSSM ΣΕ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xaml/" name="VSSM TO XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vssx/" name="VSSM ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstm/" name="VSSM ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstx/" name="VSSM ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsx/" name="VSSM ΠΡΟΣ VSX" description="Στένσιλ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vtx/" name="VSSM ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xaml/" name="VSSM ΠΡΟΣ XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xps/" name="VSSM ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

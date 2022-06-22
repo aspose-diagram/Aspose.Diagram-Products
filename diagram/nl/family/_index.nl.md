@@ -1,8 +1,8 @@
 ﻿---
-title: Visio .NET & Java API's | Maak, converteer of manipuleer diagrammen 
+title: Visio .NET Java Python Node.js-API's | Maak, converteer of manipuleer diagrammen 
 weight: 10
 url: /nl/family
-description: Diagram bibliotheek om open edit print te maken en Visio bestanden te converteren in .NET Java en Mono applicaties zonder Microsoft Visio geïnstalleerd
+description: Diagram bibliotheek om open edit print te maken en Visio bestanden te converteren in .NET Java en Mono applicaties zonder dat Microsoft Visio is geïnstalleerd
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio API\'s voor bestandsmanipulatie" h2=".NET & Java API\'s om Microsoft Visio-bestanden op elk platform te maken, bewerken en converteren." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
@@ -19,11 +19,11 @@ Native Java API's voor desktop, web of elke soort applicatie op basis van Java S
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Node.js via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
-Maak, lees, schrijf en geef Microsoft Visio-documenten weer via Node.js.
+Maak, lees, schrijf en geef Microsoft Visio documenten weer via Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Python via Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
-Maak, lees, schrijf en geef Microsoft Visio-documenten weer via Python.
+Maak, lees, schrijf en geef Microsoft Visio documenten weer via Python.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -2,7 +2,7 @@
 title: Konvertera VSSM till VSDX via C# 
 weight: 4720
 url: /sv/net/conversion/vssm-to-vsdx/ 
-description: Exempelkod för konvertering från VSSM till VSDX C#. Använd API exempelkod för batch-VSM-filer till VSDXkonvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+description: Exempelkod för konvertering från VSSM till VSDX C#. Använd API exempelkod för batch-VSSM-filer till VSDXkonvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera VSSM till VSDX via C#" h2="Exportera Microsoft® Visio VSSM-filer till VSDX på .NET Framework, .NET Core, Mono eller COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSM" >}}
@@ -14,7 +14,7 @@ description: Exempelkod för konvertering från VSSM till VSDX C#. Använd API e
 
  För att konvertera VSSM till VSDX använder vi
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppet
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  pakethanterare, sök efter
  Aspose.Diagram 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Ladda VSSM-fil med en instans av klassen Diagram1. Anropa Diagram.Save-metoden med utdatafilsökväg och SaveFileFormat.VSDX som parametrar1. VSDX fil kommer att sparas på den angivna sökvägen
+1. Ladda filen VSSM med en instans av klassen Diagram1. Anropa Diagram.Save-metoden med utdatafilsökväg och SaveFileFormat.VSDX som parametrar1. VSDX fil kommer att sparas på den angivna sökvägen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Mono eller COM Interop.- Utvecklingsmiljö som Microsoft Visual Studio.- Aspose.Diagram for .NET DLL som refereras till i ditt projekt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Den här exempelkoden visar VSSM till VSDX C# omvandling" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Den här exempelkoden visar omvandling från VSSM till VSDX C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssm-to-vsdx.cs" >}}
 
@@ -73,12 +73,12 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att konvertera VSSM till VSDX" sectionDescription="Kolla in våra livedemos för [VSSM till VSDX omvandling](https://products.aspose.app/diagram/conversion/vssm-to-vsdx) med följande förmåner." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSSM-fil och tryck på \"Konvertera\"-knappen." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSSM-fil och tryck på \"Konvertera\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du får omedelbart nedladdningslänken för den resulterande filen VSDX." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagrammet för att exportera resultatet till andra format.
+ Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagram för att exportera resultatet till andra format.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
-Filer med filtillägget .VSSM är Microsoft Visio-stencilfiler som stöder ger stöd för makron. En VSSM-fil när den öppnas gör det möjligt att köra makron för att uppnå önskad formatering och placering av former i ett diagram. I allmänhet är Microsoft Visio ritprogram som gör det möjligt att skapa filer som kan innehålla och representera användardefinierad information i olika former. De vanligaste av dessa inkluderar, men inte begränsat till, UML-diagram, flödesscheman, visuella objekt, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också konverteras till olika filformat som PNG, BMP, PDF och andra.
+Filer med tillägget .VSSM är Microsoft Visio stencilfiler som stöder ger stöd för makron. En VSSM-fil när den öppnas gör det möjligt att köra makron för att uppnå önskad formatering och placering av former i en diagram. I allmänhet är Microsoft Visio ritprogram som gör det möjligt att skapa filer som kan innehålla och representera användardefinierad information i olika former. De vanligaste av dessa inkluderar, men inte begränsat till, UML-diagram, flödesscheman, visuella objekt, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också konverteras till olika filformat som PNG, BMP, PDF och andra.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vsdx" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introducerades från Microsoft Office 2013 och framåt. Det utvecklades för att ersätta det binära filformatet .VSD, som stöds av tidigare versioner av Microsoft Visio. Det stöds också på Visio-tjänster i Microsoft SharePoint Server 2013 och kräver inget mellanliggande filformat för publicering till SharePoint Server. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
+Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introducerades från Microsoft Office 2013 och framåt. Det utvecklades för att ersätta det binära filformatet .VSD, som stöds av tidigare versioner av Microsoft Visio. Det stöds också på Visio-tjänster i Microsoft SharePoint Server 2013 och kräver inget mellanliggande filformat för publicering till SharePoint Server. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,7 +102,7 @@ Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introdu
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera VSSM till många andra filformat inklusive några som anges nedan." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera VSSM till många andra filformat, inklusive några som anges nedan." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-bmp/" name="VSSM TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-emf/" name="VSSM TILL EMF" description="Förbättrat metafilformat" >}}
@@ -116,10 +116,10 @@ Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introdu
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vdx/" name="VSSM TILL VDX" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsdm/" name="VSSM TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vssx/" name="VSSM TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstm/" name="VSSM TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstx/" name="VSSM TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstm/" name="VSSM TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vstx/" name="VSSM TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vsx/" name="VSSM TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vtx/" name="VSSM TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-vtx/" name="VSSM TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xaml/" name="VSSM TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssm-to-xps/" name="VSSM TILL XPS" description="XML-pappersspecifikationer" >}}
 

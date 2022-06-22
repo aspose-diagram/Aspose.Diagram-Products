@@ -5,7 +5,7 @@ url: /ja/java/
 description: ダイアグラムの作成、操作、変換のためのVisioライブラリ。 Javaベースのアプリケーションでダイアグラムを複数の形式にエクスポートする
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Microsoft Office Visioファイルを操作して、Microsoft Office Visioに依存せずにPDF、HTML、画像、およびXAML形式にエクスポートします。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Microsoft Office Visioの依存関係なしに、Microsoft Office Visioファイルを操作してPDF、HTML、画像、XAML形式にエクスポートします。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: ダイアグラムの作成、操作、変換のためのVisioラ�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagramfor Javaは強力なMicrosoftVisioドキュメント処理APIです。作成、解析、およびなどの一般的な機能を提供します。ネイティブVisio形式を変換するだけでなく、一般的に使用されるいくつかの画像および固定レイアウト形式をサポートします。アプリケーションは、既存のドキュメントをロードし、ダイアグラム要素を操作して、結果を独自の形式、画像、または固定レイアウト形式でエクスポートできます。
+ Aspose.Diagramfor Javaは強力なMicrosoftVisioドキュメント処理APIです。作成、解析、解析などの一般的な機能を提供します。ネイティブVisio形式を変換するだけでなく、一般的に使用されるいくつかの画像および固定レイアウト形式をサポートします。アプリケーションは、既存のドキュメントをロードし、diagram要素を操作して、結果を独自の形式、画像、または固定レイアウト形式でエクスポートできます。
 </p>
 
 <p>
@@ -66,7 +66,7 @@ description: ダイアグラムの作成、操作、変換のためのVisioラ�
      テキストの検索/置換
     </li>
     <li>
-     ビットマップを図形としてインポート
+     ビットマップをシェイプとしてインポート
     </li>
     <li>
      オレオブジェクトを操作する
@@ -146,7 +146,7 @@ description: ダイアグラムの作成、操作、変換のためのVisioラ�
   <footer>
    <small>
     <em>
-     ために
+     にとって
     </em>
     Java
    </small>
@@ -189,7 +189,7 @@ description: ダイアグラムの作成、操作、変換のためのVisioラ�
   <footer>
    <small>
     <em>
-     ために
+     にとって
     </em>
     Java
    </small>
@@ -276,7 +276,7 @@ description: ダイアグラムの作成、操作、変換のためのVisioラ�
   <footer>
    <small>
     <em>
-     ために
+     にとって
     </em>
     Java
    </small>
@@ -375,7 +375,7 @@ description: ダイアグラムの作成、操作、変換のためのVisioラ�
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     図形にハイパーリンクを追加する
+     シェイプにハイパーリンクを追加する
     </p>
    </div>
    <div class="col-lg-4">
@@ -408,10 +408,10 @@ description: ダイアグラムの作成、操作、変換のためのVisioラ�
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     MicrosoftVisioドキュメントを解析する
+     MicrosoftVisioドキュメントを解析します
     </h2>
     <p>
-     JavaダイアグラムAPIを使用すると、Microsoft Visioアプリケーションのネイティブファイル形式を読み取ることができるため、ドキュメントページ、プロパティ、マスター、画像、シェイプ、接続、ソリューションXML、レイヤー、ハイパーリンク、コメントなどのダイアグラムデータにアクセスできます。 、StyleSheet、ユーザー定義のセルなど。これらのオブジェクトはAPIを介して操作でき、結果はサポートされている任意の形式でディスクに書き込むことができます。
+     Java diagram APIでは、Microsoft Visioアプリケーションのネイティブファイル形式を読み取ることができるため、ドキュメントページ、プロパティ、マスター、画像、シェイプ、接続、ソリューションXMLなどのdiagramデータにアクセスできます。 、レイヤー、ハイパーリンク、コメント、スタイルシート、ユーザー定義のセルなど。これらのオブジェクトはAPIを介して操作でき、結果はサポートされている任意の形式でディスクに書き込むことができます。
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: ダイアグラムの作成、操作、変換のためのVisioラ�
     </p>
     <div class="codeblock" id="code">
      <h3>
-      ダイアグラムをさまざまな形式で保存-Java
+      diagramをさまざまな形式で保存-Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -440,10 +440,10 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     コンテナ内の図形を整理する
+     コンテナ内の形状を整理する
     </h2>
     <p>
-     通常、開発者はコンテナにシェイプを追加して、物事を適切に整理して理解できるようにします。コンテナは、ラベルを含む形状の周囲に視覚的な境界を追加します。コンテナとサブシェイプをダイアグラムに追加するために、開発者はライブラリを使用できます。これは、簡単で迅速なアプローチを提供するためです。
+     通常、開発者はコンテナに図形を追加して、物事を適切に整理して理解できるようにします。コンテナは、ラベルを含む形状の周囲に視覚的な境界を追加します。コンテナとサブシェイプをdiagramに追加するために、開発者はライブラリを使用できます。これは、簡単で迅速なアプローチを提供するためです。
     </p>
    </div>
    <div class="col-lg-12">

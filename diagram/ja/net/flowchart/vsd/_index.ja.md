@@ -2,7 +2,7 @@
 title: .NETを介してVSDドキュメントにフローチャートスタイルの組織図を作成します 
 weight: 3050
 url: /ja/net/flowchart/vsd/ 
-description: .NETフレームワーク、.NETコア、Monoプラットフォームのvsdファイルにフローチャートスタイルの編成チャートを作成するためのC#ソースコード。
+description: .NET Framework、.NETコア、Monoプラットフォームのvsdファイルにフローチャートスタイルの組織図を作成するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#のVSDにフローチャートスタイルの組織図を作成する" h2="ネイティブで高性能なため、MicrosoftやOpen Office、Adobe PDFなどのソフトウェアを使用せずに、サーバー側のAspose.Diagram for .NETAPIを使用してVSDドキュメントにフローチャートスタイルの組織図を作成します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,13 +39,13 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- マージおよび連結する基本的なドキュメント
+ フローチャートスタイルの組織図を作成する
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  APIは、ほんの数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ステンシルから図を作成します。
++ステンシルからdiagramを作成します。
 +IDでページを選択
 +組織ノードの形状をページに追加します。
 +図形とその親を接続するために、ページにコネクタを追加します。
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windowsまたは.NETフレームワーク、.NETコア、Mono、またはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
+- MicrosoftWindowsまたは.NETFramework、.NETコア、MonoまたはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDファイルでフローチャートスタイルの組織図を作成する-C#" offSpacer="" %}}
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="約Aspose.Diagramfor .NETAPI" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" VSDドキュメントにフローチャートスタイルの組織図を即座に作成します。" >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-VSDファイルは、さまざまなグラフィカルオブジェクトとそれらの間の相互接続を表すためにMicrosoftVisioアプリケーションで作成された図面です。このような図面には、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、その他の同様の情報などのビジュアルオブジェクトを含めることができます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。 
+VSDファイルは、さまざまなグラフィックオブジェクトとそれらの間の相互接続を表すためにMicrosoftVisioアプリケーションで作成された図面です。このような図面には、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、その他の同様の情報などのビジュアルオブジェクトを含めることができます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

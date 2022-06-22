@@ -15,8 +15,8 @@ description: VSD प्रारूप से VSDX फ़ाइल के लि
  VSD से VSDX को रेंडर करने के लिए, हम उपयोग करेंगे
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान रूपांतरण API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं
- [मावेना](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने मावेन-आधारित प्रोजेक्ट में स्थापित करें।
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -71,7 +71,7 @@ description: VSD प्रारूप से VSDX फ़ाइल के लि
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows या JavaJSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश के साथ संगत OS।- मावेन से सीधे Aspose.Diagram for Java का नवीनतम संस्करण प्राप्त करें।
+- Microsoft जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट के साथ विंडोज या संगत ओएस।- सीधे Maven से Aspose.Diagram for Java का नवीनतम संस्करण प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSD से VSDX Java रूपांतरण स्रोत कोड" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram मैनिपुलेशन लाइब्रेरी" %}}
 
- Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसके लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर को स्थापित करने की आवश्यकता नहीं है।  
+ Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अधिक जैसे अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसे स्थापित करने के लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर की आवश्यकता नहीं है।  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
 
-VSD फ़ाइलें Microsoft Visio एप्लिकेशन के साथ बनाए गए आरेखण हैं जो विभिन्न प्रकार की ग्राफिकल वस्तुओं और इनके बीच के अंतर्संबंध का प्रतिनिधित्व करते हैं। इस तरह के चित्र में दृश्य वस्तुएं, प्रवाह चार्ट, यूएमएल आरेख, सूचना प्रवाह, संगठनात्मक चार्ट, सॉफ्टवेयर आरेख, नेटवर्क लेआउट, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी जैसी दृश्य वस्तुएं हो सकती हैं। Microsoft Visio Visio फ़ाइलों को PNG, BMP, PDF और अन्य सहित कई अलग-अलग फ़ाइल स्वरूपों में कनवर्ट करने की क्षमता प्रदान करता है।
+VSD फाइलें Microsoft Visio एप्लिकेशन के साथ बनाए गए चित्र हैं जो विभिन्न प्रकार की ग्राफिकल वस्तुओं और इनके बीच के अंतरसंबंध का प्रतिनिधित्व करते हैं। इस तरह के चित्र में दृश्य वस्तुएं, प्रवाह चार्ट, यूएमएल diagram, सूचना प्रवाह, संगठनात्मक चार्ट, सॉफ्टवेयर आरेख, नेटवर्क लेआउट, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी जैसी दृश्य वस्तुएं हो सकती हैं। Microsoft Visio Visio फ़ाइलों को पीएनजी, बीएमपी, पीडीएफ और अन्य सहित कई अलग-अलग फ़ाइल स्वरूपों में कनवर्ट करने की क्षमता प्रदान करता है।
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-.VSDX एक्सटेंशन वाली फ़ाइलें Microsoft Visio फ़ाइल स्वरूप का प्रतिनिधित्व करती हैं जिसे Microsoft Office 2013 से पेश किया गया है। इसे बाइनरी फ़ाइल स्वरूप, .VSD को प्रतिस्थापित करने के लिए विकसित किया गया था, जो कि Microsoft Visio के पुराने संस्करणों द्वारा समर्थित है। यह माइक्रोसॉफ्ट शेयरपॉइंट सर्वर 2013 में Visio सेवाओं पर भी समर्थित है और इसे शेयरपॉइंट सर्वर पर प्रकाशित करने के लिए मध्यस्थ फ़ाइल प्रारूप की आवश्यकता नहीं है। Visio फाइलों का उपयोग ऐसे चित्र बनाने के लिए किया जाता है जिनमें दृश्य वस्तुएं, प्रवाह चार्ट, यूएमएल आरेख, सूचना प्रवाह, संगठनात्मक चार्ट, सॉफ्टवेयर आरेख, नेटवर्क लेआउट, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी होती है। Visio का उपयोग करके जेनरेट की गई फ़ाइलों को पीएनजी, बीएमपी, पीडीएफ और अन्य जैसे विभिन्न फ़ाइल स्वरूपों में भी निर्यात किया जा सकता है।
+.VSDX एक्सटेंशन वाली फ़ाइलें Microsoft Visio फ़ाइल स्वरूप का प्रतिनिधित्व करती हैं जो Microsoft Office 2013 के बाद से पेश की गई हैं। इसे बाइनरी फ़ाइल स्वरूप, .VSD को बदलने के लिए विकसित किया गया था, जो Microsoft Visio के पुराने संस्करणों द्वारा समर्थित है। यह Visio सेवाओं पर Microsoft शेयरपॉइंट सर्वर 2013 में भी समर्थित है और इसे शेयरपॉइंट सर्वर पर प्रकाशित करने के लिए एक मध्यस्थ फ़ाइल प्रारूप की आवश्यकता नहीं है। Visio फ़ाइलों का उपयोग ऐसे चित्र बनाने के लिए किया जाता है जिनमें विज़ुअल ऑब्जेक्ट, फ़्लो चार्ट, UML diagram, सूचना प्रवाह, संगठनात्मक चार्ट, सॉफ़्टवेयर आरेख, नेटवर्क लेआउट, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी होती है। Visio का उपयोग करके जेनरेट की गई फ़ाइलों को पीएनजी, बीएमपी, पीडीएफ और अन्य जैसे विभिन्न फ़ाइल स्वरूपों में भी निर्यात किया जा सकता है।
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -136,17 +136,17 @@ VSD फ़ाइलें Microsoft Visio एप्लिकेशन के स
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-emf/" name="VSD ईएमएफ के लिए" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-html/" name="VSD से एचटीएमएल" description="हाइपर टेक्स्ट मार्कअप लैंग्वेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-jpeg/" name="VSD से जेपीईजी" description="जेपीईजी छवि" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-pdf/" name="VSD पीडीएफ के लिए" description="संवहन दस्तावेज़ स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-pdf/" name="VSD पीडीएफ के लिए" description="वहनीय दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSD पीएनजी के लिए" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSD एसवीजी के लिए" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD झगड़ा करने के लिए" description="टैग की गई छवि प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD वीएसडीएम के लिए" description="Microsoft Visio आरेखण प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD से वीएसएसएम" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD से वीएसएसएक्स" description="ड्राइंग स्टेंसिल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD से VSTM" description="माइक्रोसॉफ्ट Visio टेम्पलेट फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD से वीएसटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD से वीएसएक्स" description="स्टेंसिल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD से वीटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD से VSDM" description="Microsoft Visio आरेखण प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD से VSSM" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD से VSSX" description="ड्राइंग स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD से VSTM" description="Microsoft Visio टेम्प्लेट फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD से VSTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD से VSX" description="स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD से VTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSD से एक्सएएमएल" description="एक्स्टेंसिबल एप्लिकेशन मार्कअप लैंग्वेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xps/" name="VSD से एक्सपीएस" description="एक्सएमएल पेपर निर्दिष्टीकरण" >}}
 

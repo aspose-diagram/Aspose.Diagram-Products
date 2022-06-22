@@ -2,17 +2,17 @@
 title: C# .NET Visio Diagram API - Aspose 
 weight: 1020
 url: /hi/net/ 
-description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइब्रेरी को निर्यात करने के लिए Visio डायग्राम VSD VSDX VSS VST VSX VTX VDW VDX VSSX और VSTX से PDF XPS HTML SVG SWF और इमेज फॉर्मेट
+description: C# VB.NET ASP.NET Visio आरेखण पुस्तकालय Visio आरेखों को निर्यात करने के लिए VSD VSDX VSS VST VSX VTX VDW VDX VSSX और VSTX PDF XPS को एचटीएमएल एसवीजी एसडब्ल्यूएफ और छवि प्रारूप
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio फ़ाइल संसाधन API" h2="माइक्रोसॉफ्ट के Visio डायग्राम को एक्सपीएस, एचटीएमएल, एसवीजी, एसडब्ल्यूएफ, एक्सएएमएल, इमेज या पीडीएफ फॉर्मेट में जेनरेट, एडिट, मैनिपुलेट और ट्रांसफॉर्म करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio फ़ाइल संसाधन API" h2="MicrosoftVisio डायग्राम को XPS, HTML, SVG, SWF, XAML, इमेज या PDF फॉर्मेट में जेनरेट, एडिट, मैनिपुलेट और ट्रांसफॉर्म करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NET एक विशिष्ट API है जिसे Microsoft Visio दस्तावेज़ों के साथ काम करने के लिए डिज़ाइन किया गया है। यह डेवलपर्स को बनाने, हेरफेर करने और amp; देशी Visio स्वरूपों को रूपांतरित करें। डेवलपर्स खरोंच से आरेख बना सकते हैं और साथ ही मौजूदा फ़ाइलों को आसानी से लोड कर सकते हैं और अन्य प्रारूपों में परिणाम निर्यात करने के लिए आरेख के तत्वों में हेरफेर कर सकते हैं।</p>
+<p>Aspose.Diagram for .NET एक विशिष्ट API है जिसे Microsoft Visio दस्तावेज़ों के साथ काम करने के लिए डिज़ाइन किया गया है। यह डेवलपर्स को बनाने, हेरफेर करने और amp; देशी Visio स्वरूपों को रूपांतरित करें। डेवलपर्स खरोंच से आरेख बना सकते हैं और साथ ही मौजूदा फ़ाइलों को आसानी से लोड कर सकते हैं और परिणाम को अन्य प्रारूपों में निर्यात करने के लिए diagram के तत्वों में हेरफेर कर सकते हैं।</p>
 
 <p>Aspose.Diagram for .NET लगभग सभी मूल Visio स्वरूपों के साथ-साथ कुछ सामान्य रूप से उपयोग की जाने वाली छवियों का समर्थन करता है &amp; फिक्स्ड-लेआउट प्रारूप। यह API Microsoft Visio ऑब्जेक्ट मॉडल का एक विकल्प है और बेहतर प्रदर्शन प्रदान करता है। यह सर्वर पर दस्तावेज़ों में हेरफेर करने के लिए Visio सेवाओं की उन्नत कार्यक्षमता का उपयोग करता है।</p>
 
@@ -136,7 +136,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     .NET
    </small>
@@ -147,7 +147,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description="API 2.0 और Mono से शुरू होकर .NET फ्रेमवर्क का समर्थन करता है। इसके अलावा, इसका उपयोग COM इंटरऑप के माध्यम से अन्य भाषाओं के साथ किया जा सकता है।" >}}
+{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description="API 2.0 और Mono से शुरू करके .NET Framework का समर्थन करता है। इसके अलावा, इसका उपयोग COM इंटरऑप के माध्यम से अन्य भाषाओं के साथ किया जा सकता है।" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,7 +168,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET फ्रेमवर्क
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -197,7 +197,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     .NET
    </small>
@@ -208,7 +208,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="Aspose.Diagram for .NET समर्थित [फ़ाइल स्वरूप](https://docs.aspose.com/diagram/net/supported-file-formats/)  निचे सूचीबद्ध।" >}}
+{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="Aspose.Diagram for .NET समर्थित [फ़ाइल स्वरूप](https://docs.aspose.com/diagram/net/supported-file-formats/)  नीचे दिये गये।" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -220,9 +220,9 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
    <ul>
     <li>
      <b>
-      माइक्रोसॉफ्ट Visio:
+      Microsoft Visio:
      </b>
-     VSDX, वीएसएक्स, वीटीएक्स, वीडीएक्स, वीएसएसएक्स, वीएसटीएक्स, वीएसडीएम, वीएसएसएम, वीएसटीएम
+     VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
    </ul>
    <header>
@@ -233,7 +233,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
    <ul>
     <li>
      <b>
-      माइक्रोसॉफ्ट Visio:
+      Microsoft Visio:
      </b>
      वीडीडब्ल्यू, VSD, वीएसएस, वीएसटी
     </li>
@@ -284,7 +284,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     .NET
    </small>
@@ -334,7 +334,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     आरेख की विभिन्न वस्तुओं के गुण पढ़ें
+     diagram की विभिन्न वस्तुओं के गुण पढ़ें
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XpsPrint के द्वारा सर्वर पर आरेख प्रिंट करें API
+     XpsPrint के द्वारा सर्वर पर diagram प्रिंट करें API
     </p>
    </div>
    <div class="col-lg-4">
@@ -381,7 +381,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ड्राइंग में एक नया रिक्त पृष्ठ डालें
+     ड्राइंग में एक नया खाली पृष्ठ डालें
     </p>
    </div>
    <div class="col-lg-4">
@@ -430,7 +430,7 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     पॉलीलाइन और बेजियर आकृतियों को चित्रित करने का समर्थन
+     पॉलीलाइन और बेजियर आकृतियों को खींचने का समर्थन
     </p>
    </div>
    <div class="col-lg-4">
@@ -445,14 +445,14 @@ description: C# VB.NET ASP.NET Visio डायग्रामिंग लाइ
      सरल, तेज और amp; Visio फ़ाइलों का विश्वसनीय रूपांतरण
     </h2>
     <p>
-     कंपनियां Microsoft Visio में तकनीकी आरेख बनाती हैं और इस जानकारी को साझा करने में सक्षम होना चाहेंगी। हालाँकि, समस्या यह है कि आम उपयोगकर्ता ऐसे दृश्यों को तब तक लोड नहीं कर पाएंगे जब तक कि उन्होंने Microsoft Visio या कोई अन्य उपकरण स्थापित नहीं किया है जो Visio विशिष्ट फ़ाइल स्वरूपों को लोड कर सकता है। इस समस्या को हल करने के तरीकों में से एक है डायग्राम को पीडीएफ, एचटीएमएल और amp; रेखापुंज छवियां, जिन्हें मशीन पर स्थापित करने के लिए विशेष कार्यक्रमों की आवश्यकता नहीं होती है।
+     कंपनियां Microsoft Visio में तकनीकी आरेख बनाती हैं और इस जानकारी को साझा करने में सक्षम होना चाहेंगी। हालाँकि, समस्या यह है कि आम उपयोगकर्ता ऐसे दृश्यों को तब तक लोड नहीं कर पाएंगे जब तक कि उन्होंने Microsoft Visio या कोई अन्य उपकरण स्थापित नहीं किया हो जो Visio विशिष्ट फ़ाइल स्वरूपों को लोड कर सके। इस समस्या को हल करने के तरीकों में से एक है डायग्राम को पीडीएफ, एचटीएमएल और amp; रेखापुंज छवियां, जिन्हें मशीन पर स्थापित करने के लिए विशेष कार्यक्रमों की आवश्यकता नहीं होती है।
     </p>
     <p>
      .NET Visio लाइब्रेरी का अपना रूपांतरण इंजन है, जो किसी भी अन्य सॉफ़्टवेयर से स्वतंत्र रूप से काम करता है, और कोड की कुछ पंक्तियों के साथ किसी भी समर्थित Visio प्रारूप को किसी भी समर्थित प्रारूप में परिवर्तित कर सकता है। रूपांतरण प्रक्रिया त्वरित और विश्वसनीय है, जो आपको परिणामी प्रारूप की परवाह किए बिना उच्च निष्ठा परिणाम प्रदान करती है।
     </p>
     <div class="codeblock" id="code">
      <h3>
-      आरेख को विभिन्न स्वरूपों में सहेजें - C#
+      diagram को विभिन्न स्वरूपों में सहेजें - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -472,7 +472,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Microsoft Visio आरेखों में हेरफेर करें
     </h2>
     <p>
-     Aspose.Diagram for .NET API Microsoft Visio फ़ाइलों को मूल VSD/VSDX प्रारूप में पढ़ने के साथ-साथ VSS, VST, VSX, VTX, VDW, VDX, VSSX, VSTX, VSDM सहित अन्य प्रारूपों को पढ़ने की अनुमति देता है। वीएसएसएम, और वीएसटीएम। आरेख की सामग्री को API के माध्यम से हेरफेर किया जा सकता है। दस्तावेज़ में आवश्यक परिवर्तन करने के बाद, दस्तावेज़ को किसी भी समर्थित प्रारूप में डिस्क पर लिखा जा सकता है।
+     Aspose.Diagram for .NET API Microsoft Visio फाइलों को देशी VSD/VSDX प्रारूप के साथ-साथ वीएसएस, वीएसटी, VSX, VTX, वीडीडब्ल्यू, {9 सहित अन्य प्रारूपों में पढ़ने की अनुमति देता है }, VSSX, VSTX, VSDM, VSSM, और VSTM। diagram की सामग्री को API के माध्यम से हेरफेर किया जा सकता है। दस्तावेज़ में आवश्यक परिवर्तन करने के बाद, दस्तावेज़ को किसी भी समर्थित प्रारूप में डिस्क पर लिखा जा सकता है।
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Visio डायग्राम . से डेटा एक्सेस करें
     </h2>
     <p>
-     Aspose.Diagram for .NET डेवलपर्स को आरेख के डेटा जैसे दस्तावेज़ गुण, पृष्ठ, मास्टर्स, आकृतियाँ, चित्र, कनेक्ट, समाधान XML, टिप्पणियाँ, हाइपरलिंक, स्टाइलशीट, परतें, उपयोगकर्ता-परिभाषित सेल आदि को आसानी से पढ़ने की अनुमति देता है।
+     Aspose.Diagram for .NET डेवलपर्स को diagram के डेटा को आसानी से पढ़ने की अनुमति देता है जैसे दस्तावेज़ गुण, पृष्ठ, मास्टर्स, आकृतियाँ, चित्र, कनेक्ट, समाधान XML, टिप्पणियाँ, हाइपरलिंक, स्टाइलशीट, परतें, उपयोगकर्ता-परिभाषित सेल इत्यादि। .
     </p>
    </div>
    <div class="col-lg-12">
@@ -530,10 +530,10 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     माइक्रोसॉफ्ट ऑफिस ऑटोमेशन - जरूरत नहीं
+     Microsoft Office स्वचालन – आवश्यक नहीं
     </h2>
     <p>
-     Aspose.Diagram for .NET को प्रबंधित कोड का उपयोग करके बनाया गया है जिसे Visio दस्तावेज़ संसाधन के साथ काम करने के लिए मशीन पर कभी भी Microsoft Office या Microsoft Visio स्थापित करने की आवश्यकता नहीं होती है। यह समर्थित सुविधाओं, सुरक्षा, स्थिरता, मापनीयता, गति और कीमत के मामले में एक आदर्श Microsoft Office Visio स्वचालन विकल्प है।
+     Aspose.Diagram for .NET को प्रबंधित कोड का उपयोग करके बनाया गया है जिसे Visio दस्तावेज़ प्रसंस्करण के साथ काम करने के लिए मशीन पर कभी भी Microsoft Office या Microsoft Visio स्थापित करने की आवश्यकता नहीं होती है। यह समर्थित सुविधाओं, सुरक्षा, स्थिरता, मापनीयता, गति और कीमत के मामले में एक आदर्श Microsoft Office Visio स्वचालन विकल्प है।
     </p>
    </div>
   </div>

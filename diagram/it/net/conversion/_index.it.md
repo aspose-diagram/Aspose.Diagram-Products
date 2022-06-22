@@ -1,7 +1,7 @@
 ﻿---
 title: C# Microsoft Visio Conversione di file
 url: /it/net/conversion/
-description: Converti i formati Microsoft Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST in PDF HTML e immagini con poche righe di codice C# tramite la libreria .NET.
+description: Converti Microsoft Visio formati VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST in PDF HTML e immagini con poche righe di codice C# tramite libreria .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Conversione dei formati tramite C#" h2="Converti diagrammi MS Visio in PDF, HTML e immagini inclusi BMP, JPG, PNG, TIFF per creare applicazioni .NET multipiattaforma." >}}
@@ -13,7 +13,7 @@ Per qualsiasi soluzione, progettazione di diagrammi di flusso e diagrammi di flu
 
 {{% blocks/products/pf/feature-page-section h2="File di conversione tra Visio" %}}
 
-Visio file come VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM possono essere interconvertiti con poche righe di codice C#. Consideriamo il caso della conversione da **VSD a VSDX**. API fornisce a [Diagram classe](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) per caricare il file di origine VSD. Dopo aver caricato il file, chiama il metodo Save con il percorso di output con VSDX nome file e [Salva formato file](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)Estensione .targetFile come parametri.
+Visio file come VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM possono essere interconvertiti con poche righe di C# codice. Consideriamo il caso della conversione da **VSD a VSDX**. API fornisce a [Diagram classe](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) per caricare il file di origine VSD. Dopo aver caricato il file, chiama il metodo Save con il percorso di output con VSDX nome file e [Salva formato file](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)Estensione .targetFile come parametri.
 
 {{% blocks/products/pf/feature-page-code h3="C# Codice per la conversione da VSD a VSDX" %}}
 
@@ -39,7 +39,7 @@ Ogni volta che è necessario convertire Microsoft<sup>&reg;</sup> Visio file in 
 
 {{% blocks/products/pf/feature-page-section h2="Converti Visio file in PDF" %}}
 
-API è in grado di convertire i formati visio in PDF. Il processo di conversione è semplice. Carica il file usando la classe Diagram. Creare un [Oggetto Memostream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) e salva il file di visio come PDF nello stream usando il metodo Save con l'oggetto stream e SaveFileFormat.PDF come parametri. Crea un oggetto FileStream per il file convertito per salvarlo utilizzando [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) metodo. 
+API è in grado di convertire visio formati in PDF. Il processo di conversione è semplice. Carica il file usando la classe Diagram. Creare un [Oggetto Memostream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) salva il file visio come PDF nello stream usando il metodo Save con l'oggetto stream e SaveFileFormat.PDF come parametri. Crea un oggetto FileStream per il file convertito per salvarlo utilizzando [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) metodo. 
 
 {{% blocks/products/pf/feature-page-code h3="C#Codice per la conversione da Visio a PDF" %}}
 

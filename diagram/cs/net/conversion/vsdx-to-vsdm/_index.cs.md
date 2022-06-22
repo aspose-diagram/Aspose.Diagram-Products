@@ -14,7 +14,7 @@ description: Ukázkový kód pro konverzi VSDX na VSDM C#. Použijte API ukázko
 
  Abychom převedli VSDX na VSDM, použijeme
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci a konverzi dokumentů API pro platformu C#. Otevřeno
+ API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci a konverzi dokumentů API pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  správce balíčků, vyhledejte
  Aspose.Diagram 
@@ -35,15 +35,15 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroky k převodu VSDX na VSDM prostřednictvím C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroky ke konverzi VSDX na VSDM prostřednictvím C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Vývojáři .NET mohou snadno načíst a převést soubory VSDX do VSDM pomocí několika řádků kódu.
+ Vývojáři .NET mohou snadno načíst a převést soubory VSDX na VSDM pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Načíst soubor VSDX s instancí třídy Diagram1. Zavolejte metodu Diagram.Save s cestou k výstupnímu souboru a SaveFileFormat.VSDM jako parametry1. Soubor VSDM bude uložen do zadané cesty
+1. Načíst soubor VSDX s instancí třídy Diagram1. Zavolejte metodu Diagram.Save s cestou k výstupnímu souboru a SaveFileFormatVSDM jako parametry1. Soubor VSDM bude uložen do zadané cesty
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na systém" %}}
@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop.- Vývojové prostředí jako Microsoft Visual Studio.- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu.
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop.- Vývojové prostředí, jako je Microsoft Visual Studio.- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Tento ukázkový kód ukazuje konverzi VSDX na VSDM C#" offSpacer="" %}}
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro převod VSDX na VSDM" sectionDescription="Podívejte se na naše živé ukázky [Převod VSDX na VSDM](https://products.aspose.app/diagram/conversion/vsdx-to-vsdm) s následujícími výhodami." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro převod VSDX na VSDM" sectionDescription="Podívejte se na naše živé ukázky [Konverze VSDX na VSDM](https://products.aspose.app/diagram/conversion/vsdx-to-vsdm) s následujícími výhodami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není potřeba nic stahovat ani nastavovat." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát svůj soubor VSDX a stisknout tlačítko „Převést“." >}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Knihovna pro správu Diagram speciálně navržená pro práci se soubory Microsoft Visio. Umožňuje vývojářům vytvářet, manipulovat a převádět nativní formáty Visio. Vývojáři mohou vytvářet diagramy od začátku a také snadno načítat existující soubory a manipulovat s prvky diagramu pro export výsledku do jiných formátů.
+ Knihovna správy Diagram speciálně navržená pro práci se soubory Microsoft Visio. Umožňuje vývojářům vytvářet, manipulovat a převádět nativní formáty Visio. Vývojáři mohou vytvářet diagramy od začátku a také snadno načítat existující soubory a manipulovat s prvky diagram a exportovat výsledek do jiných formátů.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-Soubory s příponou .VSDX představují formát souborů Microsoft Visio zavedený od Microsoft Office 2013 a novější. Byl vyvinut, aby nahradil binární formát souboru .VSD, který je podporován dřívějšími verzemi Microsoft Visio. Je také podporován ve službách Visio na serveru Microsoft SharePoint Server 2013 a pro publikování na serveru SharePoint nevyžaduje zprostředkující formát souboru. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další.
+Soubory s příponou .VSDX představují Microsoft Visio formát souboru zavedený od Microsoft Office 2013 dále. Byl vyvinut, aby nahradil binární formát souboru .VSD, který je podporován dřívějšími verzemi Microsoft Visio. Je také podporován ve službách Visio Services na serveru Microsoft SharePoint Server 2013 a pro publikování na serveru SharePoint nevyžaduje zprostředkující formát souboru. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, UML diagram, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory vygenerované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vsdm" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
-Soubory s příponou VSDM jsou soubory výkresů vytvořené pomocí aplikace Microsoft Visio, která podporuje makra. Soubory VSDM jsou výkresy OPC/XML, které jsou podobné jako VSDX, ale také poskytují možnost spouštět makra při otevření souboru. Makra jsou uživatelem definované akce/kroky, které jsou vyvinuty ve Visual Basic for Applications (VBA) a lze je použít k provádění opakujících se úloh. Formát souborů VSDM byl zaveden se spuštěním Microsoft Visio 2013. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory vygenerované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další.
+Soubory s příponou VSDM jsou soubory výkresů vytvořené pomocí aplikace Microsoft Visio, která podporuje makra. Soubory VSDM jsou výkresy OPC/XML, které jsou podobné jako VSDX, ale také poskytují možnost spouštět makra při otevření souboru. Makra jsou uživatelem definované akce/kroky, které jsou vyvinuty ve Visual Basic for Applications (VBA) a lze je použít k provádění opakujících se úloh. Formát souboru VSDM byl zaveden se spuštěním Microsoft Visio v roce 2013. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, UML diagram, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory vygenerované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,13 +113,13 @@ Soubory s příponou VSDM jsou soubory výkresů vytvořené pomocí aplikace Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-svg/" name="VSDX DO SVG" description="Škálovatelná vektorová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-swf/" name="VSDX DO SWF" description="Formát SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-tiff/" name="VSDX NA TIFF" description="Formát tagovaného obrázku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vdx/" name="VSDX DO VDX" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX DO VSSM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssx/" name="VSDX NA VSSX" description="Kreslicí šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstm/" name="VSDX DO VSTM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstx/" name="VSDX DO VSTX" description="Šablona výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsx/" name="VSDX NA VSX" description="Šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vtx/" name="VSDX DO VTX" description="Šablona výkresu Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vdx/" name="VSDX DO VDX" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX DO VSSM" description="Soubory šablon: Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssx/" name="VSDX DO VSSX" description="Kreslicí šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstm/" name="VSDX DO VSTM" description="Microsoft Visio Soubory šablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstx/" name="VSDX DO VSTX" description="Microsoft Visio Šablona výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsx/" name="VSDX DO VSX" description="Šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vtx/" name="VSDX DO VTX" description="Microsoft Visio Šablona výkresu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-xaml/" name="VSDX DO XAML" description="Rozšiřitelný aplikační značkovací jazyk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-xps/" name="VSDX NA XPS" description="Specifikace papíru XML" >}}
 

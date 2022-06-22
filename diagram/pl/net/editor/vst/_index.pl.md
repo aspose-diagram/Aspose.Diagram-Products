@@ -1,7 +1,7 @@
 ﻿---
 title: Edytuj pliki VST za pomocą .NET 
 url: /pl/net/editor/vst/ 
-description: C# kod źródłowy do edycji dokumentu VST w .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms.
+description: C# kod źródłowy do edycji dokumentu VST na platformach .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Edytuj formaty VST w C#" h2="Natywna i wydajna edycja dokumentów VST przy użyciu interfejsów API Aspose.Diagramfor .NET po stronie serwera, bez użycia oprogramowania, takiego jak Microsoft lub Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms- Środowisko programistyczne, takie jak Microsoft Visual Studio- Aspose.Diagram for .NET Biblioteka DLL, do której odwołuje się Twój projekt — zainstaluj z NuGet za pomocą przycisku Pobierz powyżej
+- Microsoft Windows lub zgodny system operacyjny z platformami .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin- Środowisko programistyczne, takie jak Microsoft Visual Studio- Aspose.Diagram for .NET Biblioteka DLL, do której odwołuje się Twój projekt — zainstaluj z NuGet za pomocą przycisku Pobierz powyżej
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Edytuj pliki VST — C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.    
+Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Mo
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Następnie zapisz i pobierz." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Pliki z rozszerzeniem VST są plikami obrazów wektorowych utworzonymi za pomocą Microsoft Visio i działają jako szablon do tworzenia kolejnych plików. Te pliki szablonów są w formacie binarnym i zawierają domyślny układ i ustawienia używane do tworzenia nowych rysunków Visio. Gdy plik VST jest otwierany w Microsoft Visio, zawiera istniejące ustawienia umożliwiające kontynuowanie pracy z dokumentem. Ogólnie pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. 
+Pliki z rozszerzeniem VST są plikami obrazów wektorowych utworzonymi za pomocą Microsoft Visio i działają jako szablon do tworzenia kolejnych plików. Te pliki szablonów są w formacie binarnym i zawierają domyślny układ i ustawienia używane do tworzenia nowych Visio rysunków. Gdy plik VST jest otwierany w Microsoft Visio, zawiera istniejące ustawienia umożliwiające kontynuowanie pracy z dokumentem. Ogólnie rzecz biorąc, pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

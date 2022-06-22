@@ -14,7 +14,7 @@ description: VSTX 到 VSSM C# 转换的示例代码。使用 API 示例代码在
 
  为了将 VSTX 转换为 VSSM，我们将使用
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API 是一个功能丰富、功能强大且易于使用的文档操作和转换 API C# 平台。打开
+ API 是一个功能丰富、功能强大且易于使用的文档操作和转换 API 平台 C#。打开
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  包管理器，搜索
  Aspose.Diagram 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 使用 Diagram 类的实例加载 VSTX 文件1. 以输出文件路径和 SaveFileFormat.VSSM 作为参数调用 Diagram.Save 方法1. VSSM 文件将保存在指定路径
+1. 使用 Diagram 类的实例加载 VSTX 文件1. 使用输出文件路径和 SaveFileFormat.VSSM 作为参数调用 Diagram.Save 方法1. VSSM 文件将保存在指定路径
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统。- Microsoft Visual Studio 等开发环境。- Aspose.Diagram for .NET 项目中引用的 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="此示例代码显示 VSTX 到 VSSM C# 的转换" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="此示例代码显示 VSTX 到 VSSM C# 转换" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstx-to-vssm.cs" >}}
 
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 专门设计用于处理 Microsoft Visio 文件的 Diagram 管理库。它允许开发人员创建、操作和转换原生 Visio 格式。开发人员可以从头开始创建图表，也可以轻松加载现有文件并操作图表元素以将结果导出为其他格式。
+ 专门设计用于处理 Microsoft Visio 文件的 Diagram 管理库。它允许开发人员创建、操作和转换原生 Visio 格式。开发人员可以从头开始创建图表，也可以轻松加载现有文件并操作 diagram 的元素以其他格式导出结果。
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/image/vstx/" >}}
-带有 VSTX 扩展名的文件是使用 Microsoft Visio 2013 及更高版本创建的绘图模板文件。这些 VSTX 文件为创建 Visio 绘图提供了起点，保存为 .VSDX 文件，具有默认布局和设置。通常，Visio 文件用于创建包含视觉对象、流程图、UML 图、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。打开 VSTX 文件的程序包括用于 Windows 和 Mac 的 Microsoft Visio，可让您打开这些文件进行查看和编辑。它还允许将 Visio 文件格式转换为许多其他格式。
+扩展名为 VSTX 的文件是使用 Microsoft Visio 2013 及更高版本创建的绘图模板文件。这些 VSTX 文件为创建 Visio 绘图提供了起点，保存为 .VSDX 文件，具有默认布局和设置。通常，Visio 文件用于创建包含视觉对象、流程图、UML diagram、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。打开 VSTX 文件的程序包括用于 Windows 和 Mac 的 Microsoft Visio，可让您打开这些文件进行查看和编辑。它还允许将 Visio 文件格式转换为许多其他格式。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vssm" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
-带有 .VSSM 扩展名的文件是 Microsoft Visio Stencil 文件，支持提供对宏的支持。 VSSM 文件在打开时允许运行宏以在图表中实现所需的格式和形状放置。一般来说，Microsoft Visio 是绘图软件，它允许创建文件，这些文件可以包含并以不同形状表示用户定义的信息。其中最常见的包括但不限于 UML 图、流程图、可视对象、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息。使用 Visio 生成的文件也可以转换为不同的文件格式，例如 PNG、BMP、PDF 等。
+扩展名为 .VSSM 的文件是 Microsoft Visio 支持宏的模板文件。 VSSM 文件在打开时允许运行宏以在 diagram 中实现所需的形状格式和位置。一般来说，Microsoft Visio 是绘图软件，它允许创建文件，这些文件可以包含和表示不同形状的用户定义信息。其中最常见的包括但不限于 UML 图、流程图、可视对象、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息。使用 Visio 生成的文件也可以转换为不同的文件格式，例如 PNG、BMP、PDF 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,27 +102,27 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 VSTX 转换为许多其他文件格式，包括下面列出的几种文件格式。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 VSTX 转换为许多其他文件格式，包括下面列出的几种。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-bmp/" name="VSTX 转 BMP" description="位图图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-emf/" name="VSTX 到 EMF" description="增强的元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-html/" name="VSTX 转 HTML" description="超文本标记语言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-jpeg/" name="VSTX 转 JPEG" description="JPEG图像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-jpeg/" name="VSTX转JPEG" description="JPEG图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-pdf/" name="VSTX 转 PDF" description="便携式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-png/" name="VSTX 转 PNG" description="便携式网络图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-svg/" name="VSTX 转 SVG" description="可缩放矢量图形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-svg/" name="VSTX转 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-swf/" name="VSTX 转 SWF" description="SWF 格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-tiff/" name="VSTX 转 TIFF" description="标记图像格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vdx/" name="VSTX 转 VDX" description="Microsoft Visio 绘图格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdm/" name="VSTX 到 VSDM" description="Microsoft Visio 绘图格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdx/" name="VSTX 到 VSDX" description="微软Visio格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssx/" name="VSTX 到 VSSX" description="绘图模具" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstm/" name="VSTX 到 VSTM" description="Microsoft Visio 模板文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstx/" name="VSTX 到 VSTX" description="Microsoft Visio 绘图模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsx/" name="VSTX 到 VSX" description="模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vtx/" name="VSTX 到 VTX" description="Microsoft Visio 绘图模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-tiff/" name="VSTX到 TIFF" description="标记图像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vdx/" name="VSTX 至 VDX" description="Microsoft Visio 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdm/" name="VSTX 至 VSDM" description="Microsoft Visio 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdx/" name="VSTX 至 VSDX" description="Microsoft Visio 格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssx/" name="VSTX 至 VSSX" description="绘图模具" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstm/" name="VSTX 至 VSTM" description="Microsoft Visio 模板文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstx/" name="VSTX 至 VSTX" description="Microsoft Visio 绘图模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsx/" name="VSTX 至 VSX" description="模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vtx/" name="VSTX 至 VTX" description="Microsoft Visio 绘图模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-xaml/" name="VSTX 到 XAML" description="可扩展的应用程序标记语言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-xps/" name="VSTX 转 XPS" description="XML 纸张规格" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-xps/" name="VSTX 到 XPS" description="XML 纸张规格" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

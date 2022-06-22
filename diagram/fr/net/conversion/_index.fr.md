@@ -1,10 +1,10 @@
 ﻿---
-title: Conversion de fichiers C# Microsoft Visio
+title: C# Microsoft Visio Conversion de fichiers
 url: /fr/net/conversion/
-description: Convertissez les formats Microsoft Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST en PDF HTML et images avec quelques lignes de code C# via la bibliothèque .NET.
+description: Convertir Microsoft Visio formats VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST en PDF HTML et images avec quelques lignes de Code C# via la bibliothèque .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Conversion de formats Microsoft<sup>&reg;</sup> Visio via C#" h2="Convertissez des diagrammes MS Visio en PDF, HTML et images, y compris BMP, JPG, PNG, TIFF pour créer des applications .NET multiplateformes." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Conversion des formats via C#" h2="Convertissez des diagrammes MS Visio en PDF, HTML et images, y compris BMP, JPG, PNG, TIFF pour créer des applications .NET multiplateformes." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pour toute solution, conception d'organigrammes et de diagrammes de flux commerciaux, etc. ou chaque fois qu'il est nécessaire de gérer des diagrammes MS Visio avec l'emplacement de l'application. Il est donc nécessaire d'analyser les formats Visio ainsi que de les convertir en d'autres formats. .NET Visio API peut faciliter tout cela. API non seulement crée, lit et manipule des fichiers Visio, mais convertit également les images, les formats PDF et HTML.

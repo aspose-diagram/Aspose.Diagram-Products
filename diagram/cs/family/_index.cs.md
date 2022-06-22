@@ -1,17 +1,17 @@
 ﻿---
-title: Rozhraní API Visio .NET a Java | Vytvářejte převody nebo manipulujte s diagramy 
+title: Visio .NET Java Python Rozhraní API Node.js | Vytvářejte převody nebo manipulujte s diagramy 
 weight: 10
 url: /cs/family
 description: Knihovna Diagram k vytvoření otevřeného editačního tisku a převodu Visio souborů v .NET Java a Mono aplikacích bez nainstalovaného Microsoft Visio
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio File Manipulation API" h2="Rozhraní API .NET & Java pro vytváření, úpravu a převod souborů Microsoft Visio na jakékoli platformě." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio Rozhraní API pro manipulaci se soubory" h2="Rozhraní API .NET & Java k vytváření, úpravám a převodu souborů Microsoft Visio na jakékoli platformě." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram Zahrnuje High Code API" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
-Zacilte na Windows Forms, ASP.NET, WPF, WCF nebo jakýkoli typ aplikace založený na .NET Framework 2.0 nebo novějším.
+Zacilte na Windows Forms, ASP.NET, WPF, WCF nebo jakýkoli typ aplikace založené na .NET Framework 2.0 nebo novějším.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productLink="/diagram/java/" >}}
@@ -19,11 +19,11 @@ Nativní rozhraní API Java pro stolní počítače, web nebo jakýkoli druh apl
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Node.js prostřednictvím Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
-Vytvářejte, čtěte, pište a vykreslujte dokumenty Microsoft Visio prostřednictvím Node.js.
+Vytvářejte, čtěte, pište a vykreslujte Microsoft Visio dokumentů prostřednictvím Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Python prostřednictvím Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
-Vytvářejte, čtěte, pište a vykreslujte dokumenty Microsoft Visio prostřednictvím Python.
+Vytvářejte, čtěte, pište a vykreslujte Microsoft Visio dokumentů prostřednictvím Python.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

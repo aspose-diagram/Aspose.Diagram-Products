@@ -2,7 +2,7 @@
 title: Convertir VSD en VSSX via C# 
 weight: 2880
 url: /fr/net/conversion/vsd-to-vssx/ 
-description: Exemple de code pour la conversion VSD en VSSX C#. Utilisez API exemple de code pour les fichiers batch VSD vers la conversion VSSX dans VB.NET, Asp.NET ou toute application basée sur .NET.
+description: Exemple de code pour la conversion de VSD à VSSX C#. Utilisez l'exemple de code API pour les fichiers batch VSD vers la conversion VSSX dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir VSD en VSSX via C#" h2="Exportez les fichiers Microsoft® Visio VSD vers VSSX sur .NET Framework, .NET Core, Mono ou COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSD" >}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou COM Interop.- Environnement de développement comme Microsoft Visual Studio.- Aspose.Diagram for .NET DLL référencée dans votre projet.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Cet exemple de code montre la conversion VSD vers VSSX C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Cet exemple de code montre la conversion VSD à VSSX C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsd-to-vssx.cs" >}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour convertir VSD en VSSX" sectionDescription="Consultez nos démos en direct pour [Conversion de VSD à VSSX](https://products.aspose.app/diagram/conversion/vsd-to-vssx) avec les avantages suivants." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour convertir VSD en VSSX" sectionDescription="Consultez nos démos en direct pour [Conversion VSD à VSSX](https://products.aspose.app/diagram/conversion/vsd-to-vssx) avec les avantages suivants." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier VSD et cliquez sur le bouton \"Convertir\"." >}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Une bibliothèque de gestion Diagram spécialement conçue pour fonctionner avec les fichiers Microsoft Visio. Il permet aux développeurs de créer, manipuler et convertir des formats natifs Visio. Les développeurs peuvent créer des diagrammes à partir de rien, charger facilement des fichiers existants et manipuler les éléments du diagramme pour exporter le résultat dans d'autres formats.
+ Une bibliothèque de gestion Diagram spécialement conçue pour fonctionner avec des fichiers Microsoft Visio. Il permet aux développeurs de créer, manipuler et convertir des formats natifs Visio. Les développeurs peuvent créer des diagrammes à partir de rien, charger facilement des fichiers existants et manipuler les éléments du diagram pour exporter le résultat dans d'autres formats.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Les fichiers VSD sont des dessins créés avec l'application Microsoft Visio pour représenter une variété d'objets graphiques et l'interconnexion entre ceux-ci. Ces dessins peuvent contenir des objets visuels tels que des objets visuels, des organigrammes, des diagrammes UML, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Microsoft Visio offre la possibilité de convertir des fichiers Visio dans un certain nombre de formats de fichiers différents, notamment PNG, BMP, PDF et autres.
+Les fichiers VSD sont des dessins créés avec l'application Microsoft Visio pour représenter une variété d'objets graphiques et l'interconnexion entre ceux-ci. Ces dessins peuvent contenir des objets visuels tels que des objets visuels, des organigrammes, UML diagram, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Microsoft Visio offre la possibilité de convertir des fichiers Visio dans un certain nombre de formats de fichiers différents, notamment PNG, BMP, PDF et autres.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,14 +113,14 @@ Les fichiers avec l'extension .VSSX sont des gabarits de dessin créés avec Mic
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-svg/" name="VSD VERS SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-swf/" name="VSD VERS SWF" description="Format SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-tiff/" name="VSD VERS TIFF" description="Format d\'image balisé" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD VERS VDX" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD VERS VSDM" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD À VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD VERS VSSM" description="Fichiers de pochoir Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD VERS VSTM" description="Fichiers de modèles Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD VERS VSTX" description="Modèle de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD VERS VSX" description="Pochoirs" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD VERS VTX" description="Modèle de dessin Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD À VDX" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD À VSDM" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD À VSDX" description="Microsoft Visio Formater" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD À VSSM" description="Microsoft Visio fichiers de gabarit" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD À VSTM" description="Microsoft Visio fichiers modèles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD À VSTX" description="Microsoft Visio Gabarit de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD À VSX" description="Pochoirs" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD À VTX" description="Microsoft Visio Gabarit de dessin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xaml/" name="VSD VERS XAML" description="Langage de balisage d\'application extensible" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xps/" name="VSD VERS XPS" description="Spécifications papier XML" >}}
 

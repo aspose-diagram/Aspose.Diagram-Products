@@ -15,8 +15,8 @@ description: Ejemplo de código de conversión Java de formato VSS a archivo XPS
  Para renderizar VSS a XPS, usaremos
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, que es una plataforma de conversión API for Java rica en funciones, potente y fácil de usar. Puedes descargar su última versión directamente desde
- [Experto](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -102,7 +102,7 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteca de manipulación" %}}
 
- Aspose.Diagram es una manipulación de formato de documento Visio de Microsoft API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
+ Aspose.Diagram es una Microsoft Visio manipulación de formato de documento API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS son archivos de plantilla creados con Microsoft Visio 2007 y versiones anteriores. Un formato de archivo relativamente nuevo es .VSSX que se introdujo con Microsoft Visio 2013. Los archivos de plantilla proporcionan objetos de dibujo que se pueden incluir en un dibujo .VSD Visio. El mismo Microsoft Visio es conocido por crear elementos de dibujo como colecciones de formas, conectores, diagramas de flujo, diseño de red, diagramas UML, diagramas de software, modelos de bases de datos, mapeo de objetos y otra información similar. También tiene ricas funciones de conversión de Visio documentos a otros formatos de archivo como PNG, BMP, PDF y otros. Visio está disponible para Windows y Mac OS.
+VSS son archivos de plantilla creados con Microsoft Visio 2007 y versiones anteriores. Un formato de archivo relativamente nuevo es .VSSX que se introdujo con Microsoft Visio 2013. Los archivos de plantilla proporcionan objetos de dibujo que se pueden incluir en un dibujo .VSD Visio. Microsoft Visio en sí mismo es conocido por crear elementos de dibujo como una colección de formas, conectores, diagramas de flujo, diseño de red, diagramas UML, diagramas de software, modelos de bases de datos, mapeo de objetos y otra información similar. También tiene ricas funciones de conversión de Visio documentos a otros formatos de archivo como PNG, BMP, PDF y otros. Visio está disponible para Windows y Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,15 +140,15 @@ Un archivo XPS representa archivos de diseño de página que se basan en las esp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="VSS A PNG" description="Gráficos de red portátiles" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS A SVG" description="gráficas vectoriales escalables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS A TIFF" description="Formato de imagen etiquetada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS A VDX" description="Formato de dibujo de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS A VSDM" description="Formato de dibujo de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS A VSDX" description="Formato de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS A VSSM" description="Archivos de plantilla Visio de Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS A VDX" description="Microsoft Visio formato de dibujo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS A VSDM" description="Microsoft Visio formato de dibujo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS A VSSM" description="Microsoft Visio archivos de plantilla" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS A VSSX" description="Plantillas de dibujo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS A VSTM" description="Archivos de plantilla Visio de Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS A VSTX" description="Plantilla de dibujo de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS A VSTM" description="Microsoft Visio archivos de plantilla" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS A VSTX" description="Microsoft Visio plantilla de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS A VSX" description="plantillas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS A VTX" description="Plantilla de dibujo de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS A VTX" description="Microsoft Visio plantilla de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS A XAML" description="Lenguaje de marcado de aplicaciones extensible" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

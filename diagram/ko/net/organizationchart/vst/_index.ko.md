@@ -2,7 +2,7 @@
 title: .NET을(를) 통해 VST 문서에서 조직도 만들기 
 weight: 3050
 url: /ko/net/organizationchart/vst/ 
-description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono Platforms의 vst 파일에 조직도를 생성합니다.
+description: C# 소스 코드는 .NET Framework, .NET Core, Mono 플랫폼의 vst 파일에 조직도를 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#의 VST에서 조직도 만들기" h2="기본 및 고성능은 Microsoft 또는 Open Office, Adobe PDF와 같은 소프트웨어를 사용하지 않고 서버측 Aspose.Diagram for .NET API를 사용하여 VST 문서에서 조직도를 생성합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -15,7 +15,7 @@ description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono Pl
  VST 파일에서 조직도를 생성하기 위해 우리는 다음을 사용할 것입니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려 있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  **Aspose.Diagram** 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -39,13 +39,13 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서
+ 로 조직도 만들기
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API는 몇 줄의 코드로 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ 스텐실에서 다이어그램을 만듭니다.
++ 스텐실에서 diagram를 만듭니다.
 + ID를 통해 페이지 선택
 + 페이지에 조직 노드 셰이프를 추가합니다.
 + 모양과 부모를 연결하기 위해 페이지에 커넥터를 추가합니다.
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
+- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop이 있는 호환 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VST 파일에서 조직도 만들기 - C#" offSpacer="" %}}
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" VST 문서에 CompactTree 스타일의 조직도를 즉시 생성합니다." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이러한 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio를 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다. 
+VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML diagram, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio을 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -107,8 +107,8 @@ VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 조직도 형식" subTitle="C#을 사용하면 다음을 포함한 다양한 형식으로 CompactTree 스타일 조직도를 쉽게 만들 수 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsd/" name="대" description="Microsoft Visio 도면" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vdx/" name="VDX" description="Visio 도면 XML 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsd/" name="Vsd" description="Microsoft Visio 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vdx/" name="Vdx" description="Visio 도면 XML 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vstx/" name="VSTX" description="Visio 템플릿 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsdm/" name="VSDM" description="Visio 매크로 사용 도면 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vstm/" name="VSTM" description="Visio 매크로 사용 템플릿 파일" >}}

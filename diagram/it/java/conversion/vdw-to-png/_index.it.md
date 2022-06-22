@@ -15,7 +15,7 @@ description: Esempio di codice di conversione Java per il formato VDW in file PN
  Per rendere VDW in PNG, useremo
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API che è una piattaforma di conversione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la sua ultima versione direttamente da
- [Esperto di](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -102,7 +102,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Libreria di manipolazione" %}}
 
- Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.  
+ Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDW è il formato di file del servizio di grafica Visio che specifica i flussi e gli archivi necessari per il rendering di un disegno Web. Un disegno Web è una raccolta di pagine di disegno, forme, caratteri, immagini, connessioni dati e informazioni sull'aggiornamento del diagramma che possono essere renderizzate come un disegno vettoriale o raster. I file VDW possono essere aperti anche in Microsoft Visio, ma vengono salvati principalmente per l'uso sul Web. Microsoft Visio offre la possibilità di convertire file Visio in numerosi formati di file diversi, inclusi PNG, BMP, PDF e altri.
+VDW è il formato di file del servizio di grafica Visio che specifica i flussi e gli archivi necessari per il rendering di un disegno Web. Un disegno Web è una raccolta di pagine di disegno, forme, caratteri, immagini, connessioni dati e diagram informazioni di aggiornamento di cui è possibile eseguire il rendering come disegno vettoriale o raster. I file VDW possono essere aperti anche in Microsoft Visio ma vengono salvati principalmente per l'uso sul Web. Microsoft Visio offre la possibilità di convertire file Visio in numerosi formati di file diversi, inclusi PNG, BMP, PDF e altri.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-PNG, Portable Network Graphics, si riferisce a un tipo di formato di file di immagine raster che utilizza la compressione senza perdita di dati. Questo formato di file è stato creato in sostituzione del Graphics Interchange Format (GIF) e non ha limitazioni di copyright. Tuttavia, il formato di file PNG non supporta le animazioni. Il formato di file PNG supporta la compressione delle immagini senza perdita di dati che lo rende popolare tra i suoi utenti. Con il passare del tempo, PNG si è evoluto come uno dei formati di file immagine più utilizzati. Quasi tutti i sistemi operativi supportano l'apertura di file PNG. Ad esempio, il visualizzatore di Microsoft Windows ha la capacità di aprire file PNG poiché il sistema operativo ha per impostazione predefinita il supporto disponibile come parte dell'installazione.
+PNG, Portable Network Graphics, si riferisce a un tipo di formato di file di immagine raster che utilizza la compressione senza perdita di dati. Questo formato di file è stato creato in sostituzione del Graphics Interchange Format (GIF) e non ha limitazioni di copyright. Tuttavia, il formato di file PNG non supporta le animazioni. Il formato di file PNG supporta la compressione delle immagini senza perdita di dati che lo rende popolare tra i suoi utenti. Con il passare del tempo, PNG si è evoluto come uno dei formati di file immagine più utilizzati. Quasi tutti i sistemi operativi supportano l'apertura di file PNG. Ad esempio, Microsoft il visualizzatore di Windows ha la capacità di aprire file PNG poiché il sistema operativo ha per impostazione predefinita il supporto disponibile come parte dell'installazione.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ PNG, Portable Network Graphics, si riferisce a un tipo di formato di file di imm
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-pdf/" name="VDW IN PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-svg/" name="VDW IN SVG" description="Grafica vettoriale scalabile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDW IN TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW A VDX" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW A VSDM" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW A VSDX" description="Formato Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW A VSSM" description="File stencil di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW A VDX" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW A VSDM" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW A VSSM" description="Microsoft Visio File stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW A VSSX" description="Stencil da disegno" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW A VSTM" description="File modello Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW A VSTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW A VSTM" description="Microsoft Visio File modello" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW A VSTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW A VSX" description="Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW A VTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW A VTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xaml/" name="VDW IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="VDW A XPS" description="Specifiche della carta XML" >}}
 

@@ -2,7 +2,7 @@
 title: Dokument VSD mit Wasserzeichen über .NET 
 weight: 3050
 url: /de/net/watermark/vsd/ 
-description: C# Quellcode zum Hinzufügen von Wasserzeichen zur VSD-Datei auf .NET Framework, .NET Core, Mono Plattformen.
+description: C#-Quellcode zum Hinzufügen eines Wasserzeichens zur Datei vsd auf den Plattformen .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Textwasserzeichen zu VSD in C# hinzufügen" h2="Natives und leistungsstarkes VSD-Dokumentenwasserzeichen mit serverseitigen Aspose.Diagram for .NET-APIs, ohne Verwendung von Software wie Microsoft oder Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Über Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram ist eine Manipulation des Microsoft Visio-Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
+ Aspose.Diagram ist eine Microsoft Visio Manipulation des Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort mit einem Wasserzeichen versehen und verkettet." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-VSD-Dateien sind Zeichnungen, die mit der Microsoft Visio-Anwendung erstellt wurden, um eine Vielzahl von grafischen Objekten und die Verbindung zwischen diesen darzustellen. Solche Zeichnungen können visuelle Objekte wie visuelle Objekte, Flussdiagramme, UML-Diagramme, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektabbildungen und andere ähnliche Informationen enthalten. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere. 
+VSD-Dateien sind Zeichnungen, die mit der Anwendung Microsoft Visio erstellt wurden, um eine Vielzahl von grafischen Objekten und die Verbindung zwischen diesen darzustellen. Solche Zeichnungen können visuelle Objekte wie visuelle Objekte, Flussdiagramme, UML diagram, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

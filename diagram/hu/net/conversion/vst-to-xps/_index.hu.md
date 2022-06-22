@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM Interop funkcióval.- Fejlesztői környezet, például a Microsoft Visual Studio.- Aspose.Diagram for .NET DLL-re hivatkozik a projektben.
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM együttműködéssel.- Fejlesztői környezet, például a Microsoft Visual Studio.- Aspose.Diagram for .NET DLL-re hivatkozik a projektben.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Ez a mintakód a VST-ből XPS-be való C# konverziót mutatja" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Egy Diagram Management Library, amelyet kifejezetten a Microsoft Visio fájljaival való együttműködésre terveztek. Lehetővé teszi a fejlesztők számára natív Visio formátumok létrehozását, kezelését és konvertálását. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetik a meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.
+ Egy Diagram Kezelőkönyvtár, amelyet kifejezetten Microsoft Visio fájl kezelésére terveztek. Lehetővé teszi a fejlesztők számára natív Visio formátumok létrehozását, kezelését és konvertálását. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetnek meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-VST kiterjesztésű fájlok a Microsoft Visio programmal létrehozott vektorképfájlok, amelyek sablonként szolgálnak további fájlok létrehozásához. Ezek a sablonfájlok bináris fájlformátumúak, és tartalmazzák az új Visio rajzok létrehozásához használt alapértelmezett elrendezést és beállításokat. Amikor egy VST-fájlt megnyit a Microsoft Visio alkalmazásban, az tartalmazza a dokumentummal való munka folytatásához szükséges meglévő beállításokat. Általában a Visio fájlokat olyan rajzok létrehozására használják, amelyek vizuális objektumokat, folyamatábrákat, UML-diagramokat, információáramlást, szervezeti diagramokat, szoftverdiagramokat, hálózati elrendezést, adatbázis-modelleket, objektumleképezést és más hasonló információkat tartalmaznak. A Visio használatával generált fájlok exportálhatók különböző fájlformátumokba is, például PNG, BMP, PDF és más formátumokba.
+VST kiterjesztésű fájlok vektorképfájlok, amelyeket a(z) Microsoft Visio kóddal hoztak létre, és sablonként szolgálnak további fájlok létrehozásához. Ezek a sablonfájlok bináris fájlformátumúak, és tartalmazzák az új Visio rajzok létrehozásához használt alapértelmezett elrendezést és beállításokat. Amikor egy VST-fájlt megnyit a(z) Microsoft Visio alkalmazásban, az tartalmazza a meglévő beállításokat a dokumentummal való munka folytatásához. Általában az Visio fájlokat olyan rajzok létrehozására használják, amelyek vizuális objektumokat, folyamatábrákat, UML-t diagram, információáramlást, szervezeti diagramokat, szoftver diagramokat, hálózati elrendezést, adatbázis-modelleket, objektumleképezést és más hasonló információkat tartalmaznak. A Visio használatával generált fájlok különböző fájlformátumokba is exportálhatók, például PNG, BMP, PDF és mások.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xps" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
-Az XPS-fájlok olyan oldalelrendezési fájlok, amelyek a Microsoft által létrehozott XML-papírspecifikációkon alapulnak. Ezt a formátumot a Microsoft fejlesztette ki az EMF fájlformátum helyettesítésére, és hasonló a PDF fájlformátumhoz, de XML-t használ a dokumentum elrendezésében, megjelenésében és nyomtatási információiban. Valójában indokoltabb azt állítani, hogy az XPS egy kísérlet a PDF-re, de több okból sem tudott elég népszerűséget szerezni a PDF tulajdonában. A Microsoft alapértelmezés szerint XPS Document Writert biztosít a Windows 7-től kezdve az XPS-fájlok létrehozásához. XPS-fájlok generálhatók a „Microsoft XPS Document Writer” nyomtató kiválasztásával a dokumentum nyomtatása közben.
+Az XPS-fájlok olyan oldalelrendezési fájlokat képviselnek, amelyek a(z) Microsoft által létrehozott XML papírspecifikációkon alapulnak. Ezt a formátumot a Microsoft fejlesztette ki az EMF fájlformátum helyettesítésére, és hasonló a PDF fájlformátumhoz, de XML-t használ a dokumentum elrendezésében, megjelenésében és nyomtatási információiban. Valójában indokoltabb azt állítani, hogy az XPS egy kísérlet a PDF-re, de több okból sem tudott elég népszerűséget szerezni a PDF tulajdonában. A Microsoft alapértelmezés szerint az XPS Document Writert biztosítja a Windows 7-től kezdve az XPS-fájlok létrehozásához. Az XPS-fájlok úgy hozhatók létre, hogy a dokumentum nyomtatása közben az "Microsoft XPS Document Writer" nyomtatót választják ki.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,15 +113,15 @@ Az XPS-fájlok olyan oldalelrendezési fájlok, amelyek a Microsoft által létr
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-svg/" name="VST - SVG" description="Skálázható vektorgrafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-swf/" name="VST AZ SWF-RE" description="SWF formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST TIFF-RE" description="Címkézett képformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST - VDX" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST – VSDM" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST – VSDX" description="Microsoft Visio formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST VSSM" description="Microsoft Visio Stencil-fájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST - VSSX" description="Rajzsablonok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST VSTM" description="Microsoft Visio sablonfájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST - VSTX" description="Microsoft Visio rajzsablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST - VSX" description="Stencilek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST - VTX" description="Microsoft Visio rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST – VDX" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST – VSDM" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST – VSDX" description="Microsoft Visio Formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST – VSSM" description="Microsoft Visio Sablonfájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST – VSSX" description="Rajzsablonok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST – VSTM" description="Microsoft Visio Sablonfájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST – VSTX" description="Microsoft Visio Rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST – VSX" description="Stencilek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST – VTX" description="Microsoft Visio Rajzsablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xaml/" name="VST TO XAML" description="Bővíthető alkalmazásjelölő nyelv" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

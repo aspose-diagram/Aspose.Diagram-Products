@@ -20,7 +20,7 @@ description: C# código fuente para combinar VSDX documentos en .NET Framework, 
  **Aspose.Diagram** 
  e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
-{{% blocks/products/pf/agp/code-block title="Mando" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
 ```cs
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Hacer un documento como archivo base
 + Llame al método relevante para concatenar y fusionar archivos uno por uno.
 + Llame al método Save() y pase el nombre del archivo (ruta completa) y el formato (VSDX) como parámetro.
-Ahora puede abrir y usar el archivo VSDX en Microsoft Office, Adobe PDF o cualquier otro programa compatible.
++ Ahora puede abrir y usar el archivo VSDX en Microsoft Office, Adobe PDF o cualquier otro programa compatible.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -61,7 +61,7 @@ Ahora puede abrir y usar el archivo VSDX en Microsoft Office, Adobe PDF o cualqu
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o COM Interop- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto: instálelo desde NuGet mediante el botón Descargar de arriba
+- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o COM Interop- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto - Instale desde NuGet usando el botón Descargar arriba
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Combinar VSDX archivos - C#" offSpacer="" %}}
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vsdx");
 
     {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram es una manipulación de formato de documento Visio de Microsoft API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
+ Aspose.Diagram es una Microsoft Visio manipulación de formato de documento API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
 
 
 
@@ -103,7 +103,7 @@ Diagram dgF = new Diagram( "f.vsdx");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Se fusionará y concatenará instantáneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-Los archivos con la extensión .VSDX representan el formato de archivo de Microsoft Visio introducido desde Microsoft Office 2013 en adelante. Fue desarrollado para reemplazar el formato de archivo binario, .VSD, que es compatible con versiones anteriores de Microsoft Visio. También es compatible con Visio Services en Microsoft SharePoint Server 2013 y no requiere un formato de archivo intermedio para publicar en SharePoint Server. Los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, diagramas UML, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros. 
+Los archivos con la extensión .VSDX representan el formato de archivo Microsoft Visio introducido desde Microsoft Office 2013 en adelante. Fue desarrollado para reemplazar el formato de archivo binario, .VSD, que es compatible con versiones anteriores de Microsoft Visio. También es compatible con Visio Servicios en Microsoft SharePoint Server 2013 y no requiere un formato de archivo intermedio para publicar en SharePoint Server. Los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, UML diagram, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,17 +114,17 @@ Los archivos con la extensión .VSDX representan el formato de archivo de Micros
 {{< blocks/products/pf/agp/other-supported-section title="Otros formatos de fusión admitidos" subTitle="Usando C#, One también puede fusionar muchos otros formatos de archivo, incluidos." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdw/" name="VDW" description="Visio archivo de servicio de gráficos" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Formato de dibujo de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Dibujos de Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Formato de dibujo de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio formato de dibujo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio Dibujos" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio formato de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vss/" name="VSS" description="Archivos de plantilla" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Archivos de plantilla Visio de Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio archivos de plantilla" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssx/" name="VSSX" description="Plantillas de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vst/" name="VST" description="Archivos de imagen vectorial" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Archivos de plantilla Visio de Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Plantilla de dibujo de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Microsoft Visio archivos de plantilla" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Microsoft Visio plantilla de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsx/" name="VSX" description="plantillas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Plantilla de dibujo de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Microsoft Visio plantilla de dibujo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

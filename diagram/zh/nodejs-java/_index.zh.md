@@ -2,10 +2,10 @@
 title: Visio 文档 Node.js API - Aspose 
 weight: 1630
 url: /zh/nodejs-java/ 
-description: 通过 Java 用于 Node.js 的 Aspose.Diagram 是一个 visio javascript API，用于读取、写入和转换 Microsoft Visio 文档，例如 VSDX、VDX 和更多格式
+description: 通过 Java 用于 Node.js 的 Aspose.Diagram 是一个 visio javascript API，用于读取、写入和转换 Microsoft Visio 文档，如 VSDX、VDX 和更多格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio 文件 API" h2="使用 Node.js 创建、读取、写入和导出 Microsoft Visio 格式，包括 VSDX、VDX、VSX、VTX 和更多格式API。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio 文件 API" h2="使用 Node.js API 创建、读取、写入和导出 Microsoft Visio 格式，包括 VSDX、VDX、VSX、VTX 和更多格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
@@ -13,7 +13,7 @@ description: 通过 Java 用于 Node.js 的 Aspose.Diagram 是一个 visio javas
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Node.js via Java 是 Microsoft Visio 文档操作解决方案。可以读取、写入、保护、导出和打印原生 Visio 格式，并支持一些常用的图像和固定布局格式。它可以轻松加载现有文件，修改图表元素以导出为所需格式，包括图像或 PDF 或 XPS 等固定布局格式。
+ 通过 Java 用于 Node.js 的 Aspose.Diagram 是一种 Microsoft Visio 文档操作解决方案。可以读取、写入、保护、导出和打印原生 Visio 格式，并支持一些常用的图像和固定布局格式。它可以轻松加载现有文件，修改 diagram 元素以导出为所需格式，包括图像或 PDF 或 XPS 等固定布局格式。
 </p>
 
 <p>
@@ -143,7 +143,7 @@ description: 通过 Java 用于 Node.js 的 Aspose.Diagram 是一个 visio javas
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Diagram for Node.js via Java 支持流行的 Microsoft Visio 格式等。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="通过 Java 用于 Node.js 的 Aspose.Diagram 支持流行的 Microsoft Visio 格式等。" >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -155,7 +155,7 @@ description: 通过 Java 用于 Node.js 的 Aspose.Diagram 是一个 visio javas
    <ul>
     <li>
      <b>
-      微软 Visio：
+      Microsoft Visio：
      </b>
      VSDX、VDX、VSX、VTX、VSSX、VSTX、VSDM、VSSM、VSTM
     </li>
@@ -168,7 +168,7 @@ description: 通过 Java 用于 Node.js 的 Aspose.Diagram 是一个 visio javas
    <ul>
     <li>
      <b>
-      微软 Visio：
+      Microsoft Visio：
      </b>
      VDW、VSD、VSS、VST
     </li>
@@ -319,7 +319,7 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
      访问和操作 Visio 文件
     </h2>
     <p>
-     Node.js 图表 API 允许读取本机 Microsoft Visio 格式并提供对图表数据（如文档、页面、母版、形状、样式表、连接等）的访问。这些对象可以通过 API 进行操作，结果可以任何支持的格式写入磁盘。
+     Node.js diagram API 允许读取原生 Microsoft Visio 格式并提供对 diagram 数据（如文档、页面、母版、形状、样式表、连接等）的访问。这些对象可以通过 API 进行操作，结果可以任何支持的格式写入磁盘。
     </p>
    </div>
    <div class="col-lg-12">

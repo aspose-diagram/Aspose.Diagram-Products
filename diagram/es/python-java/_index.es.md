@@ -2,10 +2,10 @@
 title: Visio Documentos Python API - Aspose 
 weight: 4630
 url: /es/python-java/ 
-description: Aspose.Diagram para Python a través de Java es un visio javascript API para leer, escribir y convertir documentos de Microsoft Visio como VSDX, VDX y más formatos
+description: Aspose.Diagram para Python a través de Java es un visio javascript API para leer, escribir y convertir Microsoft Visio documentos como VSDX, VDX y más formatos
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Visio Archivos API" h2="Cree, lea, escriba y exporte formatos de Microsoft Visio, incluidos VSDX, VDX, VSX, VTX y más formatos usando Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Visio Archivos API" h2="Cree, lea, escriba y exporte formatos Microsoft Visio, incluidos VSDX, VDX, VSX, VTX y más formatos usando Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Python via Java" >}}
 
@@ -13,11 +13,11 @@ description: Aspose.Diagram para Python a través de Java es un visio javascript
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram para Python a través de Java es una solución de manipulación de documentos de Microsoft Visio. Se pueden leer, escribir, proteger, exportar e imprimir formatos Visio nativos, así como también es compatible con algunos formatos de imagen y diseño fijo de uso común. Es fácil cargar archivos existentes, modificar los elementos del diagrama para exportar al formato deseado, incluidas imágenes o formatos de diseño fijo como PDF o XPS.
+ Aspose.Diagram para Python a través de Java es una solución de manipulación de documentos Microsoft Visio. Se pueden leer, escribir, proteger, exportar e imprimir formatos Visio nativos, así como también es compatible con algunos formatos de imagen y diseño fijo de uso común. Es fácil cargar archivos existentes, modificar los elementos diagram para exportar al formato deseado, incluidas imágenes o formatos de diseño fijo como PDF o XPS.
 </p>
 
 <p>
- Aspose.Diagram para Python a través de Java es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software. Además, algunas tareas que uno puede realizar fácilmente, como crear diagramas desde cero, leer o escribir varios formatos, acceder y leer las propiedades, incluidas Visio fórmulas de objetos, exportar diagramas a múltiples formatos, imprimir diagramas con alta fidelidad y mucho más.
+ Aspose.Diagram para Python a través de Java es un API independiente y no requiere Microsoft Visio ni ninguna otra instalación de software. Además, algunas tareas que uno puede realizar fácilmente, como crear diagramas desde cero, leer o escribir varios formatos, acceder y leer las propiedades, incluidas Visio fórmulas de objetos, exportar diagramas a múltiples formatos, imprimir diagramas con alta fidelidad y mucho más.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -155,7 +155,7 @@ description: Aspose.Diagram para Python a través de Java es un visio javascript
    <ul>
     <li>
      <b>
-      microsoft Visio:
+      Microsoft Visio:
      </b>
      VSDX, VDX, VSX, VTX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
@@ -168,7 +168,7 @@ description: Aspose.Diagram para Python a través de Java es un visio javascript
    <ul>
     <li>
      <b>
-      microsoft Visio:
+      Microsoft Visio:
      </b>
      VDW, VSD, VSS, VST
     </li>
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      Acceder y manipular Visio archivos
     </h2>
     <p>
-     El Python diagrama API permite leer formatos nativos de Microsoft Visio, así como proporcionar acceso a los datos del diagrama, como documento, página, patrón, forma, hoja de estilo, conexión, etc. Estos objetos se pueden manipular a través de API y el resultado se puede escribir en el disco en cualquiera de los formatos admitidos.
+     Python diagram API permite leer formatos Microsoft Visio nativos, así como proporcionar acceso a los datos diagram como documento, página, patrón, forma, hoja de estilo, conexión, etc. Estos objetos se pueden manipular a través de API y el resultado se puede escribir en el disco en cualquiera de los formatos admitidos.
     </p>
    </div>
    <div class="col-lg-12">

@@ -2,10 +2,10 @@
 title: Visio Belgeler Node.js API - Aspose 
 weight: 1630
 url: /tr/nodejs-java/ 
-description: Java üzerinden Node.js için Aspose.Diagram, VSDX, VDX ve diğer biçimler gibi Microsoft Visio Belgelerini okumak, yazmak ve dönüştürmek için bir visio javascript API'dir.
+description: Java üzerinden Node.js için Aspose.Diagram, VSDX, VDX ve diğer biçimler gibi belgeleri Microsoft Visio okumak, yazmak ve dönüştürmek için bir visio javascript API'dir
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio Dosyaları API" h2="Node.js API kullanarak VSDX, VDX, VSX, VTX ve diğer biçimler dahil olmak üzere Microsoft Visio Biçimlerini Oluşturun, Okuyun, Yazın ve Dışa Aktarın." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio Dosyaları API" h2="Node.js API kullanarak VSDX, VDX, VSX, VTX ve daha fazla biçim dahil olmak üzere Microsoft Visio Biçimlerini Oluşturun, Okuyun, Yazın ve Dışa Aktarın." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +13,11 @@ description: Java üzerinden Node.js için Aspose.Diagram, VSDX, VDX ve diğer b
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Java üzerinden Node.js için Aspose.Diagram, bir Microsoft Visio belge işleme çözümüdür. Yerel Visio biçimleri okuyabilir, yazabilir, koruyabilir, dışa aktarabilir ve yazdırabilir ve ayrıca yaygın olarak kullanılan bazı görüntü ve sabit yerleşim biçimlerini destekler. Mevcut dosyaları yüklemek, resimler veya PDF veya XPS gibi sabit düzen formatları dahil olmak üzere istenen formata dışa aktarmak için diyagram öğelerini değiştirmek kolaydır.
+ Java üzerinden Node.js için Aspose.Diagram, bir Microsoft Visio belge işleme çözümüdür. Yerel Visio biçimleri okuyabilir, yazabilir, koruyabilir, dışa aktarabilir ve yazdırabilir ve ayrıca yaygın olarak kullanılan bazı görüntü ve sabit yerleşim biçimlerini destekler. Mevcut dosyaları yüklemek, görüntüler veya PDF veya XPS gibi sabit düzen biçimleri dahil olmak üzere istenen biçime dışa aktarmak için diagram öğelerini değiştirmek kolaydır.
 </p>
 
 <p>
- Java üzerinden Node.js için Aspose.Diagram bağımsız bir API'dir ve Microsoft Visio veya başka bir yazılım yüklemesi gerektirmez. Ayrıca, sıfırdan diyagramlar oluşturmak, çeşitli formatları okumak veya yazmak, Visio nesne formülleri dahil özelliklere erişmek ve bunları okumak, diyagramları birden çok formata aktarmak, diyagramları yüksek doğrulukla yazdırmak ve çok daha fazlası gibi kolayca gerçekleştirebileceğiniz birkaç görev.
+ Java üzerinden Node.js için Aspose.Diagram bağımsız bir API'dir ve Microsoft Visio veya başka bir yazılım yüklemesi gerektirmez. Üstelik, sıfırdan diyagramlar oluşturmak, çeşitli formatları okumak veya yazmak, Visio nesne formülleri dahil özelliklere erişmek ve bunları okumak, diyagramları birden çok formata aktarmak, diyagramları yüksek doğrulukla yazdırmak ve çok daha fazlası gibi kolayca gerçekleştirebileceğiniz birkaç görev.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -319,7 +319,7 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
      Visio Dosyaya Erişin ve İşleyin
     </h2>
     <p>
-     Node.js diyagramı API, yerel Microsoft Visio biçimlerini okumanın yanı sıra belge, sayfa, kalıp, şekil, stil sayfası, bağlantı vb. diyagram verilerine erişim sağlar. Bu nesneler API aracılığıyla değiştirilebilir ve sonuç desteklenen herhangi bir biçimde diske yazılabilir.
+     Node.js diagram API, yerel Microsoft Visio biçimlerini okumanın yanı sıra belge, sayfa, kalıp, şekil, stil sayfası, bağlantı vb. diagram verilerine erişim sağlar. Bu nesneler API aracılığıyla değiştirilebilir ve sonuç desteklenen herhangi bir formatta diske yazılabilir.
     </p>
    </div>
    <div class="col-lg-12">

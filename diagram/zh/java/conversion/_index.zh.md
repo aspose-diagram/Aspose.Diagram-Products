@@ -1,20 +1,20 @@
 ﻿---
 title: Java Microsoft Visio 文件转换
 url: /zh/java/conversion/
-description: 将 Microsoft Visio 格式 VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS 转换为 HTML 图像和 PDF，只需几行 Java 代码。
+description: 将 Microsoft Visio 格式 VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS 转换为 HTML 图像和 PDF，只需几行Java 代码。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio 通过 Java 进行格式转换" h2="将 MS Visio 图表转换为 HTML、PDF 和图像，包括 JPG、BMP、PNG、TIFF，以构建跨平台Java应用程序。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-对于任何 Microsoft Visio 格式的渲染解决方案，例如设计流程图和业务流程图等Java Visio API 以一种简单的方式促进所有复杂的绘图。使用加载源文件 [Diagram 类](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) 并使用适当的参数调用 save 方法。
+对于任何 Microsoft Visio 格式的渲染解决方案，例如设计流程图和业务流程图等 Java Visio API 以一种简单的方式促进所有复杂的绘图。使用加载源文件 [Diagram 类](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) 并使用适当的参数调用 save 方法。
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="相互转换 Visio 文件" %}}
 
-程序员可以轻松地将 VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM 格式以及加载 VDW、VSD、VSS、VST 和呈现为 PDF、HTML 和图像。考虑 VSDX 到 VDX 的场景，过程是，使用图表类加载源 VSDX 文件并通过提供输出文件和调用 save 方法 [保存文件格式](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX 作为参数。 
+程序员可以轻松转换 VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM 格式以及加载 VDW、VSD、 VSS、VST 并呈现为 PDF、HTML 和图像。考虑 VSDX 到 VDX 的场景，过程是，使用 diagram 类加载源 VSDX 文件并通过提供输出文件和调用 save 方法 [保存文件格式](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX 作为参数。 
 
 {{% blocks/products/pf/feature-page-code h3="Java VSDX 到 VDX 转换的代码" %}}
 
@@ -27,7 +27,7 @@ description: 将 Microsoft Visio 格式 VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSS
 
 {{% blocks/products/pf/feature-page-section h2="Visio 到图像转换" %}}
 
-对于通用转换，将 visio 文件转换为图像的过程是相同的。只需通过 Diagram 类加载文件并使用输出文件和 SaveFileFormat 输出参数调用 save 方法。并且每当需要定义特定选项时，开发人员可以在将图表页面转换为图像时使用 ImageSaveOptions 类和 SVGSaveOptions 进行 SVG 转换。
+对于通用转换，将 visio 文件转换为图像的过程是相同的。只需通过 Diagram 类加载文件并使用输出文件和 SaveFileFormat 输出参数调用 save 方法。并且每当需要定义特定选项时，开发人员可以在将 diagram 页面转换为图像时使用 ImageSaveOptions 类，并使用 SVGSaveOptions 进行 SVG 转换。
 
 {{% blocks/products/pf/feature-page-code h3="Java 将 Visio 转换为图像格式的代码" %}}
 

@@ -2,7 +2,7 @@
 title: Vattenstämpel VDW-dokument via .NET 
 weight: 3050
 url: /sv/net/watermark/vdw/ 
-description: C# källkod för att lägga till vattenstämpel i vdw-filen på .NET Framework, .NET Core, Mono Platforms.
+description: C# källkod för att lägga till vattenstämpel i vdw-filen på .NET Framework, .NET Core, Mono plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lägg till textvattenstämpel till VDW i C#" h2="Inbyggt och högpresterande VDW-dokumentvattenstämpel med hjälp av API:er på serversidan Aspose.Diagram for .NET, utan användning av någon programvara som Microsoft eller Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Om Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Den kommer att vattenmärkas och sammanfogas direkt." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW är filformatet Visio Graphics Service som anger de strömmar och lagringar som krävs för att rendera en webbritning. En webbritning är en samling ritsidor, former, typsnitt, bilder, dataanslutningar och diagramuppdateringsinformation som kan renderas som en vektor- eller rasterritning. VDW-filer kan också öppnas i Microsoft Visio men sparas i första hand för användning på webben. Microsoft Visio erbjuder möjligheten att konvertera Visio-filer till ett antal olika filformat inklusive PNG, BMP, PDF och andra. 
+VDW är filformatet Visio Graphics Service som anger de strömmar och lagringar som krävs för att rendera en webbritning. En webbritning är en samling ritsidor, former, teckensnitt, bilder, dataanslutningar och diagram uppdateringsinformation som kan renderas som en vektor- eller rasterritning. VDW-filer kan också öppnas i Microsoft Visio men sparas i första hand för användning på webben. Microsoft Visio erbjuder möjligheten att konvertera Visio-filer till ett antal olika filformat inklusive PNG, BMP, PDF och andra. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

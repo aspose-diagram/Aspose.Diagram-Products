@@ -2,7 +2,7 @@
 title: Konvertera VSS till VSDM via Java 
 weight: 3890
 url: /sv/java/conversion/vss-to-vsdm/ 
-description: Exempel Java-konverteringskod för VSS-format till VSDM-fil. Använd den här exempelkoden för att konvertera VSS till VSDM i valfri webb- eller datorbaserad applikation Java.
+description: Exempel på Java-konverteringskod för VSS-format till VSDM-fil. Använd den här exempelkoden för att konvertera VSS till VSDM i valfri webb- eller datorbaserad applikation Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera VSS till VSDM via Java" h2="Exportera Microsoft Visio VSS till VSDM med inbyggt Java-bibliotek." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSS" >}}
@@ -56,11 +56,11 @@ description: Exempel Java-konverteringskod för VSS-format till VSDM-fil. Använ
 
 {{% blocks/products/pf/agp/text %}}
 
- Java-utvecklare kan enkelt konvertera VSS-filer till VSDM på bara några rader kod.
+ Java-utvecklare kan enkelt konvertera VSS-filen till VSDM på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Ladda VSS-fil med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. VSDM-filen kommer att sparas på den angivna sökvägen
+1. Ladda VSS-fil med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. VSDM fil kommer att sparas på den angivna sökvägen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
@@ -94,15 +94,15 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VSS till VSDM Conversion Live Demos" sectionDescription="[Konvertera VSS till VSDM](https://products.aspose.app/diagram/conversion/vss-to-vsdm) just nu genom att besöka vår Live Demos-webbplats. Livedemon har följande fördelar" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSS till VSDM Live Demos för konvertering" sectionDescription="[Konvertera VSS till VSDM](https://products.aspose.app/diagram/conversion/vss-to-vsdm) just nu genom att besöka vår Live Demos-webbplats. Livedemon har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ned Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSS-fil, den kommer omedelbart att konverteras till VSDM." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSS-fil, den konverteras omedelbart till VSDM." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du kommer att få nedladdningslänken." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulationsbibliotek" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS är stencilfiler skapade med Microsoft Visio 2007 och tidigare. Ett relativt nytt filformat är .VSSX som introducerades med Microsoft Visio 2013. Stencilfiler tillhandahåller ritobjekt som kan inkluderas i en .VSD Visio-ritning. Microsoft Visio i sig är känt för att skapa ritelement som samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektmappning och annan liknande information. Den har också omfattande konverteringsfunktioner för Visio dokument till andra filformat som PNG, BMP, PDF och andra. Visio är tillgängligt för både Windows och Mac OS.
+VSS är stencilfiler skapade med Microsoft Visio 2007 och tidigare. Ett relativt nytt filformat är .VSSX som introducerades med Microsoft Visio 2013. Stencilfiler tillhandahåller ritobjekt som kan inkluderas i en .VSD Visio-ritning. Microsoft Visio i sig är känt för att skapa ritningselement som samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektmappning och annan liknande information. Den har också omfattande konverteringsfunktioner för Visio-dokument till andra filformat som PNG, BMP, PDF och andra. Visio är tillgängligt för både Windows och Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
 
-Filer med VSDM-tillägget är ritfiler som skapats med Microsoft Visio-programmet som stöder makron. VSDM-filer är OPC/XML-ritningar som liknar VSDX men som också ger möjlighet att köra makron när filen öppnas. Makron är användardefinierade åtgärder/steg som är utvecklade i Visual Basic for Applications (VBA) och kan användas för att utföra upprepade uppgifter. VSDM-filformatet introducerades i och med lanseringen av Microsoft Visio 2013. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
+Filer med tillägget VSDM är ritfiler som skapats med programmet Microsoft Visio som stöder makron. VSDM-filer är OPC/XML-ritningar som liknar VSDX men som också ger möjlighet att köra makron när filen öppnas. Makron är användardefinierade åtgärder/steg som är utvecklade i Visual Basic for Applications (VBA) och kan användas för att utföra upprepade uppgifter. Filformatet VSDM introducerades med lanseringen av Microsoft Visio 2013. Visio filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -141,13 +141,13 @@ Filer med VSDM-tillägget är ritfiler som skapats med Microsoft Visio-programme
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS TILL SVG" description="Skalbar vektorgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS TILL VDX" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS TILL VSDX" description="Microsoft Visio-format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS TILL VSSM" description="Microsoft Visio stencilfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS TILL VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS TILL VSSM" description="Microsoft Visio Stencilfiler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS TILL XPS" description="XML-pappersspecifikationer" >}}
 

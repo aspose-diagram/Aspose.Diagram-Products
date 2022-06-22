@@ -2,7 +2,7 @@
 title: "A VSD fájlok metaadatainak megtekintése vagy szerkesztése a következőn keresztül: .NET "
 weight: 3050
 url: /hu/net/metadata/vsd/ 
-description: C# forráskód a VSD formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono Platforms felületeken.
+description: C# forráskód a VSD formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A(z) VSD metaadatok kibontása a(z) C# mappában" h2="Készítse el saját .NET alkalmazásait, amellyel metaadatokat adhat hozzá, szerkeszthet, távolíthat el vagy bonthat ki VSD fájlokból szerveroldali API-k segítségével." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -59,7 +59,7 @@ A(z) Diagram objektum DocumentProps lekérése
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM Interop funkcióval- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET A projektben hivatkozott DLL-re – Telepítse a NuGetből a fenti Letöltés gomb segítségével
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM-együttműködéssel- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET DLL-re hivatkozik a projektben – Telepítse innen: NuGet a fenti Letöltés gombbal
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSD metaadatok kibontása – C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ A(z) Diagram objektum DocumentProps lekérése
 
     {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyedén betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges Microsoft Visio vagy más szoftver telepítése.  
+ A Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyen betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges a Microsoft Visio vagy más szoftver telepítése.  
 
 
 
@@ -93,7 +93,7 @@ A(z) Diagram objektum DocumentProps lekérése
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal tömörítésre és összefűzésre kerül." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-VSD fájlok a Microsoft Visio alkalmazással létrehozott rajzok, amelyek különféle grafikus objektumokat és ezek közötti kapcsolatokat ábrázolnak. Az ilyen rajzok tartalmazhatnak vizuális objektumokat, például vizuális objektumokat, folyamatábrákat, UML diagramokat, információáramlást, szervezeti diagramokat, szoftver diagramokat, hálózati elrendezést, adatbázis-modelleket, objektumleképezést és más hasonló információkat. A Microsoft Visio lehetőséget kínál arra, hogy Visio fájlokat konvertáljon számos különböző fájlformátumba, beleértve a PNG, BMP, PDF és más formátumokat. 
+VSD fájlok a(z) Microsoft Visio alkalmazással létrehozott rajzok, amelyek különféle grafikus objektumokat és ezek közötti kapcsolatokat ábrázolnak. Az ilyen rajzok tartalmazhatnak vizuális objektumokat, például vizuális objektumokat, folyamatábrákat, UML-t diagram, információáramlást, szervezeti diagramokat, szoftverdiagramokat, hálózati elrendezést, adatbázis-modelleket, objektumleképezést és más hasonló információkat. A Microsoft Visio lehetőséget kínál a Visio fájlok számos különböző formátumba konvertálására, beleértve a PNG, BMP, PDF és más formátumokat. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

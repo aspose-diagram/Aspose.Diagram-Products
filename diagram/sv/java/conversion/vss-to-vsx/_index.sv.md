@@ -2,7 +2,7 @@
 title: Konvertera VSS till VSX via Java 
 weight: 4000
 url: /sv/java/conversion/vss-to-vsx/ 
-description: Exempel Java-konverteringskod för VSS-format till VSX-fil. Använd den här exempelkoden för att konvertera VSS till VSX i valfri webb- eller datorbaserad applikation Java.
+description: Exempel på Java-konverteringskod för VSS-format till VSX-fil. Använd den här exempelkoden för att konvertera VSS till VSX i valfri webb- eller datorbaserad applikation Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera VSS till VSX via Java" h2="Exportera Microsoft Visio VSS till VSX med inbyggt Java-bibliotek." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSS" >}}
@@ -56,11 +56,11 @@ description: Exempel Java-konverteringskod för VSS-format till VSX-fil. Använd
 
 {{% blocks/products/pf/agp/text %}}
 
- Java-utvecklare kan enkelt konvertera VSS-filer till VSX på bara några rader kod.
+ Java-utvecklare kan enkelt konvertera VSS-filen till VSX på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Ladda VSS-fil med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. VSX-filen kommer att sparas på den angivna sökvägen
+1. Ladda VSS-fil med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. VSX fil kommer att sparas på den angivna sökvägen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
@@ -74,7 +74,7 @@ description: Exempel Java-konverteringskod för VSS-format till VSX-fil. Använd
 - Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.- Hämta den senaste versionen av Aspose.Diagram for Java direkt från Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSS till VSX Java konverteringskällkod" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSS till VSX Java omvandlingskällkod" offSpacer="" %}}
 
 ```cs
 // ladda VSS i ett objekt av Diagram 
@@ -94,15 +94,15 @@ visio.save("output.vsx", SaveFileFormat.VSX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VSS till VSX Conversion Live Demos" sectionDescription="[Konvertera VSS till VSX](https://products.aspose.app/diagram/conversion/vss-to-vsx) just nu genom att besöka vår Live Demos-webbplats. Livedemon har följande fördelar" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSS till VSX Live Demos för konvertering" sectionDescription="[Konvertera VSS till VSX](https://products.aspose.app/diagram/conversion/vss-to-vsx) just nu genom att besöka vår Live Demos-webbplats. Livedemon har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ned Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSS-fil, den kommer omedelbart att konverteras till VSX." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VSS-fil, den konverteras omedelbart till VSX." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du kommer att få nedladdningslänken." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulationsbibliotek" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsx", SaveFileFormat.VSX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS är stencilfiler skapade med Microsoft Visio 2007 och tidigare. Ett relativt nytt filformat är .VSSX som introducerades med Microsoft Visio 2013. Stencilfiler tillhandahåller ritobjekt som kan inkluderas i en .VSD Visio-ritning. Microsoft Visio i sig är känt för att skapa ritelement som samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektmappning och annan liknande information. Den har också omfattande konverteringsfunktioner för Visio dokument till andra filformat som PNG, BMP, PDF och andra. Visio är tillgängligt för både Windows och Mac OS.
+VSS är stencilfiler skapade med Microsoft Visio 2007 och tidigare. Ett relativt nytt filformat är .VSSX som introducerades med Microsoft Visio 2013. Stencilfiler tillhandahåller ritobjekt som kan inkluderas i en .VSD Visio-ritning. Microsoft Visio i sig är känt för att skapa ritningselement som samling av former, kopplingar, flödesscheman, nätverkslayout, UML-diagram, programvarudiagram, databasmodeller, objektmappning och annan liknande information. Den har också omfattande konverteringsfunktioner för Visio-dokument till andra filformat som PNG, BMP, PDF och andra. Visio är tillgängligt för både Windows och Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
 
-Filer med filtillägget .VSX hänvisar till schabloner som består av ritningar och former som används för att skapa diagram i Microsoft Visio. VSX-filer sparas i XML-filformat och stöddes till Visio 2013. Dessa skiljer sig från det primära VSDX-filformatet som introducerades med Microsoft Visio 2013. VSX-filer kan öppnas i valfri textredigerare för att visa innehåll.
+Filer med tillägget .VSX hänvisar till schabloner som består av ritningar och former som används för att skapa diagram i Microsoft Visio. VSX filer sparas i XML-filformat och stöddes fram till Visio 2013. Dessa skiljer sig från det primära VSDX-filformatet som introducerades med Microsoft Visio 2013. VSX filer kan öppnas i valfri textredigerare för att se innehållet.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -142,12 +142,12 @@ Filer med filtillägget .VSX hänvisar till schabloner som består av ritningar 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS TILL VDX" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS TILL VSDX" description="Microsoft Visio-format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS TILL VSSM" description="Microsoft Visio stencilfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS TILL VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS TILL VSSM" description="Microsoft Visio Stencilfiler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS TILL VSTX" description="Microsoft Visio ritmall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS TILL VSTX" description="Microsoft Visio Ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS TILL XPS" description="XML-pappersspecifikationer" >}}
 

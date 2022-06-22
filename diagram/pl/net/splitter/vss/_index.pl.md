@@ -2,7 +2,7 @@
 title: Podziel pliki VSS przez .NET 
 weight: 1300
 url: /pl/net/splitter/vss/ 
-description: C# kod źródłowy do podziału na plik vss na .NET Framework, .NET Core, Mono Platforms.
+description: C# kod źródłowy do Split vss plik na platformach .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Podziel VSS w C#" h2="Natywny i wydajny rozdzielacz dokumentów VSS wykorzystujący interfejsy API Aspose.Diagramfor .NET po stronie serwera, bez użycia oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ Iteruj po każdej stronie
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -95,7 +95,7 @@ Iteruj po każdej stronie
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie natychmiast skompresowany i połączony." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS to pliki szablonów utworzone za pomocą Microsoft Visio 2007 i wcześniejszych. Stosunkowo nowym formatem pliku jest .VSSX, który został wprowadzony w firmie Microsoft Visio 2013. Pliki szablonów zawierają obiekty rysunkowe, które można dołączyć do rysunku .VSD Visio. Sam Microsoft Visio jest znany z tworzenia elementów rysunkowych, takich jak zbiór kształtów, łączników, schematów blokowych, układu sieci, diagramów UML, diagramów oprogramowania, modeli baz danych, mapowania obiektów i innych podobnych informacji. Posiada również bogate funkcje konwersji Visio dokumentów do innych formatów plików, takich jak PNG, BMP, PDF i inne. Visio jest dostępny dla systemów Windows i Mac OS. 
+VSS to pliki szablonów utworzone za pomocą Microsoft Visio 2007 i wcześniejszych. Stosunkowo nowym formatem pliku jest .VSSX, który został wprowadzony w Microsoft Visio 2013. Pliki szablonów zawierają obiekty rysunkowe, które można dołączyć do rysunku .VSD Visio. Sam Microsoft Visio jest znany z tworzenia elementów rysunkowych, takich jak zbiór kształtów, łączników, schematów blokowych, układu sieci, diagramów UML, diagramów oprogramowania, modeli baz danych, mapowania obiektów i innych podobnych informacji. Posiada również bogate funkcje konwersji Visio dokumentów do innych formatów plików, takich jak PNG, BMP, PDF i inne. Visio jest dostępny dla systemów Windows i Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ VSS to pliki szablonów utworzone za pomocą Microsoft Visio 2007 i wcześniejsz
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty podziału" subTitle="Używając C#, można łatwo podzielić różne formaty, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="VSD" description="Rysunki Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Microsoft Visio Rysunki" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vdx/" name="Vdx" description="Visio plik XML rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssx/" name="VSSX" description="Visio plik szablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vstx/" name="VSTX" description="Visio plik szablonu" >}}

@@ -14,7 +14,7 @@ description: Пример кода для преобразования VSX в XP
 
  Чтобы преобразовать VSX в XPS, мы будем использовать
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API — многофункциональное, мощное и простое в использовании средство обработки и преобразования документов API для платформы C#. Открыть
+ API — многофункциональное, мощное и простое в использовании средство обработки и преобразования документов API для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  менеджер пакетов, поиск
  Aspose.Diagram 
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики .NET могут легко загружать и преобразовывать файлы VSX в XPS, написав всего несколько строк кода.
+ Разработчики .NET могут легко загружать и преобразовывать файлы VSX в формат XPS, написав всего несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,12 +73,12 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/demobox sectionTitle="Бесплатное приложение для преобразования VSX в XPS" sectionDescription="Проверьте наши живые демонстрации для [Преобразование VSX в XPS](https://products.aspose.app/diagram/conversion/vsx-to-xps) со следующими преимуществами." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Не нужно ничего скачивать или настраивать." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файл VSX и нажмите кнопку «Конвертировать»." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файл VSX и нажмите кнопку \"Конвертировать\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Вы сразу получите ссылку для скачивания результирующего XPS-файла." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Библиотека управления Diagram, специально разработанная для работы с файлами Microsoft Visio. Это позволяет разработчикам создавать, манипулировать и преобразовывать собственные форматы Visio. Разработчики могут создавать диаграммы с нуля, а также легко загружать существующие файлы и манипулировать элементами диаграммы, чтобы экспортировать результат в другие форматы.
+ Библиотека управления Diagram, специально разработанная для работы с файлами Microsoft Visio. Это позволяет разработчикам создавать, манипулировать и преобразовывать собственные форматы Visio. Разработчики могут создавать диаграммы с нуля, а также легко загружать существующие файлы и манипулировать элементами diagram, чтобы экспортировать результат в другие форматы.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
-Файлы с расширением .VSX относятся к шаблонам, состоящим из рисунков и фигур, которые используются для создания диаграмм в Microsoft Visio. Файлы VSX сохраняются в формате XML и поддерживались до Visio 2013 г. Они отличаются от основного формата файлов VSDX, представленного в Microsoft Visio 2013 г. Файлы VSX можно открывать в любом текстовом редакторе для просмотра содержание.
+Файлы с расширением .VSX относятся к образцам, состоящим из рисунков и форм, которые используются для создания диаграмм в Microsoft Visio. Файлы VSX сохраняются в формате файлов XML и поддерживались до Visio 2013 г. Они отличаются от основного формата файлов VSDX, представленного в Microsoft Visio 2013 г. Файлы VSX можно открывать в любой текстовый редактор для просмотра содержимого.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xps" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
-Файл XPS представляет собой файлы макета страницы, основанные на спецификациях XML Paper, созданных Microsoft. Этот формат был разработан Microsoft в качестве замены формата файла EMF и похож на формат файла PDF, но использует XML в макете, внешнем виде и информации о печати документа. На самом деле более оправданно будет сказать, что XPS является попыткой PDF, но не может получить достаточную популярность как принадлежащий PDF по ряду причин. Microsoft предоставляет XPS Document Writer по умолчанию, начиная с Windows 7, для создания файлов XPS. Файлы XPS можно создать, выбрав «Microsoft XPS Document Writer» в качестве принтера при печати документа.
+Файл XPS представляет собой файлы макета страницы, основанные на спецификациях XML Paper, созданных Microsoft. Этот формат был разработан компанией Microsoft в качестве замены формата файла EMF и аналогичен формату файла PDF, но использует XML в макете, внешнем виде и информации о печати документа. На самом деле более оправданно будет сказать, что XPS является попыткой PDF, но не может получить достаточную популярность как принадлежащий PDF по ряду причин. Microsoft предоставляет XPS Document Writer по умолчанию, начиная с Windows 7, для создания XPS-файлов. Файлы XPS можно создать, выбрав "Microsoft XPS Document Writer" в качестве принтера во время печати документа.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,23 +104,23 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать VSX во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-bmp/" name="VSX В БМП" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-emf/" name="VSX К ЭДС" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-bmp/" name="VSX В BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-emf/" name="VSX В ЭДС" description="Расширенный формат метафайла" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-html/" name="VSX В HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-jpeg/" name="VSX в JPEG" description="Изображение в формате JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-pdf/" name="VSX в PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-png/" name="VSX в PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-jpeg/" name="VSX В JPEG" description="Изображение в формате JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-pdf/" name="VSX В PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-png/" name="VSX В PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-svg/" name="VSX В SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-swf/" name="VSX В SWF" description="SWF-формат" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-tiff/" name="VSX В TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vdx/" name="VSX-VDX" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vsdm/" name="VSX-VSDM" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vsdx/" name="VSX-ТО VSDX" description="Формат Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vssm/" name="VSX-VSSM" description="Файлы трафаретов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vssx/" name="VSX В VSSX" description="Трафареты для рисования" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vstm/" name="VSX-VSTM" description="Файлы шаблонов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vstx/" name="VSX В VSTX" description="Шаблон чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vtx/" name="VSX НА VTX" description="Шаблон чертежа Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vdx/" name="VSX К VDX" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vsdm/" name="VSX К VSDM" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vsdx/" name="VSX К VSDX" description="Microsoft Visio Формат" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vssm/" name="VSX К VSSM" description="Microsoft Visio Файлы трафаретов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vssx/" name="VSX К VSSX" description="Трафареты для рисования" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vstm/" name="VSX К VSTM" description="Microsoft Visio Файлы шаблонов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vstx/" name="VSX К VSTX" description="Microsoft Visio Шаблон чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-vtx/" name="VSX К VTX" description="Microsoft Visio Шаблон чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsx-to-xaml/" name="VSX В XAML" description="Расширяемый язык разметки приложений" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

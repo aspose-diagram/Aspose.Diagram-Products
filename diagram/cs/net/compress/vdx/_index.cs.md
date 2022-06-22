@@ -1,5 +1,5 @@
 ﻿---
-title: Komprimovat dokument VDX přes .NET 
+title: Komprimovat dokument VDX prostřednictvím .NET 
 weight: 3050
 url: /cs/net/compress/vdx/ 
 description: Zdrojový kód C# pro komprimaci souboru vdx na platformách .NET Framework, .NET Core, Mono.
@@ -12,7 +12,7 @@ description: Zdrojový kód C# pro komprimaci souboru vdx na platformách .NET F
 
 {{% blocks/products/pf/agp/content h2="Jak komprimovat soubor VDX pomocí C#" %}}
 
- Pro komprimaci souboru VDX použijeme
+ Ke komprimaci souboru VDX použijeme
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci a slučování dokumentů API pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroky pro kompresi souborů VDX v C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroky pro kompresi VDX souborů v C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Diagram
 + Načíst soubor Visio pomocí objektu třídy Diagram
 Použijte funkci RemoveHiddenInformation aplikace Diagram
 + Zavolejte metodu Save() a předejte název souboru (úplnou cestu) a formát (VSDX) jako parametr.
-+ Nyní můžete otevřít a používat soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
++ Nyní můžete otevřít a použít soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -60,7 +60,7 @@ Použijte funkci RemoveHiddenInformation aplikace Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí, jako je Microsoft Visual Studio- Aspose.Diagram DLL for .NET, na kterou odkazuje váš projekt – Nainstalujte z webu NuGet pomocí tlačítka Stáhnout výše
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Komprimovat soubory VDX – C#" offSpacer="" %}}
@@ -79,7 +79,7 @@ Použijte funkci RemoveHiddenInformation aplikace Diagram
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -87,14 +87,14 @@ Použijte funkci RemoveHiddenInformation aplikace Diagram
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online živé ukázky VDX Compress" sectionDescription="Komprimujte dokumenty VDX právě teď na našem webu [Web živé ukázky](https://products.aspose.app/diagram/compress). Živé demo má následující výhody" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online VDX komprimované živé ukázky" sectionDescription="Komprimujte dokumenty v počtu VDX hned teď, když navštívíte naše [Web živé ukázky](https://products.aspose.app/diagram/compress). Živé demo má následující výhody" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubory VDX." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát své soubory VDX." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude komprimován a zřetězen." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/visio/vdx/" >}}
-Jakýkoli výkres nebo graf vytvořený v Microsoft Visio, ale uložený ve formátu XML má příponu .VDX. Soubor XML výkresu Visio je vytvořen v softwaru Visio vyvinutém společností Microsoft. Microsoft Visio má schopnost generovat vizuální dokumenty, které lze použít v prezentacích a dokumentech. Soubor XML výkresu Visio obsahuje vizuální objekty a podrobnosti metadat vizuálních prvků. K těmto vizuálním prvkům lze také přidat text. Soubor XML výkresu vidění. Tyto soubory XML výkresu Visio jsou integrovány s formátovacími standardy založenými na XML a specifikacemi kódování obrazových dat, které umožňují vykreslovat a ukládat jejich obsah pomocí softwaru Microsoft Visio ve formátu souboru VDX. 
+Všechny kresby nebo grafy vytvořené v Microsoft Visio, ale uložené ve formátu XML, mají příponu .VDX. Soubor XML výkresu Visio je vytvořen v softwaru Visio, který vyvinul Microsoft. Microsoft Visio má schopnost generovat vizuální dokumenty, které lze použít v prezentacích a dokumentech. Soubor XML výkresu Visio obsahuje vizuální objekty a podrobnosti metadat vizuálních prvků. K těmto vizuálním prvkům lze také přidat text. Soubor XML výkresu vidění. Tyto soubory XML výkresu Visio jsou integrovány s formátovacími standardy založenými na XML a specifikacemi kódování obrazových dat, které umožňují vykreslovat a ukládat jejich obsah pomocí softwaru Microsoft Visio ve formátu souboru VDX. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,7 +104,7 @@ Jakýkoli výkres nebo graf vytvořený v Microsoft Visio, ale uložený ve form
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované kompresní formáty" subTitle="Pomocí C# lze snadno komprimovat různé formáty včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="Vsd" description="Nákresy Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="Vsd" description="Microsoft Visio Nákresy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssx/" name="VSSX" description="Soubor vzorníku Visio" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstx/" name="VSTX" description="Soubor šablony Visio" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsdm/" name="VSDM" description="Soubor výkresu s podporou maker Visio" >}}

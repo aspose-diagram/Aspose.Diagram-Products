@@ -1,7 +1,7 @@
 ﻿---
 title: Μετατροπή VSD σε VDX μέσω Java 
 url: /el/java/conversion/vsd-to-vdx/ 
-description: Δείγμα κώδικα μετατροπής Java για μορφή VSD σε αρχείο VDX. Χρησιμοποιήστε αυτό το παράδειγμα κώδικα για να μετατρέψετε το VSD σε VDX σε οποιαδήποτε εφαρμογή που βασίζεται στο Web ή στην επιφάνεια εργασίας Java.
+description: Δείγμα κώδικα μετατροπής Java για μορφή VSD σε αρχείο VDX. Χρησιμοποιήστε αυτό το παράδειγμα κώδικα για να μετατρέψετε το VSD σε VDX σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή VSD σε VDX μέσω Java" h2="Εγγενής βιβλιοθήκη Java για ανάγνωση, εγγραφή και εξαγωγή VSD σε VDX χωρίς να χρειάζεστε το Adobe." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VDX" pfName="Aspose.DIAGRAM" subTitlepfName="" downloadUrl="" fileiconsmall1="VDX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSD" >}}
@@ -11,7 +11,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το VSD σε VDX χρησιμοποιώντας το Java" %}}
 
-Για να αποδώσουμε το VSD σε VDX, θα χρησιμοποιήσουμε <a href="https://products.aspose.com/diagram/java">Aspose.Diagram for Java</a> API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα μετατροπής API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram">Maven</a> και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+Για να αποδώσουμε το VSD στο VDX, θα χρησιμοποιήσουμε <a href="https://products.aspose.com/diagram/java">Aspose.Diagram for Java</a> API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα μετατροπής API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram">Maven</a> και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -47,7 +47,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή του VSD σε VDX μέσω Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Βήματα για τη μετατροπή VSD σε VDX μέσω Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application and Desktop Applications.- Λάβετε την τελευταία έκδοση του Aspose.Diagram for Java απευθείας από τη Maven.
+- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application και Desktop Applications.- Λάβετε την πιο πρόσφατη έκδοση του Aspose.Diagram for Java απευθείας από το Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Πηγαίος κώδικας μετατροπής VSD σε VDX Java" offSpacer="" %}}
@@ -76,7 +76,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 ```cs
 // φορτώστε το VSD σε ένα αντικείμενο του Diagram 
 Diagram visio = new Diagram("template.vsd");
-// αποθηκεύστε το VSD ως VDX 
+// αποθήκευση VSD ως VDX 
 visio.save("output.vdx", SaveFileFormat.VDX);   
   
   
@@ -101,7 +101,7 @@ visio.save("output.vdx", SaveFileFormat.VDX);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου της Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.    
+Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.    
 
 
 
@@ -110,12 +110,12 @@ visio.save("output.vdx", SaveFileFormat.VDX);
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Τα αρχεία VSD είναι σχέδια που δημιουργούνται με την εφαρμογή Microsoft Visio για την αναπαράσταση ποικιλίας γραφικών αντικειμένων και τη διασύνδεση μεταξύ τους. Τέτοια σχέδια μπορεί να περιέχουν οπτικά αντικείμενα όπως οπτικά αντικείμενα, διαγράμματα ροής, διάγραμμα UML, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Η Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
+Τα αρχεία VSD είναι σχέδια που δημιουργούνται με την εφαρμογή Microsoft Visio για την αναπαράσταση ποικιλίας γραφικών αντικειμένων και τη διασύνδεση μεταξύ τους. Τέτοια σχέδια μπορεί να περιέχουν οπτικά αντικείμενα, όπως οπτικά αντικείμενα, γραφήματα ροής, UML diagram, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Το Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Οποιοδήποτε σχέδιο ή γράφημα έχει δημιουργηθεί στο Microsoft Visio, αλλά έχει αποθηκευτεί σε μορφή XML, έχει επέκταση .VDX. Ένα αρχείο XML σχεδίασης Visio δημιουργείται σε λογισμικό Visio, το οποίο έχει αναπτυχθεί από τη Microsoft. Η Microsoft Visio έχει τη δυνατότητα να δημιουργεί οπτικά έγγραφα που μπορούν να χρησιμοποιηθούν σε παρουσιάσεις και έγγραφα. Το αρχείο XML σχεδίασης Visio περιέχει τα οπτικά αντικείμενα και τις λεπτομέρειες μεταδεδομένων των οπτικών στοιχείων. Κείμενο μπορεί επίσης να προστεθεί σε αυτά τα οπτικά στοιχεία Αρχείο XML σχεδίασης Vision. Αυτά τα Visio αρχεία XML σχεδίασης είναι ενσωματωμένα με πρότυπα μορφοποίησης που βασίζονται σε XML και προδιαγραφές κωδικοποίησης δεδομένων εικόνας που επιτρέπουν την απόδοση και αποθήκευση του περιεχομένου του από το λογισμικό Microsoft Visio σε μορφή αρχείου VDX.
+Οποιοδήποτε σχέδιο ή γράφημα έχει δημιουργηθεί σε Microsoft Visio, αλλά έχει αποθηκευτεί σε μορφή XML, έχει επέκταση .VDX. Ένα αρχείο XML σχεδίασης Visio δημιουργείται σε λογισμικό Visio, το οποίο έχει αναπτυχθεί από την Microsoft. Το Microsoft Visio έχει τη δυνατότητα δημιουργίας οπτικών εγγράφων που μπορούν να χρησιμοποιηθούν σε παρουσιάσεις και έγγραφα. Το αρχείο XML σχεδίασης Visio περιέχει τα οπτικά αντικείμενα και τις λεπτομέρειες μεταδεδομένων των οπτικών στοιχείων. Κείμενο μπορεί επίσης να προστεθεί σε αυτά τα οπτικά στοιχεία Αρχείο XML σχεδίασης Vision. Αυτά τα Visio αρχεία XML σχεδίασης είναι ενσωματωμένα με πρότυπα μορφοποίησης που βασίζονται σε XML και προδιαγραφές κωδικοποίησης δεδομένων εικόνας που επιτρέπουν την απόδοση και αποθήκευση του περιεχομένου του από το λογισμικό Microsoft Visio στη μορφή αρχείου VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,7 +127,7 @@ visio.save("output.vdx", SaveFileFormat.VDX);
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το VSD σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-bmp/" name="VSD ΠΡΟΣ BMP" description="Εικόνα Bitmap" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-emf/" name="VSD ΠΡΟΣ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-html/" name="VSD ΣΕ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-jpeg/" name="VSD ΣΕ JPEG" description="Εικόνα JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-pdf/" name="VSD ΣΕ PDF" description="Μορφή φορητού εγγράφου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSD ΣΕ PNG" description="Φορητά γραφικά δικτύου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSD ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD ΣΕ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD ΠΡΟΣ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD ΠΡΟΣ VSSM" description="Αρχεία Stencil της Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD ΠΡΟΣ VSX" description="Στένσιλ" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD ΠΡΟΣ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSD ΠΡΟΣ XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xps/" name="VSD ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-bmp/" name="VSD ΠΡΟΣ BMP" description="Εικόνα Bitmap" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-emf/" name="VSD ΠΡΟΣ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-html/" name="VSD ΣΕ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-jpeg/" name="VSD ΣΕ JPEG" description="Εικόνα JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-pdf/" name="VSD ΣΕ PDF" description="Μορφή φορητού εγγράφου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSD ΣΕ PNG" description="Φορητά γραφικά δικτύου" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSD ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD ΣΕ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD ΠΡΟΣ VSSM" description="Microsoft Visio Αρχεία στένσιλ" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD ΠΡΟΣ VSX" description="Στένσιλ" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSD ΠΡΟΣ XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xps/" name="VSD ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

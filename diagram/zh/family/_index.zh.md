@@ -1,5 +1,5 @@
 ﻿---
-title: Visio .NET & Java API |创建转换或操作图表 
+title: Visio .NET Java Python Node.js API |创建转换或操作图表 
 weight: 10
 url: /zh/family
 description: Diagram 库，用于在未安装 Microsoft Visio 的 .NET Java 和 Mono 应用程序中创建打开的编辑打印和转换 Visio 文件
@@ -11,7 +11,7 @@ description: Diagram 库，用于在未安装 Microsoft Visio 的 .NET Java 和 
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram 高代码 API 包括" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
-面向 Windows 窗体、ASP.NET、WPF、WCF 或任何类型的基于 .NET Framework 2.0 或更高版本的应用程序。
+面向 Windows 窗体、ASP.NET、WPF、WCF 或任何基于 .NET Framework 2.0 或更高版本的应用程序。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productLink="/diagram/java/" >}}

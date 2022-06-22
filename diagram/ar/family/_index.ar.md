@@ -1,5 +1,5 @@
 ﻿---
-title: Visio .NET و Java واجهات برمجة التطبيقات | تكوين تحويل أو معالجة الرسوم التخطيطية 
+title: Visio .NET Java Python واجهات برمجة تطبيقات Node.js | تكوين تحويل أو معالجة المخططات 
 weight: 10
 url: /ar/family
 description: مكتبة Diagram لإنشاء تحرير مفتوح وطباعة وتحويل Visio ملفات في .NET Java و Mono تطبيقات بدون تثبيت Microsoft Visio
@@ -11,7 +11,7 @@ description: مكتبة Diagram لإنشاء تحرير مفتوح وطباعة 
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram تتضمن واجهات برمجة التطبيقات ذات الأكواد العالية" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
-الهدف Windows Forms أو ASP .NET أو WPF أو WCF أو أي نوع من التطبيقات يعتمد على .NET Framework 2.0 أو أحدث.
+استهدف نماذج Windows أو ASP .NET أو WPF أو WCF أو أي نوع من التطبيقات التي تستند إلى .NET Framework 2.0 أو أحدث.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productLink="/diagram/java/" >}}
@@ -19,7 +19,7 @@ description: مكتبة Diagram لإنشاء تحرير مفتوح وطباعة 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Node.js عبر Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
-إنشاء مستندات Microsoft Visio وقراءتها وكتابتها وعرضها عبر Node.js.
+يمكنك إنشاء مستندات Microsoft Visio وقراءتها وكتابتها وعرضها عبر Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Python عبر Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
@@ -40,7 +40,7 @@ description: مكتبة Diagram لإنشاء تحرير مفتوح وطباعة 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/diagram" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="مقالات" href="https://blog.aspose.com/category/diagram/" >}}
+{{< blocks/products/pf/slr-element name="مدونة او مذكرة" href="https://blog.aspose.com/category/diagram/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Diagram عائلة المنتج؟" tabId="success-stories" >}}

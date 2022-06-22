@@ -58,7 +58,7 @@ description: Java voorbeeldcode om VSS-documenten te combineren in Java Runtime 
 
  Een basisdocument dat samenvoegt en samenvoegt met
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
- API's kunnen worden gemaakt met slechts een paar regels code.
+ API's kunnen worden gemaakt met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -77,7 +77,7 @@ description: Java voorbeeldcode om VSS-documenten te combineren in Java Runtime 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows of een compatibel besturingssysteem met Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSS);
 
     {{% blocks/products/pf/agp/content h2="Over Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSS);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk samengevoegd en aaneengeschakeld." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS zijn stencilbestanden die zijn gemaakt met Microsoft Visio 2007 en eerder. Een relatief nieuwe bestandsindeling is .VSSX die werd geïntroduceerd met Microsoft Visio 2013. Stencilbestanden bieden tekenobjecten die kunnen worden opgenomen in een .VSD Visio-tekening. Microsoft Visio staat zelf bekend om het maken van tekenelementen, zoals het verzamelen van vormen, connectoren, stroomdiagrammen, netwerklay-out, UML-diagrammen, softwarediagrammen, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Het heeft ook uitgebreide conversiefuncties van Visio-documenten naar andere bestandsindelingen zoals PNG, BMP, PDF en andere. Visio is beschikbaar voor zowel Windows als Mac OS. 
+VSS zijn stencilbestanden die zijn gemaakt met Microsoft Visio 2007 en eerder. Een relatief nieuwe bestandsindeling is .VSSX die werd geïntroduceerd met Microsoft Visio 2013. Stencilbestanden bieden tekenobjecten die kunnen worden opgenomen in een .VSD Visio-tekening. Microsoft Visio zelf staat bekend om het maken van tekenelementen zoals het verzamelen van vormen, connectoren, stroomdiagrammen, netwerklay-out, UML-diagrammen, softwarediagrammen, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Het heeft ook uitgebreide conversiefuncties van Visio documenten naar andere bestandsformaten zoals PNG, BMP, PDF en andere. Visio is beschikbaar voor zowel Windows als Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,11 +132,11 @@ VSS zijn stencilbestanden die zijn gemaakt met Microsoft Visio 2007 en eerder. E
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Tekenindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Tekeningen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio-indeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio Indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Tekensjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="VST" description="Vector afbeeldingsbestanden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio Tekensjabloon" >}}

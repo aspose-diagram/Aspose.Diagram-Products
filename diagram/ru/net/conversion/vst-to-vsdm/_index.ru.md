@@ -2,7 +2,7 @@
 title: Преобразование VST в VSDM через C# 
 weight: 2450
 url: /ru/net/conversion/vst-to-vsdm/ 
-description: Пример кода для преобразования VST в VSDM C#. Используйте пример кода API для пакетного преобразования файлов VST в VSDM в VB.NET, Asp.NET или любом приложении на основе .NET.
+description: Пример кода для преобразования VST в VSDM C#. Используйте пример кода API для пакетного преобразования VST-файлов в VSDM преобразование в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование VST в VSDM через C#" h2="Экспорт файлов Microsoft® Visio VST в VSDM на .NET Framework, .NET Core, Mono или COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VST" >}}
@@ -14,7 +14,7 @@ description: Пример кода для преобразования VST в VS
 
  Чтобы преобразовать VST в VSDM, мы будем использовать
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API — многофункциональное, мощное и простое в использовании средство обработки и преобразования документов API для платформы C#. Открыть
+ API — многофункциональное, мощное и простое в использовании средство обработки и преобразования документов API для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  менеджер пакетов, поиск
  Aspose.Diagram 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузить файл VST с экземпляром класса Diagram1. Вызовите метод Diagram.Save с путем к выходному файлу и SaveFileFormat.VSDM в качестве параметров.1. Файл VSDM будет сохранен по указанному пути
+1. Загрузить файл VST с экземпляром класса Diagram1. Вызовите метод Diagram.Save с путем к выходному файлу и SaveFileFormat.VSDM в качестве параметров.1. VSDM файл будет сохранен по указанному пути
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Библиотека управления Diagram, специально разработанная для работы с файлами Microsoft Visio. Это позволяет разработчикам создавать, манипулировать и преобразовывать собственные форматы Visio. Разработчики могут создавать диаграммы с нуля, а также легко загружать существующие файлы и манипулировать элементами диаграммы, чтобы экспортировать результат в другие форматы.
+ Библиотека управления Diagram, специально разработанная для работы с файлами Microsoft Visio. Это позволяет разработчикам создавать, манипулировать и преобразовывать собственные форматы Visio. Разработчики могут создавать диаграммы с нуля, а также легко загружать существующие файлы и манипулировать элементами diagram, чтобы экспортировать результат в другие форматы.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Файлы с расширением VST представляют собой файлы векторных изображений, созданные с помощью Microsoft Visio, и служат шаблоном для создания дополнительных файлов. Эти файлы шаблонов имеют двоичный формат и содержат макет и настройки по умолчанию, которые используются для создания новых чертежей Visio. Когда файл VST открывается в Microsoft Visio, он содержит существующие настройки для продолжения работы с документом. Как правило, файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, диаграммы UML, информационные потоки, организационные диаграммы, диаграммы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие.
+Файлы с расширением VST представляют собой файлы векторных изображений, созданные с помощью Microsoft Visio, и служат шаблоном для создания дополнительных файлов. Эти файлы шаблонов имеют двоичный формат и содержат макет и настройки по умолчанию, которые используются для создания новых чертежей Visio. Когда файл VST открывается в Microsoft Visio, он содержит существующие настройки для продолжения работы с документом. Как правило, файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, UML diagram, информационный поток, организационные диаграммы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vsdm" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
-Файлы с расширением VSDM — это файлы чертежей, созданные с помощью приложения Microsoft Visio, которое поддерживает макросы. Файлы VSDM представляют собой чертежи OPC/XML, похожие на VSDX, но также обеспечивающие возможность запуска макросов при открытии файла. Макросы — это определяемые пользователем действия/шаги, которые разработаны в Visual Basic для приложений (VBA) и могут использоваться для выполнения повторяющихся задач. Формат файла VSDM был введен с запуском Microsoft Visio 2013. Файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, диаграммы UML, информационные потоки, организационные диаграммы, схемы программного обеспечения, схемы сети, модели баз данных, отображение объектов и другая подобная информация. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие.
+Файлы с расширением VSDM — это файлы чертежей, созданные с помощью приложения Microsoft Visio, которое поддерживает макросы. Файлы VSDM представляют собой чертежи OPC/XML, похожие на VSDX, но также обеспечивающие возможность запуска макросов при открытии файла. Макросы — это определяемые пользователем действия/шаги, которые разработаны в Visual Basic для приложений (VBA) и могут использоваться для выполнения повторяющихся задач. Формат файла VSDM был введен с запуском Microsoft Visio 2013. Файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, UML diagram, информационные потоки, организационные диаграммы, диаграммы программного обеспечения, схема сети, модели базы данных, сопоставление объектов и другая подобная информация. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,14 +113,14 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-svg/" name="VST В SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-swf/" name="VST В SWF" description="SWF-формат" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST В TIFF" description="Формат изображения с тегами" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST-VDX" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="ВСТ ДО VSDX" description="Формат Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="ВСТ В ВССМ" description="Файлы трафаретов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST В VSSX" description="Трафареты для рисования" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="ВСТ В ВСТМ" description="Файлы шаблонов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST В VSTX" description="Шаблон чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST В VSX" description="Трафареты" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST В VTX" description="Шаблон чертежа Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="ВСТ ДО VDX" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="ВСТ ДО VSDX" description="Microsoft Visio Формат" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="ВСТ ДО VSSM" description="Microsoft Visio Файлы трафаретов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="ВСТ ДО VSSX" description="Трафареты для рисования" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="ВСТ ДО VSTM" description="Microsoft Visio Файлы шаблонов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="ВСТ ДО VSTX" description="Microsoft Visio Шаблон чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="ВСТ ДО VSX" description="Трафареты" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="ВСТ ДО VTX" description="Microsoft Visio Шаблон чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xaml/" name="Преобразование в XAML" description="Расширяемый язык разметки приложений" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xps/" name="VST В XPS" description="Спецификации XML-бумаги" >}}
 

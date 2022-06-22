@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Kimliği aracılığıyla Sayfayı seçin
 + Sayfanın AddText işlevini kullanın
 + Save() yöntemini çağırın ve dosya adını (tam yol) ve biçimi (VSDX) parametre olarak iletin.
-+ Artık VSDX dosyasını Microsoft Office, Adobe PDF veya diğer uyumlu programlarda açıp kullanabilirsiniz.
++ Artık VSDX dosyasını Microsoft Office, Adobe PDF veya başka bir uyumlu programda açıp kullanabilirsiniz.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet'ten yükleyin
+- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet adresinden yükleyin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Filigran VSS Dosyaları - C#" offSpacer="" %}}
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Filigran eklenecek ve anında birleştirilecektir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS, Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyalarıdır. Nispeten yeni bir dosya biçimi, Microsoft Visio 2013 ile tanıtılan .VSSX'tir. Şablon dosyaları, bir .VSD Visio çizimine dahil edilebilecek çizim nesneleri sağlar. Microsoft Visio, şekiller, bağlayıcılar, akış şemaları, ağ düzeni, UML diyagramları, yazılım diyagramları, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi çizim öğeleri oluşturmasıyla tanınır. Ayrıca Visio belgelerin PNG, BMP, PDF ve diğerleri gibi diğer dosya biçimlerine zengin dönüştürme özelliklerine sahiptir. Visio hem Windows hem de Mac OS için kullanılabilir. 
+VSS, Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyalarıdır. Nispeten yeni bir dosya biçimi, Microsoft Visio 2013 ile tanıtılan .VSSX'dir. Şablon dosyaları, bir .VSD Visio çizimine dahil edilebilecek çizim nesneleri sağlar. Microsoft Visio, şekiller, bağlayıcılar, akış şemaları, ağ düzeni, UML diyagramları, yazılım diyagramları, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi çizim öğeleri oluşturmasıyla bilinir. Ayrıca Visio belgelerin PNG, BMP, PDF ve diğerleri gibi diğer dosya biçimlerine zengin dönüştürme özelliklerine sahiptir. Visio hem Windows hem de Mac OS için kullanılabilir. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ VSS, Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyala
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Filigran Formatları" subTitle="C# kullanarak, dahil olmak üzere farklı biçimlere kolayca filigran eklenebilir." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsd/" name="vsd" description="Microsoft Visio Çizimleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsd/" name="Vsd" description="Microsoft Visio Çizimler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vdx/" name="Vdx" description="Visio çizim XML Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vssx/" name="VSSX" description="Visio şablon Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vstx/" name="VSTX" description="Visio şablon Dosyası" >}}

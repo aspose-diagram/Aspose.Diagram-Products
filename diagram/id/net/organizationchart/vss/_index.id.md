@@ -2,7 +2,7 @@
 title: Buat bagan organisasi dalam dokumen VSS melalui .NET 
 weight: 3050
 url: /id/net/organizationchart/vss/ 
-description: C# kode sumber untuk membuat bagan organisasi dalam file vss pada .NET Framework, .NET Core, Mono Platforms.
+description: C# kode sumber untuk membuat bagan organisasi dalam file vss di .NET Framework, .NET Inti, Mono Platform.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Buat Bagan Organisasi di VSS di C#" h2="Buat bagan organisasi asli dan berkinerja tinggi dalam dokumen VSS menggunakan Aspose.Diagram for .NET API sisi server, tanpa menggunakan perangkat lunak apa pun seperti Microsoft atau Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar dengan
+ Membuat bagan organisasi dengan
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API dapat dilakukan hanya dengan beberapa baris kode.
 
@@ -51,7 +51,7 @@ PM> Install-Package Aspose.Diagram
 + Tambahkan konektor ke halaman untuk menghubungkan bentuk dan induknya.
 + Tata letak otomatis dengan menerapkan metode Tata Letak
 + Panggil metode Save() dan teruskan nama file (path lengkap) dan format (VSDX) sebagai parameter.
-+ Sekarang Anda dapat membuka dan menggunakan file VSDX di Microsoft Office, Adobe PDF, atau program lain yang kompatibel.
++ Sekarang Anda dapat membuka dan menggunakan berkas VSDX di Microsoft Office, Adobe PDF, atau program lain yang kompatibel.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 

@@ -15,8 +15,8 @@ description: VSDX belgelerini Java JSP/JSF Uygulaması ve Masaüstü Uygulamalar
  VSDX dosyasını birleştirmek için kullanacağız
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  Zengin özelliklere sahip, güçlü ve kullanımı kolay bir birleştirme API for Java platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
- [Uzman](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ ve pom.xml dosyasına aşağıdaki yapılandırmaları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="depo" offSpacer="true" %}}
 
@@ -77,7 +77,7 @@ description: VSDX belgelerini Java JSP/JSF Uygulaması ve Masaüstü Uygulamalar
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment ile uyumlu bir işletim sistemi.- Aspose.Diagram for Java'in en son sürümünü doğrudan şu adresten edinin: [Uzman](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment ile uyumlu bir işletim sistemi.- Aspose.Diagram for Java'in en son sürümünü doğrudan şu adresten edinin: [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında birleştirilir ve birleştirilir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-.VSDX uzantılı dosyalar, Microsoft Office 2013'ten itibaren tanıtılan Microsoft Visio dosya biçimini temsil eder. Microsoft'un Visio önceki sürümleri tarafından desteklenen .VSD ikili dosya biçiminin yerini alacak şekilde geliştirilmiştir. Ayrıca Microsoft SharePoint Server 2013'teki Visio Hizmetlerinde de desteklenir ve SharePoint Server'a yayınlamak için bir aracı dosya biçimi gerektirmez. Visio dosyaları, görsel nesneler, akış şemaları, UML diyagramı, bilgi akışı, organizasyon şemaları, yazılım diyagramları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir. 
+.VSDX uzantılı dosyalar, Microsoft Office 2013'ten itibaren tanıtılan Microsoft Visio dosya biçimini temsil eder. Microsoft Visio'nin önceki sürümleri tarafından desteklenen .VSD ikili dosya biçiminin yerini almak üzere geliştirilmiştir. Ayrıca Microsoft SharePoint Server 2013'te Visio Hizmetlerinde de desteklenir ve SharePoint Server'a yayınlamak için bir aracı dosya biçimi gerektirmez. Visio dosyaları, görsel nesneler, akış şemaları, UML diagram, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -130,7 +130,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visio Grafik Hizmeti dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Çizimleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Çizimler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Çizim Biçimi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="Şablon Dosyaları" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Şablon dosyaları" >}}

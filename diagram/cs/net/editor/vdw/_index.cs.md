@@ -1,7 +1,7 @@
 ﻿---
 title: Upravit soubory VDW prostřednictvím .NET 
 url: /cs/net/editor/vdw/ 
-description: C# zdrojový kód pro úpravy dokumentu VDW na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
+description: Zdrojový kód C# pro úpravy dokumentu VDW na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Upravit formáty VDW v C#" h2="Nativní a vysoce výkonné úpravy dokumentů VDW pomocí rozhraní API Aspose.Diagram for .NET na straně serveru, bez použití jakéhokoli softwaru, jako je Microsoft nebo Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -11,7 +11,7 @@ description: C# zdrojový kód pro úpravy dokumentu VDW na platformách .NET Fr
 
 {{% blocks/products/pf/agp/content h2="Jak upravit soubor VDW pomocí C#" %}}
 
-K úpravě souboru VDW použijeme <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API, což je funkčně bohatá, výkonná a snadno použitelná platforma API pro C# pro jakýkoli editor. Otevřeno <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> správce balíčků, vyhledejte <b>Aspose.Diagram</b> a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+K úpravě souboru VDW použijeme <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API, což je funkčně bohatá, výkonná a snadno použitelná platforma API pro C# pro jakýkoli editor. OTEVŘENO <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> správce balíčků, vyhledejte <b>Aspose.Diagram</b> a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní operační systém s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+- Microsoft Windows nebo kompatibilní operační systém s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin- Vývojové prostředí, jako je Microsoft Visual Studio- Aspose.Diagram DLL for .NET, na kterou odkazuje váš projekt – Nainstalujte z webu NuGet pomocí tlačítka Stáhnout výše
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Upravit soubory VDW – C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.    
+Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioA
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Poté uložte a stáhněte." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW je formát souboru služby Visio Graphics Service, který určuje datové proudy a úložiště potřebné pro vykreslení webového výkresu. Webový výkres je sbírka stránek výkresu, tvarů, písem, obrázků, datových připojení a informací o aktualizaci diagramu, které lze vykreslit jako vektorový nebo rastrový výkres. Soubory VDW lze otevřít také v Microsoft Visio, ale primárně se ukládají pro použití na webu. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších. 
+VDW je formát souboru služby Visio Graphics Service, který určuje datové proudy a úložiště potřebné pro vykreslení webového výkresu. Webový výkres je sbírka stránek výkresu, tvarů, písem, obrázků, datových připojení a diagramaktualizačních informací, které lze vykreslit jako vektorový nebo rastrový výkres. Soubory VDW lze otevřít také v Microsoft Visio, ale primárně se ukládají pro použití na webu. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

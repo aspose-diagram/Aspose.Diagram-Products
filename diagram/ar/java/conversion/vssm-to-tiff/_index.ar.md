@@ -2,7 +2,7 @@
 title: تحويل VSSM إلى TIFF عبر Java 
 weight: 2110
 url: /ar/java/conversion/vssm-to-tiff/ 
-description: نموذج رمز تحويل Java لتنسيق VSSM إلى ملف TIFF. استخدم رمز المثال هذا لتحويل VSSM إلى TIFF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
+description: نموذج شفرة تحويل Java لتنسيق VSSM إلى ملف TIFF. استخدم رمز المثال هذا لتحويل VSSM إلى TIFF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل VSSM إلى TIFF عبر Java" h2="تصدير Microsoft Visio VSSM إلى TIFF باستخدام مكتبة Java أصلية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSM" >}}
@@ -15,8 +15,8 @@ description: نموذج رمز تحويل Java لتنسيق VSSM إلى ملف T
  من أجل تقديم VSSM إلى TIFF ، سنستخدم
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API نظام أساسي للتحويل غني بالميزات وقوي وسهل الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
- [مخضرم](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ وتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -56,11 +56,11 @@ description: نموذج رمز تحويل Java لتنسيق VSSM إلى ملف T
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن لمطوري Java بسهولة تحويل ملف VSSM إلى TIFF في بضعة أسطر من التعليمات البرمجية.
+ يمكن لمطوري Java تحويل ملف VSSM بسهولة إلى TIFF في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. قم بتحميل ملف VSSM بنسخة من فئة Diagram1. استدعاء Diagram طريقة حفظ مع مسار ملف الإخراج و SaveFileFormat كمعلمات1. سيتم حفظ ملف TIFF في المسار المحدد
+1. تحميل ملف VSSM بمثيل من فئة Diagram1. استدعاء Diagram طريقة حفظ مع مسار ملف الإخراج و SaveFileFormat كمعلمات1. سيتم حفظ ملف TIFF في المسار المحدد
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات النظام" %}}
@@ -94,7 +94,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="عروض توضيحية مباشرة لتحويل VSSM إلى TIFF" sectionDescription="[تحويل VSSM إلى TIFF](https://products.aspose.app/diagram/conversion/vssm-to-tiff) الآن من خلال زيارة موقع Live Demos الخاص بنا ، حيث يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSSM إلى العروض التوضيحية المباشرة لتحويل TIFF" sectionDescription="[تحويل VSSM إلى TIFF](https://products.aspose.app/diagram/conversion/vssm-to-tiff) الآن من خلال زيارة موقع Live Demos الخاص بنا ، حيث يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي كود." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ما عليك سوى تحميل ملف VSSM الخاص بك ، وسيتم تحويله على الفور إلى TIFF." >}}
@@ -102,7 +102,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram مكتبة المعالجة" %}}
 
- Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه API مستقل ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
+ Aspose.Diagram هو Microsoft Visio معالجة بتنسيق المستند API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه إصدار مستقل API ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-الملفات ذات الامتداد .VSSM هي ملفات Microsoft Visio Stencil التي تدعم تقديم الدعم لوحدات الماكرو. يسمح ملف VSSM عند فتحه بتشغيل وحدات الماكرو لتحقيق التنسيق المطلوب ووضع الأشكال في الرسم التخطيطي. بشكل عام ، تقوم Microsoft Visio برسم برنامج يسمح بإنشاء ملفات يمكن أن تحتوي على معلومات يحددها المستخدم وتمثلها بأشكال مختلفة. تشمل أكثرها شيوعًا ، على سبيل المثال لا الحصر ، مخططات UML ومخططات التدفق والكائنات المرئية وتدفق المعلومات والمخططات التنظيمية والرسومات التخطيطية للبرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تحويل الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
+الملفات ذات الامتداد. VSSM هي Microsoft Visio ملفات الاستنسل التي تدعم تقديم الدعم لوحدات الماكرو. يسمح ملف VSSM عند فتحه بتشغيل وحدات الماكرو لتحقيق التنسيق المطلوب ووضع الأشكال في diagram. بشكل عام ، Microsoft Visio هو برنامج رسم يسمح بإنشاء ملفات يمكن أن تحتوي على المعلومات التي يحددها المستخدم وتمثلها بأشكال مختلفة. تشمل أكثرها شيوعًا ، على سبيل المثال لا الحصر ، مخططات UML ومخططات التدفق والكائنات المرئية وتدفق المعلومات والمخططات التنظيمية والرسومات التخطيطية للبرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تحويل الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}
 
-TIFF أو TIF ، تنسيق ملف الصورة ذي العلامات ، يمثل صورًا نقطية مخصصة للاستخدام على مجموعة متنوعة من الأجهزة التي تتوافق مع معيار تنسيق الملف هذا. إنه قادر على وصف بيانات الصورة ذات المستوى الثنائي والرمادي ولون لوح الألوان وكامل الألوان في العديد من مساحات الألوان. وهو يدعم أنظمة الضغط التي يتم فقدانها وكذلك بدون فقدان البيانات للاختيار بين المكان والزمان للتطبيقات التي تستخدم التنسيق. التنسيق قابل للتوسيع وخضع لعدة مراجعات تسمح بإدراج كمية غير محدودة من المعلومات الخاصة أو ذات الأغراض الخاصة. لا يعتمد التنسيق على الجهاز وخالي من الحدود مثل المعالج أو نظام التشغيل أو أنظمة الملفات.
+TIFF أو TIF ، تنسيق ملف الصورة ذي العلامات ، يمثل صورًا نقطية مخصصة للاستخدام على مجموعة متنوعة من الأجهزة التي تتوافق مع معيار تنسيق الملف هذا. إنه قادر على وصف بيانات الصورة ذات المستوى الثنائي والرمادي ولون لوح الألوان وكامل الألوان في العديد من مساحات الألوان. وهو يدعم أنظمة الضغط التي يتم فقدانها وكذلك بدون فقدان البيانات للاختيار بين المكان والزمان للتطبيقات التي تستخدم التنسيق. التنسيق قابل للتوسيع وخضع لعدة مراجعات تسمح بإدراج كمية غير محدودة من المعلومات الخاصة أو ذات الأغراض الخاصة. لا يعتمد التنسيق على الجهاز وخالٍ من الحدود مثل المعالج أو نظام التشغيل أو أنظمة الملفات.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,7 +130,7 @@ TIFF أو TIF ، تنسيق ملف الصورة ذي العلامات ، يمث�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل VSSM إلى العديد من تنسيقات الملفات الأخرى بما في ذلك القليل منها المدرجة أدناه." >}}
+{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل VSSM إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-bmp/" name="VSSM إلى BMP" description="سيب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-emf/" name="VSSM إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
@@ -139,14 +139,14 @@ TIFF أو TIF ، تنسيق ملف الصورة ذي العلامات ، يمث�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-pdf/" name="VSSM إلى PDF" description="نموذج المستندات المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-png/" name="VSSM إلى PNG" description="رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-svg/" name="VSSM إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM إلى VDX" description="تنسيق رسم Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM إلى VSDM" description="تنسيق رسم Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM إلى VSDX" description="تنسيق Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM إلى VDX" description="Microsoft Visio تنسيق الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM إلى VSDM" description="Microsoft Visio تنسيق الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM إلى VSDX" description="Microsoft Visio تنسيق" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM إلى VSSX" description="الإستنسل الرسم" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM إلى VSTM" description="ملفات قوالب Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM إلى VSTX" description="قالب رسم Visio Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM إلى VSTM" description="Microsoft Visio ملفات النماذج" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM إلى VSTX" description="Microsoft Visio نموذج الرسم" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="VSSM إلى VSX" description="الإستنسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM إلى VTX" description="قالب رسم Visio Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM إلى VTX" description="Microsoft Visio نموذج الرسم" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xaml/" name="VSSM إلى XAML" description="لغة ترميز التطبيق الموسعة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xps/" name="VSSM إلى XPS" description="مواصفات ورق XML" >}}
 

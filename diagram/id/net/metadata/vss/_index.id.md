@@ -2,7 +2,7 @@
 title: Lihat atau Edit Metadata File VSS melalui .NET 
 weight: 3050
 url: /id/net/metadata/vss/ 
-description: C# kode sumber untuk mengedit atau melihat metadata format VSS pada .NET Framework, .NET Core, Mono Platforms.
+description: C# kode sumber untuk mengedit atau melihat metadata format VSS di .NET Framework, .NET Inti, Mono Platform.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ekstrak Metadata VSS di C#" h2="Buat .NET aplikasi Anda sendiri untuk menambah, mengedit, menghapus, atau mengekstrak metadata dari file VSS menggunakan API sisi server." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -78,7 +78,7 @@ Dapatkan DocumentProps dari Diagram objek
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 

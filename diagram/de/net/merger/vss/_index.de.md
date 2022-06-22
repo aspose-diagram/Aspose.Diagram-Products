@@ -2,7 +2,7 @@
 title: VSS-Dateien über .NET zusammenführen 
 weight: 5110
 url: /de/net/merger/vss/ 
-description: C# Quellcode zum Kombinieren von VSS-Dokumenten auf .NET Framework, .NET Core, Mono oder COM Interop.
+description: C#-Quellcode zum Kombinieren von VSS-Dokumenten auf .NET Framework, .NET Core, Mono oder COM Interop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VSS-Formate in C# zusammenführen" h2="Native und leistungsstarke VSS-Dokumentenzusammenführung mit serverseitigen Aspose.Diagram for .NET-APIs, ohne Verwendung von Software wie Microsoft oder Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSS" >}}
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vss");
 
     {{% blocks/products/pf/agp/content h2="Über Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram ist eine Manipulation des Microsoft Visio-Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
+ Aspose.Diagram ist eine Microsoft Visio Manipulation des Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
 
 
 
@@ -103,7 +103,7 @@ Diagram dgF = new Diagram( "f.vss");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort zusammengeführt und verkettet." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS sind Schablonendateien, die mit Microsoft Visio 2007 und früher erstellt wurden. Ein relativ neues Dateiformat ist .VSSX, das mit Microsoft Visio 2013 eingeführt wurde. Schablonendateien stellen Zeichnungsobjekte bereit, die in eine .VSD Visio-Zeichnung eingefügt werden können. Microsoft Visio selbst ist dafür bekannt, Zeichnungselemente wie Sammlungen von Formen, Konnektoren, Flussdiagramme, Netzwerklayouts, UML-Diagramme, Softwarediagramme, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen zu erstellen. Es hat auch umfangreiche Konvertierungsfunktionen von Visio Dokumenten in andere Dateiformate wie PNG, BMP, PDF und andere. Visio ist sowohl für Windows als auch für Mac OS verfügbar. 
+VSS sind Schablonendateien, die mit Microsoft Visio 2007 und früher erstellt wurden. Ein relativ neues Dateiformat ist .VSSX, das mit Microsoft Visio 2013 eingeführt wurde. Schablonendateien stellen Zeichnungsobjekte bereit, die in eine .VSD Visio-Zeichnung eingefügt werden können. Microsoft Visio selbst ist dafür bekannt, Zeichnungselemente wie Sammlungen von Formen, Konnektoren, Flussdiagramme, Netzwerklayouts, UML-Diagramme, Softwarediagramme, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen zu erstellen. Es hat auch umfangreiche Konvertierungsfunktionen von Visio-Dokumenten in andere Dateiformate wie PNG, BMP, PDF und andere. Visio ist sowohl für Windows als auch für Mac OS verfügbar. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,11 +114,11 @@ VSS sind Schablonendateien, die mit Microsoft Visio 2007 und früher erstellt wu
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Zusammenführungsformate" subTitle="Mit C# kann man auch viele andere Dateiformate zusammenführen, einschließlich." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdw/" name="VDW" description="Visio Grafikdienstdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio-Zeichnungen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio-Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio-Schablonendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio Zeichnungen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio Schablonendateien" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssx/" name="VSSX" description="Zeichenschablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vst/" name="VST" description="Vektorbilddateien" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Microsoft Visio Vorlagendateien" >}}

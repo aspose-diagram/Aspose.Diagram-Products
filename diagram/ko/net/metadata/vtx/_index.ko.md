@@ -15,7 +15,7 @@ description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono �
  VTX 메타데이터를 추출하기 위해 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려 있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  **Aspose.Diagram** 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -59,7 +59,7 @@ Diagram 개체의 DocumentProps 가져오기
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
+- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop이 있는 호환 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VTX 메타데이터 추출 - C#" offSpacer="" %}}
@@ -86,14 +86,14 @@ Diagram 개체의 DocumentProps 가져오기
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 앱을 통해 VTX의 메타데이터 추출" sectionDescription="당사를 방문하여 VTX 문서에 대한 메타데이터 보기 및 편집 [라이브 데모 웹사이트](https://products.aspose.app/diagram/metadata). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 앱을 통해 VTX의 메타데이터 추출" sectionDescription="다음을 방문하여 VTX 문서에 대한 메타데이터 보기 및 편집 [라이브 데모 웹사이트](https://products.aspose.app/diagram/metadata). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을(를) 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="VTX 파일을 업로드하기만 하면 됩니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 압축되어 즉시 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/visio/vtx/" >}}
-확장자가 .vtx인 파일은 XML 파일 형식으로 디스크에 저장되는 Microsoft Visio 그리기 템플릿입니다. 템플릿은 동일한 설정의 여러 Visio 파일을 만드는 데 사용할 수 있는 기본 설정이 있는 파일을 제공하는 것을 목표로 합니다. 또 다른 유사한 형식은 XML이 아닌 바이너리 형식으로 저장되는 VST입니다. VTX 파일은 Visio 2010 이상 버전에서 지원됩니다. Visio 파일은 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio를 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다. 
+확장자가 .vtx인 파일은 XML 파일 형식으로 디스크에 저장되는 Microsoft Visio 도면 템플릿입니다. 템플릿은 동일한 설정의 여러 Visio 파일을 만드는 데 사용할 수 있는 기본 설정이 있는 파일을 제공하는 것을 목표로 합니다. 또 다른 유사한 형식은 XML이 아닌 바이너리 형식으로 저장되는 VST입니다. VTX 파일은 Visio 2010 이상 버전에서 지원됩니다. Visio 파일은 시각적 개체, 순서도, UML diagram, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio을 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,8 +103,8 @@ Diagram 개체의 DocumentProps 가져오기
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 메타데이터 형식" subTitle="C#을 사용하면 다음을 포함한 다양한 형식의 메타데이터를 쉽게 조작할 수 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="대" description="Microsoft Visio 도면" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="VDX" description="Visio 도면 XML 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio 도면 XML 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio 스텐실 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio 템플릿 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsdm/" name="VSDM" description="Visio 매크로 사용 도면 파일" >}}

@@ -14,7 +14,7 @@ description: VSDM 到 PDF C# 转换的示例代码。使用 API 示例代码在 
 
  为了将 VSDM 转换为 PDF，我们将使用
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API 是一个功能丰富、功能强大且易于使用的文档操作和转换 API C# 平台。打开
+ API 是一个功能丰富、功能强大且易于使用的文档操作和转换 API 平台 C#。打开
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  包管理器，搜索
  Aspose.Diagram 
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统。- Microsoft Visual Studio 等开发环境。- Aspose.Diagram for .NET 项目中引用的 DLL。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="此示例代码显示了 VSDM 到 PDF C# 的转换" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="此示例代码显示 VSDM 到 PDF C# 的转换" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-pdf.cs" >}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="将 VSDM 转换为 PDF 的免费应用程序" sectionDescription="查看我们的现场演示 [VSDM 到 PDF 转换](https://products.aspose.app/diagram/conversion/vsdm-to-pdf) 具有以下好处。" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="将 VSDM 转换为 PDF 的免费应用程序" sectionDescription="查看我们的现场演示 [VSDM 到 PDF 的转换](https://products.aspose.app/diagram/conversion/vsdm-to-pdf) 具有以下好处。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载或设置任何东西。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 VSDM 文件并点击“转换”按钮。" >}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- 专门设计用于处理 Microsoft Visio 文件的 Diagram 管理库。它允许开发人员创建、操作和转换原生 Visio 格式。开发人员可以从头开始创建图表，也可以轻松加载现有文件并操作图表元素以将结果导出为其他格式。
+ 专门设计用于处理 Microsoft Visio 文件的 Diagram 管理库。它允许开发人员创建、操作和转换原生 Visio 格式。开发人员可以从头开始创建图表，也可以轻松加载现有文件并操作 diagram 的元素以其他格式导出结果。
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
-带有 VSDM 扩展名的文件是使用支持宏的 Microsoft Visio 应用程序创建的绘图文件。 VSDM 文件是类似于 VSDX 的 OPC/XML 图形，但也提供了在打开文件时运行宏的功能。宏是在 Visual Basic for Applications (VBA) 中开发的用户定义的操作/步骤，可用于执行重复性任务。 VSDM 文件格式是随着 Microsoft Visio 2013 的推出而引入的。Visio 文件用于创建包含视觉对象、流程图、UML 图、信息流、组织图、软件图、网络布局、数据库模型、对象映射和其他类似信息。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。
+扩展名为 VSDM 的文件是使用支持宏的 Microsoft Visio 应用程序创建的绘图文件。 VSDM 文件是类似于 VSDX 的 OPC/XML 绘图，但也提供了在打开文件时运行宏的功能。宏是在 Visual Basic for Applications (VBA) 中开发的用户定义的操作/步骤，可用于执行重复性任务。 VSDM 文件格式是在 Microsoft Visio 2013 年推出时引入的。Visio 文件用于创建包含视觉对象、流程图、UML diagram、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,26 +102,26 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 VSDM 转换为许多其他文件格式，包括下面列出的几种文件格式。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 VSDM 转换为许多其他文件格式，包括下面列出的几种。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-bmp/" name="VSDM 转 BMP" description="位图图像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-emf/" name="VSDM 到 EMF" description="增强的元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-html/" name="VSDM 转 HTML" description="超文本标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-jpeg/" name="VSDM转JPEG" description="JPEG图像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-png/" name="VSDM转PNG" description="便携式网络图形" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-svg/" name="VSDM 转 SVG" description="可缩放矢量图形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-png/" name="VSDM 转 PNG" description="便携式网络图形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-svg/" name="VSDM转 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-swf/" name="VSDM 转 SWF" description="SWF 格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-tiff/" name="VSDM 转 TIFF" description="标记图像格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vdx/" name="VSDM 转 VDX" description="Microsoft Visio 绘图格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsdx/" name="VSDM 到 VSDX" description="微软Visio格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssm/" name="VSDM 到 VSSM" description="Microsoft Visio 模具文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssx/" name="VSDM 到 VSSX" description="绘图模具" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstm/" name="VSDM 到 VSTM" description="Microsoft Visio 模板文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstx/" name="VSDM 到 VSTX" description="Microsoft Visio 绘图模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsx/" name="VSDM 到 VSX" description="模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vtx/" name="VSDM 到 VTX" description="Microsoft Visio 绘图模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-tiff/" name="VSDM到 TIFF" description="标记图像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vdx/" name="VSDM 至 VDX" description="Microsoft Visio 绘图格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsdx/" name="VSDM 至 VSDX" description="Microsoft Visio 格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssm/" name="VSDM 至 VSSM" description="Microsoft Visio 模板文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssx/" name="VSDM 至 VSSX" description="绘图模具" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstm/" name="VSDM 至 VSTM" description="Microsoft Visio 模板文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstx/" name="VSDM 至 VSTX" description="Microsoft Visio 绘图模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsx/" name="VSDM 至 VSX" description="模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vtx/" name="VSDM 至 VTX" description="Microsoft Visio 绘图模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xaml/" name="VSDM 到 XAML" description="可扩展的应用程序标记语言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xps/" name="VSDM 转 XPS" description="XML 纸张规格" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xps/" name="VSDM 到 XPS" description="XML 纸张规格" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -2,7 +2,7 @@
 title: Visualize ou edite metadados de arquivos VDW via .NET 
 weight: 3050
 url: /pt/net/metadata/vdw/ 
-description: C# código-fonte para editar ou visualizar metadados de formato VDW em .NET Framework, .NET Core, Mono Platforms.
+description: C# código-fonte para editar ou visualizar metadados de formato VDW nas plataformas .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extraia metadados VDW em C#" h2="Crie seus próprios aplicativos .NET para adicionar, editar, remover ou extrair metadados de arquivos VDW usando APIs do lado do servidor." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -15,7 +15,7 @@ description: C# código-fonte para editar ou visualizar metadados de formato VDW
  Para extrair os metadados do VDW, usaremos
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API que é uma plataforma de manipulação e mesclagem de documentos rica em recursos, poderosa e fácil de usar API para C#. Aberto
- [NuGetName](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  gerenciador de pacotes, procure
  **Aspose.Diagram** 
  e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
@@ -59,7 +59,7 @@ Obter DocumentProps do objeto Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou COM Interop- Ambiente de desenvolvimento como o Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale do NuGet usando o botão Download acima
+- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou COM Interop- Ambiente de desenvolvimento como Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale de NuGet usando o botão Download acima
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Extraindo Metadados VDW - C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ Obter DocumentProps do objeto Diagram
 
     {{% blocks/products/pf/agp/content h2="Sobre Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagrama e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
+ Aspose.Diagram é uma manipulação de formato de documento Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagramas e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.  
 
 
 
@@ -93,7 +93,7 @@ Obter DocumentProps do objeto Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ele será compactado e concatenado instantaneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW é o formato de arquivo Visio Graphics Service que especifica os fluxos e armazenamentos necessários para renderizar um desenho da Web. Um desenho da web é uma coleção de páginas de desenho, formas, fontes, imagens, conexões de dados e informações de atualização de diagrama que podem ser renderizadas como um desenho vetorial ou raster. Os arquivos VDW também podem ser abertos no Microsoft Visio, mas são salvos principalmente para uso na web. A Microsoft Visio oferece a capacidade de converter arquivos Visio em vários formatos de arquivo diferentes, incluindo PNG, BMP, PDF e outros. 
+VDW é o formato de arquivo Visio Graphics Service que especifica os fluxos e armazenamentos necessários para renderizar um desenho da Web. Um desenho da web é uma coleção de páginas de desenho, formas, fontes, imagens, conexões de dados e diagram informações de atualização que podem ser renderizadas como um desenho vetorial ou raster. Os arquivos VDW também podem ser abertos em Microsoft Visio, mas são salvos principalmente para uso na web. Microsoft Visio oferece a capacidade de converter Visio arquivos em vários formatos de arquivo diferentes, incluindo PNG, BMP, PDF e outros. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ VDW é o formato de arquivo Visio Graphics Service que especifica os fluxos e ar
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de metadados suportados" subTitle="Usando C#, pode-se manipular facilmente metadados de diferentes formatos, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Desenhos da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Desenhos" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio arquivo XML de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio arquivo de estêncil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio arquivo de modelo" >}}

@@ -1,7 +1,7 @@
 ﻿---
 title: Converti VTX in SWF tramite Java 
 url: /it/java/conversion/vtx-to-swf/ 
-description: Esempio di codice di conversione Java per il formato VTX in file SWF. Utilizzare questo codice di esempio per convertire VTX in SWF all'interno di qualsiasi applicazione basata su Web o desktop Java.
+description: Esempio di codice di conversione Java per il formato VTX in file SWF. Utilizza questo codice di esempio per convertire VTX in SWF all'interno di qualsiasi applicazione basata su Web o desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti VTX in SWF tramite Java" h2="Libreria Java nativa per leggere, scrivere ed esportare VTX in SWF senza bisogno di Adobe." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SWF" pfName="Aspose.DIAGRAM" subTitlepfName="" downloadUrl="" fileiconsmall1="SWF" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -11,7 +11,7 @@ description: Esempio di codice di conversione Java per il formato VTX in file SW
 
 {{% blocks/products/pf/agp/content h2="Come convertire VTX in SWF utilizzando Java" %}}
 
-Per eseguire il rendering di VTX in SWF, utilizzeremo <a href="https://products.aspose.com/diagram/java">Aspose.Diagram for Java</a> API che è una piattaforma di conversione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la sua ultima versione direttamente da <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram">Esperto di</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+Per eseguire il rendering di VTX in SWF, utilizzeremo <a href="https://products.aspose.com/diagram/java">Aspose.Diagram for Java</a> API che è una piattaforma di conversione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la sua ultima versione direttamente da <a href="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram">Maven</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -51,11 +51,11 @@ Per eseguire il rendering di VTX in SWF, utilizzeremo <a href="https://products.
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.DIAGRAM API consente agli sviluppatori di convertire facilmente i file VTX in SWF in poche righe di codice.
+ Aspose.DIAGRAM API consente agli sviluppatori di convertire facilmente il file VTX in SWF in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carica il file VTX con un'istanza della classe Diagram1. Chiama il metodo Diagram.save con il percorso del file di output e SaveFileFormat come parametri1. Il file SWF verrà salvato nel percorso specificato
+1. Carica il file VTX con un'istanza di classe Diagram1. Chiama il metodo Diagram.save con il percorso del file di output e SaveFileFormat come parametri1. Il file SWF verrà salvato nel percorso specificato
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -74,7 +74,7 @@ Per eseguire il rendering di VTX in SWF, utilizzeremo <a href="https://products.
 {{% blocks/products/pf/agp/code-block title="Codice sorgente di conversione da VTX a SWF Java" offSpacer="" %}}
 
 ```cs
-// carica il VTX in un oggetto di Diagram 
+// carica VTX in un oggetto di Diagram 
 Diagram visio = new Diagram("template.vtx");
 // salva VTX come SWF 
 visio.save("output.swf", SaveFileFormat.SWF);   
@@ -93,7 +93,7 @@ visio.save("output.swf", SaveFileFormat.SWF);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo dal vivo di conversione da VTX a SWF" sectionDescription="[Converti VTX in SWF](https://products.aspose.app/diagram/conversion/vtx-to-swf) in questo momento visitando il nostro sito Web di demo dal vivo. La demo dal vivo ha i seguenti vantaggi" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VTX in demo dal vivo di conversione SWF" sectionDescription="[Converti VTX in SWF](https://products.aspose.app/diagram/conversion/vtx-to-swf) in questo momento visitando il nostro sito Web di demo dal vivo. La demo dal vivo ha i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file VTX, verrà convertito istantaneamente in SWF." >}}
@@ -101,7 +101,7 @@ visio.save("output.swf", SaveFileFormat.SWF);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.    
+Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.    
 
 
 
@@ -110,7 +110,7 @@ Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft AP
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-Un file con estensione .vtx è un modello di disegno Microsoft Visio che viene salvato su disco in formato file XML. Il modello ha lo scopo di fornire un file con le impostazioni di base che può essere utilizzato per creare più file Visio con le stesse impostazioni. Un altro formato simile è VST che viene salvato in formato binario anziché XML. I file VTX sono supportati con Visio 2010 e versioni successive. Visio i file vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri.
+Un file con estensione .vtx è un modello di disegno Microsoft Visio salvato su disco in formato file XML. Il modello ha lo scopo di fornire un file con le impostazioni di base che può essere utilizzato per creare più file Visio con le stesse impostazioni. Un altro formato simile è VST che viene salvato in formato binario anziché XML. VTX i file sono supportati con Visio 2010 e versioni successive. I file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, UML diagram, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -127,7 +127,7 @@ SWF è un formato di file utilizzato per trasportare testo, video, grafica vetto
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire VTX in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-bmp/" name="VTX A BMP" description="Immagine bitmap" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-emf/" name="VTX A EMF" description="Formato Metafile migliorato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-html/" name="VTX IN HTML" description="Hyper Text Markup Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-jpeg/" name="VTX IN JPEG" description="Immagine JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-pdf/" name="VTX IN PDF" description="Formato documento portatile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-png/" name="VTX IN PNG" description="Grafica di rete portatile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-svg/" name="VTX IN SVG" description="Grafica vettoriale scalabile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-tiff/" name="VTX IN TIFF" description="Formato immagine contrassegnato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX A VDX" description="Formato di disegno Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX A VSDM" description="Formato di disegno Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX A VSDX" description="Formato Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX A VSSM" description="File stencil di Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX A VSSX" description="Stencil da disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX A VSTM" description="File modello Visio Microsoft" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX A VSTX" description="Modello di disegno di Microsoft Visio" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX A VSX" description="Stencil" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xaml/" name="VTX IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xps/" name="VTX A XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-bmp/" name="VTX A BMP" description="Immagine bitmap" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-emf/" name="VTX A CEM" description="Formato Metafile migliorato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-html/" name="VTX IN HTML" description="Hyper Text Markup Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-jpeg/" name="VTX IN JPEG" description="Immagine JPEG" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-pdf/" name="VTX IN PDF" description="Formato documento portatile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-png/" name="VTX IN PNG" description="Grafica di rete portatile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-svg/" name="VTX IN SVG" description="Grafica vettoriale scalabile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-tiff/" name="VTX IN TIFF" description="Formato immagine contrassegnato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX A VDX" description="Microsoft Visio Formato di disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX A VSDM" description="Microsoft Visio Formato di disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX A VSDX" description="Microsoft Visio Formato" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX A VSSM" description="Microsoft Visio File stencil" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX A VSSX" description="Stencil da disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX A VSTM" description="Microsoft Visio File modello" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX A VSTX" description="Microsoft Visio Modello di disegno" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX A VSX" description="Stencil" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xaml/" name="VTX IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xps/" name="VTX A XPS" description="Specifiche della carta XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

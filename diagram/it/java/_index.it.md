@@ -5,7 +5,7 @@ url: /it/java/
 description: Visio libreria per la creazione, la manipolazione e la conversione di diagrammi. Esporta diagrammi in più formati in applicazioni basate su Java
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Manipola ed esporta i file di Microsoft Office Visio nei formati PDF, HTML, Immagini e XAML senza alcuna dipendenza da Microsoft Office Visio." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Manipola ed esporta Microsoft Office Visio file nei formati PDF, HTML, immagini e XAML senza alcuna dipendenza Microsoft Office Visio." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Visio libreria per la creazione, la manipolazione e la conversione 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java è un potente sistema di elaborazione dei documenti Visio Microsoft API. Fornisce funzionalità comuni come creazione, analisi e amp; converte i formati Visio nativi e supporta alcuni formati di immagine e layout fisso comunemente usati. Le applicazioni possono caricare documenti esistenti e manipolare gli elementi del diagramma per esportare il risultato nei propri formati, immagini o formati a layout fisso.
+ Aspose.Diagram for Java è una potente Microsoft Visio elaborazione di documenti API. Fornisce funzionalità comuni come creazione, analisi e amp; converte i formati Visio nativi e supporta alcuni formati di immagine e layout fisso comunemente usati. Le applicazioni possono caricare documenti esistenti e manipolare gli elementi diagram per esportare il risultato nei propri formati, immagini o formati con layout fisso.
 </p>
 
 <p>
@@ -408,10 +408,10 @@ description: Visio libreria per la creazione, la manipolazione e la conversione 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Analizza i documenti Microsoft Visio
+     Analizza Microsoft Visio documenti
     </h2>
     <p>
-     Java diagramma API consente di leggere i formati di file nativi dell'applicazione Microsoft Visio, consentendo così di accedere ai dati del diagramma come pagine di documenti, proprietà, master, immagini, forme, collegamenti, soluzioni XML, livelli, collegamenti ipertestuali, commenti , Foglio di stile, celle definite dall'utente e così via. Questi oggetti possono essere manipolati tramite API e il risultato può essere scritto su disco in uno qualsiasi dei formati supportati.
+     Java diagram API consente di leggere i formati di file nativi dell'applicazione Microsoft Visio, consentendo così di accedere ai dati diagram come pagine documento, proprietà, master, immagini, forme, collegamenti, soluzione XML , Livelli, Collegamenti ipertestuali, Commenti, Foglio di stile, celle definite dall'utente e così via. Questi oggetti possono essere manipolati tramite API e il risultato può essere scritto su disco in uno qualsiasi dei formati supportati.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio libreria per la creazione, la manipolazione e la conversione 
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Salva diagramma in diversi formati - Java
+      Salva diagram in diversi formati - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Organizza le forme in un contenitore
     </h2>
     <p>
-     Normalmente, gli sviluppatori aggiungono forme in un contenitore per mantenere le cose ben organizzate e comprensibili. I contenitori aggiungono un confine visivo attorno alle forme, inclusa un'etichetta. Per aggiungere un contenitore e forme secondarie al diagramma, gli sviluppatori possono utilizzare la libreria perché offre un approccio facile e veloce.
+     Normalmente, gli sviluppatori aggiungono forme in un contenitore per mantenere le cose ben organizzate e comprensibili. I contenitori aggiungono un confine visivo attorno alle forme, inclusa un'etichetta. Per aggiungere un contenitore e forme secondarie a diagram, gli sviluppatori possono utilizzare la libreria perché offre un approccio semplice e rapido.
     </p>
    </div>
    <div class="col-lg-12">

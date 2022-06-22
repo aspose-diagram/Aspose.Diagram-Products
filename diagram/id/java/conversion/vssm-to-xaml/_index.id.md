@@ -14,7 +14,7 @@ description: Contoh Java kode konversi untuk format VSSM ke file XAML. Gunakan k
 
  Untuk merender VSSM ke XAML, kami akan menggunakan
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
- API yang merupakan platform API for Java konversi yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform konversi API for Java yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -56,7 +56,7 @@ description: Contoh Java kode konversi untuk format VSSM ke file XAML. Gunakan k
 
 {{% blocks/products/pf/agp/text %}}
 
- Java pengembang dapat dengan mudah mengonversi file VSSM ke XAML hanya dalam beberapa baris kode.
+ Java pengembang dapat dengan mudah mengonversi berkas VSSM ke XAML hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -94,7 +94,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Konversi VSSM ke XAML" sectionDescription="[Mengonversi VSSM ke XAML](https://products.aspose.app/diagram/conversion/vssm-to-xaml) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSSM ke Demo Langsung Konversi XAML" sectionDescription="[Konversikan VSSM ke XAML](https://products.aspose.app/diagram/conversion/vssm-to-xaml) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VSSM Anda, itu akan langsung dikonversi ke XAML." >}}
@@ -102,7 +102,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Pustaka Manipulasi" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-File dengan ekstensi .VSSM adalah file Microsoft Visio Stencil yang mendukung memberikan dukungan untuk makro. File VSSM saat dibuka memungkinkan untuk menjalankan makro untuk mencapai pemformatan dan penempatan bentuk yang diinginkan dalam diagram. Secara umum, Microsoft Visio adalah perangkat lunak menggambar yang memungkinkan untuk membuat file yang dapat berisi dan mewakili informasi yang ditentukan pengguna dalam berbagai bentuk. Yang paling umum termasuk, tetapi tidak terbatas pada, diagram UML, diagram alur, objek visual, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat dikonversi ke format file yang berbeda seperti PNG, BMP, PDF, dan lainnya.
+File dengan ekstensi .VSSM adalah Microsoft Visio File stensil yang mendukung memberikan dukungan untuk makro. File VSSM saat dibuka memungkinkan menjalankan makro untuk mencapai pemformatan dan penempatan bentuk yang diinginkan dalam diagram. Secara umum, Microsoft Visio adalah perangkat lunak menggambar yang memungkinkan untuk membuat file yang dapat berisi dan mewakili informasi yang ditentukan pengguna dalam berbagai bentuk. Yang paling umum termasuk, tetapi tidak terbatas pada, diagram UML, diagram alir, objek visual, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat dikonversi ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -144,7 +144,7 @@ XAML, Extensible Application Markup Language, file ekstensi menjelaskan elemen a
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM KE VSDX" description="Microsoft Visio Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM KE VSSX" description="Menggambar Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="VSSM KE VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM KE VTX" description="Microsoft Visio Template Menggambar" >}}

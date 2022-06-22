@@ -5,7 +5,7 @@ url: /vi/java/
 description: Visio thư viện để tạo, thao tác và chuyển đổi sơ đồ. Xuất sơ đồ sang nhiều định dạng trong các ứng dụng dựa trên Java
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Thao tác và xuất các tệp Microsoft Office Visio sang các định dạng PDF, HTML, Hình ảnh và XAML mà không có bất kỳ phụ thuộc Microsoft Office Visio nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Thao tác và Xuất tệp Microsoft Office Visio sang các định dạng PDF, HTML, Hình ảnh và XAML mà không có bất kỳ phụ thuộc Microsoft Office Visio nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Visio thư viện để tạo, thao tác và chuyển đổi sơ đ
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java là một Microsoft Visio xử lý tài liệu API mạnh mẽ. Nó cung cấp chức năng phổ biến như tạo, phân tích cú pháp & amp; chuyển đổi định dạng Visio gốc cũng như hỗ trợ một số định dạng hình ảnh và bố cục cố định thường được sử dụng. Các ứng dụng có thể tải các tài liệu hiện có và thao tác với các phần tử sơ đồ để xuất kết quả ở các định dạng, hình ảnh hoặc định dạng bố cục cố định của riêng nó.
+ Aspose.Diagram for Java là một Microsoft Visio xử lý tài liệu API mạnh mẽ. Nó cung cấp chức năng phổ biến như tạo, phân tích cú pháp & amp; chuyển đổi định dạng Visio gốc cũng như hỗ trợ một số định dạng hình ảnh và bố cục cố định thường được sử dụng. Các ứng dụng có thể tải các tài liệu hiện có và thao tác với các phần tử diagram để xuất kết quả ở các định dạng, hình ảnh hoặc định dạng bố cục cố định của riêng nó.
 </p>
 
 <p>
@@ -408,10 +408,10 @@ description: Visio thư viện để tạo, thao tác và chuyển đổi sơ đ
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Phân tích cú pháp Microsoft Visio Documents
+     Phân tích cú pháp Microsoft Visio tài liệu
     </h2>
     <p>
-     Java sơ đồ API cho phép đọc các định dạng tệp gốc của ứng dụng Microsoft Visio, do đó cho phép bạn truy cập dữ liệu sơ đồ như Trang tài liệu, Thuộc tính, Bản chính, Hình ảnh, Hình dạng, Kết nối, Giải pháp XML, Lớp, Siêu liên kết, Nhận xét , StyleSheet, các ô do người dùng xác định, v.v. Các đối tượng này có thể được thao tác thông qua API và kết quả có thể được ghi vào đĩa ở bất kỳ định dạng nào được hỗ trợ.
+     Java diagram API cho phép đọc các định dạng tệp gốc của ứng dụng Microsoft Visio, do đó cho phép bạn truy cập vào dữ liệu diagram như Trang tài liệu, Thuộc tính, Bản chính, Hình ảnh, Hình dạng, Kết nối, Giải pháp XML , Lớp, Siêu liên kết, Nhận xét, Biểu định kiểu, các ô do người dùng xác định, v.v. Các đối tượng này có thể được thao tác thông qua API và kết quả có thể được ghi vào đĩa ở bất kỳ định dạng nào được hỗ trợ.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio thư viện để tạo, thao tác và chuyển đổi sơ đ
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Lưu sơ đồ ở các định dạng khác nhau - Java
+      Lưu diagram ở các định dạng khác nhau - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Sắp xếp các hình dạng trong một vùng chứa
     </h2>
     <p>
-     Thông thường, các nhà phát triển thêm các hình dạng trong một vùng chứa để giữ cho mọi thứ được tổ chức tốt và dễ hiểu. Các vùng chứa thêm một ranh giới trực quan xung quanh các hình dạng, bao gồm cả nhãn. Để thêm vùng chứa và các hình dạng phụ vào sơ đồ, các nhà phát triển có thể sử dụng thư viện vì nó mang lại cách tiếp cận dễ dàng và nhanh chóng.
+     Thông thường, các nhà phát triển thêm các hình dạng trong một vùng chứa để giữ cho mọi thứ được tổ chức tốt và dễ hiểu. Các vùng chứa thêm một ranh giới trực quan xung quanh các hình dạng, bao gồm cả nhãn. Để thêm vùng chứa và các hình dạng phụ vào diagram, các nhà phát triển có thể sử dụng thư viện vì nó mang lại cách tiếp cận dễ dàng và nhanh chóng.
     </p>
    </div>
    <div class="col-lg-12">

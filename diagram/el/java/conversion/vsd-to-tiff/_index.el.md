@@ -71,7 +71,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application and Desktop Applications.- Λάβετε την τελευταία έκδοση του Aspose.Diagram for Java απευθείας από τη Maven.
+- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application και Desktop Applications.- Λάβετε την πιο πρόσφατη έκδοση του Aspose.Diagram for Java απευθείας από το Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Πηγαίος κώδικας μετατροπής VSD σε TIFF Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Βιβλιοθήκη χειρισμού" %}}
 
- Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου της Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
+ Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
 
-Τα αρχεία VSD είναι σχέδια που δημιουργούνται με την εφαρμογή Microsoft Visio για την αναπαράσταση ποικιλίας γραφικών αντικειμένων και τη διασύνδεση μεταξύ τους. Τέτοια σχέδια μπορεί να περιέχουν οπτικά αντικείμενα όπως οπτικά αντικείμενα, διαγράμματα ροής, διάγραμμα UML, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Η Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
+Τα αρχεία VSD είναι σχέδια που δημιουργούνται με την εφαρμογή Microsoft Visio για την αναπαράσταση ποικιλίας γραφικών αντικειμένων και τη διασύνδεση μεταξύ τους. Τέτοια σχέδια μπορεί να περιέχουν οπτικά αντικείμενα, όπως οπτικά αντικείμενα, γραφήματα ροής, UML diagram, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Το Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}
 
-Το TIFF ή το TIF, Μορφή αρχείου εικόνας με ετικέτα, αντιπροσωπεύει εικόνες ράστερ που προορίζονται για χρήση σε μια ποικιλία συσκευών που συμμορφώνονται με αυτό το πρότυπο μορφής αρχείου. Είναι σε θέση να περιγράφει δεδομένα εικόνας διπλού επιπέδου, κλίμακας του γκρι, έγχρωμης παλέτας και έγχρωμης εικόνας σε πολλούς χρωματικούς χώρους. Υποστηρίζει συστήματα συμπίεσης με απώλειες καθώς και χωρίς απώλειες για να επιλέξετε μεταξύ χώρου και χρόνου για εφαρμογές που χρησιμοποιούν τη μορφή. Η μορφή είναι επεκτάσιμη και έχει υποστεί αρκετές αναθεωρήσεις που επιτρέπουν τη συμπερίληψη απεριόριστου όγκου ιδιωτικών ή ειδικών πληροφοριών. Η μορφή δεν εξαρτάται από το μηχάνημα και δεν περιέχει όρια όπως επεξεργαστή, λειτουργικό σύστημα ή συστήματα αρχείων.
+Το TIFF ή το TIF, Μορφή αρχείου με ετικέτα, αντιπροσωπεύει εικόνες ράστερ που προορίζονται για χρήση σε μια ποικιλία συσκευών που συμμορφώνονται με αυτό το πρότυπο μορφής αρχείου. Είναι σε θέση να περιγράφει δεδομένα εικόνας διπλού επιπέδου, κλίμακας του γκρι, έγχρωμης παλέτας και έγχρωμης εικόνας σε πολλούς χρωματικούς χώρους. Υποστηρίζει συστήματα συμπίεσης με απώλειες καθώς και χωρίς απώλειες για να επιλέξετε μεταξύ χώρου και χρόνου για εφαρμογές που χρησιμοποιούν τη μορφή. Η μορφή είναι επεκτάσιμη και έχει υποστεί αρκετές αναθεωρήσεις που επιτρέπουν τη συμπερίληψη απεριόριστου όγκου ιδιωτικών ή ειδικών πληροφοριών. Η μορφή δεν εξαρτάται από τη μηχανή και δεν περιέχει όρια όπως επεξεργαστή, λειτουργικό σύστημα ή συστήματα αρχείων.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,14 +139,14 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-pdf/" name="VSD ΣΕ PDF" description="Μορφή φορητού εγγράφου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-png/" name="VSD ΣΕ PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSD ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD ΠΡΟΣ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD ΠΡΟΣ VSSM" description="Αρχεία Stencil της Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD ΠΡΟΣ VSSM" description="Microsoft Visio Αρχεία στένσιλ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD ΠΡΟΣ VSX" description="Στένσιλ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD ΠΡΟΣ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vtx/" name="VSD ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSD ΠΡΟΣ XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xps/" name="VSD ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 

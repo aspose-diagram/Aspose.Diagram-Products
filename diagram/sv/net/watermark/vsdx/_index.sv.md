@@ -2,7 +2,7 @@
 title: Vattenstämpel VSDX dokument via .NET 
 weight: 3050
 url: /sv/net/watermark/vsdx/ 
-description: C# källkod för att lägga till vattenstämpel i vsdx-filen på .NET Framework, .NET Core, Mono Platforms.
+description: C# källkod för att lägga till vattenstämpel i filen vsdx på .NET Framework, .NET Core, Mono plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lägg till textvattenstämpel till VSDX i C#" h2="Inbyggd och högpresterande VSDX dokumentvattenstämpel med hjälp av API:er på serversidan Aspose.Diagram for .NET, utan användning av någon programvara som Microsoft eller Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Om Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Den kommer att vattenmärkas och sammanfogas direkt." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introducerades från Microsoft Office 2013 och framåt. Det utvecklades för att ersätta det binära filformatet .VSD, som stöds av tidigare versioner av Microsoft Visio. Det stöds också på Visio-tjänster i Microsoft SharePoint Server 2013 och kräver inget mellanliggande filformat för publicering till SharePoint Server. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. 
+Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introducerades från Microsoft Office 2013 och framåt. Det utvecklades för att ersätta det binära filformatet .VSD, som stöds av tidigare versioner av Microsoft Visio. Det stöds också på Visio-tjänster i Microsoft SharePoint Server 2013 och kräver inget mellanliggande filformat för publicering till SharePoint Server. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ Filer med tillägget .VSDX representerar filformatet Microsoft Visio som introdu
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra vattenmärkeformat som stöds" subTitle="Med C# kan man enkelt vattenmärka olika format inklusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsd/" name="Vsd" description="Microsoft Visio-ritningar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vsd/" name="Vsd" description="Microsoft Visio Ritningar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vdx/" name="Vdx" description="Visio ritar XML-fil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vssx/" name="VSSX" description="Visio stencilfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/watermark/vstx/" name="VSTX" description="Visio mallfil" >}}

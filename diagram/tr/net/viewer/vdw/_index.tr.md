@@ -2,7 +2,7 @@
 title: VDW Dosya Biçimlerini .NET üzerinden görüntüleyin 
 weight: 3480
 url: /tr/net/viewer/vdw/ 
-description: VDW belgelerini .NET Framework, .NET Core, Mono veya COM Interop'ta yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
+description: .NET Framework, .NET Core, Mono veya COM Interop'ta VDW belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VDW Dosya Görüntüleyici for .NET" h2="Visio uygulaması veya Office Otomasyonu gerektirmeden Microsoft Visio VDW dosyalarını tarayıcıda görüntüleyin." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VDW" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDW" >}}
@@ -97,7 +97,7 @@ System.Diagnostics.Process.Start(output);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Gerekirse bağlantıdan VDW dosyasını indirin" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diyagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio'ta da açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya biçimine dönüştürme yeteneği sunar.
+VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio içinde de açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya formatına dönüştürme yeteneği sunar.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -108,9 +108,9 @@ VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirt
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Görüntüleyici Formatları" subTitle="C# kullanılarak One, aşağıdakiler de dahil olmak üzere diğer birçok dosya biçimini görüntüleyebilir." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vdx/" name="VDX" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsd/" name="VSD" description="Microsoft Visio Çizimleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsd/" name="VSD" description="Microsoft Visio Çizimler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsdm/" name="VSDM" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsdx/" name="VSDX" description="Microsoft Visio Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vsdx/" name="VSDX" description="Microsoft Visio Biçim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vss/" name="VSS" description="Şablon Dosyaları" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vssm/" name="VSSM" description="Microsoft Visio Şablon dosyaları" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/viewer/vssx/" name="VSSX" description="Çizim Şablonları" >}}

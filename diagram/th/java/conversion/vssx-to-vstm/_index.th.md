@@ -2,7 +2,7 @@
 title: แปลง VSSX เป็น VSTM ผ่าน Java 
 weight: 4070
 url: /th/java/conversion/vssx-to-vstm/ 
-description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ VSSX เป็นไฟล์ VSTM ใช้โค้ดตัวอย่างนี้เพื่อแปลง VSSX เป็น VSTM ภายในแอปพลิเคชันที่ใช้เว็บหรือเดสก์ท็อป Java
+description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ VSSX เป็นไฟล์ VSTM ใช้โค้ดตัวอย่างนี้เพื่อแปลง VSSX เป็น VSTM ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง VSSX เป็น VSTM ผ่าน Java" h2="ส่งออก Microsoft Visio VSSX เป็น VSTM โดยใช้ไลบรารีดั้งเดิม Java" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSX" >}}
@@ -12,11 +12,11 @@ description: ตัวอย่างโค้ดการแปลง Java ส�
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง VSSX เป็น VSTM โดยใช้ Java" %}}
 
- ในการเรนเดอร์ VSSX เป็น VSTM เราจะใช้
+ เพื่อแสดง VSSX เป็น VSTM เราจะใช้
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API ซึ่งเป็นแพลตฟอร์มการแปลง API for Java ที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- และติดตั้งภายในโปรเจ็กต์ที่ใช้ Maven โดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
+ และติดตั้งภายในโปรเจ็กต์แบบ Maven ของคุณโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
 
 {{% blocks/products/pf/agp/code-block title="ที่เก็บ" offSpacer="true" %}}
 
@@ -56,11 +56,11 @@ description: ตัวอย่างโค้ดการแปลง Java ส�
 
 {{% blocks/products/pf/agp/text %}}
 
- Java นักพัฒนาซอฟต์แวร์สามารถแปลงไฟล์ VSSX เป็น VSTM ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ นักพัฒนา Java สามารถแปลงไฟล์ VSSX เป็น VSTM ได้อย่างง่ายดายในโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. โหลดไฟล์ VSSX ด้วยอินสแตนซ์ของ Diagram class1. เรียก Diagram.save method ด้วยพาธไฟล์เอาต์พุตและ SaveFileFormat เป็นพารามิเตอร์1. ไฟล์ VSTM จะถูกบันทึกที่เส้นทางที่ระบุ
+1. โหลดไฟล์ VSSX ด้วยอินสแตนซ์ของ Diagram class1. เรียก Diagram.save method ด้วยพาธไฟล์เอาต์พุตและ SaveFileFormat เป็นพารามิเตอร์1. VSTM ไฟล์จะถูกบันทึกที่เส้นทางที่ระบุ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ความต้องการของระบบ" %}}
@@ -74,7 +74,7 @@ description: ตัวอย่างโค้ดการแปลง Java ส�
 - Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป- รับเวอร์ชันล่าสุดของ Aspose.Diagram for Java โดยตรงจาก Maven
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSSX เป็น VSTM Java ซอร์สโค้ดการแปลง" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSSX ถึง VSTM Java รหัสแหล่งที่มาของการแปลง" offSpacer="" %}}
 
 ```cs
 // โหลด VSSX ในวัตถุของ Diagram 
@@ -94,15 +94,15 @@ visio.save("output.vstm", SaveFileFormat.VSTM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="การสาธิตสดการแปลง VSSX เป็น VSTM" sectionDescription="[แปลง VSSX เป็น VSTM](https://products.aspose.app/diagram/conversion/vssx-to-vstm) ตอนนี้โดยไปที่เว็บไซต์ Live Demos ของเรา การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSSX ถึง VSTM การสาธิตการแปลงสด" sectionDescription="[แปลง VSSX เป็น VSTM](https://products.aspose.app/diagram/conversion/vssx-to-vstm) ตอนนี้โดยไปที่เว็บไซต์ Live Demos ของเรา การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลด Aspose API" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ VSSX ของคุณ ไฟล์นั้นจะถูกแปลงเป็น VSTM ทันที" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ VSSX ของคุณ ไฟล์จะถูกแปลงเป็น VSTM ทันที" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" คุณจะได้รับลิงค์ดาวน์โหลด" >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram ห้องสมุดการจัดการ" %}}
 
- Aspose.Diagram คือการจัดการรูปแบบเอกสารของ Microsoft Visio API หนึ่งสามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นการทำงานแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
+ Aspose.Diagram คือการจัดการรูปแบบเอกสาร Microsoft Visio API สามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vstm", SaveFileFormat.VSTM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSX" readMoreLink="https://docs.fileformat.com/image/vssx/" >}}
 
-ไฟล์ที่มีนามสกุล .VSSX เป็นการวาดสเตนซิลที่สร้างด้วย Microsoft Visio 2013 ขึ้นไป รูปแบบไฟล์ VSSX สามารถเปิดได้ตั้งแต่ Visio 2013 ขึ้นไป ไฟล์ Visio เป็นที่รู้จักสำหรับการแสดงองค์ประกอบการวาดภาพต่างๆ เช่น การรวบรวมรูปร่าง ตัวเชื่อมต่อ ผังงาน เค้าโครงเครือข่าย ไดอะแกรม UML ซอฟต์แวร์ไดอะแกรม โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน Microsoft Visio ยังให้ความสามารถในการแปลงไฟล์ Visio เป็นรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ สามารถใช้ได้กับทั้ง Windows และ Mac OS
+ไฟล์ที่มีนามสกุล .VSSX เป็นการวาดสเตนซิลที่สร้างด้วย Microsoft Visio 2013 ขึ้นไป รูปแบบไฟล์ VSSX สามารถเปิดได้ตั้งแต่ Visio 2013 ขึ้นไป ไฟล์ Visio เป็นที่รู้จักสำหรับการแสดงองค์ประกอบการวาดที่หลากหลาย เช่น การรวบรวมรูปร่าง ตัวเชื่อมต่อ ผังงาน เค้าโครงเครือข่าย ไดอะแกรม UML ซอฟต์แวร์ไดอะแกรม โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน Microsoft Visio ยังให้ความสามารถในการแปลงไฟล์ Visio เป็นรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ สามารถใช้ได้กับทั้ง Windows และ Mac OS
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
 
-ไฟล์ที่มีนามสกุล VSTM คือไฟล์เทมเพลตที่สร้างด้วย Microsoft Visio ที่รองรับมาโคร ไม่เหมือนกับไฟล์ VSDX ไฟล์ที่สร้างจากเทมเพลต VSTM สามารถเรียกใช้มาโครที่พัฒนาขึ้นในโค้ด Visual Basic for Applications (VBA) ไฟล์เทมเพลตสามารถสร้างขึ้นเพื่อให้การตั้งค่าพื้นฐานของเอกสารที่สามารถใช้เพื่อสร้างเอกสารเพิ่มเติมด้วยการตั้งค่าเหล่านี้ ไฟล์ Visio ใช้สำหรับสร้างภาพวาดที่มีวัตถุที่มองเห็นได้ แผนผังลำดับงาน ไดอะแกรม UML การไหลของข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ เค้าโครงเครือข่าย โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ
+ไฟล์ที่มีนามสกุล VSTM คือไฟล์เทมเพลตที่สร้างด้วย Microsoft Visio ซึ่งสนับสนุนมาโคร ไม่เหมือนกับไฟล์ VSDX ไฟล์ที่สร้างจากเทมเพลต VSTM สามารถเรียกใช้มาโครที่พัฒนาขึ้นในโค้ด Visual Basic for Applications (VBA) ไฟล์เทมเพลตสามารถสร้างขึ้นเพื่อให้การตั้งค่าพื้นฐานของเอกสารที่สามารถใช้เพื่อสร้างเอกสารเพิ่มเติมด้วยการตั้งค่าเหล่านี้ ไฟล์ Visio ใช้สำหรับสร้างภาพวาดที่มีวัตถุที่มองเห็นได้ แผนผังลำดับงาน ไดอะแกรม UML การไหลของข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ เค้าโครงเครือข่าย โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -132,23 +132,23 @@ visio.save("output.vstm", SaveFileFormat.VSTM);
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง VSSX เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบตามรายการด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-bmp/" name="VSSX เป็น BMP" description="ภาพบิตแมป" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-emf/" name="VSSX เป็น EMF" description="รูปแบบไฟล์ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-bmp/" name="VSSX ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-emf/" name="VSSX ถึง EMF" description="รูปแบบไฟล์ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-html/" name="VSSX เป็น HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-jpeg/" name="VSSX เป็น JPEG" description="ภาพ JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-pdf/" name="VSSX เป็น PDF" description="รูปแบบเอกสารพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-png/" name="VSSX เป็น PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-jpeg/" name="VSSX ถึง JPEG" description="ภาพ JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-pdf/" name="VSSX ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-png/" name="VSSX ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-svg/" name="VSSX ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-tiff/" name="VSSX เป็น TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vdx/" name="VSSX เป็น VDX" description="Microsoft Visio รูปแบบการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-tiff/" name="VSSX ถึง TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vdx/" name="VSSX ถึง VDX" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsdm/" name="VSSX ถึง VSDM" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsdx/" name="VSSX ถึง VSDX" description="Microsoft Visio รูปแบบ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vssm/" name="VSSX ถึง VSSM" description="Microsoft Visio ไฟล์ลายฉลุ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vstx/" name="VSSX เป็น VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vstx/" name="VSSX ถึง VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vsx/" name="VSSX ถึง VSX" description="ลายฉลุ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vtx/" name="VSSX เป็น VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-vtx/" name="VSSX ถึง VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-xaml/" name="VSSX ถึง XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-xps/" name="VSSX เป็น XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssx-to-xps/" name="VSSX ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

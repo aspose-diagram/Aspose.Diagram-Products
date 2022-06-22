@@ -2,7 +2,7 @@
 title: .NET経由の透かしVSSドキュメント 
 weight: 3050
 url: /ja/net/watermark/vss/ 
-description: .NETフレームワーク、.NETコア、Monoプラットフォームのvssファイルに透かしを追加するためのC#ソースコード。
+description: .NET Framework、.NETコア、Monoプラットフォーム上のvssファイルに透かしを追加するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#のVSSにテキスト透かしを追加" h2="MicrosoftやOpenOffice、Adobe PDFなどのソフトウェアを使用せずに、サーバー側のAspose.Diagramfor .NETAPIを使用したネイティブで高性能のVSSドキュメント透かし。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windowsまたは.NETフレームワーク、.NETコア、Mono、またはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
+- MicrosoftWindowsまたは.NETFramework、.NETコア、MonoまたはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="透かしVSSファイル-C#" offSpacer="" %}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="約Aspose.Diagramfor .NETAPI" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 透かしが入り、即座に連結されます。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSSは、MicrosoftVisio2007以前で作成されたステンシルファイルです。比較的新しいファイル形式は、Microsoft Visio 2013で導入された.VSSXです。ステンシルファイルは、.VSDVisio図面に含めることができる図面オブジェクトを提供します。 Microsoft Visio自体は、形状のコレクション、コネクタ、フローチャート、ネットワークレイアウト、UMLダイアグラム、ソフトウェアダイアグラム、データベースモデル、オブジェクトマッピング、その他の同様の情報などの描画要素を作成することで知られています。また、VisioドキュメントからPNG、BMP、PDFなどの他のファイル形式への豊富な変換機能も備えています。 Visioは、WindowsとMacOSの両方で使用できます。 
+VSSは、MicrosoftVisio2007以前で作成されたステンシルファイルです。比較的新しいファイル形式は、Microsoft Visio 2013で導入された.VSSXです。ステンシルファイルは、。VSDVisio図面に含めることができる図面オブジェクトを提供します。 Microsoft Visio自体は、形状のコレクション、コネクタ、フローチャート、ネットワークレイアウト、UMLダイアグラム、ソフトウェアダイアグラム、データベースモデル、オブジェクトマッピング、その他の同様の情報などの描画要素を作成することで知られています。また、VisioドキュメントからPNG、BMP、PDFなどの他のファイル形式への豊富な変換機能も備えています。 Visioは、WindowsとMacOSの両方で使用できます。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

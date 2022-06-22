@@ -2,7 +2,7 @@
 title: Podziel pliki VDW przez .NET 
 weight: 1300
 url: /pl/net/splitter/vdw/ 
-description: C# kod źródłowy do podzielenia pliku vdw na .NET Framework, .NET Core, Mono Platforms.
+description: C# kod źródłowy do podziału pliku vdw na platformach .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Podziel VDW w C#" h2="Natywny i wydajny rozdzielacz dokumentów VDW wykorzystujący interfejsy API Aspose.Diagramfor .NET po stronie serwera, bez użycia oprogramowania, takiego jak Microsoft lub Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ Iteruj po każdej stronie
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -95,7 +95,7 @@ Iteruj po każdej stronie
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie natychmiast skompresowany i połączony." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW to format pliku Visio Graphics Service, który określa strumienie i magazyny wymagane do renderowania rysunku internetowego. Rysunek internetowy to zbiór stron rysunku, kształtów, czcionek, obrazów, połączeń danych i informacji o aktualizacji diagramu, które można renderować jako rysunek wektorowy lub rastrowy. Pliki VDW można również otwierać w Microsoft Visio, ale są one przede wszystkim zapisywane do użytku w Internecie. Firma Microsoft Visio oferuje możliwość konwertowania plików Visio na wiele różnych formatów plików, w tym PNG, BMP, PDF i inne. 
+VDW to format pliku Visio Graphics Service, który określa strumienie i magazyny wymagane do renderowania rysunku internetowego. Rysunek internetowy to zbiór stron rysunku, kształtów, czcionek, obrazów, połączeń danych i diagram informacji o aktualizacjach, które można renderować jako rysunek wektorowy lub rastrowy. Pliki VDW można również otwierać w Microsoft Visio, ale są one przede wszystkim zapisywane do użytku w Internecie. Microsoft Visio oferuje możliwość konwertowania Visio plików na wiele różnych formatów plików, w tym PNG, BMP, PDF i inne. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ VDW to format pliku Visio Graphics Service, który określa strumienie i magazyn
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty podziału" subTitle="Używając C#, można łatwo podzielić różne formaty, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="VSD" description="Rysunki Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Microsoft Visio Rysunki" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vdx/" name="Vdx" description="Visio plik XML rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssx/" name="VSSX" description="Visio plik szablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vstx/" name="VSTX" description="Visio plik szablonu" >}}

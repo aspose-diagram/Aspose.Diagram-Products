@@ -14,7 +14,7 @@ description: Exempelkod för VST till PNG C#-konvertering. Använd API exempelko
 
  För att konvertera VST till PNG kommer vi att använda
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppet
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  pakethanterare, sök efter
  Aspose.Diagram 
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagrammet för att exportera resultatet till andra format.
+ Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagram för att exportera resultatet till andra format.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Filer med VST-tillägg är vektorbildfiler skapade med Microsoft Visio och fungerar som mall för att skapa ytterligare filer. Dessa mallfiler är i binärt filformat och innehåller standardlayouten och inställningarna som används för att skapa nya Visio-ritningar. När en VST-fil öppnas i Microsoft Visio innehåller den de befintliga inställningarna för att fortsätta arbeta med dokumentet. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
+Filer med VST-tillägg är vektorbildfiler skapade med Microsoft Visio och fungerar som mall för att skapa ytterligare filer. Dessa mallfiler är i binärt filformat och innehåller standardlayouten och inställningarna som används för att skapa nya Visio-ritningar. När en VST-fil öppnas i Microsoft Visio innehåller den de befintliga inställningarna för att fortsätta arbeta med dokumentet. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="png" readMoreLink="https://docs.fileformat.com/image/png/" >}}
-PNG, Portable Network Graphics, hänvisar till en typ av rasterbildsfilformat som använder förlustfri komprimering. Det här filformatet skapades som en ersättning för Graphics Interchange Format (GIF) och har inga upphovsrättsliga begränsningar. PNG-filformat stöder dock inte animationer. PNG-filformat stöder förlustfri bildkomprimering som gör det populärt bland sina användare. Med tidens gång har PNG utvecklats till ett av de mest använda bildfilformaten. Nästan alla operativsystem har stöd för att öppna PNG-filer. Till exempel har Microsoft Windows Viewer förmågan att öppna PNG-filer eftersom operativsystemet som standard har stödet tillgängligt som en del av installationen.
+PNG, Portable Network Graphics, hänvisar till en typ av rasterbildsfilformat som använder förlustfri komprimering. Det här filformatet skapades som en ersättning för Graphics Interchange Format (GIF) och har inga upphovsrättsliga begränsningar. PNG-filformat stöder dock inte animationer. PNG-filformat stöder förlustfri bildkomprimering som gör det populärt bland sina användare. Med tidens gång har PNG utvecklats till ett av de mest använda bildfilformaten. Nästan alla operativsystem har stöd för att öppna PNG-filer. Till exempel har Microsoft Windows Viewer möjlighet att öppna PNG-filer eftersom operativsystemet som standard har stöd som är tillgängligt som en del av installationen.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,13 +114,13 @@ PNG, Portable Network Graphics, hänvisar till en typ av rasterbildsfilformat so
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST TILL VDX" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST TILL VSDX" description="Microsoft Visio-format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST TILL VSSM" description="Microsoft Visio stencilfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST TILL VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST TILL VSSM" description="Microsoft Visio Stencilfiler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xaml/" name="VST TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xps/" name="VST TILL XPS" description="XML-pappersspecifikationer" >}}
 

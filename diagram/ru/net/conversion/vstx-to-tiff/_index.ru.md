@@ -14,7 +14,7 @@ description: Пример кода для преобразования VSTX в T
 
  Чтобы преобразовать VSTX в TIFF, мы будем использовать
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API — многофункциональное, мощное и простое в использовании средство обработки и преобразования документов API для платформы C#. Открыть
+ API — многофункциональное, мощное и простое в использовании средство обработки и преобразования документов API для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  менеджер пакетов, поиск
  Aspose.Diagram 
@@ -39,11 +39,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики .NET могут легко загружать и преобразовывать файлы VSTX в TIFF, написав всего несколько строк кода.
+ Разработчики .NET могут легко загружать и преобразовывать файлы VSTX в формат TIFF, написав всего несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузите файл VSTX с экземпляром класса Diagram1. Вызовите метод Diagram.Save с путем к выходному файлу и SaveFileFormat.TIFF в качестве параметров.1. Файл TIFF будет сохранен по указанному пути
+1. Загрузить файл VSTX с экземпляром класса Diagram1. Вызовите метод Diagram.Save с путем к выходному файлу и SaveFileFormat.TIFF в качестве параметров.1. Файл TIFF будет сохранен по указанному пути
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или COM Interop.- Среда разработки, такая как Microsoft Visual Studio.- Aspose.Diagram for .NET DLL, на которые ссылается ваш проект.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="В этом примере кода показано преобразование VSTX в TIFF C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Этот пример кода показывает преобразование VSTX в TIFF C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstx-to-tiff.cs" >}}
 
@@ -73,12 +73,12 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/demobox sectionTitle="Бесплатное приложение для преобразования VSTX в TIFF" sectionDescription="Проверьте наши живые демонстрации для [Преобразование VSTX в TIFF](https://products.aspose.app/diagram/conversion/vstx-to-tiff) со следующими преимуществами." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Не нужно ничего скачивать или настраивать." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файл VSTX и нажмите кнопку «Конвертировать»." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файл VSTX и нажмите кнопку \"Конвертировать\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Вы сразу же получите ссылку для скачивания результирующего файла TIFF." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Библиотека управления Diagram, специально разработанная для работы с файлами Microsoft Visio. Это позволяет разработчикам создавать, манипулировать и преобразовывать собственные форматы Visio. Разработчики могут создавать диаграммы с нуля, а также легко загружать существующие файлы и манипулировать элементами диаграммы, чтобы экспортировать результат в другие форматы.
+ Библиотека управления Diagram, специально разработанная для работы с файлами Microsoft Visio. Это позволяет разработчикам создавать, манипулировать и преобразовывать собственные форматы Visio. Разработчики могут создавать диаграммы с нуля, а также легко загружать существующие файлы и манипулировать элементами diagram, чтобы экспортировать результат в другие форматы.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/image/vstx/" >}}
-Файлы с расширениями VSTX представляют собой файлы шаблонов чертежей, созданные с помощью Microsoft Visio 2013 и более поздних версий. Эти файлы VSTX служат отправной точкой для создания чертежей Visio, сохраненных в виде файлов .VSDX, с макетом и настройками по умолчанию. Как правило, файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, схемы UML, информационные потоки, организационные схемы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие. Программы, которые открывают файлы VSTX, включают Microsoft Visio для Windows и Mac, которые позволяют открывать эти файлы для просмотра и редактирования. Он также позволяет конвертировать форматы файлов Visio в ряд других форматов.
+Файлы с расширениями VSTX представляют собой файлы шаблонов чертежей, созданные с помощью Microsoft Visio 2013 и более поздних версий. Эти файлы VSTX служат отправной точкой для создания чертежей Visio, сохраненных в виде файлов .VSDX, с макетом и настройками по умолчанию. Как правило, файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, UML diagram, информационный поток, организационные диаграммы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие. Программы, которые открывают файлы VSTX, включают Microsoft Visio для Windows и Mac, которые позволяют открывать эти файлы для просмотра и редактирования. Он также позволяет конвертировать форматы файлов Visio в ряд других форматов.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,22 +105,22 @@ TIFF или TIF, Tagged Image File Format, представляет собой �
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать VSTX во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-bmp/" name="VSTX В BMP" description="Растровое изображение" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-emf/" name="VSTX К ЭДС" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-emf/" name="VSTX В ЭДС" description="Расширенный формат метафайла" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-html/" name="VSTX В HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-jpeg/" name="VSTX в JPEG" description="Изображение в формате JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-pdf/" name="VSTX в PDF" description="Портативный формат документа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-png/" name="VSTX в PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-jpeg/" name="VSTX В JPEG" description="Изображение в формате JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-pdf/" name="VSTX В PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-png/" name="VSTX В PNG" description="Портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-svg/" name="VSTX В SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-swf/" name="VSTX В SWF" description="SWF-формат" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vdx/" name="VSTX НА VDX" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdm/" name="VSTX В VSDM" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdx/" name="VSTX НА VSDX" description="Формат Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssm/" name="VSTX В VSSM" description="Файлы трафаретов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssx/" name="VSTX В VSSX" description="Трафареты для рисования" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstm/" name="VSTX В VSTM" description="Файлы шаблонов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstx/" name="VSTX В VSTX" description="Шаблон чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsx/" name="VSTX В VSX" description="Трафареты" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vtx/" name="VSTX В VTX" description="Шаблон чертежа Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vdx/" name="VSTX К VDX" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdm/" name="VSTX К VSDM" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsdx/" name="VSTX К VSDX" description="Microsoft Visio Формат" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssm/" name="VSTX К VSSM" description="Microsoft Visio Файлы трафаретов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vssx/" name="VSTX К VSSX" description="Трафареты для рисования" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstm/" name="VSTX К VSTM" description="Microsoft Visio Файлы шаблонов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vstx/" name="VSTX К VSTX" description="Microsoft Visio Шаблон чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vsx/" name="VSTX К VSX" description="Трафареты" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-vtx/" name="VSTX К VTX" description="Microsoft Visio Шаблон чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-xaml/" name="VSTX В XAML" description="Расширяемый язык разметки приложений" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstx-to-xps/" name="VSTX В XPS" description="Спецификации XML-бумаги" >}}
 

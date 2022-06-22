@@ -1,7 +1,7 @@
 ﻿---
 title: Podziel Visio strony w C#
 url: /pl/net/splitter/
-description: C# kody źródłowe wyjaśniające, jak podzielić pliki Microsoft Visio na wiele plików w aplikacjach wizualnych C#.NET
+description: C# kody źródłowe wyjaśniające, jak podzielić Microsoft Visio plików na wiele plików w aplikacjach wizualnych C#.NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Dzielenie plików przez .NET" h2="Podziel pojedynczy dokument Visio na różne pliki przy użyciu C# kodu w .NET aplikacjach opartych na" >}}
@@ -12,7 +12,7 @@ description: C# kody źródłowe wyjaśniające, jak podzielić pliki Microsoft 
 {{% blocks/products/pf/feature-page-section h2="Podziel Visiodokument na wiele plików" %}}
 Najprostszym sposobem podziału Visio plików na stronę jest dostęp do wszystkich stron przez [strony](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram/properties/pages)Iterowanie przez każdą stronę i wywoływanie [Kopiuj](https://apireference.aspose.com/diagram/net/aspose.diagram/page/methods/copy) metoda. Wreszcie zapisując go w określonej ścieżce. 
 
-+ Załaduj plik Visio z pełną ścieżką za pomocą [klasa diagramu](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram).
++ Załaduj plik Visio z pełną ścieżką za pomocą [diagram klasa](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram).
 Iteruj po każdej stronie
 + Utwórz nowy Diagram obiekt klasy
 + Skopiuj stronę przez [Metoda kopiowania](https://apireference.aspose.com/diagram/net/aspose.diagram/page/methods/copy)

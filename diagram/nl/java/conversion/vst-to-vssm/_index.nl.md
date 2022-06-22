@@ -2,7 +2,7 @@
 title: Converteer VST naar VSSM via Java 
 weight: 2780
 url: /nl/java/conversion/vst-to-vssm/ 
-description: Voorbeeld Java conversiecode voor VST-indeling naar VSSM-bestand. Gebruik deze voorbeeldcode om VST naar VSSM te converteren binnen een web- of desktoptoepassing Java.
+description: Voorbeeld Java-conversiecode voor VST-indeling naar VSSM-bestand. Gebruik deze voorbeeldcode om VST te converteren naar VSSM binnen een web- of desktoptoepassing op Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer VST naar VSSM via Java" h2="Exporteer Microsoft Visio VST naar VSSM met behulp van native Java-bibliotheek." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VST" >}}
@@ -12,7 +12,7 @@ description: Voorbeeld Java conversiecode voor VST-indeling naar VSSM-bestand. G
 
 {{% blocks/products/pf/agp/content h2="Hoe VST naar VSSM te converteren met Java" %}}
 
- Om VST naar VSSM te renderen, gebruiken we
+ Om VST weer te geven naar VSSM, gebruiken we
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, een veelzijdig, krachtig en gebruiksvriendelijk conversieplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -56,11 +56,11 @@ description: Voorbeeld Java conversiecode voor VST-indeling naar VSSM-bestand. G
 
 {{% blocks/products/pf/agp/text %}}
 
- Java ontwikkelaars kunnen VST-bestanden eenvoudig converteren naar VSSM in slechts een paar regels code.
+ Java ontwikkelaars kunnen VST-bestanden gemakkelijk converteren naar VSSM in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Laad VST-bestand met een instantie van Diagram class1. Roep Diagram.save-methode aan met pad naar uitvoerbestand en SaveFileFormat als parameters1. VSSM-bestand wordt opgeslagen op het opgegeven pad
+1. Laad VST-bestand met een instantie van Diagram class1. Roep Diagram.save-methode aan met pad naar uitvoerbestand en SaveFileFormat als parameters1. VSSM bestand wordt opgeslagen op het opgegeven pad
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
@@ -71,15 +71,15 @@ description: Voorbeeld Java conversiecode voor VST-indeling naar VSSM-bestand. G
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
+- Microsoft Windows of een compatibel besturingssysteem met Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VST naar VSSM Java Broncode voor conversie" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VST naar VSSM Java Conversiebroncode" offSpacer="" %}}
 
 ```cs
 // laad de VST in een object van Diagram 
 Diagram visio = new Diagram("template.vst");
-// sla VST op als VSSM 
+// VST opslaan als VSSM 
 visio.save("output.vssm", SaveFileFormat.VSSM);   
 
 
@@ -94,15 +94,15 @@ visio.save("output.vssm", SaveFileFormat.VSSM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VST naar VSSM Conversie Live demo\'s" sectionDescription="[Converteer VST naar VSSM](https://products.aspose.app/diagram/conversion/vst-to-vssm) op dit moment door onze Live Demo\'s-website te bezoeken. De live demo heeft de volgende voordelen:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VST naar VSSM conversie live demo\'s" sectionDescription="[Converteer VST naar VSSM](https://products.aspose.app/diagram/conversion/vst-to-vssm) op dit moment door onze Live Demo\'s-website te bezoeken. De live demo heeft de volgende voordelen:" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft Aspose API niet te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VST-bestand, het wordt direct geconverteerd naar VSSM." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VST-bestand, het wordt onmiddellijk geconverteerd naar VSSM." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" U krijgt de downloadlink." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulatiebibliotheek" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vssm", SaveFileFormat.VSSM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-Bestanden met de extensie VST zijn vectorafbeeldingsbestanden die zijn gemaakt met Microsoft Visio en fungeren als sjabloon voor het maken van verdere bestanden. Deze sjabloonbestanden hebben een binaire bestandsindeling en bevatten de standaardlay-out en instellingen die worden gebruikt voor het maken van nieuwe Visio-tekeningen. Wanneer een VST-bestand wordt geopend in Microsoft Visio, bevat het de bestaande instellingen om verder te werken met het document. Over het algemeen worden Visio-bestanden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
+Bestanden met de extensie VST zijn vectorafbeeldingsbestanden die zijn gemaakt met Microsoft Visio en fungeren als sjabloon voor het maken van verdere bestanden. Deze sjabloonbestanden zijn in binaire bestandsindeling en bevatten de standaardlay-out en instellingen die worden gebruikt voor het maken van nieuwe Visio tekeningen. Wanneer een VST-bestand wordt geopend in Microsoft Visio, bevat het de bestaande instellingen om verder te werken met het document. Over het algemeen worden Visio-bestanden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-Bestanden met de extensie .VSSM zijn Microsoft Visio-stencilbestanden die ondersteuning bieden voor macro's. Wanneer een VSSM-bestand wordt geopend, kunnen de macro's worden uitgevoerd om de gewenste opmaak en plaatsing van vormen in een diagram te bereiken. Over het algemeen is Microsoft Visio tekensoftware waarmee bestanden kunnen worden gemaakt die door de gebruiker gedefinieerde informatie in verschillende vormen kunnen bevatten en weergeven. De meest voorkomende hiervan zijn, maar zijn niet beperkt tot, UML-diagrammen, stroomdiagrammen, visuele objecten, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, het in kaart brengen van objecten en andere soortgelijke informatie. Bestanden die zijn gegenereerd met Visio kunnen ook worden geconverteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
+Bestanden met de extensie .VSSM zijn Microsoft Visio stencilbestanden die ondersteuning bieden voor macro's. Wanneer een VSSM-bestand wordt geopend, kunnen de macro's worden uitgevoerd om de gewenste opmaak en plaatsing van vormen in een diagram te bereiken. Over het algemeen is Microsoft Visio tekensoftware waarmee bestanden kunnen worden gemaakt die door de gebruiker gedefinieerde informatie in verschillende vormen kunnen bevatten en weergeven. De meest voorkomende hiervan zijn, maar zijn niet beperkt tot, UML-diagrammen, stroomdiagrammen, visuele objecten, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, het in kaart brengen van objecten en andere soortgelijke informatie. Bestanden die zijn gegenereerd met Visio kunnen ook worden geconverteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -142,9 +142,9 @@ Bestanden met de extensie .VSSM zijn Microsoft Visio-stencilbestanden die onders
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="VST NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST NAAR VDX" description="Microsoft Visio Tekenindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VST NAAR VSDX" description="Microsoft Visio-indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VST NAAR VSDX" description="Microsoft Visio Indeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST NAAR VTX" description="Microsoft Visio Tekensjabloon" >}}

@@ -71,7 +71,7 @@ description: Voorbeeld Java conversiecode voor VDW-indeling naar XPS-bestand. Ge
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
+- Microsoft Windows of een compatibel besturingssysteem met Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDW naar XPS Java Conversiebroncode" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulatiebibliotheek" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDW is de Visio Graphics Service-bestandsindeling die de streams en opslag specificeert die nodig zijn voor het renderen van een webtekening. Een webtekening is een verzameling tekenpagina's, vormen, lettertypen, afbeeldingen, gegevensverbindingen en informatie over diagramupdates die als vector- of rastertekening kan worden weergegeven. VDW-bestanden kunnen ook worden geopend in Microsoft Visio, maar worden voornamelijk opgeslagen voor gebruik op internet. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere.
+VDW is de Visio Graphics Service-bestandsindeling die de streams en opslag specificeert die nodig zijn voor het renderen van een webtekening. Een webtekening is een verzameling tekenpagina's, vormen, lettertypen, afbeeldingen, gegevensverbindingen en diagram update-informatie die kan worden weergegeven als vector- of rastertekening. VDW-bestanden kunnen ook worden geopend in Microsoft Visio, maar worden voornamelijk opgeslagen voor gebruik op internet. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
 
-Een XPS-bestand vertegenwoordigt paginalay-outbestanden die zijn gebaseerd op XML Paper-specificaties die zijn gemaakt door Microsoft. Deze indeling is door Microsoft ontwikkeld als vervanging van de EMF-bestandsindeling en is vergelijkbaar met de PDF-bestandsindeling, maar gebruikt XML voor de lay-out, het uiterlijk en de afdrukinformatie van een document. Het is in feite meer gerechtvaardigd om te zeggen dat XPS een poging tot PDF is, maar om een aantal redenen niet genoeg populariteit kon krijgen als eigendom van PDF. Microsoft biedt vanaf Windows 7 standaard XPS Document Writer aan voor het maken van XPS-bestanden. XPS-bestanden kunnen worden gegenereerd door de "Microsoft XPS Document Writer" als printer te selecteren tijdens het afdrukken van het document.
+Een XPS-bestand vertegenwoordigt paginalay-outbestanden die zijn gebaseerd op XML Paper-specificaties die zijn gemaakt door Microsoft. Deze indeling is ontwikkeld door Microsoft als vervanging van de EMF-bestandsindeling en is vergelijkbaar met de PDF-bestandsindeling, maar gebruikt XML voor de lay-out, het uiterlijk en de afdrukinformatie van een document. Het is in feite meer gerechtvaardigd om te zeggen dat XPS een poging tot PDF is, maar om een aantal redenen niet genoeg populariteit kon krijgen als eigendom van PDF. Microsoft biedt vanaf Windows 7 standaard XPS Document Writer voor het maken van XPS-bestanden. XPS-bestanden kunnen worden gegenereerd door de "Microsoft XPS Document Writer" als printer te selecteren tijdens het afdrukken van het document.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -142,10 +142,10 @@ Een XPS-bestand vertegenwoordigt paginalay-outbestanden die zijn gebaseerd op XM
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDW NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW NAAR VDX" description="Microsoft Visio Tekenindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW NAAR VSDX" description="Microsoft Visio-indeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW NAAR VSDX" description="Microsoft Visio Indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW NAAR VTX" description="Microsoft Visio Tekensjabloon" >}}

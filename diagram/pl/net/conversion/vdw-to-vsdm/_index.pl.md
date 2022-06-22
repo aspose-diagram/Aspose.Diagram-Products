@@ -2,7 +2,7 @@
 title: Konwertuj VDW na VSDM przez C# 
 weight: 2500
 url: /pl/net/conversion/vdw-to-vsdm/ 
-description: Przykładowy kod konwersji VDW do VSDM C#. Użyj przykładowego kodu API dla wsadowych plików VDW do konwersji VSDM w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
+description: Przykładowy kod konwersji VDW na VSDM C#. Użyj API przykładowego kodu dla wsadowych plików VDW do VSDM konwersji w ramach VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj VDW na VSDM przez C#" h2="Eksportuj pliki Microsoft® Visio VDW do VSDM na .NET Framework, .NET Core, Mono lub COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDW" >}}
@@ -14,7 +14,7 @@ description: Przykładowy kod konwersji VDW do VSDM C#. Użyj przykładowego kod
 
  Aby przekonwertować VDW na VSDM, użyjemy
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do manipulacji i konwersji dokumentów API na platformę C#. otwarty
+ API to bogata w funkcje, wydajna i łatwa w użyciu platforma do manipulacji i konwersji dokumentów API na C#. otwarty
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  menedżer pakietów, szukaj
  Aspose.Diagram 
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VDW na VSDM za pomocą C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VDW na VSDM przez C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Załaduj plik VDW z instancją klasy Diagram1. Wywołaj metodę Diagram.Save ze ścieżką pliku wyjściowego i SaveFileFormat.VSDM jako parametrami1. Plik VSDM zostanie zapisany pod określoną ścieżką
+1. Załaduj plik VDW z instancją klasy Diagram1. Wywołaj metodę Diagram.Save ze ścieżką pliku wyjściowego i SaveFileFormat.VSDM jako parametrami1. VSDM plik zostanie zapisany pod określoną ścieżką
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Mono lub COM Interop.- Środowisko programistyczne, takie jak Microsoft Visual Studio.- Aspose.Diagram for .NET DLL, do którego odwołuje się Twój projekt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Ten przykładowy kod przedstawia konwersję VDW do VSDM C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Ten przykładowy kod pokazuje VDW do VSDM C# konwersji" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdw-to-vsdm.cs" >}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Darmowa aplikacja do konwersji VDW na VSDM" sectionDescription="Sprawdź nasze prezentacje na żywo dla [Konwersja VDW do VSDM](https://products.aspose.app/diagram/conversion/vdw-to-vsdm) z następującymi korzyściami." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Bezpłatna aplikacja do konwersji VDW na VSDM" sectionDescription="Sprawdź nasze prezentacje na żywo dla [VDW do VSDM konwersji](https://products.aspose.app/diagram/conversion/vdw-to-vsdm) z następującymi korzyściami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz niczego pobierać ani konfigurować." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie musisz pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VDW i naciśnij przycisk „Konwertuj”." >}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Biblioteka zarządzania Diagram zaprojektowana specjalnie do pracy z plikami firmy Microsoft Visio. Pozwala programistom tworzyć, manipulować i konwertować natywne formaty Visio. Deweloperzy mogą tworzyć diagramy od podstaw, a także łatwo ładować istniejące pliki i manipulować elementami diagramu, aby wyeksportować wynik w innych formatach.
+ Biblioteka zarządzania Diagram zaprojektowana specjalnie do pracy z plikami Microsoft Visio. Pozwala programistom tworzyć, manipulować i konwertować natywne formaty Visio. Deweloperzy mogą tworzyć diagramy od podstaw, a także łatwo ładować istniejące pliki i manipulować elementami diagram, aby wyeksportować wynik w innych formatach.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW to format pliku Visio Graphics Service, który określa strumienie i magazyny wymagane do renderowania rysunku internetowego. Rysunek internetowy to zbiór stron rysunku, kształtów, czcionek, obrazów, połączeń danych i informacji o aktualizacji diagramu, które można renderować jako rysunek wektorowy lub rastrowy. Pliki VDW można również otwierać w Microsoft Visio, ale są one przede wszystkim zapisywane do użytku w Internecie. Firma Microsoft Visio oferuje możliwość konwertowania plików Visio na wiele różnych formatów plików, w tym PNG, BMP, PDF i inne.
+VDW to format pliku Visio Graphics Service, który określa strumienie i magazyny wymagane do renderowania rysunku internetowego. Rysunek internetowy to zbiór stron rysunku, kształtów, czcionek, obrazów, połączeń danych i diagram informacji o aktualizacjach, które można renderować jako rysunek wektorowy lub rastrowy. Pliki VDW można również otwierać w Microsoft Visio, ale są one przede wszystkim zapisywane do użytku w Internecie. Microsoft Visio oferuje możliwość konwertowania Visio plików na wiele różnych formatów plików, w tym PNG, BMP, PDF i inne.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vsdm" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
-Pliki z rozszerzeniem VSDM to pliki rysunków utworzone za pomocą aplikacji Microsoft Visio obsługującej makra. Pliki VSDM to rysunki OPC/XML, które są podobne do VSDX, ale zapewniają również możliwość uruchamiania makr po otwarciu pliku. Makra to zdefiniowane przez użytkownika czynności/kroki, które zostały opracowane w języku Visual Basic for Applications (VBA) i mogą być używane do wykonywania powtarzalnych zadań. Format plików VSDM został wprowadzony wraz z uruchomieniem Microsoft Visio 2013. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
+Pliki z rozszerzeniem VSDM to pliki rysunków utworzone za pomocą aplikacji Microsoft Visio obsługującej makra. Pliki VSDM to rysunki OPC/XML, które są podobne do VSDX, ale zapewniają również możliwość uruchamiania makr po otwarciu pliku. Makra to zdefiniowane przez użytkownika czynności/kroki, które zostały opracowane w języku Visual Basic for Applications (VBA) i mogą być używane do wykonywania powtarzalnych zadań. Format plików VSDM został wprowadzony wraz z wprowadzeniem Microsoft Visio 2013. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,13 +114,13 @@ Pliki z rozszerzeniem VSDM to pliki rysunków utworzone za pomocą aplikacji Mic
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-swf/" name="VDW DO SWF" description="Format SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-tiff/" name="VDW DO TIFF" description="Oznaczony format obrazu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW DO VDX" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW DO VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW DO VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW DO VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW DO VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW DO VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW DO VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW DO VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW DO VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW DO VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW DO VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW DO VTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW DO XAML" description="Rozszerzalny język znaczników aplikacji" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xps/" name="VDW DO XPS" description="Specyfikacje papieru XML" >}}
 

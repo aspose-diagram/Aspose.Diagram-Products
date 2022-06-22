@@ -13,7 +13,7 @@ description: Visio 用于创建、操作和转换图表的库。在基于 Java �
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java 是一个强大的 Microsoft Visio 文档处理API。它提供了常见的功能，例如创建、解析和转换原生 Visio 格式以及支持一些常用的图像和固定布局格式。应用程序可以加载现有文档并操纵图表元素以自己的格式、图像或固定布局格式导出结果。
+ Aspose.Diagram for Java 是一个强大的 Microsoft Visio 文档处理 API。它提供了常见的功能，例如创建、解析和转换原生 Visio 格式以及支持一些常用的图像和固定布局格式。应用程序可以加载现有文档并操纵 diagram 元素以自己的格式、图像或固定布局格式导出结果。
 </p>
 
 <p>
@@ -118,7 +118,7 @@ description: Visio 用于创建、操作和转换图表的库。在基于 Java �
      形状几何
     </li>
     <li>
-     注释
+     评论
     </li>
    </ul>
    <header>
@@ -212,7 +212,7 @@ description: Visio 用于创建、操作和转换图表的库。在基于 Java �
    <ul>
     <li>
      <b>
-      微软 Visio：
+      Microsoft Visio：
      </b>
      VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM
     </li>
@@ -225,7 +225,7 @@ description: Visio 用于创建、操作和转换图表的库。在基于 Java �
    <ul>
     <li>
      <b>
-      微软 Visio：
+      Microsoft Visio：
      </b>
      VDW、VSD、VSS、VST
     </li>
@@ -408,10 +408,10 @@ description: Visio 用于创建、操作和转换图表的库。在基于 Java �
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     解析 Microsoft Visio 文档
+     解析 Microsoft Visio 个文档
     </h2>
     <p>
-     Java 图表 API 允许读取 Microsoft Visio 应用程序的本机文件格式，从而允许您访问图表数据，例如文档页面、属性、母版、图像、形状、连接、解决方案 XML、图层、超链接、评论、StyleSheet、用户自定义单元格等。这些对象可以通过 API 进行操作，并且可以以任何支持的格式将结果写入磁盘。
+     Java diagram API 允许读取 Microsoft Visio 应用程序的本机文件格式，从而允许您访问 diagram 数据，如文档页面、属性、母版、图像、形状、连接、解决方案 XML 、图层、超链接、注释、样式表、用户自定义单元格等。这些对象可以通过 API 进行操作，结果可以任何支持的格式写入磁盘。
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio 用于创建、操作和转换图表的库。在基于 Java �
     </p>
     <div class="codeblock" id="code">
      <h3>
-      以不同格式保存图表 - Java
+      以不同格式保存 diagram - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      在容器中组织形状
     </h2>
     <p>
-     通常，开发人员会在容器中添加形状以使事物井井有条且易于理解。容器在形状周围添加了视觉边界，包括标签。要将容器和子形状添加到图表中，开发人员可以使用该库，因为它提供了一种简单快捷的方法。
+     通常，开发人员会在容器中添加形状以使事物井井有条且易于理解。容器在形状周围添加了视觉边界，包括标签。要将容器和子形状添加到 diagram，开发人员可以使用该库，因为它提供了一种简单快捷的方法。
     </p>
    </div>
    <div class="col-lg-12">

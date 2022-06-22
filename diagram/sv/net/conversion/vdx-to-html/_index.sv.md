@@ -2,7 +2,7 @@
 title: Konvertera VDX till HTML via C# 
 weight: 2970
 url: /sv/net/conversion/vdx-to-html/ 
-description: Exempelkod för konvertering från VDX till HTML C#. Använd API exempelkod för batch-VDX-filer till HTML-konvertering inom VB.NET, Asp.NET eller någon annan .NET-baserad applikation.
+description: Exempelkod för konvertering från VDX till HTML C#. Använd API exempelkod för batch-VDX-filer till HTML-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera VDX till HTML via C#" h2="Exportera Microsoft® Visio VDX-filer till HTML på .NET Framework, .NET Core, Mono eller COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDX" >}}
@@ -12,9 +12,9 @@ description: Exempelkod för konvertering från VDX till HTML C#. Använd API ex
 
 {{% blocks/products/pf/agp/content h2="Så här konverterar du VDX till HTML med C#" %}}
 
- För att konvertera VDX till HTML kommer vi att använda
+ För att konvertera VDX till HTML använder vi
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppet
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  pakethanterare, sök efter
  Aspose.Diagram 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Ladda VDX-fil med en instans av klassen Diagram1. Anropa metoden Diagram.Save med utdatafilsökväg och SaveFileFormat.HTML som parametrar1. HTML-filen kommer att sparas på den angivna sökvägen
+1. Ladda filen VDX med en instans av klassen Diagram1. Anropa metoden Diagram.Save med utdatafilsökväg och SaveFileFormat.HTML som parametrar1. HTML-filen kommer att sparas på den angivna sökvägen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Mono eller COM Interop.- Utvecklingsmiljö som Microsoft Visual Studio.- Aspose.Diagram for .NET DLL som refereras till i ditt projekt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Den här exempelkoden visar VDX till HTML C#-konvertering" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Den här exempelkoden visar omvandling från VDX till HTML C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdx-to-html.cs" >}}
 
@@ -73,12 +73,12 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att konvertera VDX till HTML" sectionDescription="Kolla in våra livedemos för [VDX till HTML-konvertering](https://products.aspose.app/diagram/conversion/vdx-to-html) med följande förmåner." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VDX-fil och tryck på \"Konvertera\"-knappen." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VDX-fil och tryck på \"Konvertera\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du kommer omedelbart att få nedladdningslänken för den resulterande HTML-filen." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagrammet för att exportera resultatet till andra format.
+ Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagram för att exportera resultatet till andra format.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Alla ritningar eller diagram som skapats i Microsoft Visio men sparats i XML-format har filtillägget .VDX. En Visio-ritnings-XML-fil skapas i programvaran Visio, som är utvecklad av Microsoft. Microsoft Visio har förmågan att generera visuella dokument som kan användas i presentationer och dokument. Visio-ritnings-XML-filen innehåller visuella objekt och metadatadetaljer för de visuella elementen. Text kan också läggas till dessa visuella element Vision drawing XML-fil. Dessa Visio-ritnings-XML-filer är integrerade med XML-baserade formateringsstandarder och bilddatakodningsspecifikationer som gör att dess innehåll kan renderas och lagras av Microsofts Visio-programvara i VDX-filformatet.
+Alla ritningar eller diagram skapade i Microsoft Visio men sparade i XML-format har tillägget .VDX. En Visio-ritnings-XML-fil skapas i programvaran Visio, som är utvecklad av Microsoft. Microsoft Visio har förmågan att generera visuella dokument som kan användas i presentationer och dokument. Visio-ritnings-XML-filen innehåller visuella objekt och metadatadetaljer för de visuella elementen. Text kan också läggas till dessa visuella element Vision drawing XML-fil. Dessa Visio-ritnings-XML-filer är integrerade med XML-baserade formateringsstandarder och bilddatakodningsspecifikationer som gör att dess innehåll kan renderas och lagras av programvaran Microsoft Visio i filformatet VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="html" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) är tillägget för webbsidor som skapats för visning i webbläsare. HTML, som är känt som webbens språk, har utvecklats med krav på nya informationskrav som ska visas som en del av webbsidor. Den senaste varianten är känd som HTML 5 som ger mycket flexibilitet för att arbeta med språket. HTML-sidor tas antingen emot från servern, där dessa är värd, eller kan också laddas från det lokala systemet. Varje HTML-sida är uppbyggd av HTML-element som formulär, text, bilder, animationer, länkar etc. Dessa element representeras av taggar som img, a, p och flera andra där varje tagg har start och slut. Det kan också bädda in applikationer skrivna på skriptspråk som JavaScript och Style Sheets (CSS) för övergripande layoutrepresentation.
+HTML (Hyper Text Markup Language) är tillägget för webbsidor som skapats för visning i webbläsare. HTML, som är känt som webbens språk, har utvecklats med krav på nya informationskrav som ska visas som en del av webbsidor. Den senaste varianten är känd som HTML 5 som ger mycket flexibilitet för att arbeta med språket. HTML-sidor tas antingen emot från servern, där dessa är värd, eller kan också laddas från det lokala systemet. Varje HTML-sida är uppbyggd av HTML-element som formulär, text, bilder, animationer, länkar etc. Dessa element representeras av taggar som img, a, p och flera andra där varje tagg har start och slut. Den kan också bädda in applikationer skrivna på skriptspråk som JavaScript och Style Sheets (CSS) för övergripande layoutrepresentation.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,13 +113,13 @@ HTML (Hyper Text Markup Language) är tillägget för webbsidor som skapats för
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-swf/" name="VDX TILL SWF" description="SWF-format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-tiff/" name="VDX TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdm/" name="VDX TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdx/" name="VDX TILL VSDX" description="Microsoft Visio-format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX TILL VSSM" description="Microsoft Visio stencilfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdx/" name="VDX TILL VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX TILL VSSM" description="Microsoft Visio Stencilfiler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssx/" name="VDX TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsx/" name="VDX TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xaml/" name="VDX TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xps/" name="VDX TILL XPS" description="XML-pappersspecifikationer" >}}
 

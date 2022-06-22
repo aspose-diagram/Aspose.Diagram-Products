@@ -1,8 +1,8 @@
 ﻿---
-title: 通过 .NET 在 VTX 文档中创建流程图样式组织结构图 
+title: 通过 .NET 在 VTX 文档中创建流程图样式的组织结构图 
 weight: 3050
 url: /zh/net/flowchart/vtx/ 
-description: C# 用于在 .NET 框架、.NET 核心、Mono 平台上的 vtx 文件中创建流程图样式组织结构图的源代码。
+description: C# 用于在 .NET Framework、.NET 核心、Mono 平台上的 vtx 文件中创建流程图样式组织结构图的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 C# 中的 VTX 中创建流程图样式组织图" h2="使用服务器端 Aspose.Diagram for .NET API 在 VTX 文档中创建本机和高性能的流程图样式组织结构图，无需使用 Microsoft 或 Open Office、Adobe PDF 等任何软件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,13 +39,13 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- 合并和连接的基本文档
+ 创建流程图风格的组织结构图
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  只需几行代码即可完成 API。
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ 从模板创建图表。
++ 从模板创建 diagram。
 + 通过其 id 选择页面
 + 将组织节点形状添加到页面。
 + 将连接器添加到页面以连接形状及其父级。
@@ -63,10 +63,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 在您的项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="在 VTX 文件中创建流程图样式组织图 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="在 VTX 个文件中创建流程图样式组织图 - C#" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-FlowChart.cs" >}}
 
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="关于Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
+ Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一个独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
 
 
 
@@ -90,14 +90,14 @@ PM> Install-Package Aspose.Diagram
     
     {{< blocks/products/pf/agp/about-file-section >}}
     
-        {{< blocks/products/pf/agp/demobox sectionTitle="在线 VTX 流程图样式组织结构图现场演示" sectionDescription="立即访问我们的在 VTX 文档中创建流程图样式组织图 [现场演示网站](https://products.aspose.app/diagram/flowchart).现场演示有以下好处" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="在线VTX流程图样式组织结构图现场演示" sectionDescription="立即在 VTX 文档中创建流程图样式组织结构图，方法是访问我们的 [现场演示网站](https://products.aspose.app/diagram/flowchart).现场演示有以下好处" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 VTX 文件。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 它将立即在 VTX 文档中创建流程图样式组织图。" >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/visio/vtx/" >}}
-扩展名为 .vtx 的文件是 Microsoft Visio 绘图模板，以 XML 文件格式保存到光盘。该模板旨在提供具有基本设置的文件，可用于创建具有相同设置的多个 Visio 文件。另一种类似的格式是 VST，它以二进制格式而不是 XML 格式保存。 Visio 2010 和更新版本支持 VTX 文件。 Visio 文件用于创建包含视觉对象、流程图、UML 图、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。 
+扩展名为 .vtx 的文件是以 XML 文件格式保存到光盘的 Microsoft Visio 绘图模板。该模板旨在提供具有基本设置的文件，可用于创建具有相同设置的多个 Visio 文件。另一种类似的格式是 VST，它以二进制格式而不是 XML 格式保存。 Visio 2010 和更新版本支持 VTX 文件。 Visio 文件用于创建包含视觉对象、流程图、UML diagram、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -107,7 +107,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的组织结构图格式" subTitle="使用 C#，可以轻松地创建不同格式的流程图样式组织图，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsd/" name="VSD" description="Microsoft Visio 绘图" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsd/" name="Vsd" description="Microsoft Visio 绘图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vdx/" name="Vdx" description="Visio 绘图 XML 文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vstm/" name="VSTM" description="Visio 启用宏的模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsdm/" name="VSDM" description="Visio 启用宏的绘图文件" >}}

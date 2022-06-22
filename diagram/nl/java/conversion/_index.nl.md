@@ -1,22 +1,22 @@
 ﻿---
 title: Java Microsoft Visio Bestandsconversie
 url: /nl/java/conversion/
-description: Converteer Microsoft Visio-formaten VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS naar HTML-afbeeldingen en PDF met een paar regels Java-code.
+description: Converteer Microsoft Visio-indelingen VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS naar HTML-afbeeldingen en PDF met enkele regels Java-code.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio formatteert conversie via Java" h2="Converteer MS Visio-diagrammen naar HTML, PDF en afbeeldingen, inclusief JPG, BMP, PNG, TIFF om platformonafhankelijke Java-applicaties te bouwen." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Conversie van indelingen via Java" h2="Converteer MS Visio-diagrammen naar HTML, PDF en afbeeldingen, inclusief JPG, BMP, PNG, TIFF om platformonafhankelijke Java-applicaties te bouwen." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Voor elke Microsoft Visio-indelingsoplossing, zoals het ontwerpen van stroomdiagrammen en zakelijke stroomdiagrammen enz. Java Visio API vereenvoudigt alle complexe tekeningen op een gemakkelijke manier. Laad het bronbestand met [Diagram klas](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) en roep de save-methode aan met de juiste parameters.
+Voor elke Microsoft Visio-indeling maakt rendering-oplossing zoals het ontwerpen van stroomdiagrammen en zakelijke stroomdiagrammen enz. Java Visio API alle complexe tekeningen op een gemakkelijke manier mogelijk. Laad het bronbestand met [Diagram klas](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) en roep de save-methode aan met de juiste parameters.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interconversie Visio bestanden" %}}
 
-Programmeurs kunnen eenvoudig de indelingen VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM converteren en VDW, VSD, VSS, VST en renders naar PDF, HTML en afbeeldingen laden. Rekening houdend met het scenario van VSDX naar VDX, is het proces, laad het bronbestand VSDX met behulp van de diagramklasse en roep de opslagmethode aan door een uitvoerbestand en [Bestandsindeling opslaan](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX als parameters. 
+Programmeurs kunnen eenvoudig de indelingen VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM converteren en VDW, VSD, VSS, VST en renders naar PDF, HTML en afbeeldingen. Rekening houdend met het scenario van VSDX tot VDX, is het proces, laad het bronbestand VSDX met behulp van de klasse diagram en roep de opslagmethode aan door het uitvoerbestand en [Bestandsindeling opslaan](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX als parameters. 
 
-{{% blocks/products/pf/feature-page-code h3="Java Code voor VSDX naar VDX-conversie" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code voor VSDX naar VDX conversie" %}}
 
 {{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-vdx.java" >}}
 
@@ -27,7 +27,7 @@ Programmeurs kunnen eenvoudig de indelingen VSDX, VSX, VTX, VDX, VSSX, VSTX, VSD
 
 {{% blocks/products/pf/feature-page-section h2="Visio naar afbeeldingen conversie" %}}
 
-Voor generieke conversie is het proces voor het converteren van Visio-bestanden naar afbeeldingen hetzelfde. Laad het bestand gewoon via Diagram class en roep de opslagmethode aan met uitvoerbestand en SaveFileFormat-uitvoerparameters. En wanneer het nodig is om specifieke opties te definiëren, kunnen ontwikkelaars de ImageSaveOptions-klasse gebruiken bij het converteren van diagrampagina's naar afbeeldingen en SVGSaveOptions voor SVG-conversie.
+Voor algemene conversie is het proces voor het converteren van visio bestanden naar afbeeldingen hetzelfde. Laad het bestand gewoon via Diagram class en roep de opslagmethode aan met uitvoerbestand en SaveFileFormat-uitvoerparameters. En wanneer het nodig is om specifieke opties te definiëren, kunnen ontwikkelaars de ImageSaveOptions-klasse gebruiken bij het converteren van diagram pagina's naar afbeeldingen en SVGSaveOptions voor SVG-conversie.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code om Visio te converteren naar afbeeldingsindelingen" %}}
 
@@ -46,7 +46,7 @@ Voor generieke conversie is het proces voor het converteren van Visio-bestanden 
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Visio naar PDF en HTML" %}}
 
-API kan Visio-indelingen zowel naar PDF als naar HTML converteren. Gebruik gewoon [Bestandsindeling opslaan](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF en SaveFileFormat.HTML binnen de opslagmethode als parameter. En voor speciale instellingen kunnen ontwikkelaars de klassen PdfSaveOptions en HTMLSaveOptions gebruiken.
+API kan visio-indelingen zowel naar PDF als naar HTML converteren. Gebruik gewoon [Bestandsindeling opslaan](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF en SaveFileFormat.HTML binnen de opslagmethode als parameter. En voor speciale instellingen kunnen ontwikkelaars de klassen PdfSaveOptions en HTMLSaveOptions gebruiken.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code voor Visio naar PDF-conversie" %}}
 

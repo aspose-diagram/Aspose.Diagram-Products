@@ -15,7 +15,7 @@ description: JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 J
  VSD 파일을 병합하기 위해 다음을 사용합니다.
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API은 기능이 풍부하고 강력하며 사용하기 쉬운 병합 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
- [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
@@ -77,7 +77,7 @@ description: JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 J
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 Java 런타임 환경과 호환되는 OS.- 에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오. [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경과 호환되는 OS.- 에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSD);
 
     {{% blocks/products/pf/agp/content h2="Aspose.Diagram for Java API 정보" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSD);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 병합 및 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-VSD 파일은 다양한 그래픽 개체와 이들 간의 상호 연결을 나타내기 위해 Microsoft Visio 응용 프로그램으로 만든 그림입니다. 이러한 도면에는 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보와 같은 시각적 개체가 포함될 수 있습니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다. 
+VSD 파일은 다양한 그래픽 개체와 이들 간의 상호 연결을 나타내기 위해 Microsoft Visio 응용 프로그램으로 만든 그림입니다. 이러한 도면에는 시각적 개체, 순서도, UML diagram, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보와 같은 시각적 개체가 포함될 수 있습니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

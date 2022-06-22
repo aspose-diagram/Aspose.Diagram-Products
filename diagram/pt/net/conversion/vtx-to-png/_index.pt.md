@@ -14,8 +14,8 @@ description: Código de amostra para conversão de VTX para PNG C#. Use API cód
 
  Para converter VTX para PNG, usaremos
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API que é uma plataforma de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar API para C#. Abrir
- [NuGetName](https://www.nuget.org/packages/aspose.diagram) 
+ API que é uma plataforma de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar API para C#. Aberto
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  gerenciador de pacotes, procure
  Aspose.Diagram 
  e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET os desenvolvedores podem facilmente carregar e converter arquivos VTX para PNG em apenas algumas linhas de código.
+ .NET os desenvolvedores podem facilmente carregar e converter VTX arquivos para PNG em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou COM Interop.- Ambiente de desenvolvimento como o Microsoft Visual Studio.- Aspose.Diagram for .NET DLL referenciada em seu projeto.
+- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou COM Interop.- Ambiente de desenvolvimento como Microsoft Visual Studio.- Aspose.Diagram for .NET DLL referenciada em seu projeto.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Este código de amostra mostra a conversão de VTX para PNG C#" offSpacer="" %}}
@@ -73,12 +73,12 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo gratuito para converter VTX para PNG" sectionDescription="Confira nossas demonstrações ao vivo para [Conversão de VTX para PNG](https://products.aspose.app/diagram/conversion/vtx-to-png) com os seguintes benefícios." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo VTX e clicar no botão \"Converter\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seu arquivo VTX e clicar no botão \"Converter\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Você receberá instantaneamente o link de download para o arquivo PNG resultante." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Uma Diagram Biblioteca de Gerenciamento especialmente projetada para funcionar com arquivos Microsoft Visio. Ele permite que os desenvolvedores criem, manipulem e convertam formatos Visio nativos. Os desenvolvedores podem criar diagramas do zero, bem como carregar facilmente arquivos existentes e manipular os elementos do diagrama para exportar o resultado em outros formatos.
+ Uma biblioteca de gerenciamento Diagram especialmente projetada para funcionar com arquivos Microsoft Visio. Ele permite que os desenvolvedores criem, manipulem e convertam formatos Visio nativos. Os desenvolvedores podem criar diagramas do zero, bem como carregar facilmente os arquivos existentes e manipular os elementos do diagram para exportar o resultado em outros formatos.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-Um arquivo com extensão .vtx é um modelo de desenho da Microsoft Visio que é salvo em disco no formato de arquivo XML. O modelo tem como objetivo fornecer um arquivo com configurações básicas que podem ser usadas para criar vários arquivos Visio com as mesmas configurações. Outro formato semelhante é o VST, que é salvo em formato binário em vez de XML. Os arquivos VTX são compatíveis com Visio 2010 e versões mais recentes. Visio arquivos são usados para criar desenhos que contêm objetos visuais, fluxogramas, diagrama UML, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Os arquivos gerados usando Visio também podem ser exportados para diferentes formatos de arquivo, como PNG, BMP, PDF e outros.
+Um arquivo com extensão .vtx é um modelo de desenho Microsoft Visio que é salvo em disco no formato de arquivo XML. O modelo destina-se a fornecer um arquivo com configurações básicas que podem ser usadas para criar vários arquivos Visio com as mesmas configurações. Outro formato semelhante é o VST, que é salvo em formato binário em vez de XML. VTX arquivos são compatíveis com Visio 2010 e versões mais recentes. Visio arquivos são usados para criar desenhos que contêm objetos visuais, fluxogramas, UML diagram, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Os arquivos gerados usando Visio também podem ser exportados para diferentes formatos de arquivo, como PNG, BMP, PDF e outros.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="png" readMoreLink="https://docs.fileformat.com/image/png/" >}}
-PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de imagem raster que usa compactação sem perdas. Este formato de arquivo foi criado como uma substituição do Graphics Interchange Format (GIF) e não possui limitações de direitos autorais. No entanto, o formato de arquivo PNG não suporta animações. O formato de arquivo PNG suporta compressão de imagem sem perdas que o torna popular entre seus usuários. Com o passar do tempo, o PNG evoluiu como um dos formatos de arquivo de imagem mais usados. Quase todos os sistemas operacionais têm suporte para abrir arquivos PNG. Por exemplo, o visualizador do Microsoft Windows tem a capacidade de abrir arquivos PNG, pois o sistema operacional tem, por padrão, o suporte disponível como parte da instalação.
+PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de imagem raster que usa compactação sem perdas. Este formato de arquivo foi criado como uma substituição do Graphics Interchange Format (GIF) e não possui limitações de direitos autorais. No entanto, o formato de arquivo PNG não suporta animações. O formato de arquivo PNG suporta compressão de imagem sem perdas que o torna popular entre seus usuários. Com o passar do tempo, o PNG evoluiu como um dos formatos de arquivo de imagem mais usados. Quase todos os sistemas operacionais têm suporte para abrir arquivos PNG. Por exemplo, o Microsoft visualizador do Windows tem a capacidade de abrir arquivos PNG, pois o sistema operacional tem, por padrão, o suporte disponível como parte da instalação.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de ima
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-svg/" name="VTX PARA SVG" description="Gráficos vetoriais escalonáveis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-swf/" name="VTX PARA SWF" description="Formato SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-tiff/" name="VTX PARA TIFF" description="Formato de imagem marcada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vdx/" name="VTX PARA VDX" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdm/" name="VTX PARA VSDM" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdx/" name="VTX PARA VSDX" description="Formato da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssm/" name="VTX PARA VSSM" description="Arquivos de estêncil do Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vdx/" name="VTX PARA VDX" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdm/" name="VTX PARA VSDM" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdx/" name="VTX PARA VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssm/" name="VTX PARA VSSM" description="Microsoft Visio Arquivos de estêncil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssx/" name="VTX PARA VSSX" description="Estênceis de desenho" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstm/" name="VTX PARA VSTM" description="Arquivos de modelo da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstx/" name="VTX PARA VSTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstm/" name="VTX PARA VSTM" description="Microsoft Visio Arquivos de modelo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstx/" name="VTX PARA VSTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsx/" name="VTX PARA VSX" description="Estênceis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vtx/" name="VTX PARA VTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vtx/" name="VTX PARA VTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xaml/" name="VTX PARA XAML" description="Linguagem de marcação de aplicativo extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xps/" name="VTX PARA XPS" description="Especificações do papel XML" >}}
 

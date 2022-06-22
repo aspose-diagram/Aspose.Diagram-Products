@@ -12,11 +12,11 @@ description: نموذج لشفرة تحويل Java لتنسيق VSSM إلى مل
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل VSSM إلى PNG باستخدام Java" %}}
 
- من أجل تقديم VSSM إلى PNG ، سنستخدم ملفات
+ من أجل تصيير VSSM إلى PNG ، سنستخدم
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API نظام أساسي للتحويل غني بالميزات وقوي وسهل الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
- [مخضرم](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ وتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -56,11 +56,11 @@ description: نموذج لشفرة تحويل Java لتنسيق VSSM إلى مل
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن لمطوري Java بسهولة تحويل ملف VSSM إلى PNG في بضعة أسطر من التعليمات البرمجية.
+ يمكن لمطوّري برامج Java بسهولة تحويل ملف VSSM إلى PNG في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. قم بتحميل ملف VSSM بنسخة من فئة Diagram1. استدعاء Diagram طريقة حفظ مع مسار ملف الإخراج و SaveFileFormat كمعلمات1. سيتم حفظ ملف PNG في المسار المحدد
+1. تحميل ملف VSSM بمثيل من فئة Diagram1. استدعاء Diagram طريقة حفظ مع مسار ملف الإخراج و SaveFileFormat كمعلمات1. سيتم حفظ ملف PNG في المسار المحدد
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات النظام" %}}
@@ -74,12 +74,12 @@ description: نموذج لشفرة تحويل Java لتنسيق VSSM إلى مل
 - Microsoft Windows أو نظام تشغيل متوافق مع Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.- احصل على أحدث إصدار من Aspose.Diagram for Java مباشرة من Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSSM إلى رمز مصدر تحويل PNG Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSSM إلى PNG Java شفرة مصدر التحويل" offSpacer="" %}}
 
 ```cs
 // تحميل VSSM في كائن Diagram 
 Diagram visio = new Diagram("template.vssm");
-// احفظ VSSM بصيغة PNG 
+// احفظ VSSM بتنسيق PNG 
 visio.save("output.png", SaveFileFormat.PNG);   
 
 
@@ -94,7 +94,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="عروض توضيحية مباشرة لتحويل VSSM إلى PNG" sectionDescription="[تحويل VSSM إلى PNG](https://products.aspose.app/diagram/conversion/vssm-to-png) الآن من خلال زيارة موقع Live Demos الخاص بنا ، حيث يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSSM إلى عروض توضيحية مباشرة لتحويل PNG" sectionDescription="[تحويل VSSM إلى PNG](https://products.aspose.app/diagram/conversion/vssm-to-png) الآن من خلال زيارة موقع Live Demos الخاص بنا ، حيث يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي كود." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ما عليك سوى تحميل ملف VSSM الخاص بك ، وسيتم تحويله على الفور إلى PNG." >}}
@@ -102,7 +102,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram مكتبة المعالجة" %}}
 
- Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه API مستقل ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
+ Aspose.Diagram هو Microsoft Visio معالجة بتنسيق المستند API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه إصدار مستقل API ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-الملفات ذات الامتداد .VSSM هي ملفات Microsoft Visio Stencil التي تدعم تقديم الدعم لوحدات الماكرو. يسمح ملف VSSM عند فتحه بتشغيل وحدات الماكرو لتحقيق التنسيق المطلوب ووضع الأشكال في الرسم التخطيطي. بشكل عام ، تقوم Microsoft Visio برسم برنامج يسمح بإنشاء ملفات يمكن أن تحتوي على معلومات يحددها المستخدم وتمثلها بأشكال مختلفة. تشمل أكثرها شيوعًا ، على سبيل المثال لا الحصر ، مخططات UML ومخططات التدفق والكائنات المرئية وتدفق المعلومات والمخططات التنظيمية والرسومات التخطيطية للبرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تحويل الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
+الملفات ذات الامتداد. VSSM هي Microsoft Visio ملفات الاستنسل التي تدعم تقديم الدعم لوحدات الماكرو. يسمح ملف VSSM عند فتحه بتشغيل وحدات الماكرو لتحقيق التنسيق المطلوب ووضع الأشكال في diagram. بشكل عام ، Microsoft Visio هو برنامج رسم يسمح بإنشاء ملفات يمكن أن تحتوي على المعلومات التي يحددها المستخدم وتمثلها بأشكال مختلفة. تشمل أكثرها شيوعًا ، على سبيل المثال لا الحصر ، مخططات UML ومخططات التدفق والكائنات المرئية وتدفق المعلومات والمخططات التنظيمية والرسومات التخطيطية للبرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تحويل الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-يشير PNG ، Portable Network Graphics ، إلى نوع من تنسيق ملف الصور النقطية الذي يستخدم ضغطًا بلا فقدان. تم إنشاء تنسيق الملف هذا كبديل لتنسيق تبادل الرسومات (GIF) وليس له قيود على حقوق النشر. ومع ذلك ، لا يدعم تنسيق ملف PNG الرسوم المتحركة. يدعم تنسيق ملف PNG ضغط الصور بدون فقدان مما يجعله شائعًا بين مستخدميه. مع مرور الوقت ، تطورت PNG كواحدة من أكثر تنسيقات ملفات الصور استخدامًا. تدعم جميع أنظمة التشغيل تقريبًا فتح ملفات PNG. على سبيل المثال ، يمتلك عارض Microsoft Windows القدرة على فتح ملفات PNG لأن نظام التشغيل لديه افتراضيًا الدعم المتاح كجزء من التثبيت.
+يشير PNG ، Portable Network Graphics ، إلى نوع من تنسيق ملف الصور النقطية الذي يستخدم ضغطًا بلا فقدان. تم إنشاء تنسيق الملف هذا كبديل لتنسيق تبادل الرسومات (GIF) وليس له قيود على حقوق النشر. ومع ذلك ، لا يدعم تنسيق ملف PNG الرسوم المتحركة. يدعم تنسيق ملف PNG ضغط الصور بدون فقدان مما يجعله شائعًا بين مستخدميه. مع مرور الوقت ، تطورت PNG كواحدة من أكثر تنسيقات ملفات الصور استخدامًا. تدعم جميع أنظمة التشغيل تقريبًا فتح ملفات PNG. على سبيل المثال ، Microsoft عارض Windows لديه القدرة على فتح ملفات PNG لأن نظام التشغيل لديه بشكل افتراضي الدعم المتاح كجزء من التثبيت.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,7 +130,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل VSSM إلى العديد من تنسيقات الملفات الأخرى بما في ذلك القليل منها المدرجة أدناه." >}}
+{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل VSSM إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-bmp/" name="VSSM إلى BMP" description="سيب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-emf/" name="VSSM إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
@@ -139,14 +139,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-pdf/" name="VSSM إلى PDF" description="نموذج المستندات المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-svg/" name="VSSM إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-tiff/" name="VSSM إلى TIFF" description="تنسيق الصورة الموسومة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM إلى VDX" description="تنسيق رسم Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM إلى VSDM" description="تنسيق رسم Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM إلى VSDX" description="تنسيق Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM إلى VDX" description="Microsoft Visio تنسيق الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM إلى VSDM" description="Microsoft Visio تنسيق الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM إلى VSDX" description="Microsoft Visio تنسيق" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM إلى VSSX" description="الإستنسل الرسم" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM إلى VSTM" description="ملفات قوالب Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM إلى VSTX" description="قالب رسم Visio Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM إلى VSTM" description="Microsoft Visio ملفات النماذج" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM إلى VSTX" description="Microsoft Visio نموذج الرسم" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="VSSM إلى VSX" description="الإستنسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM إلى VTX" description="قالب رسم Visio Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM إلى VTX" description="Microsoft Visio نموذج الرسم" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xaml/" name="VSSM إلى XAML" description="لغة ترميز التطبيق الموسعة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xps/" name="VSSM إلى XPS" description="مواصفات ورق XML" >}}
 

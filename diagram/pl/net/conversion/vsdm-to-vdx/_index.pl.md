@@ -2,7 +2,7 @@
 title: Konwertuj VSDM na VDX przez C# 
 weight: 3930
 url: /pl/net/conversion/vsdm-to-vdx/ 
-description: Przykładowy kod konwersji VSDM do VDX C#. Użyj przykładowego kodu API dla wsadowych plików VSDM do konwersji VDX w ramach VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
+description: Przykładowy kod konwersji VSDM na VDX C#. Użyj API przykładowego kodu dla plików wsadowych VSDM do konwersji VDX w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj VSDM na VDX przez C#" h2="Eksportuj pliki Microsoft® Visio VSDM do VDX na .NET Framework, .NET Core, Mono lub COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VDX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSDM" >}}
@@ -14,7 +14,7 @@ description: Przykładowy kod konwersji VSDM do VDX C#. Użyj przykładowego kod
 
  Aby przekonwertować VSDM na VDX, użyjemy
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do manipulacji i konwersji dokumentów API na platformę C#. otwarty
+ API to bogata w funkcje, wydajna i łatwa w użyciu platforma do manipulacji i konwersji dokumentów API na C#. otwarty
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  menedżer pakietów, szukaj
  Aspose.Diagram 
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VSDM na VDX za pomocą C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VSDM na VDX przez C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Załaduj plik VSDM z instancją klasy Diagram1. Wywołaj metodę Diagram.Save ze ścieżką pliku wyjściowego i SaveFileFormat.VDX jako parametrami1. Plik VDX zostanie zapisany pod określoną ścieżką
+1. Załaduj plik VSDM z instancją klasy Diagram1. Wywołaj metodę Diagram.Save ze ścieżką pliku wyjściowego i SaveFileFormat.VDX jako parametrami1. VDX plik zostanie zapisany pod określoną ścieżką
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Mono lub COM Interop.- Środowisko programistyczne, takie jak Microsoft Visual Studio.- Aspose.Diagram for .NET DLL, do którego odwołuje się Twój projekt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Ten przykładowy kod przedstawia konwersję VSDM na VDX C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Ten przykładowy kod pokazuje konwersję od VSDM do VDX C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-vdx.cs" >}}
 
@@ -70,15 +70,15 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Darmowa aplikacja do konwersji VSDM na VDX" sectionDescription="Sprawdź nasze prezentacje na żywo dla [Konwersja VSDM do VDX](https://products.aspose.app/diagram/conversion/vsdm-to-vdx) z następującymi korzyściami." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Darmowa aplikacja do konwersji VSDM na VDX" sectionDescription="Sprawdź nasze prezentacje na żywo dla [Konwersja z VSDM do VDX](https://products.aspose.app/diagram/conversion/vsdm-to-vdx) z następującymi korzyściami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie musisz niczego pobierać ani konfigurować." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie musisz pisać żadnego kodu." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij plik VSDM i naciśnij przycisk „Konwertuj”." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VSDM i naciśnij przycisk „Konwertuj”." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Natychmiast otrzymasz link do pobrania wynikowego pliku VDX." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Biblioteka zarządzania Diagram zaprojektowana specjalnie do pracy z plikami firmy Microsoft Visio. Pozwala programistom tworzyć, manipulować i konwertować natywne formaty Visio. Deweloperzy mogą tworzyć diagramy od podstaw, a także łatwo ładować istniejące pliki i manipulować elementami diagramu, aby wyeksportować wynik w innych formatach.
+ Biblioteka zarządzania Diagram zaprojektowana specjalnie do pracy z plikami Microsoft Visio. Pozwala programistom tworzyć, manipulować i konwertować natywne formaty Visio. Deweloperzy mogą tworzyć diagramy od podstaw, a także łatwo ładować istniejące pliki i manipulować elementami diagram, aby wyeksportować wynik w innych formatach.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
-Pliki z rozszerzeniem VSDM to pliki rysunków utworzone za pomocą aplikacji Microsoft Visio obsługującej makra. Pliki VSDM to rysunki OPC/XML, które są podobne do VSDX, ale zapewniają również możliwość uruchamiania makr po otwarciu pliku. Makra to zdefiniowane przez użytkownika czynności/kroki, które zostały opracowane w języku Visual Basic for Applications (VBA) i mogą być używane do wykonywania powtarzalnych zadań. Format plików VSDM został wprowadzony wraz z uruchomieniem Microsoft Visio 2013. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
+Pliki z rozszerzeniem VSDM to pliki rysunków utworzone za pomocą aplikacji Microsoft Visio obsługującej makra. Pliki VSDM to rysunki OPC/XML, które są podobne do VSDX, ale zapewniają również możliwość uruchamiania makr po otwarciu pliku. Makra to zdefiniowane przez użytkownika czynności/kroki, które zostały opracowane w języku Visual Basic for Applications (VBA) i mogą być używane do wykonywania powtarzalnych zadań. Format plików VSDM został wprowadzony wraz z wprowadzeniem Microsoft Visio 2013. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vdx" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Każdy rysunek lub wykres utworzony w Microsoft Visio, ale zapisany w formacie XML ma rozszerzenie .VDX. Plik XML rysunku Visio jest tworzony w oprogramowaniu Visio opracowanym przez firmę Microsoft. Microsoft Visio ma możliwość generowania dokumentów wizualnych, które można wykorzystać w prezentacjach i dokumentach. Plik XML rysunku Visio zawiera obiekty wizualne i szczegóły metadanych elementów wizualnych. Do tych elementów wizualnych można również dodać tekst Plik XML rysunku wizyjnego. Te Visio pliki XML rysunków są zintegrowane ze standardami formatowania opartymi na XML i specyfikacjami kodowania danych obrazu, które umożliwiają renderowanie i przechowywanie ich zawartości przez oprogramowanie Microsoft Visio w formacie pliku VDX.
+Każdy rysunek lub wykres utworzony w Microsoft Visio, ale zapisany w formacie XML ma rozszerzenie .VDX. Plik XML rysunku Visio jest tworzony w oprogramowaniu Visio opracowanym przez Microsoft. Microsoft Visio ma możliwość generowania dokumentów wizualnych, które można wykorzystać w prezentacjach i dokumentach. Plik XML rysunku Visio zawiera obiekty wizualne i szczegóły metadanych elementów wizualnych. Do tych elementów wizualnych można również dodać tekst Plik XML rysunku wizyjnego. Te Visio pliki XML rysunków są zintegrowane ze standardami formatowania opartymi na XML i specyfikacjami kodowania danych obrazu, które umożliwiają renderowanie i przechowywanie ich zawartości przez oprogramowanie Microsoft Visio w formacie pliku VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -107,19 +107,19 @@ Każdy rysunek lub wykres utworzony w Microsoft Visio, ale zapisany w formacie X
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-bmp/" name="VSDM DO BMP" description="Bitmapa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-emf/" name="VSDM DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-html/" name="VSDM DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-jpeg/" name="VSDM NA JPEG" description="Obraz JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-jpeg/" name="VSDM DO JPEG" description="Obraz JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-pdf/" name="VSDM DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-png/" name="VSDM DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-svg/" name="VSDM DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-swf/" name="VSDM DO SWF" description="Format SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-tiff/" name="VSDM DO TIFF" description="Oznaczony format obrazu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsdx/" name="VSDM DO VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssm/" name="VSDM DO VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsdx/" name="VSDM DO VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssm/" name="VSDM DO VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssx/" name="VSDM DO VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstm/" name="VSDM DO VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstx/" name="VSDM DO VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstx/" name="VSDM DO VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsx/" name="VSDM DO VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vtx/" name="VSDM DO VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vtx/" name="VSDM DO VTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xaml/" name="VSDM DO XAML" description="Rozszerzalny język znaczników aplikacji" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xps/" name="VSDM DO XPS" description="Specyfikacje papieru XML" >}}
 

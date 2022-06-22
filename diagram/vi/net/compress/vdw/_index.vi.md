@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Diagram
 + Tải tệp Visio bằng đối tượng lớp Diagram
 Sử dụng chức năng RemoveHiddenInformation của Diagram
 + Gọi phương thức Save () và chuyển tên tệp (đường dẫn đầy đủ) và định dạng (VSDX) làm tham số.
-+ Giờ đây, bạn có thể mở và sử dụng tệp VSDX trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
++ Giờ đây, bạn có thể mở và sử dụng VSDX tệp trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -79,7 +79,7 @@ Sử dụng chức năng RemoveHiddenInformation của Diagram
 
     {{% blocks/products/pf/agp/content h2="Giới thiệu về Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -94,7 +94,7 @@ Sử dụng chức năng RemoveHiddenInformation của Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được nén và nối ngay lập tức." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW là Visio định dạng tệp Dịch vụ đồ họa chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là tập hợp các trang vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và thông tin cập nhật sơ đồ có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Tệp VDW cũng có thể được mở trong Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác. 
+VDW là Visio định dạng tệp Dịch vụ đồ họa chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là tập hợp các trang vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và diagram thông tin cập nhật có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Tệp VDW cũng có thể được mở bằng Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

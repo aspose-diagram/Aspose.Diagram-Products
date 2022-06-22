@@ -39,13 +39,13 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento básico que se fusiona y concatena con
+ Creación de un organigrama de estilo de diagrama de flujo con
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Las API se pueden hacer con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crea un diagrama a partir de una plantilla.
++ Crea un diagram a partir de una plantilla.
 + Seleccionar página a través de su id
 + Agregar formas de nodos de organización a la página.
 + Agregue conectores a la página para conectar la forma y su padre.
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o COM Interop- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto: instálelo desde NuGet mediante el botón Descargar de arriba
+- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o COM Interop- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto - Instale desde NuGet usando el botón Descargar arriba
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Crear organigrama de estilo de diagrama de flujo en archivos VST - C#" offSpacer="" %}}
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram es una manipulación de formato de documento Visio de Microsoft API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
+ Aspose.Diagram es una Microsoft Visio manipulación de formato de documento API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Creará un organigrama de estilo FlowChart en documentos VST al instante." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-Los archivos con extensión VST son archivos de imágenes vectoriales creados con Microsoft Visio y actúan como plantilla para crear más archivos. Estos archivos de plantilla están en formato de archivo binario y contienen el diseño y la configuración predeterminados que se utilizan para la creación de nuevos dibujos Visio. Cuando se abre un archivo VST en Microsoft Visio, contiene la configuración existente para continuar trabajando con el documento. En general, los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, diagramas UML, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros. 
+Los archivos con extensión VST son archivos de imágenes vectoriales creados con Microsoft Visio y actúan como plantilla para crear más archivos. Estos archivos de plantilla están en formato de archivo binario y contienen el diseño y la configuración predeterminados que se utilizan para la creación de nuevos dibujos Visio. Cuando se abre un archivo VST en Microsoft Visio, contiene la configuración existente para continuar trabajando con el documento. En general, los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, UML diagram, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -107,7 +107,7 @@ Los archivos con extensión VST son archivos de imágenes vectoriales creados co
 
 {{< blocks/products/pf/agp/other-supported-section title="Otros formatos de organigrama admitidos" subTitle="Usando C#, uno puede crear fácilmente un organigrama de estilo FlowChart en diferentes formatos, incluidos." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsd/" name="vsd" description="Dibujos de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsd/" name="Vsd" description="Microsoft Visio Dibujos" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vdx/" name="Vdx" description="Visio archivo XML de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vstx/" name="VSTX" description="Visio archivo de plantilla" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/flowchart/vsdm/" name="VSDM" description="Visio archivo de dibujo habilitado para macros" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Создайте организационную диаграмму в документе VSTX через .NET 
+title: Создать организационную диаграмму в документе VSTX с помощью .NET 
 weight: 3050
 url: /ru/net/organizationchart/vstx/ 
 description: Исходный код C# для создания организационной диаграммы в файле vstx на платформах .NET Framework, .NET Core, Mono.
@@ -35,17 +35,17 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Действия по созданию организационной диаграммы в файлах VSTX в C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Действия по созданию организационной диаграммы в VSTX файлах в C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с
+ Создание организационной диаграммы с
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Создать схему из трафарета.
+Создать diagram из трафарета.
 + Выберите страницу по ее идентификатору
 + Добавить формы узла организации на страницу.
 + Добавьте соединители на страницу, чтобы соединить фигуру и ее родителя.
@@ -63,10 +63,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или COM Interop- Среда разработки, такая как Microsoft Visual Studio- Aspose.Diagram for .NET DLL, на которые есть ссылка в вашем проекте. Установите из NuGet с помощью кнопки «Загрузить» выше.
+- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или COM Interop- Среда разработки, такая как Microsoft Visual Studio- Aspose.Diagram for .NET DLL, на которые ссылается ваш проект. Установите из NuGet с помощью кнопки "Загрузить" выше.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Создать организационную диаграмму в файлах VSTX — C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Создать организационную диаграмму в файлах VSTX - C#" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-CompactTreeChart.cs" >}}
 
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="О Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram – это манипулирование форматом документа Microsoft VisioAPI. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
+ Aspose.Diagram — это Microsoft Visioобработка формата документа API. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
 
 
 
@@ -90,14 +90,14 @@ PM> Install-Package Aspose.Diagram
     
     {{< blocks/products/pf/agp/about-file-section >}}
     
-        {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн-демонстрация организационной структуры в стиле VSTX CompactTree" sectionDescription="Создайте организационную диаграмму в стиле CompactTree в документах VSTX прямо сейчас, посетив наш [Веб-сайт живых демонстраций](https://products.aspose.app/diagram/organizationchart). Живая демонстрация имеет следующие преимущества" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн VSTX Организационная структура в стиле CompactTree Демонстрации в реальном времени" sectionDescription="Создайте организационную диаграмму в стиле CompactTree в документах VSTX прямо сейчас, посетив наш [Веб-сайт живых демонстраций](https://products.aspose.app/diagram/organizationchart). Живая демонстрация имеет следующие преимущества" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файлы VSTX." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Он мгновенно создаст организационную диаграмму в стиле CompactTree в документах VSTX." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/visio/vstx/" >}}
-Файлы с расширениями VSTX представляют собой файлы шаблонов чертежей, созданные с помощью Microsoft Visio 2013 и более поздних версий. Эти файлы VSTX служат отправной точкой для создания чертежей Visio, сохраненных в виде файлов .VSDX, с макетом и настройками по умолчанию. Как правило, файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, схемы UML, информационные потоки, организационные схемы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие. Программы, которые открывают файлы VSTX, включают Microsoft Visio для Windows и Mac, которые позволяют открывать эти файлы для просмотра и редактирования. Он также позволяет конвертировать форматы файлов Visio в ряд других форматов. 
+Файлы с расширениями VSTX представляют собой файлы шаблонов чертежей, созданные с помощью Microsoft Visio 2013 и более поздних версий. Эти файлы VSTX служат отправной точкой для создания чертежей Visio, сохраненных в виде файлов .VSDX, с макетом и настройками по умолчанию. Как правило, файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, UML diagram, информационный поток, организационные диаграммы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие. Программы, которые открывают файлы VSTX, включают Microsoft Visio для Windows и Mac, которые позволяют открывать эти файлы для просмотра и редактирования. Он также позволяет конвертировать форматы файлов Visio в ряд других форматов. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -107,10 +107,10 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы организационных диаграмм" subTitle="Используя C#, можно легко создать организационную диаграмму в стиле CompactTree в различных форматах, в том числе." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsd/" name="VSD" description="Чертежи Майкрософт Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsd/" name="Vsd" description="Microsoft Visio Чертежи" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vdx/" name="Vdx" description="Visio XML-файл чертежа" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vstm/" name="ВСТМ" description="Visio файл шаблона с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsdm/" name="ВСДМ" description="Visio файл чертежа с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vstm/" name="VSTM" description="Visio файл шаблона с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsdm/" name="VSDM" description="Visio файл чертежа с поддержкой макросов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsdx/" name="VSDX" description="Visio файл чертежа" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

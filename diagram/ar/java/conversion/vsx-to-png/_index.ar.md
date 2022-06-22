@@ -12,11 +12,11 @@ description: نموذج لشفرة تحويل Java لتنسيق VSX إلى مل�
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل VSX إلى PNG باستخدام Java" %}}
 
- من أجل تقديم VSX إلى PNG ، سنستخدم ملفات
+ من أجل تصيير VSX إلى PNG ، سنستخدم
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API نظام أساسي للتحويل غني بالميزات وقوي وسهل الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
- [مخضرم](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ وتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -56,11 +56,11 @@ description: نموذج لشفرة تحويل Java لتنسيق VSX إلى مل�
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن لمطوري Java بسهولة تحويل ملف VSX إلى PNG في بضعة أسطر من التعليمات البرمجية.
+ يمكن لمطوّري برامج Java بسهولة تحويل ملف VSX إلى PNG في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. قم بتحميل ملف VSX بنسخة من فئة Diagram1. استدعاء Diagram طريقة حفظ مع مسار ملف الإخراج و SaveFileFormat كمعلمات1. سيتم حفظ ملف PNG في المسار المحدد
+1. تحميل ملف VSX بمثيل من فئة Diagram1. استدعاء Diagram طريقة حفظ مع مسار ملف الإخراج و SaveFileFormat كمعلمات1. سيتم حفظ ملف PNG في المسار المحدد
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات النظام" %}}
@@ -79,7 +79,7 @@ description: نموذج لشفرة تحويل Java لتنسيق VSX إلى مل�
 ```cs
 // تحميل VSX في كائن Diagram 
 Diagram visio = new Diagram("template.vsx");
-// احفظ VSX بصيغة PNG 
+// احفظ VSX بتنسيق PNG 
 visio.save("output.png", SaveFileFormat.PNG);   
 
 
@@ -94,7 +94,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="عروض توضيحية مباشرة لتحويل VSX إلى PNG" sectionDescription="[تحويل VSX إلى PNG](https://products.aspose.app/diagram/conversion/vsx-to-png) الآن من خلال زيارة موقع Live Demos الخاص بنا ، حيث يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSX إلى عروض توضيحية مباشرة لتحويل PNG" sectionDescription="[تحويل VSX إلى PNG](https://products.aspose.app/diagram/conversion/vsx-to-png) الآن من خلال زيارة موقع Live Demos الخاص بنا ، حيث يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي كود." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ما عليك سوى تحميل ملف VSX الخاص بك ، وسيتم تحويله على الفور إلى PNG." >}}
@@ -102,7 +102,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram مكتبة المعالجة" %}}
 
- Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه API مستقل ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
+ Aspose.Diagram هو Microsoft Visio معالجة بتنسيق المستند API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه إصدار مستقل API ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
 
-تشير الملفات ذات الامتداد .VSX إلى قوالب الإستنسل التي تتكون من رسومات وأشكال تُستخدم لإنشاء الرسوم البيانية في Microsoft Visio. يتم حفظ ملفات VSX بتنسيق ملف XML وتم دعمها حتى Visio 2013. وهي تختلف عن تنسيق الملف الأساسي VSDX الذي تم تقديمه مع Microsoft Visio 2013. يمكن فتح ملفات VSX في أي محرر نصوص لعرض محتويات.
+تشير الملفات ذات الامتداد. VSX إلى قوالب الإستنسل التي تتكون من رسومات وأشكال تُستخدم لإنشاء الرسوم التخطيطية في Microsoft Visio. تم حفظ VSX من الملفات بتنسيق ملف XML وكان مدعومًا حتى Visio 2013. وهي تختلف عن تنسيق الملف الأساسي VSDX الذي تم تقديمه في Microsoft Visio 2013. VSX يمكن فتح الملفات في أي محرر نصوص لعرض المحتويات.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-يشير PNG ، Portable Network Graphics ، إلى نوع من تنسيق ملف الصور النقطية الذي يستخدم ضغطًا بلا فقدان. تم إنشاء تنسيق الملف هذا كبديل لتنسيق تبادل الرسومات (GIF) وليس له قيود على حقوق النشر. ومع ذلك ، لا يدعم تنسيق ملف PNG الرسوم المتحركة. يدعم تنسيق ملف PNG ضغط الصور بدون فقدان مما يجعله شائعًا بين مستخدميه. مع مرور الوقت ، تطورت PNG كواحدة من أكثر تنسيقات ملفات الصور استخدامًا. تدعم جميع أنظمة التشغيل تقريبًا فتح ملفات PNG. على سبيل المثال ، يمتلك عارض Microsoft Windows القدرة على فتح ملفات PNG لأن نظام التشغيل لديه افتراضيًا الدعم المتاح كجزء من التثبيت.
+يشير PNG ، Portable Network Graphics ، إلى نوع من تنسيق ملف الصور النقطية الذي يستخدم ضغطًا بلا فقدان. تم إنشاء تنسيق الملف هذا كبديل لتنسيق تبادل الرسومات (GIF) وليس له قيود على حقوق النشر. ومع ذلك ، لا يدعم تنسيق ملف PNG الرسوم المتحركة. يدعم تنسيق ملف PNG ضغط الصور بدون فقدان مما يجعله شائعًا بين مستخدميه. مع مرور الوقت ، تطورت PNG كواحدة من أكثر تنسيقات ملفات الصور استخدامًا. تدعم جميع أنظمة التشغيل تقريبًا فتح ملفات PNG. على سبيل المثال ، Microsoft عارض Windows لديه القدرة على فتح ملفات PNG لأن نظام التشغيل لديه بشكل افتراضي الدعم المتاح كجزء من التثبيت.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,7 +130,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل VSX إلى العديد من تنسيقات الملفات الأخرى بما في ذلك القليل منها المدرجة أدناه." >}}
+{{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل VSX إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-bmp/" name="VSX إلى BMP" description="سيب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-emf/" name="VSX إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
@@ -139,14 +139,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-pdf/" name="VSX إلى PDF" description="نموذج المستندات المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-svg/" name="VSX إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-tiff/" name="VSX إلى TIFF" description="تنسيق الصورة الموسومة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vdx/" name="VSX إلى VDX" description="تنسيق رسم Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdm/" name="VSX إلى VSDM" description="تنسيق رسم Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdx/" name="VSX إلى VSDX" description="تنسيق Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssm/" name="VSX إلى VSSM" description="ملفات استنسل Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vdx/" name="VSX إلى VDX" description="Microsoft Visio تنسيق الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdm/" name="VSX إلى VSDM" description="Microsoft Visio تنسيق الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdx/" name="VSX إلى VSDX" description="Microsoft Visio تنسيق" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssm/" name="VSX إلى VSSM" description="Microsoft Visio ملفات الاستنسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssx/" name="VSX إلى VSSX" description="الإستنسل الرسم" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstm/" name="VSX إلى VSTM" description="ملفات قوالب Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstx/" name="VSX إلى VSTX" description="قالب رسم Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vtx/" name="VSX إلى VTX" description="قالب رسم Visio Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstm/" name="VSX إلى VSTM" description="Microsoft Visio ملفات النماذج" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstx/" name="VSX إلى VSTX" description="Microsoft Visio نموذج الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vtx/" name="VSX إلى VTX" description="Microsoft Visio نموذج الرسم" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-xaml/" name="VSX إلى XAML" description="لغة ترميز التطبيق الموسعة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-xps/" name="VSX إلى XPS" description="مواصفات ورق XML" >}}
 

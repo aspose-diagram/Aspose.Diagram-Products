@@ -2,7 +2,7 @@
 title: Skapa organisationsdiagram i flödesdiagramstil i VDW-dokument via .NET 
 weight: 3050
 url: /sv/net/flowchart/vdw/ 
-description: C# källkod för att skapa organisationsdiagram i flödesschemat i vdw-filen på .NET Framework, .NET Core, Mono Platforms.
+description: C# källkod för att skapa organisationsdiagram i flödesschemat i vdw-filen på .NET Framework, .NET Core, Mono Plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa organisationsschema för flödesschemastil i VDW i C#" h2="Inbyggda och högpresterande skapa organisationsdiagram i flödesdiagramstil i VDW-dokument med hjälp av API:er på serversidan Aspose.Diagram for .NET, utan användning av någon programvara som Microsoft eller Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,13 +39,13 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Ett grundläggande dokument som sammanfogas och sammanfogas med
+ Skapa flödesschema stil organisationsschema med
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Skapa ett diagram från stencil.
++ Skapa en diagram från stencil.
 + Välj sida via dess id
 + Lägg till organisationsnodformer på sidan.
 + Lägg till kopplingar till sidan för att koppla samman formen och dess överordnade.
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Om Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Det kommer att skapa FlowChart Style organisationsdiagram i VDW-dokument direkt." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW är filformatet Visio Graphics Service som anger de strömmar och lagringar som krävs för att rendera en webbritning. En webbritning är en samling ritsidor, former, typsnitt, bilder, dataanslutningar och diagramuppdateringsinformation som kan renderas som en vektor- eller rasterritning. VDW-filer kan också öppnas i Microsoft Visio men sparas i första hand för användning på webben. Microsoft Visio erbjuder möjligheten att konvertera Visio-filer till ett antal olika filformat inklusive PNG, BMP, PDF och andra. 
+VDW är filformatet Visio Graphics Service som anger de strömmar och lagringar som krävs för att rendera en webbritning. En webbritning är en samling ritsidor, former, teckensnitt, bilder, dataanslutningar och diagram uppdateringsinformation som kan renderas som en vektor- eller rasterritning. VDW-filer kan också öppnas i Microsoft Visio men sparas i första hand för användning på webben. Microsoft Visio erbjuder möjligheten att konvertera Visio-filer till ett antal olika filformat inklusive PNG, BMP, PDF och andra. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

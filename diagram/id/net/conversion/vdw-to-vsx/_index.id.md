@@ -2,7 +2,7 @@
 title: Konversikan VDW ke VSX melalui C# 
 weight: 4470
 url: /id/net/conversion/vdw-to-vsx/ 
-description: Contoh kode untuk konversi VDW ke VSX C#. Gunakan API kode contoh untuk file batch VDW ke konversi VSX dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
+description: Kode contoh untuk konversi VDW ke VSX C#. Gunakan API kode contoh untuk file batch VDW ke VSX konversi dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversikan VDW ke VSX melalui C#" h2="Ekspor file Microsoft® Visio VDW ke VSX pada .NET Framework, .NET Core, Mono atau COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDW" >}}
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Muat file VDW dengan instance Diagram class1. Panggil metode Diagram.Save dengan jalur file output dan SaveFileFormat.VSX sebagai parameter1. File VSX akan disimpan di jalur yang ditentukan
+1. Muat file VDW dengan instance Diagram class1. Panggil metode Diagram.Save dengan jalur file keluaran dan SaveFileFormat.VSX sebagai parameter1. VSX file akan disimpan di jalur yang ditentukan
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan sistem" %}}
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Mengonversi VDW ke VSX" sectionDescription="Periksa demo langsung kami untuk [Konversi VDW ke VSX](https://products.aspose.app/diagram/conversion/vdw-to-vsx) dengan manfaat sebagai berikut." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Mengonversi VDW ke VSX" sectionDescription="Periksa demo langsung kami untuk [VDW ke VSX konversi](https://products.aspose.app/diagram/conversion/vdw-to-vsx) dengan manfaat sebagai berikut." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VDW Anda dan tekan tombol \"Konversi\"." >}}
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW adalah Visio format file Layanan Grafik yang menentukan aliran dan penyimpanan yang diperlukan untuk merender gambar Web. Gambar web adalah kumpulan halaman gambar, bentuk, font, gambar, koneksi data, dan informasi pembaruan diagram yang dapat dirender sebagai gambar vektor atau raster. Berkas VDW juga dapat dibuka di Microsoft Visio tetapi disimpan terutama untuk digunakan di web. Microsoft Visio menawarkan kemampuan untuk mengonversi Visio file ke sejumlah format file yang berbeda termasuk PNG, BMP, PDF, dan lainnya.
+VDW adalah Visio format file Layanan Grafik yang menentukan aliran dan penyimpanan yang diperlukan untuk merender gambar Web. Gambar web adalah kumpulan halaman gambar, bentuk, font, gambar, koneksi data, dan diagram informasi pembaruan yang dapat ditampilkan sebagai gambar vektor atau raster. File VDW juga dapat dibuka di Microsoft Visio tetapi disimpan terutama untuk digunakan di web. Microsoft Visio menawarkan kemampuan untuk mengonversi Visio file ke sejumlah format file yang berbeda termasuk PNG, BMP, PDF, dan lainnya.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vsx" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
-File dengan ekstensi .VSX mengacu pada stensil yang terdiri dari gambar dan bentuk yang digunakan untuk membuat diagram di Microsoft Visio. File VSX disimpan dalam format file XML dan didukung hingga Visio 2013. Ini berbeda dari format file VSDX utama yang diperkenalkan dengan Microsoft Visio 2013. File VSX dapat dibuka di editor teks apa pun untuk melihat isi.
+Berkas dengan ekstensi .VSX mengacu pada stensil yang terdiri dari gambar dan bentuk yang digunakan untuk membuat diagram di Microsoft Visio. File VSX disimpan dalam format file XML dan didukung hingga Visio 2013. Ini berbeda dari format file VSDX utama yang diperkenalkan dengan Microsoft Visio 2013. File VSX dapat dibuka di editor teks apa pun untuk melihat isinya.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -116,9 +116,9 @@ File dengan ekstensi .VSX mengacu pada stensil yang terdiri dari gambar dan bent
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW KE VDX" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW KE VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW KE VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW KE VSSX" description="Menggambar Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW KE VTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW KE XAML" description="Bahasa Markup Aplikasi yang Dapat Diperluas" >}}

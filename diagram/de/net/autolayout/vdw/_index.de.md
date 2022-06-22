@@ -2,7 +2,7 @@
 title: VDW-Dokument mit automatischem Layout über .NET 
 weight: 3050
 url: /de/net/autolayout/vdw/ 
-description: C# Quellcode für das automatische Layout der vdw-Datei auf .NET Framework, .NET Core, Mono Plattformen.
+description: C# Quellcode für das automatische Layout der vdw-Datei auf den Plattformen .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VDW-Dokument mit automatischem Layout in C#" h2="Natives und hochleistungsfähiges VDW-Dokument mit automatischem Layout unter Verwendung serverseitiger Aspose.Diagram for .NET-APIs, ohne Verwendung von Software wie Microsoft oder Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein grundlegendes Dokument, mit dem zusammengeführt und verkettet wird
+ Ein grundlegendes automatisches Layout von Dokumenten mit
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  APIs können mit nur wenigen Codezeilen erstellt werden.
 
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Über Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram ist eine Manipulation des Microsoft Visio-Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
+ Aspose.Diagram ist eine Microsoft Visio Manipulation des Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird automatisch angeordnet und sofort verkettet." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW ist das Visio Graphics Service-Dateiformat, das die Streams und Speicher angibt, die zum Rendern einer Webzeichnung erforderlich sind. Eine Webzeichnung ist eine Sammlung von Zeichenseiten, Formen, Schriftarten, Bildern, Datenverbindungen und Diagrammaktualisierungsinformationen, die als Vektor- oder Rasterzeichnung gerendert werden können. VDW-Dateien können auch in Microsoft Visio geöffnet werden, werden aber hauptsächlich für die Verwendung im Web gespeichert. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere. 
+VDW ist das Visio Graphics Service-Dateiformat, das die Streams und Speicher angibt, die zum Rendern einer Webzeichnung erforderlich sind. Eine Webzeichnung ist eine Sammlung von Zeichenseiten, Formen, Schriftarten, Bildern, Datenverbindungen und diagram Aktualisierungsinformationen, die als Vektor- oder Rasterzeichnung gerendert werden können. VDW-Dateien können auch in Microsoft Visio geöffnet werden, werden aber hauptsächlich für die Verwendung im Web gespeichert. Microsoft Visio bietet die Möglichkeit, Visio-Dateien in eine Reihe unterschiedlicher Dateiformate zu konvertieren, darunter PNG, BMP, PDF und andere. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

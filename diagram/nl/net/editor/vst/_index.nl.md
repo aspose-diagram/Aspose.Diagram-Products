@@ -34,7 +34,7 @@ PM> Install-Package Aspose.Diagram
 
  Een basisdocumentbewerking met
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API's kunnen worden gemaakt met slechts een paar regels code.
+ API's kunnen worden gemaakt met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms- Ontwikkelomgeving zoals Microsoft Visual Studio- Aspose.Diagram for .NET DLL waarnaar wordt verwezen in uw project - Installeer vanaf NuGet met de downloadknop hierboven
+- Microsoft Windows of een compatibel besturingssysteem met .NET Framework-, .NET Core-, Windows Azure-, Mono- of Xamarin-platforms- Ontwikkelomgeving zoals Microsoft Visual Studio- Aspose.Diagram for .NET DLL waarnaar wordt verwezen in uw project - Installeer vanaf NuGet met de downloadknop hierboven
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VST-bestanden bewerken - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.    
+Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men 
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sla vervolgens op en download." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Bestanden met de extensie VST zijn vectorafbeeldingsbestanden die zijn gemaakt met Microsoft Visio en fungeren als sjabloon voor het maken van verdere bestanden. Deze sjabloonbestanden hebben een binaire bestandsindeling en bevatten de standaardlay-out en instellingen die worden gebruikt voor het maken van nieuwe Visio-tekeningen. Wanneer een VST-bestand wordt geopend in Microsoft Visio, bevat het de bestaande instellingen om verder te werken met het document. Over het algemeen worden Visio-bestanden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere. 
+Bestanden met de extensie VST zijn vectorafbeeldingsbestanden die zijn gemaakt met Microsoft Visio en fungeren als sjabloon voor het maken van verdere bestanden. Deze sjabloonbestanden zijn in binaire bestandsindeling en bevatten de standaardlay-out en instellingen die worden gebruikt voor het maken van nieuwe Visio tekeningen. Wanneer een VST-bestand wordt geopend in Microsoft Visio, bevat het de bestaande instellingen om verder te werken met het document. Over het algemeen worden Visio-bestanden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

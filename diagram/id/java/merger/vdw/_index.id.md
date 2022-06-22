@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VDW);
 
     {{% blocks/products/pf/agp/content h2="Tentang Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VDW);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ini akan digabungkan dan digabungkan secara instan." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW adalah Visio format file Layanan Grafik yang menentukan aliran dan penyimpanan yang diperlukan untuk merender gambar Web. Gambar web adalah kumpulan halaman gambar, bentuk, font, gambar, koneksi data, dan informasi pembaruan diagram yang dapat dirender sebagai gambar vektor atau raster. Berkas VDW juga dapat dibuka di Microsoft Visio tetapi disimpan terutama untuk digunakan di web. Microsoft Visio menawarkan kemampuan untuk mengonversi Visio file ke sejumlah format file yang berbeda termasuk PNG, BMP, PDF, dan lainnya. 
+VDW adalah Visio format file Layanan Grafik yang menentukan aliran dan penyimpanan yang diperlukan untuk merender gambar Web. Gambar web adalah kumpulan halaman gambar, bentuk, font, gambar, koneksi data, dan diagram informasi pembaruan yang dapat ditampilkan sebagai gambar vektor atau raster. File VDW juga dapat dibuka di Microsoft Visio tetapi disimpan terutama untuk digunakan di web. Microsoft Visio menawarkan kemampuan untuk mengonversi Visio file ke sejumlah format file yang berbeda termasuk PNG, BMP, PDF, dan lainnya. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -133,10 +133,10 @@ VDW adalah Visio format file Layanan Grafik yang menentukan aliran dan penyimpan
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="File Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Menggambar Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="VST" description="File Gambar Vektor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio Template Menggambar" >}}

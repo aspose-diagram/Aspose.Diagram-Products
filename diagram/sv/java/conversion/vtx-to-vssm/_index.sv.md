@@ -2,7 +2,7 @@
 title: Konvertera VTX till VSSM via Java 
 weight: 1940
 url: /sv/java/conversion/vtx-to-vssm/ 
-description: Exempel Java-konverteringskod för VTX-format till VSSM-fil. Använd den här exempelkoden för att konvertera VTX till VSSM i valfri webb- eller datorbaserad applikation Java.
+description: Exempel på Java-konverteringskod för VTX-format till VSSM-fil. Använd den här exempelkoden för att konvertera VTX till VSSM i valfri webb- eller datorbaserad applikation Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera VTX till VSSM via Java" h2="Exportera Microsoft Visio VTX till VSSM med inbyggt Java-bibliotek." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -12,7 +12,7 @@ description: Exempel Java-konverteringskod för VTX-format till VSSM-fil. Använ
 
 {{% blocks/products/pf/agp/content h2="Så här konverterar du VTX till VSSM med Java" %}}
 
- För att rendera VTX till VSSM kommer vi att använda
+ För att rendera VTX till VSSM använder vi
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API som är en funktionsrik, kraftfull och lättanvänd konverteringsplattform API for Java. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -56,11 +56,11 @@ description: Exempel Java-konverteringskod för VTX-format till VSSM-fil. Använ
 
 {{% blocks/products/pf/agp/text %}}
 
- Java-utvecklare kan enkelt konvertera VTX-filer till VSSM på bara några rader kod.
+ Java-utvecklare kan enkelt konvertera VTX-filen till VSSM på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Ladda VTX-fil med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. VSSM-filen kommer att sparas på den angivna sökvägen
+1. Ladda filen VTX med en instans av klassen Diagram1. Anropa Diagram.save-metoden med utdatafilsökväg och SaveFileFormat som parametrar1. VSSM fil kommer att sparas på den angivna sökvägen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
@@ -74,7 +74,7 @@ description: Exempel Java-konverteringskod för VTX-format till VSSM-fil. Använ
 - Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.- Hämta den senaste versionen av Aspose.Diagram for Java direkt från Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VTX till VSSM Java konverteringskällkod" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VTX till VSSM Java Omvandlingskällkod" offSpacer="" %}}
 
 ```cs
 // ladda VTX i ett objekt av Diagram 
@@ -94,15 +94,15 @@ visio.save("output.vssm", SaveFileFormat.VSSM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VTX till VSSM Conversion Live Demos" sectionDescription="[Konvertera VTX till VSSM](https://products.aspose.app/diagram/conversion/vtx-to-vssm) just nu genom att besöka vår Live Demos-webbplats. Livedemon har följande fördelar" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VTX till VSSM Live Demos för konvertering" sectionDescription="[Konvertera VTX till VSSM](https://products.aspose.app/diagram/conversion/vtx-to-vssm) just nu genom att besöka vår Live Demos-webbplats. Livedemon har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ned Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VTX-fil, den kommer omedelbart att konverteras till VSSM." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VTX-fil, den konverteras omedelbart till VSSM." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du kommer att få nedladdningslänken." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulationsbibliotek" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vssm", SaveFileFormat.VSSM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
 
-En fil med filtillägget .vtx är en Microsoft Visio ritmall som sparas på skiva i XML-filformat. Mallen syftar till att tillhandahålla en fil med grundläggande inställningar som kan användas för att skapa flera Visio-filer med samma inställningar. Ett annat liknande format är VST som sparas i binärt format snarare än XML. VTX-filer stöds med Visio 2010 och nyare versioner. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
+En fil med tillägget .vtx är en Microsoft Visio ritmall som sparas på skivan i XML-filformat. Mallen syftar till att tillhandahålla en fil med grundläggande inställningar som kan användas för att skapa flera Visio-filer med samma inställningar. Ett annat liknande format är VST som sparas i binärt format snarare än XML. VTX filer stöds med Visio 2010 och nyare versioner. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-Filer med filtillägget .VSSM är Microsoft Visio-stencilfiler som stöder ger stöd för makron. En VSSM-fil när den öppnas gör det möjligt att köra makron för att uppnå önskad formatering och placering av former i ett diagram. I allmänhet är Microsoft Visio ritprogram som gör det möjligt att skapa filer som kan innehålla och representera användardefinierad information i olika former. De vanligaste av dessa inkluderar, men inte begränsat till, UML-diagram, flödesscheman, visuella objekt, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också konverteras till olika filformat som PNG, BMP, PDF och andra.
+Filer med tillägget .VSSM är Microsoft Visio stencilfiler som stöder ger stöd för makron. En VSSM-fil när den öppnas gör det möjligt att köra makron för att uppnå önskad formatering och placering av former i en diagram. I allmänhet är Microsoft Visio ritprogram som gör det möjligt att skapa filer som kan innehålla och representera användardefinierad information i olika former. De vanligaste av dessa inkluderar, men inte begränsat till, UML-diagram, flödesscheman, visuella objekt, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också konverteras till olika filformat som PNG, BMP, PDF och andra.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -142,10 +142,10 @@ Filer med filtillägget .VSSM är Microsoft Visio-stencilfiler som stöder ger s
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-tiff/" name="VTX TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX TILL VDX" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX TILL VSDX" description="Microsoft Visio-format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX TILL VSDX" description="Microsoft Visio Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX TILL VSTM" description="Microsoft Visio mallfiler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX TILL VSTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX TILL VSTM" description="Microsoft Visio Mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX TILL VSTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX TILL VSX" description="Schabloner" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xaml/" name="VTX TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xps/" name="VTX TILL XPS" description="XML-pappersspecifikationer" >}}

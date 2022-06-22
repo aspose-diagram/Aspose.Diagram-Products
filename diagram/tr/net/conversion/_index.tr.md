@@ -1,10 +1,10 @@
 ﻿---
 title: C# Microsoft Visio Dosyaları Dönüştürme
 url: /tr/net/conversion/
-description: Microsoft Visio biçimlerini VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST'yi .NET kitaplığı aracılığıyla birkaç satır C# koduyla PDF HTML ve Görüntülerine dönüştürün.
+description: Microsoft Visio biçimlerini VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST'yi PDF HTML'ye ve birkaç satırlık Görüntülere dönüştürün .NET kitaplığı aracılığıyla C# kodu.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio C# Yoluyla Dönüştürmeyi Biçimlendirir" h2="Platformlar arası .NET uygulamalar oluşturmak için MS Visio Diyagramlarını PDF, HTML ve BMP, JPG, PNG, TIFF dahil olmak üzere Görüntülere dönüştürün." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio C# Yoluyla Dönüştürme Biçimleri" h2="Çapraz platform .NET uygulamaları oluşturmak için MS Visio Diyagramlarını PDF, HTML ve BMP, JPG, PNG, TIFF dahil olmak üzere Görüntülere dönüştürün." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Herhangi bir çözüm için, akış şemaları ve iş akış şemaları vb. tasarlamak veya uygulamadaki MS Visio diyagramlarını işlemek gerektiğinde. Bu nedenle, Visio biçimlerini ayrıştırmanın yanı sıra diğer biçimlere dönüştürmeye de ihtiyaç vardır. .NET Visio API tüm bunları kolaylaştırabilir. API yalnızca Visio dosyalarını oluşturmak, okumak ve işlemekle kalmaz, aynı zamanda resimlere, PDF ve HTML biçimlerine de dönüştürür.
@@ -13,7 +13,7 @@ Herhangi bir çözüm için, akış şemaları ve iş akış şemaları vb. tasa
 
 {{% blocks/products/pf/feature-page-section h2="Dönüşümler Arası Visio Dosyaları" %}}
 
-VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM gibi Visio dosyaları, yalnızca birkaç satır C# kodu ile dönüştürülebilir. **VSD - VSDX dönüşüm** örneğini ele alalım. API sağlar [Diagram sınıfı](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) kaynak VSD dosyasını yüklemek için. Dosyayı yükledikten sonra, VSDX dosya adıyla çıkış yolu ile Kaydet yöntemini çağırın ve [KaydetDosya Biçimi](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)parametre olarak .targetFile uzantısı.
+VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM gibi Visio dosyaları, yalnızca birkaç satırla birbirine dönüştürülebilir. C# kodu. **VSD - VSDX dönüşüm** örneğini ele alalım. API sağlar [Diagram sınıfı](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) kaynak VSD dosyasını yüklemek için. Dosyayı yükledikten sonra, VSDX dosya adıyla çıkış yolu ile Kaydet yöntemini çağırın ve [KaydetDosya Biçimi](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)parametre olarak .targetFile uzantısı.
 
 {{% blocks/products/pf/feature-page-code h3="VSD - VSDX Dönüşümü için C# Kodu" %}}
 
@@ -26,7 +26,7 @@ VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM gibi Visio dosyaları, yalnız
 
 {{% blocks/products/pf/feature-page-section h2="Visio Biçimleri Görüntülere Dönüştürme" %}}
 
-Microsoft'u dönüştürmeye ihtiyaç duyulduğunda<sup>&reg;</sup> JPG, PNG, BMP, TIFF ve SVG dahil olmak üzere Görüntülere Visio dosya. API bunu kolaylaştırır ve dönüştürme işlemi aynıdır. Dosyayı yüklemek için Diagram sınıfını kullanın ve görüntü adını tam yol ve SaveFileFormat ile parametre olarak sağlayarak kaydetme yöntemini çağırın. Belirli görüntü ayarı için API şunları sağlar: [ImageSaveOptions sınıfı](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
+Microsoft dönüştürmeye ihtiyaç duyulduğunda<sup>&reg;</sup> JPG, PNG, BMP, TIFF ve SVG dahil olmak üzere Görüntülere Visio dosya. API bunu kolaylaştırır ve dönüştürme işlemi aynıdır. Dosyayı yüklemek ve görüntü adını tam yol ve SaveFileFormat ile parametre olarak sağlayarak kaydetme yöntemini çağırmak için Diagram sınıfını kullanın. Belirli görüntü ayarı için API şunları sağlar: [ImageSaveOptions sınıfı](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
 
 {{% blocks/products/pf/feature-page-code h3="Visio\'yi Görüntü Biçimlerine Dönüştürecek C# Kodu" %}}
 
@@ -39,7 +39,7 @@ Microsoft'u dönüştürmeye ihtiyaç duyulduğunda<sup>&reg;</sup> JPG, PNG, BM
 
 {{% blocks/products/pf/feature-page-section h2="Visio Dosyayı PDF\'ye Dönüştür" %}}
 
-API, visio biçimlerini PDF'ye dönüştürebilir. Dönüşüm süreci basittir. Diagram sınıfını kullanarak dosyayı yükleyin. Oluşturmak [Not akışı nesnesi](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) ve visio dosyasını akış nesnesine sahip Kaydet yöntemini ve parametre olarak SaveFileFormat.PDF'yi kullanarak akışa PDF olarak kaydedin. Kullanarak kaydetmek üzere dönüştürülen dosya için bir FileStream Nesnesi oluşturun. [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) yöntem. 
+API, visio biçimlerini PDF'ye dönüştürebilir. Dönüşüm süreci basittir. Diagram sınıfını kullanarak dosyayı yükleyin. Oluşturmak [Not akışı nesnesi](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) ve parametre olarak SaveFileFormat.PDF ve akış nesnesine sahip Save yöntemini kullanarak visio dosyasını akışa PDF olarak kaydedin. Kullanarak kaydetmek üzere dönüştürülen dosya için bir FileStream Nesnesi oluşturun. [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) yöntem. 
 
 {{% blocks/products/pf/feature-page-code h3="Visio\'den PDF\'ye Dönüştürme için C# Kodu" %}}
 

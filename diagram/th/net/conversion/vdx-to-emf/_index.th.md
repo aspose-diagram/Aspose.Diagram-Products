@@ -2,7 +2,7 @@
 title: แปลง VDX เป็น EMF ผ่าน C# 
 weight: 3440
 url: /th/net/conversion/vdx-to-emf/ 
-description: โค้ดตัวอย่างสำหรับการแปลง VDX เป็น EMF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ VDX เป็นการแปลง EMF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
+description: โค้ดตัวอย่างสำหรับการแปลง VDX เป็น EMF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์ VDX เป็นการแปลง EMF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง VDX เป็น EMF ผ่าน C#" h2="ส่งออกไฟล์ Microsoft® Visio VDX ไปยัง EMF บน .NET Framework, .NET Core, Mono หรือ COM Interop" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDX" >}}
@@ -14,7 +14,7 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
  ในการแปลง VDX เป็น EMF เราจะใช้
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API ซึ่งเป็นการจัดการและแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและการแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  package manager ค้นหา
  Aspose.Diagram 
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET นักพัฒนาสามารถโหลดและแปลงไฟล์ VDX เป็น EMF ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ นักพัฒนา .NET สามารถโหลดและแปลงไฟล์ VDX เป็น EMF ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,10 +54,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดง VDX เป็น EMF C# Conversion" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดงการแปลง VDX เป็น EMF C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdx-to-emf.cs" >}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="แอพฟรีเพื่อแปลง VDX เป็น EMF" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง VDX เป็น EMF](https://products.aspose.app/diagram/conversion/vdx-to-emf) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีสำหรับแปลง VDX เป็น EMF" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง VDX เป็น EMF](https://products.aspose.app/diagram/conversion/vdx-to-emf) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ VDX ของคุณแล้วกดปุ่ม \"แปลง\"" >}}
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-รูปวาดหรือแผนภูมิใดๆ ที่สร้างใน Microsoft Visio แต่บันทึกในรูปแบบ XML มีนามสกุล .VDX ไฟล์ Visio ภาพวาด XML ถูกสร้างขึ้นในซอฟต์แวร์ Visio ซึ่งพัฒนาโดย Microsoft Microsoft Visio มีความสามารถในการสร้างเอกสารภาพที่สามารถใช้ในการนำเสนอและเอกสารได้ ไฟล์ Visio การวาด XML ประกอบด้วยออบเจ็กต์ภาพและรายละเอียดข้อมูลเมตาขององค์ประกอบภาพ นอกจากนี้ยังสามารถเพิ่มข้อความลงในองค์ประกอบภาพเหล่านี้ได้ ไฟล์ XML การวาดวิชันซิสเต็ม ไฟล์ XML รูปวาด Visio เหล่านี้รวมเข้ากับมาตรฐานการจัดรูปแบบตาม XML และข้อกำหนดการเข้ารหัสข้อมูลรูปภาพที่อนุญาตให้แสดงและจัดเก็บเนื้อหาโดยซอฟต์แวร์ Microsoft Visio ในรูปแบบไฟล์ VDX
+ภาพวาดหรือแผนภูมิใดๆ ที่สร้างใน Microsoft Visio แต่บันทึกในรูปแบบ XML มีนามสกุล .VDX ไฟล์ XML การวาดภาพ Visio ถูกสร้างขึ้นในซอฟต์แวร์ Visio ซึ่งพัฒนาโดย Microsoft Microsoft Visio มีความสามารถในการสร้างเอกสารภาพที่สามารถใช้ในการนำเสนอและเอกสารได้ ไฟล์ XML รูปวาด Visio ประกอบด้วยออบเจ็กต์ภาพและรายละเอียดเมตาดาต้าขององค์ประกอบภาพ นอกจากนี้ยังสามารถเพิ่มข้อความลงในองค์ประกอบภาพเหล่านี้ได้ ไฟล์ XML การวาดวิชันซิสเต็ม ไฟล์ XML รูปวาด Visio เหล่านี้รวมเข้ากับมาตรฐานการจัดรูปแบบตาม XML และข้อกำหนดการเข้ารหัสข้อมูลรูปภาพที่อนุญาตให้แสดงและจัดเก็บเนื้อหาโดยซอฟต์แวร์ Microsoft Visio ในรูปแบบไฟล์ VDX
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,26 +102,26 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง VDX เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางไฟล์ที่แสดงด้านล่าง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง VDX เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบตามรายการด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-bmp/" name="VDX TO BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-bmp/" name="VDX ถึง BMP" description="ภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-html/" name="VDX เป็น HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-jpeg/" name="VDX เป็น JPEG" description="ภาพ JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-pdf/" name="VDX เป็น PDF" description="รูปแบบเอกสารพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-png/" name="VDX เป็น PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-svg/" name="VDX เป็น SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-swf/" name="VDX เป็น SWF" description="รูปแบบ SWF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-jpeg/" name="VDX ถึง JPEG" description="ภาพ JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-pdf/" name="VDX ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-png/" name="VDX ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-svg/" name="VDX ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-swf/" name="VDX ถึง SWF" description="รูปแบบ SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-tiff/" name="VDX ถึง TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdm/" name="VDX ถึง VSDM" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdx/" name="VDX ถึง VSDX" description="Microsoft Visio รูปแบบ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX ถึง VSSM" description="Microsoft Visio ไฟล์ลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssx/" name="VDX ถึง VSSX" description="วาดลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX ถึง VSTM" description="Microsoft Visio ไฟล์เทมเพลต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX เป็น VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsx/" name="VDX เป็น VSX" description="ลายฉลุ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX เป็น VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xaml/" name="VDX เป็น XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xps/" name="VDX เป็น XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX ถึง VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsx/" name="VDX ถึง VSX" description="ลายฉลุ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX ถึง VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xaml/" name="VDX ถึง XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xps/" name="VDX ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

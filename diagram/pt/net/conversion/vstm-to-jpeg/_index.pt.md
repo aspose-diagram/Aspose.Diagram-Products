@@ -2,7 +2,7 @@
 title: Converter VSTM para JPEG via C# 
 weight: 1930
 url: /pt/net/conversion/vstm-to-jpeg/ 
-description: Código de exemplo para conversão de VSTM para JPEG C#. Use API código de exemplo para arquivos VSTM em lote para conversão JPEG em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
+description: Código de amostra para conversão de VSTM para JPEG C#. Use API código de exemplo para conversão de arquivos VSTM em lote para JPEG em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter VSTM para JPEG via C#" h2="Exporte arquivos Microsoft® Visio VSTM para JPEG em .NET Framework, .NET Core, Mono ou COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSTM" >}}
@@ -12,10 +12,10 @@ description: Código de exemplo para conversão de VSTM para JPEG C#. Use API c�
 
 {{% blocks/products/pf/agp/content h2="Como converter VSTM para JPEG usando C#" %}}
 
- Para converter VSTM para JPEG, usaremos
+ Para converter VSTM em JPEG, usaremos
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API que é uma plataforma de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar API para C#. Abrir
- [NuGetName](https://www.nuget.org/packages/aspose.diagram) 
+ API que é uma plataforma de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar API para C#. Aberto
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  gerenciador de pacotes, procure
  Aspose.Diagram 
  e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET os desenvolvedores podem facilmente carregar e converter arquivos VSTM para JPEG em apenas algumas linhas de código.
+ .NET os desenvolvedores podem facilmente carregar e converter VSTM arquivos para JPEG em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou COM Interop.- Ambiente de desenvolvimento como o Microsoft Visual Studio.- Aspose.Diagram for .NET DLL referenciada em seu projeto.
+- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou COM Interop.- Ambiente de desenvolvimento como Microsoft Visual Studio.- Aspose.Diagram for .NET DLL referenciada em seu projeto.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Este código de amostra mostra a conversão de VSTM para JPEG C#" offSpacer="" %}}
@@ -70,15 +70,15 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo gratuito para converter VSTM para JPEG" sectionDescription="Confira nossas demonstrações ao vivo para [Conversão de VSTM para JPEG](https://products.aspose.app/diagram/conversion/vstm-to-jpeg) com os seguintes benefícios." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo gratuito para converter VSTM para JPEG" sectionDescription="Confira nossas demonstrações ao vivo para [VSTM para conversão JPEG](https://products.aspose.app/diagram/conversion/vstm-to-jpeg) com os seguintes benefícios." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo VSTM e clicar no botão \"Converter\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seu arquivo VSTM e clicar no botão \"Converter\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Você receberá instantaneamente o link de download para o arquivo JPEG resultante." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Uma Diagram Biblioteca de Gerenciamento especialmente projetada para funcionar com arquivos Microsoft Visio. Ele permite que os desenvolvedores criem, manipulem e convertam formatos Visio nativos. Os desenvolvedores podem criar diagramas do zero, bem como carregar facilmente arquivos existentes e manipular os elementos do diagrama para exportar o resultado em outros formatos.
+ Uma biblioteca de gerenciamento Diagram especialmente projetada para funcionar com arquivos Microsoft Visio. Ele permite que os desenvolvedores criem, manipulem e convertam formatos Visio nativos. Os desenvolvedores podem criar diagramas do zero, bem como carregar facilmente os arquivos existentes e manipular os elementos do diagram para exportar o resultado em outros formatos.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
-Arquivos com extensão VSTM são arquivos de modelo criados com o Microsoft Visio que suportam macros. Ao contrário dos arquivos VSDX, os arquivos criados a partir de modelos VSTM podem executar macros que são desenvolvidas no código do Visual Basic for Applications (VBA). Um arquivo de modelo pode ser criado para fornecer configurações básicas do documento que podem ser utilizadas para gerar outros documentos com essas configurações. Visio arquivos são usados para criar desenhos que contêm objetos visuais, fluxogramas, diagrama UML, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Arquivos gerados usando Visio também podem ser exportados para diferentes formatos de arquivo, como PNG, BMP, PDF e outros.
+Arquivos com extensão VSTM são arquivos de modelo criados com Microsoft Visio que suportam macros. Ao contrário dos arquivos VSDX, os arquivos criados a partir de modelos VSTM podem executar macros que são desenvolvidas no código do Visual Basic for Applications (VBA). Um arquivo de modelo pode ser criado para fornecer configurações básicas do documento que podem ser utilizadas para gerar outros documentos com essas configurações. Visio arquivos são usados para criar desenhos que contêm objetos visuais, fluxogramas, UML diagram, fluxo de informações, organogramas, diagramas de software, layout de rede, modelos de banco de dados, mapeamento de objetos e outras informações semelhantes. Os arquivos gerados usando Visio também podem ser exportados para diferentes formatos de arquivo, como PNG, BMP, PDF e outros.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ Um JPEG é um tipo de formato de imagem que é salvo usando o método de compact
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-svg/" name="VSTM PARA SVG" description="Gráficos vetoriais escalonáveis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-swf/" name="VSTM PARA SWF" description="Formato SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-tiff/" name="VSTM PARA TIFF" description="Formato de imagem marcada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vdx/" name="VSTM PARA VDX" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vsdm/" name="VSTM PARA VSDM" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vsdx/" name="VSTM PARA VSDX" description="Formato da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vssm/" name="VSTM PARA VSSM" description="Arquivos de estêncil do Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vdx/" name="VSTM PARA VDX" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vsdm/" name="VSTM PARA VSDM" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vsdx/" name="VSTM PARA VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vssm/" name="VSTM PARA VSSM" description="Microsoft Visio Arquivos de estêncil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vssx/" name="VSTM PARA VSSX" description="Estênceis de desenho" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vstm/" name="VSTM PARA VSTM" description="Arquivos de modelo da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vstx/" name="VSTM PARA VSTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vstm/" name="VSTM PARA VSTM" description="Microsoft Visio Arquivos de modelo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vstx/" name="VSTM PARA VSTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vsx/" name="VSTM PARA VSX" description="Estênceis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vtx/" name="VSTM PARA VTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-vtx/" name="VSTM PARA VTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-xaml/" name="VSTM PARA XAML" description="Linguagem de marcação de aplicativo extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vstm-to-xps/" name="VSTM PARA XPS" description="Especificações do papel XML" >}}
 

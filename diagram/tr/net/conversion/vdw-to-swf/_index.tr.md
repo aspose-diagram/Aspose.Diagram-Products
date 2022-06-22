@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Microsoft Visio dosyalarıyla çalışmak üzere özel olarak tasarlanmış bir Diagram Yönetim Kitaplığı. Geliştiricilerin yerel Visio biçimleri oluşturmasına, değiştirmesine ve dönüştürmesine olanak tanır. Geliştiriciler, sıfırdan diyagramlar oluşturabilir, ayrıca mevcut dosyaları kolayca yükleyebilir ve sonucu diğer formatlarda dışa aktarmak için diyagramın öğelerini değiştirebilir.
+ Microsoft Visio dosyalarıyla çalışmak üzere özel olarak tasarlanmış bir Diagram Yönetim Kitaplığı. Geliştiricilerin yerel Visio biçimleri oluşturmasına, işlemesine ve dönüştürmesine olanak tanır. Geliştiriciler, sıfırdan diyagramlar oluşturabilir, ayrıca mevcut dosyaları kolayca yükleyebilir ve sonucu diğer biçimlerde dışa aktarmak için diagram öğelerini değiştirebilir.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diyagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio'ta da açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya biçimine dönüştürme yeteneği sunar.
+VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio içinde de açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya formatına dönüştürme yeteneği sunar.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ SWF, metin, video, vektör grafikleri ve ActionScript'i internet üzerinden taş
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-png/" name="VDW\'den PNG\'ye" description="taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-svg/" name="VDW\'den SVG\'ye" description="ölçeklendirilebilir Vektör Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-tiff/" name="VDW\'DEN TIFF\'E" description="Etiketli Görüntü Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW\'DEN VDX\'E" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW\'den VSDM\'ye" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW\'YE KADAR VSDX" description="Microsoft Visio Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW\'den VSSM\'ye" description="Microsoft Visio Şablon dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW\'DEN VSSX\'E" description="Çizim Şablonları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW\'den VSTM\'ye" description="Microsoft Visio Şablon Dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW\'DEN VSTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW\'DEN VSX\'E" description="şablonlar" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW\'DEN VTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW\'YE KADAR VDX" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW\'YE KADAR VSDM" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW\'YE KADAR VSDX" description="Microsoft Visio Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW\'YE KADAR VSSM" description="Microsoft Visio Şablon dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW\'YE KADAR VSSX" description="Çizim Şablonları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW\'YE KADAR VSTM" description="Microsoft Visio Şablon Dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW\'YE KADAR VSTX" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW\'YE KADAR VSX" description="şablonlar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW\'YE KADAR VTX" description="Microsoft Visio Çizim Şablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW\'DEN XAML\'E" description="Genişletilebilir Uygulama İşaretleme Dili" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xps/" name="VDW\'DEN XPS\'E" description="XML Kağıt Özellikleri" >}}
 

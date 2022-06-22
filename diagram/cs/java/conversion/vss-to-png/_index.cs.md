@@ -71,7 +71,7 @@ description: Ukázkový konverzní kód Java pro formát VSS na soubor PNG. Pomo
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.- Získejte nejnovější verzi Aspose.Diagram for Java přímo od společnosti Maven.
+- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.- Získejte nejnovější verzi Aspose.Diagram for Java přímo od Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Zdrojový kód převodu VSS na PNG Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
     {{% blocks/products/pf/agp/content h2="Knihovna manipulací Java Diagram" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS jsou soubory vzorníků vytvořené pomocí Microsoft Visio 2007 a starší. Relativně novým formátem souborů je .VSSX, který byl představen společností Microsoft Visio v roce 2013. Soubory vzorníků poskytují objekty kreslení, které lze zahrnout do výkresu .VSD Visio. Samotný Microsoft Visio je známý vytvářením kreslicích prvků, jako jsou kolekce tvarů, konektory, vývojové diagramy, rozložení sítě, diagramy UML, softwarové diagramy, databázové modely, mapování objektů a další podobné informace. Má také bohaté funkce převodu dokumentů Visio do jiných formátů souborů, jako jsou PNG, BMP, PDF a další. Visio je k dispozici pro Windows i Mac OS.
+VSS jsou soubory vzorníků vytvořené pomocí Microsoft Visio 2007 a starší. Relativně nový formát souboru je .VSSX, který byl představen v roce Microsoft Visio 2013. Soubory vzorníků poskytují objekty kreslení, které lze zahrnout do výkresu .VSD Visio. Samotný Microsoft Visio je známý vytvářením kreslicích prvků, jako jsou kolekce tvarů, konektory, vývojové diagramy, rozvržení sítě, diagramy UML, softwarové diagramy, databázové modely, mapování objektů a další podobné informace. Má také bohaté funkce převodu dokumentů Visio do jiných formátů souborů, jako jsou PNG, BMP, PDF a další. Visio je k dispozici pro Windows i Mac OS.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-PNG, Portable Network Graphics, označuje typ formátu rastrového obrázku, který používá bezztrátovou kompresi. Tento formát souboru byl vytvořen jako náhrada za Graphics Interchange Format (GIF) a nemá žádná omezení autorských práv. Formát souboru PNG však nepodporuje animace. Formát souboru PNG podporuje bezztrátovou kompresi obrázků, díky čemuž je mezi uživateli oblíbený. Postupem času se PNG vyvinul jako jeden z nejčastěji používaných formátů obrazových souborů. Téměř všechny operační systémy podporují otevírání souborů PNG. Například prohlížeč Microsoft Windows má schopnost otevírat soubory PNG, protože OS má standardně podporu dostupnou jako součást instalace.
+PNG, Portable Network Graphics, označuje typ formátu rastrového obrázku, který používá bezztrátovou kompresi. Tento formát souboru byl vytvořen jako náhrada za Graphics Interchange Format (GIF) a nemá žádná omezení autorských práv. Formát souboru PNG však nepodporuje animace. Formát souboru PNG podporuje bezztrátovou kompresi obrázků, díky čemuž je mezi uživateli oblíbený. Postupem času se PNG vyvinul jako jeden z nejčastěji používaných formátů obrazových souborů. Téměř všechny operační systémy podporují otevírání souborů PNG. Prohlížeč Microsoft Windows má například možnost otevírat soubory PNG, protože operační systém má ve výchozím nastavení podporu dostupnou jako součást instalace.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ PNG, Portable Network Graphics, označuje typ formátu rastrového obrázku, kte
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-pdf/" name="VSS DO PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="VSS na SVG" description="Škálovatelná vektorová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="VSS NA TIFF" description="Formát tagovaného obrázku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS na VDX" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS DO VSDM" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS TO VSDX" description="Formát Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS DO VSSM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS do VSSX" description="Kreslicí šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS NA VSTM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS NA VSTX" description="Šablona výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS do VSX" description="Šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS na VTX" description="Šablona výkresu Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="VSS TO VDX" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="VSS TO VSDM" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="VSS TO VSDX" description="Microsoft Formát Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="VSS TO VSSM" description="Soubory šablon: Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="VSS TO VSSX" description="Kreslicí šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="VSS TO VSTM" description="Microsoft Visio Soubory šablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="VSS TO VSTX" description="Microsoft Visio Šablona výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="VSS TO VSX" description="Šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="VSS TO VTX" description="Microsoft Visio Šablona výkresu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xaml/" name="VSS do XAML" description="Rozšiřitelný aplikační značkovací jazyk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="VSS do XPS" description="Specifikace papíru XML" >}}
 

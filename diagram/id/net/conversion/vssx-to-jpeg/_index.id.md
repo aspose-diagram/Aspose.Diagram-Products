@@ -2,7 +2,7 @@
 title: Konversikan VSSX ke JPEG melalui C# 
 weight: 3810
 url: /id/net/conversion/vssx-to-jpeg/ 
-description: Contoh kode untuk konversi VSSX ke JPEG C#. Gunakan API kode contoh untuk file batch VSSX ke konversi JPEG dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
+description: Contoh kode untuk konversi VSSX ke JPEG C#. Gunakan API kode contoh untuk kumpulan VSSX file ke konversi JPEG dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversikan VSSX ke JPEG melalui C#" h2="Ekspor file Microsoft® Visio VSSX ke JPEG pada .NET Framework, .NET Core, Mono atau COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET pengembang dapat dengan mudah memuat & mengonversi file VSSX ke JPEG hanya dalam beberapa baris kode.
+ .NET pengembang dapat dengan mudah memuat & mengonversi VSSX file ke JPEG hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Mengonversi VSSX ke JPEG" sectionDescription="Periksa demo langsung kami untuk [Konversi VSSX ke JPEG](https://products.aspose.app/diagram/conversion/vssx-to-jpeg) dengan manfaat sebagai berikut." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Aplikasi Gratis untuk Mengonversi VSSX ke JPEG" sectionDescription="Periksa demo langsung kami untuk [VSSX ke konversi JPEG](https://products.aspose.app/diagram/conversion/vssx-to-jpeg) dengan manfaat sebagai berikut." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VSSX Anda dan tekan tombol \"Konversi\"." >}}
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSX" readMoreLink="https://docs.fileformat.com/image/vssx/" >}}
-File dengan ekstensi .VSSX adalah stensil gambar yang dibuat dengan Microsoft Visio 2013 dan yang lebih baru. Format file VSSX dapat dibuka dengan Visio 2013 ke atas. File Visio dikenal untuk representasi berbagai elemen gambar seperti kumpulan bentuk, konektor, diagram alur, tata letak jaringan, diagram UML, diagram perangkat lunak, model basis data, pemetaan objek, dan informasi serupa lainnya. Microsoft Visio juga menyediakan kemampuan untuk mengonversi file Visio ke format file yang berbeda seperti PNG, BMP, PDF, dan lainnya. Ini tersedia untuk Windows dan Mac OS.
+Berkas dengan ekstensi .VSSX adalah stensil gambar yang dibuat dengan Microsoft Visio 2013 ke atas. Format file VSSX dapat dibuka dengan Visio 2013 ke atas. File Visio dikenal untuk representasi berbagai elemen gambar seperti kumpulan bentuk, konektor, diagram alur, tata letak jaringan, diagram UML, diagram perangkat lunak, model database, pemetaan objek, dan informasi serupa lainnya. Microsoft Visio juga menyediakan kemampuan untuk mengonversi Visio file ke format file yang berbeda seperti PNG, BMP, PDF, dan lainnya. Ini tersedia untuk Windows dan Mac OS.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,8 +115,8 @@ JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vdx/" name="VSSX KE VDX" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsdm/" name="VSSX KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsdx/" name="VSSX KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vssm/" name="VSSX KE VSSM" description="Microsoft Visio file Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vstm/" name="VSSX KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vssm/" name="VSSX KE VSSM" description="Microsoft Visio File stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vstm/" name="VSSX KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vstx/" name="VSSX KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsx/" name="VSSX KE VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vtx/" name="VSSX KE VTX" description="Microsoft Visio Template Menggambar" >}}

@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Microsoft Visio dosyalarıyla çalışmak üzere özel olarak tasarlanmış bir Diagram Yönetim Kitaplığı. Geliştiricilerin yerel Visio biçimleri oluşturmasına, değiştirmesine ve dönüştürmesine olanak tanır. Geliştiriciler, sıfırdan diyagramlar oluşturabilir, ayrıca mevcut dosyaları kolayca yükleyebilir ve sonucu diğer formatlarda dışa aktarmak için diyagramın öğelerini değiştirebilir.
+ Microsoft Visio dosyalarıyla çalışmak üzere özel olarak tasarlanmış bir Diagram Yönetim Kitaplığı. Geliştiricilerin yerel Visio biçimleri oluşturmasına, işlemesine ve dönüştürmesine olanak tanır. Geliştiriciler, sıfırdan diyagramlar oluşturabilir, ayrıca mevcut dosyaları kolayca yükleyebilir ve sonucu diğer biçimlerde dışa aktarmak için diagram öğelerini değiştirebilir.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-VST uzantılı dosyalar, Microsoft Visio ile oluşturulan vektör görüntü dosyalarıdır ve daha fazla dosya oluşturmak için şablon görevi görür. Bu şablon dosyaları ikili dosya biçimindedir ve yeni Visio çizimlerinin oluşturulması için kullanılan varsayılan düzeni ve ayarları içerir. Microsoft Visio'ta bir VST dosyası açıldığında, belgeyle çalışmaya devam etmek için mevcut ayarları içerir. Genel olarak, Visio dosyaları görsel nesneler, akış şemaları, UML şeması, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir.
+VST uzantılı dosyalar, Microsoft Visio ile oluşturulan vektör görüntü dosyalarıdır ve daha fazla dosya oluşturmak için şablon görevi görür. Bu şablon dosyaları ikili dosya biçimindedir ve yeni Visio çizimlerinin oluşturulması için kullanılan varsayılan düzeni ve ayarları içerir. Microsoft Visio içinde bir VST dosyası açıldığında, belgeyle çalışmaya devam etmek için mevcut ayarları içerir. Genel olarak, Visio dosyaları görsel nesneler, akış şemaları, UML diagram, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="png" readMoreLink="https://docs.fileformat.com/image/png/" >}}
-PNG, Taşınabilir Ağ Grafikleri, kayıpsız sıkıştırma kullanan bir tür raster görüntü dosyası biçimini ifade eder. Bu dosya biçimi, Grafik Değişim Biçimi'nin (GIF) yerini almak üzere oluşturulmuştur ve herhangi bir telif hakkı sınırlaması yoktur. Ancak PNG dosya formatı animasyonları desteklemez. PNG dosya formatı, onu kullanıcıları arasında popüler yapan kayıpsız görüntü sıkıştırmasını destekler. Zaman geçtikçe PNG, en çok kullanılan resim dosyası formatlarından biri olarak gelişti. Hemen hemen tüm İşletim Sistemleri PNG dosyalarını açma desteğine sahiptir. Örneğin, işletim sisteminin varsayılan olarak kurulumun bir parçası olarak sunulan desteğe sahip olduğu gibi, Microsoft Windows görüntüleyici PNG dosyalarını açma özelliğine sahiptir.
+PNG, Taşınabilir Ağ Grafikleri, kayıpsız sıkıştırma kullanan bir tür raster görüntü dosyası biçimini ifade eder. Bu dosya biçimi, Grafik Değişim Biçimi'nin (GIF) yerini almak üzere oluşturulmuştur ve herhangi bir telif hakkı sınırlaması yoktur. Ancak PNG dosya formatı animasyonları desteklemez. PNG dosya formatı, onu kullanıcıları arasında popüler yapan kayıpsız görüntü sıkıştırmasını destekler. Zaman geçtikçe PNG, en çok kullanılan resim dosyası formatlarından biri olarak gelişti. Hemen hemen tüm İşletim Sistemleri PNG dosyalarını açma desteğine sahiptir. Örneğin, işletim sisteminin varsayılan olarak yüklemenin bir parçası olarak sunulan desteğe sahip olması nedeniyle, Microsoft Windows görüntüleyici PNG dosyalarını açma özelliğine sahiptir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ PNG, Taşınabilir Ağ Grafikleri, kayıpsız sıkıştırma kullanan bir tür r
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-svg/" name="VST\'den SVG\'ye" description="ölçeklendirilebilir Vektör Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-swf/" name="VST\'den SWF\'ye" description="SWF Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST\'DEN TIFF\'E" description="Etiketli Görüntü Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST\'DEN VDX\'E" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST\'den VSDM\'ye" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VSDX İÇİN VST" description="Microsoft Visio Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST\'den VSSM\'ye" description="Microsoft Visio Şablon dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST\'DEN VSSX\'E" description="Çizim Şablonları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST\'den VSTM\'ye" description="Microsoft Visio Şablon Dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST\'DEN VSTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST\'den VSX\'e" description="şablonlar" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST\'DEN VTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VDX İÇİN VST" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VSDM İÇİN VST" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VSDX İÇİN VST" description="Microsoft Visio Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VSSM İÇİN VST" description="Microsoft Visio Şablon dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VSSX İÇİN VST" description="Çizim Şablonları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VSTM İÇİN VST" description="Microsoft Visio Şablon Dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VSTX İÇİN VST" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VSX İÇİN VST" description="şablonlar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VTX İÇİN VST" description="Microsoft Visio Çizim Şablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xaml/" name="XAML\'YE VST" description="Genişletilebilir Uygulama İşaretleme Dili" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xps/" name="XPS\'YE VST" description="XML Kağıt Özellikleri" >}}
 

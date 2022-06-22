@@ -2,7 +2,7 @@
 title: 通过 .NET 查看或编辑 VST 文件元数据 
 weight: 3050
 url: /zh/net/metadata/vst/ 
-description: C# 用于在 .NET 框架、.NET 核心、Mono 平台上编辑或查看 VST 格式元数据的源代码。
+description: C# 用于在 .NET Framework、.NET Core、Mono 平台上编辑或查看 VST 格式元数据的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 C# 中的 VST 元数据" h2="构建您自己的 .NET 应用，以使用服务器端 API 添加、编辑、删除或提取 VST 文件中的元数据。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -59,7 +59,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 在您的项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="提取 VST 元数据 - C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="关于Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
+ Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一个独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
 
 
 
@@ -93,7 +93,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 它将立即被压缩和连接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-带有 VST 扩展名的文件是使用 Microsoft Visio 创建的矢量图像文件，用作创建更多文件的模板。这些模板文件为二进制文件格式，包含用于创建新 Visio 图纸的默认布局和设置。在 Microsoft Visio 中打开 VST 文件时，它包含现有设置以继续使用该文档。通常，Visio 文件用于创建包含视觉对象、流程图、UML 图、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。 
+具有 VST 扩展名的文件是使用 Microsoft Visio 创建的矢量图像文件，并用作创建更多文件的模板。这些模板文件为二进制文件格式，包含用于创建新 Visio 图纸的默认布局和设置。在 Microsoft Visio 中打开 VST 文件时，它包含现有设置以继续使用该文档。通常，Visio 文件用于创建包含可视对象、流程图、UML diagram、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的元数据格式" subTitle="使用 C#，可以轻松操作不同格式的元数据，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="VSD" description="Microsoft Visio 绘图" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio 绘图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio 绘图 XML 文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio 模具文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio 模板文件" >}}

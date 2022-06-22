@@ -15,8 +15,8 @@ description: VST biçimi için EMF dosyasına örnek Java dönüştürme kodu. H
  VST'yi EMF'ye dönüştürmek için kullanacağız
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  Zengin özelliklere sahip, güçlü ve kullanımı kolay bir dönüşüm API for Java platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
- [Uzman](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ ve pom.xml dosyasına aşağıdaki yapılandırmaları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="depo" offSpacer="true" %}}
 
@@ -112,7 +112,7 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-VST uzantılı dosyalar, Microsoft Visio ile oluşturulan vektör görüntü dosyalarıdır ve daha fazla dosya oluşturmak için şablon görevi görür. Bu şablon dosyaları ikili dosya biçimindedir ve yeni Visio çizimlerinin oluşturulması için kullanılan varsayılan düzeni ve ayarları içerir. Microsoft Visio'ta bir VST dosyası açıldığında, belgeyle çalışmaya devam etmek için mevcut ayarları içerir. Genel olarak, Visio dosyaları görsel nesneler, akış şemaları, UML şeması, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir.
+VST uzantılı dosyalar, Microsoft Visio ile oluşturulan vektör görüntü dosyalarıdır ve daha fazla dosya oluşturmak için şablon görevi görür. Bu şablon dosyaları ikili dosya biçimindedir ve yeni Visio çizimlerinin oluşturulması için kullanılan varsayılan düzeni ve ayarları içerir. Microsoft Visio içinde bir VST dosyası açıldığında, belgeyle çalışmaya devam etmek için mevcut ayarları içerir. Genel olarak, Visio dosyaları görsel nesneler, akış şemaları, UML diagram, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ Gelişmiş meta dosya biçimi (EMF), grafik görüntüleri aygıttan bağımsız
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-png/" name="PNG\'ye VST" description="taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-svg/" name="VST\'den SVG\'ye" description="ölçeklendirilebilir Vektör Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="VST\'DEN TIFF\'E" description="Etiketli Görüntü Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST\'DEN VDX\'E" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST\'den VSDM\'ye" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VSDX İÇİN VST" description="Microsoft Visio Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST\'den VSSM\'ye" description="Microsoft Visio Şablon dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST\'DEN VSSX\'E" description="Çizim Şablonları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST\'den VSTM\'ye" description="Microsoft Visio Şablon Dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST\'DEN VSTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST\'den VSX\'e" description="şablonlar" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST\'DEN VTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VDX İÇİN VST" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VSDM İÇİN VST" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VSDX İÇİN VST" description="Microsoft Visio Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VSSM İÇİN VST" description="Microsoft Visio Şablon dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VSSX İÇİN VST" description="Çizim Şablonları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VSTM İÇİN VST" description="Microsoft Visio Şablon Dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VSTX İÇİN VST" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VSX İÇİN VST" description="şablonlar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VTX İÇİN VST" description="Microsoft Visio Çizim Şablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xaml/" name="XAML\'YE VST" description="Genişletilebilir Uygulama İşaretleme Dili" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xps/" name="XPS\'YE VST" description="XML Kağıt Özellikleri" >}}
 

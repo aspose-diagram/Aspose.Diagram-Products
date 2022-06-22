@@ -2,7 +2,7 @@
 title: Konvertera VTX till VSTX via C# 
 weight: 1250
 url: /sv/net/conversion/vtx-to-vstx/ 
-description: Exempelkod för konvertering från VTX till VSTX C#. Använd API exempelkod för batch-VTX-filer till VSTX-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+description: Exempelkod för konvertering från VTX till VSTX C#. Använd API exempelkod för batch-VTX-filer till VSTXkonvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera VTX till VSTX via C#" h2="Exportera Microsoft® Visio VTX-filer till VSTX på .NET Framework, .NET Core, Mono eller COM Interop." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -12,9 +12,9 @@ description: Exempelkod för konvertering från VTX till VSTX C#. Använd API ex
 
 {{% blocks/products/pf/agp/content h2="Så här konverterar du VTX till VSTX med C#" %}}
 
- För att konvertera VTX till VSTX kommer vi att använda
+ För att konvertera VTX till VSTX använder vi
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppet
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och konvertering API för C#-plattformen. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  pakethanterare, sök efter
  Aspose.Diagram 
@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Ladda VTX-fil med en instans av klassen Diagram1. Anropa metoden Diagram.Save med utdatafilsökväg och SaveFileFormat.VSTX som parametrar1. VSTX-filen kommer att sparas på den angivna sökvägen
+1. Ladda filen VTX med en instans av klassen Diagram1. Anropa Diagram.Save-metoden med utdatafilsökväg och SaveFileFormat.VSTX som parametrar1. VSTX fil kommer att sparas på den angivna sökvägen
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Mono eller COM Interop.- Utvecklingsmiljö som Microsoft Visual Studio.- Aspose.Diagram for .NET DLL som refereras till i ditt projekt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Den här exempelkoden visar VTX till VSTX C#-konvertering" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Den här exempelkoden visar omvandling från VTX till VSTX C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vtx-to-vstx.cs" >}}
 
@@ -70,15 +70,15 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att konvertera VTX till VSTX" sectionDescription="Kolla in våra livedemos för [VTX till VSTX konvertering](https://products.aspose.app/diagram/conversion/vtx-to-vstx) med följande förmåner." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Gratis app för att konvertera VTX till VSTX" sectionDescription="Kolla in våra livedemos för [VTX till VSTX omvandling](https://products.aspose.app/diagram/conversion/vtx-to-vstx) med följande förmåner." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VTX-fil och tryck på \"Konvertera\"-knappen." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du kommer omedelbart att få nedladdningslänken för den resulterande VSTX-filen." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din VTX-fil och tryck på \"Konvertera\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Du får omedelbart nedladdningslänken för den resulterande filen VSTX." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagrammet för att exportera resultatet till andra format.
+ Ett Diagram Management Library speciellt utformat för att fungera med Microsoft Visio-filer. Det låter utvecklare skapa, manipulera och konvertera inbyggda Visio-format. Utvecklare kan skapa diagram från grunden samt enkelt ladda befintliga filer och manipulera elementen i diagram för att exportera resultatet till andra format.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-En fil med filtillägget .vtx är en Microsoft Visio ritmall som sparas på skiva i XML-filformat. Mallen syftar till att tillhandahålla en fil med grundläggande inställningar som kan användas för att skapa flera Visio-filer med samma inställningar. Ett annat liknande format är VST som sparas i binärt format snarare än XML. VTX-filer stöds med Visio 2010 och nyare versioner. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
+En fil med tillägget .vtx är en Microsoft Visio ritmall som sparas på skivan i XML-filformat. Mallen syftar till att tillhandahålla en fil med grundläggande inställningar som kan användas för att skapa flera Visio-filer med samma inställningar. Ett annat liknande format är VST som sparas i binärt format snarare än XML. VTX filer stöds med Visio 2010 och nyare versioner. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vstx" readMoreLink="https://docs.fileformat.com/image/vstx/" >}}
-Filer med VSTX-tillägg är ritmallsfiler skapade med Microsoft Visio 2013 och senare. Dessa VSTX-filer ger en startpunkt för att skapa Visio-ritningar, sparade som .VSDX-filer, med standardlayout och inställningar. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. Program som öppnar VSTX-filer inkluderar Microsoft Visio för Windows och Mac som låter dig öppna dessa filer för visning och redigering. Det gör det också möjligt att konvertera Visio filformat till ett antal andra format.
+Filer med VSTX-tillägg är ritmallsfiler skapade med Microsoft Visio 2013 och senare. Dessa VSTX filer ger en startpunkt för att skapa Visio ritningar, sparade som .VSDX-filer, med standardlayout och inställningar. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. Program som öppnar VSTX-filer inkluderar Microsoft Visio för Windows och Mac som låter dig öppna dessa filer för visning och redigering. Det gör det också möjligt att konvertera Visio filformat till ett antal andra format.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,12 +115,12 @@ Filer med VSTX-tillägg är ritmallsfiler skapade med Microsoft Visio 2013 och s
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-tiff/" name="VTX TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vdx/" name="VTX TILL VDX" description="Microsoft Visio Ritningsformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdm/" name="VTX TILL VSDM" description="Microsoft Visio Ritningsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdx/" name="VTX TILL VSDX" description="Microsoft Visio-format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssm/" name="VTX TILL VSSM" description="Microsoft Visio stencilfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdx/" name="VTX TILL VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssm/" name="VTX TILL VSSM" description="Microsoft Visio Stencilfiler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssx/" name="VTX TILL VSSX" description="Rita stenciler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstm/" name="VTX TILL VSTM" description="Microsoft Visio mallfiler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstm/" name="VTX TILL VSTM" description="Microsoft Visio Mallfiler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsx/" name="VTX TILL VSX" description="Schabloner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vtx/" name="VTX TILL VTX" description="Microsoft Visio ritmall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vtx/" name="VTX TILL VTX" description="Microsoft Visio Ritmall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xaml/" name="VTX TILL XAML" description="Extensible Application Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xps/" name="VTX TILL XPS" description="XML-pappersspecifikationer" >}}
 

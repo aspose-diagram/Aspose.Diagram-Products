@@ -14,8 +14,8 @@ description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 COM Inte
 
  VSS 파일을 병합하려면 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려 있는
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  **Aspose.Diagram** 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
+- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop이 있는 호환 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSS 파일 병합 - C#" offSpacer="" %}}
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vss");
 
     {{% blocks/products/pf/agp/content h2="Aspose.Diagram for .NET API 정보" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -103,7 +103,7 @@ Diagram dgF = new Diagram( "f.vss");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 병합 및 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 개체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은 Windows와 Mac OS 모두에서 사용할 수 있습니다. 
+VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013년에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 객체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은(는) Windows와 Mac OS 모두에서 사용할 수 있습니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,7 +115,7 @@ VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdw/" name="VDW" description="Visio 그래픽 서비스 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio 도면" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio 스텐실 파일" >}}

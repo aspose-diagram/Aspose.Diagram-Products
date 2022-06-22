@@ -12,10 +12,10 @@ description: Código de exemplo para conversão de VDX para XAML C#. Use API có
 
 {{% blocks/products/pf/agp/content h2="Como converter VDX para XAML usando C#" %}}
 
- Para converter VDX para XAML, usaremos
+ Para converter VDX em XAML, usaremos
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API que é uma plataforma de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar API para C#. Abrir
- [NuGetName](https://www.nuget.org/packages/aspose.diagram) 
+ API que é uma plataforma de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar API para C#. Aberto
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  gerenciador de pacotes, procure
  Aspose.Diagram 
  e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET os desenvolvedores podem facilmente carregar e converter arquivos VDX em XAML em apenas algumas linhas de código.
+ .NET os desenvolvedores podem facilmente carregar e converter VDX arquivos em XAML em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou COM Interop.- Ambiente de desenvolvimento como o Microsoft Visual Studio.- Aspose.Diagram for .NET DLL referenciada em seu projeto.
+- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou COM Interop.- Ambiente de desenvolvimento como Microsoft Visual Studio.- Aspose.Diagram for .NET DLL referenciada em seu projeto.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Este código de amostra mostra a conversão de VDX para XAML C#" offSpacer="" %}}
@@ -70,15 +70,15 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo gratuito para converter VDX para XAML" sectionDescription="Confira nossas demonstrações ao vivo para [Conversão de VDX para XAML](https://products.aspose.app/diagram/conversion/vdx-to-xaml) com os seguintes benefícios." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Aplicativo gratuito para converter VDX em XAML" sectionDescription="Confira nossas demonstrações ao vivo para [VDX para conversão XAML](https://products.aspose.app/diagram/conversion/vdx-to-xaml) com os seguintes benefícios." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo VDX e clicar no botão \"Converter\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seu arquivo VDX e clicar no botão \"Converter\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Você receberá instantaneamente o link de download para o arquivo XAML resultante." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Uma Diagram Biblioteca de Gerenciamento especialmente projetada para funcionar com arquivos Microsoft Visio. Ele permite que os desenvolvedores criem, manipulem e convertam formatos Visio nativos. Os desenvolvedores podem criar diagramas do zero, bem como carregar facilmente arquivos existentes e manipular os elementos do diagrama para exportar o resultado em outros formatos.
+ Uma biblioteca de gerenciamento Diagram especialmente projetada para funcionar com arquivos Microsoft Visio. Ele permite que os desenvolvedores criem, manipulem e convertam formatos Visio nativos. Os desenvolvedores podem criar diagramas do zero, bem como carregar facilmente os arquivos existentes e manipular os elementos do diagram para exportar o resultado em outros formatos.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Qualquer desenho ou gráfico criado no Microsoft Visio, mas salvo no formato XML, tem extensão .VDX. Um arquivo XML de desenho Visio é criado no software Visio, desenvolvido pela Microsoft. A Microsoft Visio tem a capacidade de gerar documentos visuais que podem ser usados em apresentações e documentos. O arquivo XML de desenho Visio contém os objetos visuais e detalhes de metadados dos elementos visuais. O texto também pode ser adicionado a esses elementos visuais Arquivo XML de desenho de visão. Esses Visio arquivos XML de desenho são integrados com padrões de formatação baseados em XML e especificações de codificação de dados de imagem que permitem que seu conteúdo seja renderizado e armazenado pelo software Microsoft Visio no formato de arquivo VDX.
+Qualquer desenho ou gráfico criado em Microsoft Visio, mas salvo no formato XML, tem extensão .VDX. Um arquivo XML de desenho Visio é criado no software Visio, que é desenvolvido por Microsoft. Microsoft Visio tem a capacidade de gerar documentos visuais que podem ser usados em apresentações e documentos. O arquivo XML de desenho Visio contém os objetos visuais e detalhes de metadados dos elementos visuais. O texto também pode ser adicionado a esses elementos visuais Arquivo XML de desenho de visão. Esses Visio arquivos XML de desenho são integrados com padrões de formatação baseados em XML e especificações de codificação de dados de imagem que permitem que seu conteúdo seja renderizado e armazenado pelo software Microsoft Visio no formato de arquivo VDX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xaml" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
-Os arquivos de extensão XAML, Extensible Application Markup Language, descrevem os elementos da interface do usuário para aplicativos de software baseados no Windows Presentation Foundation (WPF). Apesar de ser uma linguagem, não requer programação, pois é baseado no formato padrão de XML que é fácil de usar e entender. O XAML (pronunciado como "zammel") foi desenvolvido pela Microsoft com o objetivo específico de criar interfaces de usuário. Seu acrônimo original significava Extensible Avalon Markup Language, onde Avalon era o codinome do WPF. Os arquivos XAML às vezes também são salvos com a extensão XOML.
+Os arquivos de extensão XAML, Extensible Application Markup Language, descrevem os elementos da interface do usuário para aplicativos de software baseados no Windows Presentation Foundation (WPF). Apesar de ser uma linguagem, não requer programação, pois é baseado no formato padrão de XML que é fácil de usar e entender. XAML (pronunciado como "zammel") foi desenvolvido por Microsoft com o objetivo específico de criar interfaces de usuário. Seu acrônimo original significava Extensible Avalon Markup Language, onde Avalon era o codinome do WPF. Os arquivos XAML às vezes também são salvos com a extensão XOML.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,14 +113,14 @@ Os arquivos de extensão XAML, Extensible Application Markup Language, descrevem
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-svg/" name="VDX PARA SVG" description="Gráficos vetoriais escalonáveis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-swf/" name="VDX PARA SWF" description="Formato SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-tiff/" name="VDX PARA TIFF" description="Formato de imagem marcada" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdm/" name="VDX PARA VSDM" description="Formato de desenho do Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdx/" name="VDX PARA VSDX" description="Formato da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX PARA VSSM" description="Arquivos de estêncil do Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdm/" name="VDX PARA VSDM" description="Microsoft Visio Formato de desenho" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsdx/" name="VDX PARA VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssm/" name="VDX PARA VSSM" description="Microsoft Visio Arquivos de estêncil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vssx/" name="VDX PARA VSSX" description="Estênceis de desenho" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX PARA VSTM" description="Arquivos de modelo da Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX PARA VSTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstm/" name="VDX PARA VSTM" description="Microsoft Visio Arquivos de modelo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vstx/" name="VDX PARA VSTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vsx/" name="VDX PARA VSX" description="Estênceis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX PARA VTX" description="Modelo de desenho da Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-vtx/" name="VDX PARA VTX" description="Microsoft Visio Modelo de desenho" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdx-to-xps/" name="VDX PARA XPS" description="Especificações do papel XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

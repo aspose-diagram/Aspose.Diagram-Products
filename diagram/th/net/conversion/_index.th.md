@@ -1,7 +1,7 @@
 ﻿---
 title: C# Microsoft Visio การแปลงไฟล์
 url: /th/net/conversion/
-description: แปลงรูปแบบ Microsoft Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST เป็น PDF HTML และรูปภาพด้วยโค้ด C# สองสามบรรทัดผ่านไลบรารี .NET
+description: แปลง Microsoft Visio รูปแบบ VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST เป็น PDF HTML และรูปภาพที่มีไม่กี่บรรทัด C# รหัสผ่าน .NET ห้องสมุด
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio แปลงรูปแบบผ่าน C#" h2="แปลง MS Visio Diagram เป็น PDF, HTML และรูปภาพ รวมถึง BMP, JPG, PNG, TIFF เพื่อสร้างแอปพลิเคชัน .NET ข้ามแพลตฟอร์ม" >}}
@@ -13,7 +13,7 @@ description: แปลงรูปแบบ Microsoft Visio VSDX VSX VTX VDX VSS
 
 {{% blocks/products/pf/feature-page-section h2="การแปลงระหว่าง Visio Files" %}}
 
-Visio ไฟล์ เช่น VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM สามารถแปลงระหว่างกันได้ด้วยโค้ด C# เพียงไม่กี่บรรทัด ลองพิจารณากรณีของ **VSD ถึง VSDX การแปลง** API ให้ [Diagram คลาส](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) เพื่อโหลดไฟล์ต้นทาง VSD หลังจากโหลดไฟล์แล้ว ให้เรียกใช้เมธอดบันทึกด้วยพาธเอาต์พุตที่มีชื่อไฟล์ VSDX และ [บันทึกไฟล์รูปแบบ](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFile นามสกุลเป็นพารามิเตอร์
+Visio ไฟล์ เช่น VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM สามารถแปลงระหว่างกันได้โดยใช้เพียงไม่กี่บรรทัด C# รหัส ลองพิจารณากรณีของการแปลง **VSD ถึง VSDX ครั้ง** API ให้ [Diagram คลาส](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) เพื่อโหลดไฟล์ต้นทาง VSD หลังจากโหลดไฟล์แล้ว ให้เรียกใช้เมธอดบันทึกด้วยพาธเอาต์พุตที่มีชื่อไฟล์ VSDX และ [บันทึกไฟล์รูปแบบ](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFile นามสกุลเป็นพารามิเตอร์
 
 {{% blocks/products/pf/feature-page-code h3="C# โค้ดสำหรับการแปลง VSD ถึง VSDX" %}}
 
@@ -26,7 +26,7 @@ Visio ไฟล์ เช่น VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VST
 
 {{% blocks/products/pf/feature-page-section h2="Visio รูปแบบการแปลงรูปภาพ" %}}
 
-เมื่อใดก็ตามที่จำเป็นต้องแปลง Microsoft<sup>&reg;</sup> Visio ไฟล์ไปยังรูปภาพ รวมถึง JPG, PNG, BMP, TIFF และ SVG API ทำให้ง่ายและกระบวนการแปลงเหมือนกัน ใช้คลาส Diagram เพื่อโหลดไฟล์และเรียกวิธีการบันทึกโดยระบุชื่อรูปภาพพร้อมพาธแบบเต็มและ SaveFileFormat เป็นพารามิเตอร์ สำหรับการตั้งค่าภาพเฉพาะ API ให้ [คลาส ImageSaveOptions](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
+เมื่อใดก็ตามที่จำเป็นต้องแปลง Microsoft<sup>&reg;</sup> Visio ไฟล์ไปยังรูปภาพ รวมถึง JPG, PNG, BMP, TIFF และ SVG API ทำให้ง่ายและขั้นตอนการแปลงเหมือนกัน ใช้คลาส Diagram เพื่อโหลดไฟล์และเรียกวิธีการบันทึกโดยระบุชื่อรูปภาพพร้อมพาธแบบเต็มและ SaveFileFormat เป็นพารามิเตอร์ สำหรับการตั้งค่าภาพเฉพาะ API ให้ [คลาส ImageSaveOptions](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
 
 {{% blocks/products/pf/feature-page-code h3="C# โค้ดสำหรับแปลง Visio เป็นรูปแบบรูปภาพ" %}}
 

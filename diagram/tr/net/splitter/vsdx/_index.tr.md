@@ -2,7 +2,7 @@
 title: VSDX Dosyayı .NET ile Böl 
 weight: 1300
 url: /tr/net/splitter/vsdx/ 
-description: .NET Framework, .NET Core, Mono Platformlarında Böl vsdx dosyasına C# kaynak kodu.
+description: .NET Framework, .NET Core, Mono Platformlarında vsdx dosyasını Bölmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VSDX\'i C#\'ye böl" h2="Microsoft veya Open Office, Adobe PDF gibi herhangi bir yazılım kullanmadan, sunucu tarafı Aspose.Diagram for .NET API\'lerini kullanan yerel ve yüksek performanslı VSDX belge ayırıcı." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -61,7 +61,7 @@ Her sayfada yineleme
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet'ten yükleyin
+- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet adresinden yükleyin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSDX Dosyayı Böl - C#" offSpacer="" %}}
@@ -91,11 +91,11 @@ Her sayfada yineleme
         {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi VSDX Bölünmüş Canlı Demolar" sectionDescription="Şu anda sayfamızı ziyaret ederek VSDX dokümanı ayırın [Canlı Demolar web sitesi](https://products.aspose.app/diagram/splitter). Canlı demo aşağıdaki avantajlara sahiptir" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API dosyasını indirmenize gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece VSDM dosyalarınızı yükleyin." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece VSDM dosyanızı yükleyin." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında sıkıştırılır ve birleştirilir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-.VSDX uzantılı dosyalar, Microsoft Office 2013'ten itibaren tanıtılan Microsoft Visio dosya biçimini temsil eder. Microsoft'un Visio önceki sürümleri tarafından desteklenen .VSD ikili dosya biçiminin yerini alacak şekilde geliştirilmiştir. Ayrıca Microsoft SharePoint Server 2013'teki Visio Hizmetlerinde de desteklenir ve SharePoint Server'a yayınlamak için bir aracı dosya biçimi gerektirmez. Visio dosyaları, görsel nesneler, akış şemaları, UML diyagramı, bilgi akışı, organizasyon şemaları, yazılım diyagramları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir. 
+.VSDX uzantılı dosyalar, Microsoft Office 2013'ten itibaren tanıtılan Microsoft Visio dosya biçimini temsil eder. Microsoft Visio'nin önceki sürümleri tarafından desteklenen .VSD ikili dosya biçiminin yerini almak üzere geliştirilmiştir. Ayrıca Microsoft SharePoint Server 2013'te Visio Hizmetlerinde de desteklenir ve SharePoint Server'a yayınlamak için bir aracı dosya biçimi gerektirmez. Visio dosyaları, görsel nesneler, akış şemaları, UML diagram, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ Her sayfada yineleme
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Bölme Formatları" subTitle="C# kullanarak, dahil olmak üzere farklı biçimler kolayca bölünebilir." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="vsd" description="Microsoft Visio Çizimleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Microsoft Visio Çizimler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vdx/" name="Vdx" description="Visio çizim XML Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssx/" name="VSSX" description="Visio şablon Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vstx/" name="VSTX" description="Visio şablon Dosyası" >}}

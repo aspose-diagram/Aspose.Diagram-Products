@@ -2,7 +2,7 @@
 title: แปลง VTX เป็น SWF ผ่าน C# 
 weight: 3490
 url: /th/net/conversion/vtx-to-swf/ 
-description: โค้ดตัวอย่างสำหรับการแปลง VTX เป็น SWF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ VTX เป็นการแปลง SWF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
+description: โค้ดตัวอย่างสำหรับการแปลง VTX เป็น SWF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์ VTX เป็นการแปลง SWF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง VTX เป็น SWF ผ่าน C#" h2="ส่งออกไฟล์ Microsoft® Visio VTX เป็น SWF บน .NET Framework, .NET Core, Mono หรือ COM Interop" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SWF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -14,7 +14,7 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
  ในการแปลง VTX เป็น SWF เราจะใช้
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API ซึ่งเป็นการจัดการและแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและการแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  package manager ค้นหา
  Aspose.Diagram 
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET นักพัฒนาซอฟต์แวร์สามารถโหลดและแปลงไฟล์ VTX เป็น SWF ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ นักพัฒนาซอฟต์แวร์ .NET สามารถโหลดและแปลงไฟล์ VTX เป็น SWF ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,10 +54,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดง VTX เป็น SWF C# Conversion" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดงการแปลง VTX เป็น SWF C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vtx-to-swf.cs" >}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="แอพฟรีเพื่อแปลง VTX เป็น SWF" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง VTX เป็น SWF](https://products.aspose.app/diagram/conversion/vtx-to-swf) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีสำหรับแปลง VTX เป็น SWF" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง VTX เป็น SWF](https://products.aspose.app/diagram/conversion/vtx-to-swf) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ VTX ของคุณแล้วกดปุ่ม \"แปลง\"" >}}
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-ไฟล์ที่มีนามสกุล .vtx คือเทมเพลตการวาดของ Microsoft Visio ที่บันทึกลงในแผ่นดิสก์ในรูปแบบไฟล์ XML เทมเพลตนี้มีจุดมุ่งหมายเพื่อให้ไฟล์มีการตั้งค่าพื้นฐานที่สามารถใช้สร้างไฟล์ Visio หลายไฟล์โดยใช้การตั้งค่าเดียวกันได้ รูปแบบอื่นที่คล้ายคลึงกันคือ VST ซึ่งบันทึกในรูปแบบไบนารีแทนที่จะเป็น XML ไฟล์ VTX รองรับกับ Visio 2010 และเวอร์ชันที่ใหม่กว่า ไฟล์ Visio ถูกใช้เพื่อสร้างภาพวาดที่มีวัตถุที่มองเห็นได้ แผนผังลำดับงาน ไดอะแกรม UML การไหลของข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ เค้าโครงเครือข่าย โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ
+ไฟล์ที่มีนามสกุล .vtx คือเทมเพลตการวาด Microsoft Visio ที่บันทึกลงในดิสก์ในรูปแบบไฟล์ XML เทมเพลตนี้มีจุดมุ่งหมายเพื่อให้ไฟล์มีการตั้งค่าพื้นฐานที่สามารถใช้สร้างไฟล์ Visio หลายไฟล์โดยใช้การตั้งค่าเดียวกันได้ รูปแบบอื่นที่คล้ายคลึงกันคือ VST ซึ่งบันทึกในรูปแบบไบนารีแทนที่จะเป็น XML VTX ไฟล์รองรับ Visio 2010 และเวอร์ชันที่ใหม่กว่า ไฟล์ Visio ใช้สำหรับสร้างภาพวาดที่มีออบเจ็กต์ที่มองเห็นได้ โฟลว์ชาร์ต ไดอะแกรม UML โฟลว์ข้อมูล แผนผังองค์กร ไดอะแกรมซอฟต์แวร์ เลย์เอาต์เครือข่าย โมเดลฐานข้อมูล การแมปออบเจ็กต์ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,25 +104,25 @@ SWF คือรูปแบบไฟล์ที่ใช้ในการข�
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง VTX เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบตามรายการด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-bmp/" name="VTX เป็น BMP" description="ภาพบิตแมป" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-emf/" name="VTX เป็น EMF" description="รูปแบบไฟล์ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-bmp/" name="VTX ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-emf/" name="VTX ถึง EMF" description="รูปแบบไฟล์ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-html/" name="VTX เป็น HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-jpeg/" name="VTX เป็น JPEG" description="ภาพ JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-pdf/" name="VTX เป็น PDF" description="รูปแบบเอกสารพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-png/" name="VTX เป็น PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-svg/" name="VTX เป็น SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-tiff/" name="VTX เป็น TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vdx/" name="VTX เป็น VDX" description="Microsoft Visio รูปแบบการวาด" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdm/" name="VTX เป็น VSDM" description="Microsoft Visio รูปแบบการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-jpeg/" name="VTX ถึง JPEG" description="ภาพ JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-pdf/" name="VTX ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-png/" name="VTX ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-svg/" name="VTX ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-tiff/" name="VTX ถึง TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vdx/" name="VTX ถึง VDX" description="Microsoft Visio รูปแบบการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdm/" name="VTX ถึง VSDM" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsdx/" name="VTX ถึง VSDX" description="Microsoft Visio รูปแบบ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssm/" name="VTX ถึง VSSM" description="Microsoft Visio ไฟล์ลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vssx/" name="VTX ถึง VSSX" description="วาดลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstm/" name="VTX ถึง VSTM" description="Microsoft Visio ไฟล์เทมเพลต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstx/" name="VTX เป็น VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsx/" name="VTX เป็น VSX" description="ลายฉลุ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vtx/" name="VTX เป็น VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xaml/" name="VTX เป็น XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xps/" name="VTX เป็น XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vstx/" name="VTX ถึง VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vsx/" name="VTX ถึง VSX" description="ลายฉลุ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-vtx/" name="VTX ถึง VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xaml/" name="VTX ถึง XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vtx-to-xps/" name="VTX ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

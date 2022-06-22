@@ -1,22 +1,22 @@
 ﻿---
-title: تحويل ملفات Java Microsoft Visio
+title: Java Microsoft Visio تحويل الملفات
 url: /ar/java/conversion/
-description: تحويل Microsoft Visio تنسيقات VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS إلى صور HTML و PDF مع بضعة أسطر من Java التعليمات البرمجية.
+description: تحويل Microsoft Visio التنسيقات VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS إلى صور HTML و PDF مع بضعة أسطر من Java كود.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup> & reg؛ </sup> Visio ينسيقات التحويل عبر Java" h2="قم بتحويل مخططات MS Visio إلى HTML و PDF والصور بما في ذلك JPG و BMP و PNG و TIFF لإنشاء تطبيقات عبر الأنظمة الأساسية Java." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup> & reg؛ </sup> Visio تنسيقات التحويل عبر Java" h2="قم بتحويل مخططات MS Visio إلى HTML و PDF والصور بما في ذلك JPG و BMP و PNG و TIFF لإنشاء تطبيقات عبر الأنظمة الأساسية Java." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-بالنسبة إلى أي حل لعرض تنسيقات Microsoft Visio مثل تصميم المخططات الانسيابية ومخططات تدفق الأعمال وما إلى ذلك ، Java Visio API يسهل جميع الرسومات المعقدة بطريقة سهلة. تحميل ملف المصدر باستخدام [Diagram فئة](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) واستدعاء طريقة الحفظ مع المعلمات المناسبة.
+لأي Microsoft Visio حل عرض للتنسيقات مثل تصميم المخططات الانسيابية ومخططات تدفق الأعمال وما إلى ذلك Java Visio API يسهل جميع الرسومات المعقدة بطريقة سهلة. تحميل ملف المصدر باستخدام [Diagram فئة](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) واستدعاء طريقة الحفظ مع المعلمات المناسبة.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="ملفات Inter Conversion Visio" %}}
 
-يمكن للمبرمجين بسهولة تحويل تنسيقات VSDX و VSX و VTX و VDX و VSSX و VSTX و VSDM و VSSM و VSTM بالإضافة إلى تحميل VDW و VSD و VSS و VST والعرض إلى PDF و HTML والصور. بالنظر إلى سيناريو VSDX إلى VDX ، تكون العملية هي تحميل الملف المصدر VSDX باستخدام فئة الرسم التخطيطي واستدعاء طريقة الحفظ من خلال توفير ملف الإخراج و [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX كمعلمات. 
+يمكن للمبرمجين بسهولة تحويل تنسيقات VSDX ، VSX ، VTX ، VDX ، VSSX ، VSTX ، VSDM ، VSSM ، VSTM بالإضافة إلى تحميل VDW ، VSD ، VSS و VST ويتم التحويل إلى PDF و HTML والصور. بالنظر إلى سيناريو VSDX إلى VDX ، فإن العملية هي تحميل الملف المصدر VSDX باستخدام فئة diagram واستدعاء طريقة الحفظ من خلال توفير ملف الإخراج و [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat). VDX كمعلمات. 
 
-{{% blocks/products/pf/feature-page-code h3="Java رمز لـ VSDX لتحويل VDX" %}}
+{{% blocks/products/pf/feature-page-code h3="Java رمز التحويل من VSDX إلى VDX" %}}
 
 {{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-vdx.java" >}}
 
@@ -27,7 +27,7 @@ description: تحويل Microsoft Visio تنسيقات VSDX VSX VDX VTX VSSX VST
 
 {{% blocks/products/pf/feature-page-section h2="Visio لتحويل الصور" %}}
 
-للتحويل العام ، فإن عملية تحويل ملفات Visio إلى صور هي نفسها. ما عليك سوى تحميل الملف عبر فئة Diagram واستدعاء طريقة الحفظ مع ملف الإخراج ومعلمات إخراج SaveFileFormat. وكلما دعت الحاجة إلى تحديد خيارات معينة ، يمكن للمطورين استخدام فئة ImageSaveOptions أثناء تحويل صفحات الرسم التخطيطي إلى صور و SVGSaveOptions لتحويل SVG.
+للتحويل العام ، فإن عملية تحويل ملفات visio إلى صور هي نفسها. ما عليك سوى تحميل الملف عبر فئة Diagram واستدعاء طريقة الحفظ مع ملف الإخراج ومعلمات إخراج SaveFileFormat. وكلما دعت الحاجة إلى تحديد خيارات معينة ، يمكن للمطورين استخدام فئة ImageSaveOptions أثناء تحويل صفحات diagram إلى صور و SVGSaveOptions لتحويل SVG.
 
 {{% blocks/products/pf/feature-page-code h3="Java رمز للتحويل Visio إلى تنسيقات الصور" %}}
 
@@ -46,7 +46,7 @@ description: تحويل Microsoft Visio تنسيقات VSDX VSX VDX VTX VSSX VST
 
 {{% blocks/products/pf/feature-page-section h2="تحويل Visio إلى PDF و HTML" %}}
 
-API قادر على تحويل تنسيقات Visio إلى PDF وكذلك إلى HTML. فقط استخدم [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF و SaveFileFormat.HTML ضمن طريقة الحفظ كمعامل. وبالنسبة للإعدادات الخاصة ، يمكن للمطورين استخدام فئات PdfSaveOptions و HTMLSaveOptions.
+API قادر على تحويل visio التنسيقات إلى PDF وكذلك إلى HTML. فقط استخدم [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF و SaveFileFormat.HTML ضمن طريقة الحفظ كمعامل. وبالنسبة للإعدادات الخاصة ، يمكن للمطورين استخدام فئات PdfSaveOptions و HTMLSaveOptions.
 
 {{% blocks/products/pf/feature-page-code h3="Java رمز التحويل Visio إلى PDF" %}}
 

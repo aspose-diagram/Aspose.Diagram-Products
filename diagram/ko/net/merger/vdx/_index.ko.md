@@ -1,5 +1,5 @@
 ﻿---
-title: .NET를 통해 VDX 파일 병합 
+title: .NET을(를) 통해 VDX 파일 병합 
 weight: 3260
 url: /ko/net/merger/vdx/ 
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 COM Interop에서 VDX 문서를 결합합니다.
@@ -12,10 +12,10 @@ description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 COM Inte
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 VDX 파일을 병합하는 방법" %}}
 
- VDX 파일을 병합하려면 다음을 사용합니다.
+ VDX 파일을 병합하기 위해 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려 있는
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  **Aspose.Diagram** 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="C#에서 VDX 파일 병합 단계" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C#에서 VDX 파일을 병합하는 단계" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Diagram
 + 전체 경로로 모든 VDX 파일을 로드합니다.
 + 하나의 문서를 기본 파일로 만들기
 + 파일을 하나씩 연결하고 병합하는 해당 메서드를 호출합니다.
-Save() 메서드를 호출하고 파일 이름(전체 경로)과 형식(VDX)을 매개변수로 전달합니다.
++ Save() 메서드를 호출하고 파일 이름(전체 경로)과 형식(VDX)을 매개변수로 전달합니다.
 + 이제 Microsoft Office, Adobe PDF 또는 기타 호환 프로그램에서 VDX 파일을 열고 사용할 수 있습니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -61,7 +61,7 @@ Save() 메서드를 호출하고 파일 이름(전체 경로)과 형식(VDX)을 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
+- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop이 있는 호환 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDX 파일 병합 - C#" offSpacer="" %}}
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vdx");
 
     {{% blocks/products/pf/agp/content h2="Aspose.Diagram for .NET API 정보" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -96,14 +96,14 @@ Diagram dgF = new Diagram( "f.vdx");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 VDX 합병 라이브 데모" sectionDescription="지금 바로 VDX 문서를 방문하여 병합하십시오. [라이브 데모 웹사이트](https://products.aspose.app/diagram/merger). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 VDX 합병 라이브 데모" sectionDescription="지금 바로 다음을 방문하여 VDX 문서를 병합하십시오. [라이브 데모 웹사이트](https://products.aspose.app/diagram/merger). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을(를) 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="VDX 파일을 업로드하기만 하면 됩니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 병합 및 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Microsoft Visio에서 생성되었지만 XML 형식으로 저장된 모든 도면 또는 차트에는 .VDX 확장자가 있습니다. Visio 도면 XML 파일은 Microsoft에서 개발한 Visio 소프트웨어에서 생성됩니다. Microsoft Visio에는 프레젠테이션 및 문서에 사용할 수 있는 시각적 문서를 생성하는 기능이 있습니다. Visio 도면 XML 파일에는 시각적 개체 및 시각적 요소의 메타데이터 세부정보가 포함되어 있습니다. 이러한 시각적 요소 Vision drawing XML 파일에 텍스트를 추가할 수도 있습니다. 이러한 Visio 도면 XML 파일은 VDX 파일 형식으로 Microsoft Visio 소프트웨어에서 해당 콘텐츠를 렌더링하고 저장할 수 있도록 하는 XML 기반 형식 지정 표준 및 이미지 데이터 인코딩 사양과 통합됩니다. 
+Microsoft Visio에서 생성되었지만 XML 형식으로 저장된 모든 그림 또는 차트에는 .VDX 확장자가 있습니다. Visio 도면 XML 파일은 Microsoft에서 개발한 Visio 소프트웨어에서 생성됩니다. Microsoft Visio에는 프레젠테이션 및 문서에 사용할 수 있는 시각적 문서를 생성하는 기능이 있습니다. Visio 도면 XML 파일에는 시각적 개체 및 시각적 요소의 메타데이터 세부정보가 포함되어 있습니다. 이러한 시각적 요소 Vision drawing XML 파일에 텍스트를 추가할 수도 있습니다. 이러한 Visio 도면 XML 파일은 콘텐츠가 MicrosoftVisio 소프트웨어에서 VDX 파일 형식으로 렌더링 및 저장될 수 있도록 하는 XML 기반 형식 표준 및 이미지 데이터 인코딩 사양과 통합됩니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,7 +114,7 @@ Microsoft Visio에서 생성되었지만 XML 형식으로 저장된 모든 도�
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 병합 형식" subTitle="C#을(를) 사용하면 다음을 포함한 많은 다른 파일 형식을 병합할 수도 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdw/" name="VDW" description="Visio 그래픽 서비스 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio 도면" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vss/" name="VSS" description="스텐실 파일" >}}

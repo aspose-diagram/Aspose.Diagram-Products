@@ -52,7 +52,7 @@ description: Ukázkový konverzní kód Java pro formát VTX na soubor VSDX. Pom
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroky k převodu VTX na VSDX prostřednictvím Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroky ke konverzi VTX na VSDX prostřednictvím Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -60,7 +60,7 @@ description: Ukázkový konverzní kód Java pro formát VTX na soubor VSDX. Pom
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Načtěte soubor VTX s instancí třídy Diagram1. Volejte metodu Diagram.save s cestou k výstupnímu souboru a SaveFileFormat jako parametry1. Soubor VSDX bude uložen do zadané cesty
+1. Načíst soubor VTX s instancí třídy Diagram1. Volejte metodu Diagram.save s cestou k výstupnímu souboru a SaveFileFormat jako parametry1. Soubor VSDX bude uložen do zadané cesty
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na systém" %}}
@@ -71,7 +71,7 @@ description: Ukázkový konverzní kód Java pro formát VTX na soubor VSDX. Pom
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.- Získejte nejnovější verzi Aspose.Diagram for Java přímo od společnosti Maven.
+- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.- Získejte nejnovější verzi Aspose.Diagram for Java přímo od Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Zdrojový kód konverze VTX na VSDX Java" offSpacer="" %}}
@@ -94,15 +94,15 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Živá ukázka konverze VTX na VSDX" sectionDescription="[Převést VTX na VSDX](https://products.aspose.app/diagram/conversion/vtx-to-vsdx) právě teď na naší webové stránce s živými ukázkami. Živá ukázka má následující výhody" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Živá ukázka konverzí VTX na VSDX" sectionDescription="[Převést VTX na VSDX](https://products.aspose.app/diagram/conversion/vtx-to-vsdx) právě teď na naší webové stránce s živými ukázkami. Živá ukázka má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát svůj soubor VTX a bude okamžitě převeden na VSDX." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát svůj soubor VTX, bude okamžitě převeden na VSDX." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Dostanete odkaz ke stažení." >}}
 
     {{% blocks/products/pf/agp/content h2="Knihovna manipulací Java Diagram" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
 
-Soubor s příponou .vtx je šablona výkresu Microsoft Visio, která je uložena na disk ve formátu souboru XML. Cílem šablony je poskytnout soubor se základním nastavením, který lze použít k vytvoření více souborů Visio se stejným nastavením. Dalším podobným formátem je VST, který je uložen v binárním formátu spíše než XML. Soubory VTX jsou podporovány ve verzích Visio 2010 a novějších. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozvržení sítě, databázové modely, mapování objektů a další podobné informace. Soubory vygenerované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další.
+Soubor s příponou .vtx je šablona výkresu Microsoft Visio, která je uložena na disk ve formátu souboru XML. Cílem šablony je poskytnout soubor se základním nastavením, který lze použít k vytvoření více souborů Visio se stejným nastavením. Dalším podobným formátem je VST, který je uložen v binárním formátu spíše než XML. Soubory VTX jsou podporovány ve verzích Visio 2010 a novějších. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, UML diagram, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-Soubory s příponou .VSDX představují formát souborů Microsoft Visio zavedený od Microsoft Office 2013 a novější. Byl vyvinut, aby nahradil binární formát souboru .VSD, který je podporován dřívějšími verzemi Microsoft Visio. Je také podporován ve službách Visio na serveru Microsoft SharePoint Server 2013 a pro publikování na serveru SharePoint nevyžaduje zprostředkující formát souboru. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory generované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další.
+Soubory s příponou .VSDX představují Microsoft Visio formát souboru zavedený od Microsoft Office 2013 dále. Byl vyvinut, aby nahradil binární formát souboru .VSD, který je podporován dřívějšími verzemi Microsoft Visio. Je také podporován ve službách Visio Services na serveru Microsoft SharePoint Server 2013 a pro publikování na serveru SharePoint nevyžaduje zprostředkující formát souboru. Soubory Visio se používají k vytváření výkresů, které obsahují vizuální objekty, vývojové diagramy, UML diagram, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Soubory vygenerované pomocí Visio lze také exportovat do různých formátů souborů, jako jsou PNG, BMP, PDF a další.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,25 +130,25 @@ Soubory s příponou .VSDX představují formát souborů Microsoft Visio zavede
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést VTX do mnoha dalších formátů souborů, včetně několika níže uvedených." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést soubor VTX do mnoha dalších formátů souborů, včetně několika níže uvedených." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-bmp/" name="VTX DO BMP" description="Bitmapový obrázek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-emf/" name="VTX TO EMF" description="Vylepšený formát metasouborů" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-html/" name="VTX TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-jpeg/" name="VTX do JPEG" description="Obrázek JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-emf/" name="VTX DO EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-html/" name="VTX DO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-jpeg/" name="VTX DO JPEG" description="Obrázek JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-pdf/" name="VTX DO PDF" description="Přenosný formát dokumentu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-png/" name="VTX DO PNG" description="Přenosná síťová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-svg/" name="VTX NA SVG" description="Škálovatelná vektorová grafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-tiff/" name="VTX TO TIFF" description="Formát tagovaného obrázku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX NA VDX" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX TO VSDM" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX TO VSSM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX na VSSX" description="Kreslicí šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX TO VSTM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX DO VSTX" description="Šablona výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX na VSX" description="Šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xaml/" name="VTX TO XAML" description="Rozšiřitelný aplikační značkovací jazyk" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xps/" name="VTX na XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-svg/" name="VTX DO SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-tiff/" name="VTX NA TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX DO VDX" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX DO VSDM" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX DO VSSM" description="Soubory šablon: Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX DO VSSX" description="Kreslicí šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX DO VSTM" description="Microsoft Visio Soubory šablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX DO VSTX" description="Microsoft Visio Šablona výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX DO VSX" description="Šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xaml/" name="VTX DO XAML" description="Rozšiřitelný aplikační značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xps/" name="VTX NA XPS" description="Specifikace papíru XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

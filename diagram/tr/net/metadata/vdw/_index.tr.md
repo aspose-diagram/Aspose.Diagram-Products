@@ -59,7 +59,7 @@ Diagram nesnenin DocumentProps'unu alın
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet'ten yükleyin
+- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet adresinden yükleyin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDW Meta Verilerini Çıkarma - C#" offSpacer="" %}}
@@ -93,7 +93,7 @@ Diagram nesnenin DocumentProps'unu alın
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında sıkıştırılır ve birleştirilir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diyagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio'ta da açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya biçimine dönüştürme yeteneği sunar. 
+VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirten Visio Grafik Hizmeti dosya biçimidir. Web çizimi, vektör veya raster çizim olarak işlenebilen çizim sayfaları, şekiller, yazı tipleri, resimler, veri bağlantıları ve diagram güncelleme bilgilerinin bir koleksiyonudur. VDW dosyaları Microsoft Visio içinde de açılabilir, ancak öncelikle web'de kullanılmak üzere kaydedilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya formatına dönüştürme yeteneği sunar. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ VDW, bir Web çizimini oluşturmak için gereken akışları ve depoları belirt
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Meta Veri Formatları" subTitle="C# kullanılarak, dahil olmak üzere farklı biçimlerdeki meta veriler kolayca işlenebilir." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="vsd" description="Microsoft Visio Çizimleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Çizimler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio çizim XML Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio şablon Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio şablon Dosyası" >}}

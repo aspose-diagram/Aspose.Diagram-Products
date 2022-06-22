@@ -15,8 +15,8 @@ description: नमूना Java VSS प्रारूप के लिए XAM
  VSS को XAML में रेंडर करने के लिए, हम उपयोग करेंगे
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान रूपांतरण API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं
- [मावेना](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने मावेन-आधारित प्रोजेक्ट में स्थापित करें।
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -52,7 +52,7 @@ description: नमूना Java VSS प्रारूप के लिए XAM
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="वीएसएस को एक्सएएमएल में बदलने के लिए कदम Java के माध्यम से" %}}
+{{% blocks/products/pf/agp/feature-section-col title="VSS को XAML में बदलने के लिए कदम Java के माध्यम से" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -71,7 +71,7 @@ description: नमूना Java VSS प्रारूप के लिए XAM
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows या JavaJSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश के साथ संगत OS।- मावेन से सीधे Aspose.Diagram for Java का नवीनतम संस्करण प्राप्त करें।
+- Microsoft जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट के साथ विंडोज या संगत ओएस।- सीधे Maven से Aspose.Diagram for Java का नवीनतम संस्करण प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSS से XAML Java रूपांतरण स्रोत कोड" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram मैनिपुलेशन लाइब्रेरी" %}}
 
- Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसके लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर को स्थापित करने की आवश्यकता नहीं है।  
+ Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अधिक जैसे अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसे स्थापित करने के लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर की आवश्यकता नहीं है।  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
 
-VSS Microsoft Visio 2007 और इससे पहले के संस्करण के साथ बनाई गई स्टैंसिल फ़ाइलें हैं। एक अपेक्षाकृत नया फ़ाइल स्वरूप .VSSX है जिसे Microsoft Visio 2013 के साथ पेश किया गया था। स्टैंसिल फ़ाइलें आरेखण ऑब्जेक्ट प्रदान करती हैं जिन्हें .VSD Visio आरेखण में शामिल किया जा सकता है। Microsoft Visio स्वयं आकृतियों के संग्रह, कनेक्टर, फ़्लोचार्ट, नेटवर्क लेआउट, UML आरेख, सॉफ़्टवेयर आरेख, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी जैसे आरेखण तत्व बनाने के लिए जाना जाता है। इसमें अन्य फ़ाइल स्वरूपों जैसे पीएनजी, बीएमपी, पीडीएफ और अन्य के लिए Visio दस्तावेज़ों की समृद्ध रूपांतरण सुविधाएँ भी हैं। Visio विंडोज और मैक ओएस दोनों के लिए उपलब्ध है।
+VSS स्टैंसिल फ़ाइलें हैं जिन्हें Microsoft Visio 2007 और इससे पहले बनाया गया है। एक अपेक्षाकृत नया फ़ाइल स्वरूप .VSSX है जिसे Microsoft Visio 2013 के साथ पेश किया गया था। स्टैंसिल फाइलें ड्राइंग ऑब्जेक्ट प्रदान करती हैं जिन्हें एक .VSD Visio ड्राइंग में शामिल किया जा सकता है। Microsoft Visio स्वयं आकृतियों के संग्रह, कनेक्टर, फ़्लोचार्ट, नेटवर्क लेआउट, यूएमएल आरेख, सॉफ़्टवेयर आरेख, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी जैसे आरेखण तत्व बनाने के लिए जाने जाते हैं। इसमें अन्य फ़ाइल स्वरूपों जैसे पीएनजी, बीएमपी, पीडीएफ और अन्य के लिए Visio दस्तावेजों की समृद्ध रूपांतरण सुविधाएं भी हैं। Visio विंडोज और मैक ओएस दोनों के लिए उपलब्ध है।
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
 
-एक्सएएमएल, एक्स्टेंसिबल एप्लिकेशन मार्कअप लैंग्वेज, एक्सटेंशन फाइलें विंडोज प्रेजेंटेशन फाउंडेशन (डब्ल्यूपीएफ) पर आधारित सॉफ्टवेयर अनुप्रयोगों के लिए यूजर इंटरफेस तत्वों का वर्णन करती हैं। हालांकि एक भाषा, इसे प्रोग्राम करने की आवश्यकता नहीं है क्योंकि यह एक्सएमएल के मानक प्रारूप पर आधारित है जो उपयोग करने और समझने में आसान है। XAML ("ज़मेल" के रूप में उच्चारित) को Microsoft द्वारा उपयोगकर्ता इंटरफ़ेस बनाने के विशिष्ट उद्देश्य के साथ विकसित किया गया था। इसका संक्षिप्त नाम मूल एक्स्टेंसिबल एवलॉन मार्कअप लैंग्वेज के लिए था, जहां एवलॉन डब्ल्यूपीएफ के लिए कोड-नाम था। XAML फ़ाइलें कभी-कभी XOML एक्सटेंशन के साथ भी सहेजी जाती हैं।
+एक्सएएमएल, एक्स्टेंसिबल एप्लिकेशन मार्कअप लैंग्वेज, एक्सटेंशन फाइलें विंडोज प्रेजेंटेशन फाउंडेशन (डब्ल्यूपीएफ) पर आधारित सॉफ्टवेयर अनुप्रयोगों के लिए यूजर इंटरफेस तत्वों का वर्णन करती हैं। हालांकि एक भाषा, इसे प्रोग्राम करने की आवश्यकता नहीं है क्योंकि यह एक्सएमएल के मानक प्रारूप पर आधारित है जो उपयोग करने और समझने में आसान है। XAML ("ज़मेल" के रूप में उच्चारित) को उपयोगकर्ता इंटरफ़ेस बनाने के विशिष्ट उद्देश्य के साथ Microsoft द्वारा विकसित किया गया था। इसका संक्षिप्त नाम मूल एक्स्टेंसिबल एवलॉन मार्कअप लैंग्वेज के लिए था, जहां एवलॉन डब्ल्यूपीएफ के लिए कोड-नाम था। XAML फ़ाइलें कभी-कभी XOML एक्सटेंशन के साथ भी सहेजी जाती हैं।
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -136,19 +136,19 @@ VSS Microsoft Visio 2007 और इससे पहले के संस्क
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-emf/" name="वीएसएस टू ईएमएफ" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-html/" name="वीएसएस टू एचटीएमएल" description="हाइपर टेक्स्ट मार्कअप लैंग्वेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-jpeg/" name="वीएसएस टू जेपीईजी" description="जेपीईजी छवि" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-pdf/" name="वीएसएस टू पीडीएफ" description="संवहन दस्तावेज़ स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-pdf/" name="वीएसएस टू पीडीएफ" description="वहनीय दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-png/" name="वीएसएस टू पीएनजी" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-svg/" name="वीएसएस से एसवीजी" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-tiff/" name="वीएसएस टू टीआईएफएफ" description="टैग की गई छवि प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="वीएसएस से वीडीएक्स" description="Microsoft Visio आरेखण प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="वीएसएस से वीएसडीएम" description="Microsoft Visio आरेखण प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="वीएसएस टू VSDX" description="माइक्रोसॉफ्ट Visio प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="वीएसएस से वीएसएसएम" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="वीएसएस से वीएसएसएक्स" description="ड्राइंग स्टेंसिल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="वीएसएस से वीएसटीएम" description="माइक्रोसॉफ्ट Visio टेम्पलेट फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="वीएसएस से वीएसटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="वीएसएस से वीएसएक्स" description="स्टेंसिल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="वीएसएस से वीटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vdx/" name="वीएसएस टू VDX" description="Microsoft Visio आरेखण प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdm/" name="वीएसएस टू VSDM" description="Microsoft Visio आरेखण प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsdx/" name="वीएसएस टू VSDX" description="Microsoft Visio प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssm/" name="वीएसएस टू VSSM" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vssx/" name="वीएसएस टू VSSX" description="ड्राइंग स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstm/" name="वीएसएस टू VSTM" description="Microsoft Visio टेम्प्लेट फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vstx/" name="वीएसएस टू VSTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vsx/" name="वीएसएस टू VSX" description="स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-vtx/" name="वीएसएस टू VTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vss-to-xps/" name="वीएसएस टू एक्सपीएस" description="एक्सएमएल पेपर निर्दिष्टीकरण" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -13,11 +13,11 @@ description: Visio bibliotek för att skapa, manipulera och konvertera diagram. 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java är ett kraftfullt Microsoft Visio-dokument som bearbetar API. Den tillhandahåller vanliga funktioner som skapa, analysera &amp; konvertera inbyggda Visio-format samt stöder några vanliga bildformat och format med fast layout. Applikationer kan ladda befintliga dokument och manipulera diagramelementen för att exportera resultatet i sina egna format, bilder eller format med fast layout.
+ Aspose.Diagram for Java är en kraftfull Microsoft Visio dokumentbearbetning API. Den tillhandahåller vanliga funktioner som skapa, analysera &amp; konvertera inbyggda Visio-format samt stöder några vanliga bildformat och format med fast layout. Applikationer kan ladda befintliga dokument och manipulera diagram-elementen för att exportera resultatet i sina egna format, bilder eller format med fast layout.
 </p>
 
 <p>
- Genom att integrera API kan några av de grundläggande uppgifterna som utvecklare utföra som att skapa diagram från början, läsa eller skriva flera format, komma åt och läsa egenskaperna inklusive formler för Visio-objekt, exportera diagram till olika format, skriva ut diagram med hög tillförlitlighet och mycket mer.
+ Genom att integrera API kan några av de grundläggande uppgifterna som utvecklare utföra som att skapa diagram från början, läsa eller skriva flera format, komma åt och läsa egenskaperna inklusive formler för Visio-objekt, exportera diagram till olika format, skriva ut diagram med hög tillförlitlighet och mycket mera.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -408,10 +408,10 @@ description: Visio bibliotek för att skapa, manipulera och konvertera diagram. 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Analysera Microsoft Visio-dokument
+     Analysera Microsoft Visio dokument
     </h2>
     <p>
-     Java diagram API gör det möjligt att läsa inbyggda filformat för Microsoft Visio-applikationen, vilket ger dig tillgång till diagramdata som dokumentsidor, egenskaper, mallar, bilder, former, anslutningar, lösnings-XML, lager, hyperlänkar, kommentarer , StyleSheet, användardefinierade celler och så vidare. Dessa objekt kan manipuleras genom API, och resultatet kan skrivas till disk i vilket som helst av de format som stöds.
+     Java diagram API gör det möjligt att läsa inbyggda filformat för Microsoft Visio-applikationen, vilket ger dig tillgång till diagram-data som dokumentsidor, egenskaper, mallar, bilder, former, anslutningar, lösnings-XML , Lager, Hyperlänkar, Kommentarer, StyleSheet, användardefinierade celler och så vidare. Dessa objekt kan manipuleras genom API, och resultatet kan skrivas till disk i vilket som helst av de format som stöds.
     </p>
    </div>
    <div class="col-lg-12">
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Organisera former i en behållare
     </h2>
     <p>
-     Normalt lägger utvecklare till former i en behållare för att hålla saker välorganiserade och begripliga. Behållarna lägger till en visuell gräns runt former, inklusive en etikett. För att lägga till en behållare och underformer till diagrammet kan utvecklare använda biblioteket eftersom det ger ett enkelt och snabbt tillvägagångssätt.
+     Normalt lägger utvecklare till former i en behållare för att hålla saker välorganiserade och begripliga. Behållarna lägger till en visuell gräns runt former, inklusive en etikett. För att lägga till en behållare och underformer till diagram kan utvecklare använda biblioteket eftersom det ger ett enkelt och snabbt tillvägagångssätt.
     </p>
    </div>
    <div class="col-lg-12">

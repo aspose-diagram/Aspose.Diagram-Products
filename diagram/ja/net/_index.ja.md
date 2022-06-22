@@ -2,7 +2,7 @@
 title: C# .NET Visio DiagramAPI-Aspose 
 weight: 1020
 url: /ja/net/ 
-description: C# VB .NET ASP.NETVisio図をエクスポートするライブラリVisio図VSDVSDXVSS VST VSX VTX VDWVDXVSSXおよびVSTXをPDFXPSHTMLSVGSWFおよび画像形式に
+description: C# VB .NET ASP.NETVisioダイアグラムライブラリVisioダイアグラムVSDVSDXVSS VST VSX VTX VDWVDXVSSXおよびVSTXをPDFXPSにエクスポートHTMLSVGSWFおよび画像形式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1=".NETMicrosoftVisioファイル処理API" h2="Microsoft Visioダイアグラムを生成、編集、操作、およびXPS、HTML、SVG、SWF、XAML、画像、またはPDF形式に変換します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
@@ -12,7 +12,7 @@ description: C# VB .NET ASP.NETVisio図をエクスポートするライブラ�
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NETは、MicrosoftVisioドキュメントで動作するように設計された特殊なAPIです。これにより、開発者は作成、操作、およびネイティブVisio形式を変換します。開発者は、ダイアグラムを最初から作成するだけでなく、既存のファイルを簡単にロードし、ダイアグラムの要素を操作して結果を他の形式でエクスポートできます。</p>
+<p>Aspose.Diagram for .NETは、MicrosoftVisioドキュメントで機能するように設計された特殊なAPIです。これにより、開発者は作成、操作、および操作できます。ネイティブVisio形式を変換します。開発者は、ダイアグラムを最初から作成するだけでなく、既存のファイルを簡単にロードし、diagramの要素を操作して、結果を他の形式でエクスポートできます。</p>
 
 <p>Aspose.Diagram for .NETは、ほぼすべてのネイティブVisio形式と、一般的に使用されるいくつかの画像および画像をサポートします。固定レイアウト形式。このAPIは、Microsoft Visioオブジェクトモデルの代替であり、パフォーマンスが向上します。 Visioサービスの高度な機能を利用して、サーバー上のドキュメントを操作します。</p>
 
@@ -136,7 +136,7 @@ description: C# VB .NET ASP.NETVisio図をエクスポートするライブラ�
   <footer>
    <small>
     <em>
-     ために
+     にとって
     </em>
     .NET
    </small>
@@ -147,7 +147,7 @@ description: C# VB .NET ASP.NETVisio図をエクスポートするライブラ�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="APIは、2.0およびMono以降の.NETフレームワークをサポートします。さらに、COM相互運用機能を介して他の言語で使用できます。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="APIは、2.0およびMono以降の.NETFrameworkをサポートします。さらに、COM相互運用機能を介して他の言語で使用できます。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,7 +168,7 @@ description: C# VB .NET ASP.NETVisio図をエクスポートするライブラ�
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NETフレームワーク
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -197,7 +197,7 @@ description: C# VB .NET ASP.NETVisio図をエクスポートするライブラ�
   <footer>
    <small>
     <em>
-     ために
+     にとって
     </em>
     .NET
    </small>
@@ -284,7 +284,7 @@ description: C# VB .NET ASP.NETVisio図をエクスポートするライブラ�
   <footer>
    <small>
     <em>
-     ために
+     にとって
     </em>
     .NET
    </small>
@@ -334,7 +334,7 @@ description: C# VB .NET ASP.NETVisio図をエクスポートするライブラ�
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ダイアグラムのさまざまなオブジェクトのプロパティを読み取る
+     diagramのさまざまなオブジェクトのプロパティを読み取ります
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: C# VB .NET ASP.NETVisio図をエクスポートするライブラ�
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XpsPrintAPIを介してサーバーに図を印刷する
+     XpsPrintAPIを介してサーバーにdiagramを印刷します
     </p>
    </div>
    <div class="col-lg-4">
@@ -445,14 +445,14 @@ description: C# VB .NET ASP.NETVisio図をエクスポートするライブラ�
      シンプル、高速＆amp; Visioファイルの信頼性の高い変換
     </h2>
     <p>
-     企業はMicrosoftVisioで技術図を作成しており、この情報を共有できるようにしたいと考えています。ただし、問題は、Microsoft VisioまたはVisio固有のファイル形式をロードできるその他のツールをインストールしない限り、一般ユーザーがそのようなビジュアルをロードできないことです。この問題を解決する方法の1つは、図をPDF、HTMLなどのユニバーサル形式に変換することです。ラスターイメージ。マシンに特別なプログラムをインストールする必要はありません。
+     企業はMicrosoftVisioで技術図を作成しており、この情報を共有できるようにしたいと考えています。ただし、問題は、一般ユーザーがMicrosoft VisioまたはVisio固有のファイル形式をロードできる他のツールをインストールしない限り、そのようなビジュアルをロードできないことです。この問題を解決する方法の1つは、図をPDF、HTMLなどのユニバーサル形式に変換することです。ラスターイメージ。マシンに特別なプログラムをインストールする必要はありません。
     </p>
     <p>
      .NET Visioライブラリには独自の変換エンジンがあり、他のソフトウェアとは独立して動作し、サポートされているVisio形式を数行のコードでサポートされている形式に変換できます。変換プロセスは迅速でありながら信頼性が高く、結果の形式に関係なく忠実度の高い結果を提供します。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      ダイアグラムをさまざまな形式で保存します-C#
+      diagramをさまざまな形式で保存します-C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -472,7 +472,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      MicrosoftVisio図を操作する
     </h2>
     <p>
-     Aspose.Diagram for .NET APIは、ネイティブVSD / VSDX形式のMicrosoftVisioファイル、およびVSS、VST、VSX、VTX、VDW、VDX、VSSX、VSTX、VSDM、 VSSM、およびVSTM。ダイアグラムの内容は、APIを介して操作できます。ドキュメントに必要な変更を加えた後、サポートされている任意の形式でドキュメントをディスクに書き込むことができます。
+     Aspose.Diagram for .NET APIでは、MicrosoftVisioファイルをネイティブVSD/VSDX形式だけでなく、VSS、VST、VSX、VTX、VDW、{9などの他の形式でも読み取ることができます。 }、VSSX、VSTX、VSDM、VSSM、およびVSTM。 diagramの内容は、APIを介して操作できます。ドキュメントに必要な変更を加えた後、サポートされている任意の形式でドキュメントをディスクに書き込むことができます。
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Visio図からデータにアクセスする
     </h2>
     <p>
-     Aspose.Diagram for .NETを使用すると、開発者は、ドキュメントプロパティ、ページ、マスター、シェイプ、画像、接続、ソリューションXML、コメント、ハイパーリンク、スタイルシート、レイヤー、ユーザー定義セルなどの図のデータを簡単に読み取ることができます。
+     Aspose.Diagram for .NETを使用すると、開発者は、ドキュメントプロパティ、ページ、マスター、シェイプ、画像、接続、ソリューションXML、コメント、ハイパーリンク、スタイルシート、レイヤー、ユーザー定義セルなどのdiagramのデータを簡単に読み取ることができます。 。
     </p>
    </div>
    <div class="col-lg-12">
@@ -530,10 +530,10 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Automation –不要
+     Microsoft Office自動化–不要
     </h2>
     <p>
-     Aspose.Diagram for .NETは、Visioドキュメント処理を処理するためにMicrosoftOfficeまたはMicrosoftVisioをマシンにインストールする必要のないマネージコードを使用して構築されています。これは、サポートされている機能、セキュリティ、安定性、スケーラビリティ、速度、および価格の点で、MicrosoftOfficeVisioの完全な自動化の代替手段です。
+     Aspose.Diagram for .NETは、Visioドキュメント処理を処理するためにマシンにMicrosoftOfficeまたはMicrosoftVisioをインストールする必要のないマネージコードを使用して構築されています。これは、サポートされる機能、セキュリティ、安定性、スケーラビリティ、速度、および価格の点で、完全なMicrosoftOfficeVisio自動化の代替手段です。
     </p>
    </div>
   </div>
