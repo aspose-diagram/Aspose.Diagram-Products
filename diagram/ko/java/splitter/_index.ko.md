@@ -1,0 +1,23 @@
+﻿---
+title: Java에서 페이지 단위로 Visio 분할
+url: /ko/java/splitter/
+description: Java Microsoft Visio 파일을 Java 애플리케이션에서 여러 파일로 분할하는 방법을 설명하는 소스 코드
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Java를 통한 파일 분할" h2="Java 기반 애플리케이션 내에서 Java 코드를 사용하여 단일 Visio 문서를 다른 파일로 분할" >}}
+{{% blocks/products/pf/feature-page-summary %}}
+[Java Visio 도서관](/diagram/java/) Visio 문서를 Java 기반 애플리케이션 내에서 여러 페이지로 분할할 수 있습니다. 지원되는 파일 형식은 VDW, VDX, VSD, VSDM, VSDX, VSS, VSSM,VSSX, VST,VSTM,VSTX,VSX,VTX입니다.
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-section h2="Visio 문서를 여러 파일로 분할" %}}
+Visio 파일을 페이지별로 분할하는 가장 간단한 방법은 다음을 통해 모든 페이지에 액세스하는 것입니다. [페이지](https://apireference.aspose.com/diagram/java/com.aspose.diagram/diagram#Pages)각 페이지를 반복하고 호출 [복사](https://apireference.aspose.com/diagram/java/com.aspose.diagram/page#copy(com.aspose.diagram.Page)) 방법. 마지막으로 지정된 경로에 저장합니다. 
+
++ 다음을 사용하여 전체 경로로 Visio 파일을 로드합니다. [diagram 클래스](https://apireference.aspose.com/diagram/java/com.aspose.diagram/diagram).
+각 페이지를 통해 반복
++ 새 Diagram 클래스 객체 생성
++ 다음을 통해 페이지 복사 [복사 방법](https://apireference.aspose.com/diagram/java/com.aspose.diagram/page#copy(com.aspose.diagram.Page))
++ save() 메서드를 호출하고 해당 SaveFormat이 있는 파일 이름(전체 경로)을 전달합니다.
+
+{{% blocks/products/pf/feature-page-code h3="Visio 파일을 분할하는 Java 코드" %}}
+
+{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Pages-CopyVisioPage-CopyVisioPage.java" >}}
