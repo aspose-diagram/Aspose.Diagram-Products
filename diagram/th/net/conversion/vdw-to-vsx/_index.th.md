@@ -2,7 +2,7 @@
 title: แปลง VDW เป็น VSX ผ่าน C# 
 weight: 4470
 url: /th/net/conversion/vdw-to-vsx/ 
-description: โค้ดตัวอย่างสำหรับการแปลง VDW เป็น VSX C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ VDW เป็นการแปลง VSX ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
+description: โค้ดตัวอย่างสำหรับการแปลง VDW เป็น VSX C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ VDW เป็น VSX การแปลงภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง VDW เป็น VSX ผ่าน C#" h2="ส่งออกไฟล์ Microsoft® Visio VDW เป็น VSX บน .NET Framework, .NET Core, Mono หรือ COM Interop" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDW" >}}
@@ -14,7 +14,7 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
  ในการแปลง VDW เป็น VSX เราจะใช้
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API ซึ่งเป็นการจัดการและแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและการแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  package manager ค้นหา
  Aspose.Diagram 
@@ -39,11 +39,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET นักพัฒนาสามารถโหลดและแปลงไฟล์ VDW เป็น VSX ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ .NET นักพัฒนาซอฟต์แวร์สามารถโหลดและแปลงไฟล์ VDW เป็น VSX ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. โหลดไฟล์ VDW ด้วยอินสแตนซ์ของ Diagram class1. เรียกใช้เมธอด Diagram.Save ด้วยพาธไฟล์เอาต์พุตและ SaveFileFormat.VSX เป็นพารามิเตอร์1. ไฟล์ VSX จะถูกบันทึกที่เส้นทางที่ระบุ
+1. โหลดไฟล์ VDW ด้วยอินสแตนซ์ของ Diagram class1. เรียก Diagram.Save method ด้วยพาธไฟล์เอาต์พุตและ SaveFileFormat.VSX เป็นพารามิเตอร์1. VSX ไฟล์จะถูกบันทึกที่เส้นทางที่ระบุ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ความต้องการของระบบ" %}}
@@ -54,10 +54,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดง VDW เป็น VSX C# Conversion" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดง VDW ถึง VSX C# Conversion" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdw-to-vsx.cs" >}}
 
@@ -70,11 +70,11 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="แอพฟรีเพื่อแปลง VDW เป็น VSX" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง VDW เป็น VSX](https://products.aspose.app/diagram/conversion/vdw-to-vsx) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="แอพฟรีสำหรับแปลง VDW เป็น VSX" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [VDW เป็น VSX แปลง](https://products.aspose.app/diagram/conversion/vdw-to-vsx) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ VDW ของคุณแล้วกดปุ่ม \"แปลง\"" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" คุณจะได้รับลิงค์ดาวน์โหลดไฟล์ VSX ที่เป็นผลลัพธ์ทันที" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" คุณจะได้รับลิงก์ดาวน์โหลดสำหรับไฟล์ผลลัพธ์ VSX ทันที" >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW คือ Visioรูปแบบไฟล์บริการกราฟิกที่ระบุสตรีมและพื้นที่เก็บข้อมูลที่จำเป็นสำหรับการแสดงภาพวาดเว็บ การวาดเว็บคือชุดของหน้าการวาด รูปร่าง แบบอักษร รูปภาพ การเชื่อมต่อข้อมูล และข้อมูลการอัพเดทไดอะแกรมที่สามารถแสดงผลเป็นภาพวาดเวกเตอร์หรือแรสเตอร์ ไฟล์ VDW สามารถเปิดได้ใน Microsoft Visio เช่นกัน แต่จะบันทึกไว้สำหรับใช้งานบนเว็บเป็นหลัก Microsoft Visio เสนอความสามารถในการแปลงไฟล์ Visio เป็นรูปแบบไฟล์ต่างๆ รวมทั้ง PNG, BMP, PDF และอื่นๆ
+VDW คือ Visioรูปแบบไฟล์บริการกราฟิกที่ระบุสตรีมและพื้นที่เก็บข้อมูลที่จำเป็นสำหรับการแสดงภาพวาดเว็บ การวาดเว็บคือชุดของหน้าการวาด รูปร่าง แบบอักษร รูปภาพ การเชื่อมต่อข้อมูล และข้อมูลการอัพเดทไดอะแกรมที่สามารถแสดงผลเป็นภาพวาดเวกเตอร์หรือแรสเตอร์ ไฟล์ VDW สามารถเปิดได้ใน Microsoft Visio เช่นกัน แต่จะบันทึกไว้สำหรับใช้งานบนเว็บเป็นหลัก Microsoft Visio เสนอความสามารถในการแปลงไฟล์ Visio ไฟล์เป็นรูปแบบไฟล์ต่างๆ รวมทั้ง PNG, BMP, PDF และอื่นๆ
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="vsx" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
-ไฟล์ที่มีนามสกุล .VSX หมายถึงสเตนซิลที่ประกอบด้วยภาพวาดและรูปร่างที่ใช้สำหรับสร้างไดอะแกรมใน Microsoft Visio ไฟล์ VSX ถูกบันทึกในรูปแบบไฟล์ XML และได้รับการสนับสนุนจนถึง Visio 2013 ซึ่งแตกต่างจากรูปแบบไฟล์ VSDX หลักที่นำมาใช้กับ Microsoft Visio 2013 ไฟล์ VSX สามารถเปิดได้ในโปรแกรมแก้ไขข้อความใดๆ เพื่อดู เนื้อหา
+ไฟล์ที่มีนามสกุล .VSX หมายถึงสเตนซิลที่ประกอบด้วยภาพวาดและรูปร่างที่ใช้สำหรับสร้างไดอะแกรมใน Microsoft Visio ไฟล์ VSX ถูกบันทึกในรูปแบบไฟล์ XML และได้รับการสนับสนุนจนถึง Visio 2013 ซึ่งแตกต่างจากรูปแบบไฟล์ VSDX หลักที่นำมาใช้กับ Microsoft Visio 2013 ไฟล์ VSX สามารถเปิดได้ โปรแกรมแก้ไขข้อความเพื่อดูเนื้อหา
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,14 +113,14 @@ VDW คือ Visioรูปแบบไฟล์บริการกราฟ�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-svg/" name="VDW เป็น SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-swf/" name="VDW เป็น SWF" description="รูปแบบ SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-tiff/" name="VDW ถึง TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW เป็น VDX" description="Microsoft Visio รูปแบบการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW ถึง VDX" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW ถึง VSDM" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW ถึง VSDX" description="Microsoft Visio รูปแบบ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW ถึง VSSM" description="Microsoft Visio ไฟล์ลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW ถึง VSSX" description="วาดลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW ถึง VSTM" description="Microsoft Visio ไฟล์เทมเพลต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW เป็น VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW เป็น VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW ถึง VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW ถึง VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW เป็น XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xps/" name="VDW เป็น XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
 

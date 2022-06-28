@@ -5,7 +5,7 @@ url: /nl/java/
 description: Visio bibliotheek voor het maken, manipuleren en converteren van diagrammen. Exporteer diagrammen naar meerdere indelingen in op Java gebaseerde toepassingen
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API\'s" h2="Bewerk en exporteer Microsoft Office Visio-bestanden naar PDF-, HTML-, afbeeldingen- en XAML-indelingen zonder Microsoft Office Visio-afhankelijkheden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API\'s" h2="Bewerk en exporteer Microsoft Office Visio-bestanden naar PDF-, HTML-, afbeeldingen- en XAML-indelingen zonder afhankelijkheden van Microsoft Office Visio." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Visio bibliotheek voor het maken, manipuleren en converteren van di
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java is een krachtige Microsoft Visio-documentverwerking API. Het biedt algemene functionaliteit zoals maken, ontleden &amp; converteer native Visio-formaten en ondersteunt enkele veelgebruikte formaten voor afbeeldingen en vaste lay-outs. Applicaties kunnen bestaande documenten laden en de diagramelementen manipuleren om het resultaat te exporteren in hun eigen formaten, afbeeldingen of formaten met een vaste lay-out.
+ Aspose.Diagram for Java is een krachtige Microsoft Visio documentverwerking API. Het biedt algemene functionaliteit zoals maken, ontleden &amp; converteer native Visio-formaten en ondersteunt enkele veelgebruikte formaten voor afbeeldingen en vaste lay-outs. Toepassingen kunnen bestaande documenten laden en de diagram-elementen manipuleren om het resultaat te exporteren in zijn eigen formaten, afbeeldingen of formaten met een vaste lay-out.
 </p>
 
 <p>
@@ -408,10 +408,10 @@ description: Visio bibliotheek voor het maken, manipuleren en converteren van di
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Visio-documenten ontleden
+     Ontleden Microsoft Visio Documenten
     </h2>
     <p>
-     Java diagram API maakt het mogelijk om de oorspronkelijke bestandsindelingen van de Microsoft Visio-toepassing te lezen, waardoor u toegang krijgt tot de diagramgegevens zoals documentpagina's, eigenschappen, masters, afbeeldingen, vormen, verbindingen, oplossing-XML, lagen, hyperlinks, opmerkingen , StyleSheet, door de gebruiker gedefinieerde cellen enzovoort. Deze objecten kunnen worden gemanipuleerd via de API en het resultaat kan in elk van de ondersteunde formaten naar schijf worden geschreven.
+     Java diagram API maakt het mogelijk om de oorspronkelijke bestandsindelingen van de Microsoft Visio-toepassing te lezen, waardoor u toegang krijgt tot de diagram-gegevens zoals documentpagina's, eigenschappen, masters, afbeeldingen, vormen, verbindingen, oplossing-XML , Lagen, Hyperlinks, Opmerkingen, StyleSheet, door de gebruiker gedefinieerde cellen enzovoort. Deze objecten kunnen worden gemanipuleerd via de API en het resultaat kan in elk van de ondersteunde formaten naar schijf worden geschreven.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio bibliotheek voor het maken, manipuleren en converteren van di
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Diagram opslaan in verschillende indelingen - Java
+      Sla diagram op in verschillende formaten - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Vormen ordenen in een container
     </h2>
     <p>
-     Normaal gesproken voegen ontwikkelaars vormen toe aan een container om de zaken overzichtelijk en begrijpelijk te houden. De containers voegen een visuele grens toe rond vormen, inclusief een label. Om een container en subvormen aan het diagram toe te voegen, kunnen ontwikkelaars de bibliotheek gebruiken omdat deze een gemakkelijke en snelle aanpak biedt.
+     Normaal gesproken voegen ontwikkelaars vormen toe aan een container om de zaken overzichtelijk en begrijpelijk te houden. De containers voegen een visuele grens toe rond vormen, inclusief een label. Om een container en subvormen aan de diagram toe te voegen, kunnen ontwikkelaars de bibliotheek gebruiken omdat deze een gemakkelijke en snelle aanpak biedt.
     </p>
    </div>
    <div class="col-lg-12">

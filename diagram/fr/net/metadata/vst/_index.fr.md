@@ -2,7 +2,7 @@
 title: Afficher ou modifier les métadonnées des fichiers VST via .NET 
 weight: 3050
 url: /fr/net/metadata/vst/ 
-description: Code source C# pour modifier ou afficher les métadonnées au format VST sur .NET Framework, .NET Core, Mono Platforms.
+description: Code source C# pour modifier ou afficher les métadonnées au format VST sur les plates-formes .NET Framework, .NET Core et Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extraire les métadonnées VST dans C#" h2="Créez vos propres applications .NET pour ajouter, modifier, supprimer ou extraire des métadonnées de fichiers VST à l\'aide d\'API côté serveur." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -59,7 +59,7 @@ Obtenir DocumentProps de l'objet Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou COM Interop- Environnement de développement comme Microsoft Visual Studio- Aspose.Diagram for .NET DLL référencée dans votre projet : installez-la à partir de NuGet à l'aide du bouton Télécharger ci-dessus
+- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou COM Interop- Environnement de développement tel que Microsoft Visual Studio- Aspose.Diagram for .NET DLL référencée dans votre projet – Installez à partir de NuGet à l'aide du bouton Télécharger ci-dessus
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Extraction des métadonnées VST - C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ Obtenir DocumentProps de l'objet Diagram
 
     {{% blocks/products/pf/agp/content h2="À propos de Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram est une manipulation de format de document Microsoft Visio API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
+ Aspose.Diagram est une Microsoft Visio manipulation de format de document API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
 
 
 
@@ -93,7 +93,7 @@ Obtenir DocumentProps de l'objet Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera compressé et concaténé instantanément." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-Les fichiers avec l'extension VST sont des fichiers d'image vectorielle créés avec Microsoft Visio et servent de modèle pour créer d'autres fichiers. Ces fichiers modèles sont au format de fichier binaire et contiennent la mise en page et les paramètres par défaut qui sont utilisés pour la création de nouveaux dessins Visio. Lorsqu'un fichier VST est ouvert dans Microsoft Visio, il contient les paramètres existants pour continuer à travailler avec le document. En général, les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, un diagramme UML, un flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres. 
+Les fichiers avec l'extension VST sont des fichiers d'image vectorielle créés avec Microsoft Visio et servent de modèle pour créer d'autres fichiers. Ces fichiers modèles sont au format de fichier binaire et contiennent la mise en page et les paramètres par défaut qui sont utilisés pour la création de nouveaux dessins Visio. Lorsqu'un fichier VST est ouvert dans Microsoft Visio, il contient les paramètres existants pour continuer à travailler avec le document. En général, les fichiers Visio sont utilisés pour créer des dessins contenant des objets visuels, des organigrammes, UML diagram, des flux d'informations, des organigrammes, des diagrammes de logiciels, la disposition du réseau, des modèles de base de données, le mappage d'objets et d'autres informations similaires. Les fichiers générés à l'aide de Visio peuvent également être exportés vers différents formats de fichiers tels que PNG, BMP, PDF et autres. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ Les fichiers avec l'extension VST sont des fichiers d'image vectorielle créés 
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de métadonnées pris en charge" subTitle="En utilisant C#, on peut facilement manipuler des métadonnées de différents formats, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="VSD" description="Dessins Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Dessins" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio dessin Fichier XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio Fichier de gabarit" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio fichier modèle" >}}

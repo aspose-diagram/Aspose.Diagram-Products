@@ -1,7 +1,7 @@
 ﻿---
-title: .NET을(를) 통해 VDX 파일 편집 
+title: .NET을(를) 통해 파일 VDX개 수정 
 url: /ko/net/editor/vdx/ 
-description: C# 소스 코드는 .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin Platforms에서 VDX 문서를 편집합니다.
+description: .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin 플랫폼에서 VDX 문서를 편집하기 위한 C# 소스 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#에서 VDX 형식 수정" h2="Microsoft 또는 Adobe PDF와 같은 소프트웨어를 사용하지 않고 서버측 Aspose.Diagram for .NET API를 사용하여 기본 및 고성능 VDX 문서 편집." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -11,7 +11,7 @@ description: C# 소스 코드는 .NET Framework, .NET Core, Windows Azure, Mono 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 VDX 파일을 편집하는 방법" %}}
 
-VDX 파일을 편집하려면 다음을 사용합니다. <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API은(는) 모든 편집자를 위한 C# 플랫폼에 대해 풍부하고 강력하며 사용하기 쉬운 API입니다. 열려있는 <a href="https://www.nuget.org/packages/aspose.diagram">누겟</a> 패키지 관리자, 검색 <b>Aspose.Diagram</b> 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+VDX 파일을 수정하기 위해 다음을 사용합니다. <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API은(는) 모든 편집자를 위한 C# 플랫폼에 대해 풍부하고 강력하며 사용하기 쉬운 API입니다. 열려 있는 <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> 패키지 관리자, 검색 <b>Aspose.Diagram</b> 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -28,7 +28,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="C#에서 VDX 파일 편집 단계" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C#에서 VDX 파일을 편집하는 단계" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -53,7 +53,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows 또는 .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin 플랫폼과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VDX 파일 편집 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VDX 파일 수정 - C#" offSpacer="" %}}
 
 ```cs
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.    
+Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.    
 
 
 
@@ -80,14 +80,14 @@ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 VDX 편집기 라이브 데모" sectionDescription="당사를 방문하여 지금 VDX 문서를 편집하십시오. [라이브 데모 웹사이트](https://products.aspose.app/diagram/editor). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 VDX 편집자 라이브 데모" sectionDescription="지금 바로 Google을 방문하여 문서 VDX개를 수정하십시오. [라이브 데모 웹사이트](https://products.aspose.app/diagram/editor). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을(를) 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="VDX 파일을 업로드하기만 하면 온라인 편집기를 사용하여 즉시 편집할 수 있습니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="VDX 파일을 업로드하고 온라인 편집기를 사용하여 즉시 편집하세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 그런 다음 저장하고 다운로드합니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Microsoft Visio에서 생성되었지만 XML 형식으로 저장된 모든 도면 또는 차트에는 .VDX 확장자가 있습니다. Visio 도면 XML 파일은 Microsoft에서 개발한 Visio 소프트웨어에서 생성됩니다. Microsoft Visio에는 프레젠테이션 및 문서에 사용할 수 있는 시각적 문서를 생성하는 기능이 있습니다. Visio 도면 XML 파일에는 시각적 개체 및 시각적 요소의 메타데이터 세부정보가 포함되어 있습니다. 이러한 시각적 요소 Vision drawing XML 파일에 텍스트를 추가할 수도 있습니다. 이러한 Visio 도면 XML 파일은 VDX 파일 형식으로 Microsoft Visio 소프트웨어에서 해당 콘텐츠를 렌더링하고 저장할 수 있도록 하는 XML 기반 형식 지정 표준 및 이미지 데이터 인코딩 사양과 통합됩니다. 
+Microsoft Visio에서 생성되었지만 XML 형식으로 저장된 모든 그림 또는 차트에는 .VDX 확장자가 있습니다. Visio 도면 XML 파일은 Microsoft에서 개발한 Visio 소프트웨어에서 생성됩니다. Microsoft Visio에는 프레젠테이션 및 문서에 사용할 수 있는 시각적 문서를 생성하는 기능이 있습니다. Visio 도면 XML 파일에는 시각적 개체 및 시각적 요소의 메타데이터 세부정보가 포함되어 있습니다. 이러한 시각적 요소 Vision drawing XML 파일에 텍스트를 추가할 수도 있습니다. 이러한 Visio 도면 XML 파일은 콘텐츠가 MicrosoftVisio 소프트웨어에서 VDX 파일 형식으로 렌더링 및 저장될 수 있도록 하는 XML 기반 형식 표준 및 이미지 데이터 인코딩 사양과 통합됩니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

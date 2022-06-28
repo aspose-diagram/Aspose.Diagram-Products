@@ -2,7 +2,7 @@
 title: Konwertuj VSTM na VSSM przez Java 
 weight: 4370
 url: /pl/java/conversion/vstm-to-vssm/ 
-description: Przykładowy kod konwersji Java dla formatu VSTM do pliku VSSM. Użyj tego przykładowego kodu, aby przekonwertować VSTM na VSSM w dowolnej aplikacji opartej na sieci Web lub na komputerze Java.
+description: Przykładowy kod konwersji Java dla formatu VSTM na plik VSSM. Użyj tego przykładowego kodu, aby przekonwertować VSTM na VSSM w dowolnej aplikacji internetowej lub na komputerze Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj VSTM na VSSM przez Java" h2="Eksportuj Microsoft Visio VSTM do VSSM przy użyciu natywnej biblioteki Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSTM" >}}
@@ -52,7 +52,7 @@ description: Przykładowy kod konwersji Java dla formatu VSTM do pliku VSSM. Uż
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VSTM na VSSM za pomocą Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VSTM na VSSM przez Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -60,7 +60,7 @@ description: Przykładowy kod konwersji Java dla formatu VSTM do pliku VSSM. Uż
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Załaduj plik VSTM z instancją klasy Diagram1. Wywołaj metodę Diagram.save ze ścieżką pliku wyjściowego i SaveFileFormat jako parametrami1. Plik VSSM zostanie zapisany pod określoną ścieżką
+1. Załaduj plik VSTM z instancją klasy Diagram1. Wywołaj metodę Diagram.save ze ścieżką pliku wyjściowego i SaveFileFormat jako parametrami1. VSSM plik zostanie zapisany pod określoną ścieżką
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}
@@ -71,10 +71,10 @@ description: Przykładowy kod konwersji Java dla formatu VSTM do pliku VSSM. Uż
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od firmy Maven.
+- Microsoft Windows lub zgodny system operacyjny z Java środowiskiem wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSTM do VSSM Java Kod źródłowy konwersji" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSTM do VSSM Java Kodu źródła konwersji" offSpacer="" %}}
 
 ```cs
 // załaduj VSTM do obiektu Diagram 
@@ -94,15 +94,15 @@ visio.save("output.vssm", SaveFileFormat.VSSM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Konwersja na żywo z VSTM do VSSM" sectionDescription="[Konwertuj VSTM na VSSM](https://products.aspose.app/diagram/conversion/vstm-to-vssm) teraz, odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Od VSTM do VSSM demonstracji konwersji na żywo" sectionDescription="[Konwertuj VSTM na VSSM](https://products.aspose.app/diagram/conversion/vstm-to-vssm) teraz, odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie musisz pisać żadnego kodu." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VSTM, zostanie on natychmiast przekonwertowany do VSSM." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VSTM, zostanie on natychmiast przekonwertowany na VSSM." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Otrzymasz link do pobrania." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteka manipulacji" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vssm", SaveFileFormat.VSSM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/image/vstm/" >}}
 
-Pliki z rozszerzeniem VSTM to pliki szablonów utworzone za pomocą Microsoft Visio, które obsługują makra. W przeciwieństwie do plików VSDX, pliki utworzone z szablonów VSTM mogą uruchamiać makra opracowane w kodzie Visual Basic for Applications (VBA). Można utworzyć plik szablonu, aby zapewnić podstawowe ustawienia dokumentu, które można wykorzystać do wygenerowania dalszych dokumentów z tymi ustawieniami. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagramy UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
+Pliki z rozszerzeniem VSTM to pliki szablonów utworzone za pomocą Microsoft Visio, które obsługują makra. W przeciwieństwie do plików VSDX, pliki utworzone z szablonów VSTM mogą uruchamiać makra opracowane w kodzie Visual Basic for Applications (VBA). Można utworzyć plik szablonu, aby zapewnić podstawowe ustawienia dokumentu, które można wykorzystać do wygenerowania dalszych dokumentów z tymi ustawieniami. Pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-Pliki z rozszerzeniem .VSSM to pliki szablonów firmy Microsoft Visio, które obsługują makra. Plik VSSM po otwarciu umożliwia uruchamianie makr w celu uzyskania pożądanego formatowania i rozmieszczenia kształtów na diagramie. Ogólnie rzecz biorąc, Microsoft Visio to oprogramowanie do rysowania, które umożliwia tworzenie plików, które mogą zawierać i przedstawiać informacje zdefiniowane przez użytkownika w różnych kształtach. Najczęstsze z nich to między innymi diagramy UML, schematy blokowe, obiekty wizualne, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również konwertować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
+Pliki z rozszerzeniem .VSSM to pliki szablonów Microsoft Visio, które obsługują makra. Plik VSSM po otwarciu pozwala na uruchomienie makr w celu uzyskania pożądanego formatowania i rozmieszczenia kształtów w diagram. Ogólnie Microsoft Visio to oprogramowanie do rysowania, które umożliwia tworzenie plików, które mogą zawierać i przedstawiać informacje zdefiniowane przez użytkownika w różnych kształtach. Najczęstsze z nich obejmują między innymi diagramy UML, schematy blokowe, obiekty wizualne, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również konwertować do różnych formatów plików, takich jak PNG, BMP, PDF i inne.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -133,7 +133,7 @@ Pliki z rozszerzeniem .VSSM to pliki szablonów firmy Microsoft Visio, które ob
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować VSTM na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-bmp/" name="VSTM DO BMP" description="Bitmapa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-emf/" name="VSTM NA EMF" description="Ulepszony format metapliku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-emf/" name="VSTM DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-html/" name="VSTM DO HTML" description="hipertekstowy język znaczników" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-jpeg/" name="VSTM DO JPEG" description="Obraz JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-pdf/" name="VSTM DO PDF" description="format dokumentu przenośnego" >}}
@@ -142,11 +142,11 @@ Pliki z rozszerzeniem .VSSM to pliki szablonów firmy Microsoft Visio, które ob
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-tiff/" name="VSTM DO TIFF" description="Oznaczony format obrazu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vdx/" name="VSTM DO VDX" description="Microsoft Visio Format rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsdm/" name="VSTM DO VSDM" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsdx/" name="VSTM DO VSDX" description="Format Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsdx/" name="VSTM DO VSDX" description="Microsoft Visio Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vssx/" name="VSTM DO VSSX" description="Szablony do rysowania" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vstx/" name="VSTM DO VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vstx/" name="VSTM DO VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vsx/" name="VSTM DO VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vtx/" name="VSTM DO VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-vtx/" name="VSTM DO VTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-xaml/" name="VSTM DO XAML" description="Rozszerzalny język znaczników aplikacji" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstm-to-xps/" name="VSTM DO XPS" description="Specyfikacje papieru XML" >}}
 

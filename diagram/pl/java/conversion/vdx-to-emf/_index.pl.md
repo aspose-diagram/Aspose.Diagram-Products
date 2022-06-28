@@ -2,7 +2,7 @@
 title: Konwertuj VDX na EMF przez Java 
 weight: 5220
 url: /pl/java/conversion/vdx-to-emf/ 
-description: Przykładowy kod konwersji Java dla formatu VDX do pliku EMF. Użyj tego przykładowego kodu, aby przekonwertować VDX na EMF w dowolnej aplikacji internetowej lub desktopowej Java.
+description: Przykładowy kod konwersji Java dla formatu VDX do pliku EMF. Użyj tego przykładowego kodu, aby przekonwertować VDX na EMF w dowolnej aplikacji internetowej lub na komputerze Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj VDX na EMF przez Java" h2="Eksportuj Microsoft Visio VDX do EMF przy użyciu natywnej biblioteki Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDX" >}}
@@ -52,7 +52,7 @@ description: Przykładowy kod konwersji Java dla formatu VDX do pliku EMF. Użyj
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VDX na EMF za pomocą Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroki, aby przekonwertować VDX na EMF przez Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -71,10 +71,10 @@ description: Przykładowy kod konwersji Java dla formatu VDX do pliku EMF. Użyj
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od firmy Maven.
+- Microsoft Windows lub zgodny system operacyjny z Java środowiskiem wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VDX do EMF Java Kod źródłowy konwersji" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VDX na EMF Java Kod źródłowy konwersji" offSpacer="" %}}
 
 ```cs
 // załaduj VDX do obiektu Diagram 
@@ -94,7 +94,7 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Prezentacje na żywo konwersji VDX na EMF" sectionDescription="[Konwertuj VDX na EMF](https://products.aspose.app/diagram/conversion/vdx-to-emf) teraz, odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Demo konwersji VDX na EMF" sectionDescription="[Konwertuj VDX na EMF](https://products.aspose.app/diagram/conversion/vdx-to-emf) teraz, odwiedzając naszą stronę Live Demos. Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie musisz pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swój plik VDX, zostanie on natychmiast przekonwertowany do formatu EMF." >}}
@@ -102,7 +102,7 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteka manipulacji" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.emf", SaveFileFormat.EMF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
 
-Każdy rysunek lub wykres utworzony w Microsoft Visio, ale zapisany w formacie XML ma rozszerzenie .VDX. Plik XML rysunku Visio jest tworzony w oprogramowaniu Visio opracowanym przez firmę Microsoft. Microsoft Visio ma możliwość generowania dokumentów wizualnych, które można wykorzystać w prezentacjach i dokumentach. Plik XML rysunku Visio zawiera obiekty wizualne i szczegóły metadanych elementów wizualnych. Do tych elementów wizualnych można również dodać tekst Plik XML rysunku wizyjnego. Te Visio pliki XML rysunków są zintegrowane ze standardami formatowania opartymi na XML i specyfikacjami kodowania danych obrazu, które umożliwiają renderowanie i przechowywanie ich zawartości przez oprogramowanie Microsoft Visio w formacie pliku VDX.
+Każdy rysunek lub wykres utworzony w Microsoft Visio, ale zapisany w formacie XML ma rozszerzenie .VDX. Plik XML rysunku Visio jest tworzony w oprogramowaniu Visio opracowanym przez Microsoft. Microsoft Visio ma możliwość generowania dokumentów wizualnych, które można wykorzystać w prezentacjach i dokumentach. Plik XML rysunku Visio zawiera obiekty wizualne i szczegóły metadanych elementów wizualnych. Do tych elementów wizualnych można również dodać tekst Plik XML rysunku wizyjnego. Te Visio pliki XML rysunków są zintegrowane ze standardami formatowania opartymi na XML i specyfikacjami kodowania danych obrazu, które umożliwiają renderowanie i przechowywanie ich zawartości przez oprogramowanie Microsoft Visio w formacie pliku VDX.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,13 +140,13 @@ Ulepszony format metapliku (EMF) przechowuje obrazy graficzne niezależnie od ur
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-svg/" name="VDX DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-tiff/" name="VDX DO TIFF" description="Oznaczony format obrazu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdm/" name="VDX DO VSDM" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdx/" name="VDX DO VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssm/" name="VDX DO VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsdx/" name="VDX DO VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssm/" name="VDX DO VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vssx/" name="VDX DO VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstm/" name="VDX DO VSTM" description="Microsoft Visio Pliki szablonów" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstx/" name="VDX DO VSTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vstx/" name="VDX DO VSTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vsx/" name="VDX DO VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vtx/" name="VDX DO VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-vtx/" name="VDX DO VTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-xaml/" name="VDX DO XAML" description="Rozszerzalny język znaczników aplikacji" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdx-to-xps/" name="VDX DO XPS" description="Specyfikacje papieru XML" >}}
 

@@ -1,7 +1,7 @@
 ﻿---
 title: C# Microsoft Visio 文件转换
 url: /zh/net/conversion/
-description: 通过 .NET 库将 Microsoft Visio 格式 VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST 转换为 PDF HTML 和图像，只需几行 C# 代码。
+description: 将 Microsoft Visio 格式 VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST 转换为 PDF HTML 和带有几行C# 代码通过 .NET 库。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio 通过 C# 进行格式转换" h2="将 MS Visio 图表转换为 PDF、HTML 和图像，包括 BMP、JPG、PNG、TIFF，以构建跨平台.NET应用程序。" >}}
@@ -13,7 +13,7 @@ description: 通过 .NET 库将 Microsoft Visio 格式 VSDX VSX VTX VDX VSSX VST
 
 {{% blocks/products/pf/feature-page-section h2="相互转换 Visio 文件" %}}
 
-VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM 等 Visio 文件只需几行 C# 代码即可相互转换。让我们考虑 **VSD 到 VSDX 转换** 的情况。 API 提供了一个 [Diagram 类](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) 加载源 VSD 文件。加载文件后，使用带有 VSDX 文件名的输出路径调用 Save 方法和 [保存文件格式](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFile 扩展名作为参数。
+VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM 等 Visio 文件只需几行C# 代码。让我们考虑 **VSD 到 VSDX 转换** 的情况。 API 提供了一个 [Diagram 类](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) 加载源 VSD 文件。加载文件后，使用带有 VSDX 文件名的输出路径调用 Save 方法和 [保存文件格式](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFile 扩展名作为参数。
 
 {{% blocks/products/pf/feature-page-code h3="C# VSD 到 VSDX 转换的代码" %}}
 

@@ -2,7 +2,7 @@
 title: .NETによるVDWドキュメントの自動レイアウト 
 weight: 3050
 url: /ja/net/autolayout/vdw/ 
-description: C#フレームワーク、.NETコア、Monoプラットフォームでvdwファイルを自動レイアウトするためのソースコード。
+description: C# .NET Framework、.NETコア、Monoプラットフォームでvdwファイルを自動レイアウトするためのソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#のVDWドキュメントの自動レイアウト" h2="MicrosoftやOpenOffice、Adobe PDFなどのソフトウェアを使用せずに、サーバー側のAspose.Diagramfor .NETAPIを使用したネイティブで高性能な自動レイアウトVDWドキュメント。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- マージおよび連結する基本的なドキュメント
+ 基本的なドキュメントの自動レイアウト
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  APIは、ほんの数行のコードで実行できます。
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windowsまたは.NETフレームワーク、.NETコア、Mono、またはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
+- MicrosoftWindowsまたは.NETFramework、.NETコア、MonoまたはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="自動レイアウトVDWファイル-C#" offSpacer="" %}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="約Aspose.Diagramfor .NETAPI" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 自動レイアウトされ、即座に連結されます。" >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDWは、Web図面のレンダリングに必要なストリームとストレージを指定するVisioGraphicsServiceファイル形式です。 Web図面は、ベクターまたはラスター図面としてレンダリングできる図面ページ、形状、フォント、画像、データ接続、および図の更新情報のコレクションです。 VDWファイルはMicrosoftVisioでも開くことができますが、主にWebで使用するために保存されます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。 
+VDWは、Web図面のレンダリングに必要なストリームとストレージを指定するVisioグラフィックサービスファイル形式です。 Web図面は、ベクターまたはラスター図面としてレンダリングできる図面ページ、図形、フォント、画像、データ接続、およびdiagram更新情報のコレクションです。 VDWファイルはMicrosoftVisioでも開くことができますが、主にWebで使用するために保存されます。 Microsoft Visioは、VisioファイルをPNG、BMP、PDFなどのさまざまなファイル形式に変換する機能を提供します。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

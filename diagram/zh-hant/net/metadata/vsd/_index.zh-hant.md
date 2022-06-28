@@ -2,7 +2,7 @@
 title: 通過 .NET 查看或編輯 VSD 文件元數據 
 weight: 3050
 url: /zh-hant/net/metadata/vsd/ 
-description: C# 源代碼，用於在 .NET 框架、.NET 核心、Mono 平台上編輯或查看 VSD 格式元數據。
+description: C# 源代碼，用於在 .NET Framework、.NET 核心、Mono 平台上編輯或查看 VSD 格式元數據。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 C# 中的 VSD 元數據" h2="構建您自己的 .NET 應用以使用服務器端 API 添加、編輯、刪除或從 VSD 文件中提取元數據。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -59,7 +59,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系統- Microsoft Visual Studio 等開發環境- Aspose.Diagram for .NET 項目中引用的 DLL - 使用上面的下載按鈕從 NuGet 安裝
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系統- Microsoft Visual Studio 等開發環境- Aspose.Diagram for .NET 在您的項目中引用的 DLL - 使用上面的下載按鈕從 NuGet 安裝
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="提取 VSD 元數據 - C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="關於Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。  
+ Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一個獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。  
 
 
 
@@ -93,7 +93,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 它將立即被壓縮和連接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-VSD 文件是使用 Microsoft Visio 應用程序創建的圖形，用於表示各種圖形對像以及這些對象之間的互連。此類繪圖可以包含可視對象，例如可視對象、流程圖、UML圖、信息流、組織圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息。 Microsoft Visio 提供將 Visio 文件轉換為多種不同文件格式的功能，包括 PNG、BMP、PDF 等。 
+VSD 文件是使用 Microsoft Visio 應用程序創建的圖形，用於表示各種圖形對像以及這些對象之間的互連。此類圖紙可以包含可視對象，如可視對象、流程圖、UMLdiagram、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息。 Microsoft Visio 能夠將 Visio 文件轉換為多種不同的文件格式，包括 PNG、BMP、PDF 等。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

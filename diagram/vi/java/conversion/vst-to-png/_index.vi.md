@@ -71,7 +71,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VST sang tệp PN
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc một hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã nguồn chuyển đổi VST sang PNG Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.png", SaveFileFormat.PNG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Thư viện Thao tác" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.png", SaveFileFormat.PNG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-Các tệp có phần mở rộng VST là các tệp hình ảnh vectơ được tạo bằng Microsoft Visio và hoạt động như mẫu để tạo các tệp khác. Các tệp mẫu này ở định dạng tệp nhị phân và chứa bố cục và cài đặt mặc định được sử dụng để tạo các bản vẽ Visio mới. Khi tệp VST được mở trong Microsoft Visio, tệp này chứa các cài đặt hiện có để tiếp tục làm việc với tài liệu. Nói chung, tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, lưu đồ, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
+Các tệp có phần mở rộng VST là các tệp hình ảnh vectơ được tạo bằng Microsoft Visio và hoạt động như mẫu để tạo các tệp khác. Các tệp mẫu này ở định dạng tệp nhị phân và chứa bố cục và cài đặt mặc định được sử dụng để tạo các bản vẽ Visio mới. Khi tệp VST được mở trong Microsoft Visio, tệp này chứa các cài đặt hiện có để tiếp tục làm việc với tài liệu. Nói chung, tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, lưu đồ, UML diagram, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 
-PNG, Đồ họa mạng di động, đề cập đến một loại định dạng tệp hình ảnh raster sử dụng tính năng nén không có lỗ. Định dạng tệp này được tạo để thay thế Định dạng Trao đổi Đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng tệp PNG không hỗ trợ hình ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh vô tận khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển như một trong những định dạng tệp hình ảnh được sử dụng nhiều nhất. Hầu như tất cả các Hệ điều hành đều có hỗ trợ mở tệp PNG. Ví dụ, trình xem Microsoft Windows có khả năng mở tệp PNG vì theo mặc định, hệ điều hành có hỗ trợ sẵn có như một phần của quá trình cài đặt.
+PNG, Đồ họa mạng di động, đề cập đến một loại định dạng tệp hình ảnh raster sử dụng tính năng nén không có lỗ. Định dạng tệp này được tạo để thay thế Định dạng Trao đổi Đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng tệp PNG không hỗ trợ hình ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh vô tận khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển như một trong những định dạng tệp hình ảnh được sử dụng nhiều nhất. Hầu như tất cả các Hệ điều hành đều có hỗ trợ mở tệp PNG. Ví dụ: Microsoft Trình xem Windows có khả năng mở tệp PNG vì theo mặc định, hệ điều hành có hỗ trợ sẵn có như một phần của quá trình cài đặt.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ PNG, Đồ họa mạng di động, đề cập đến một loại định dạ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-pdf/" name="VST TO PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-svg/" name="VST TO SVG" description="Đồ họa vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="VST TO TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST TO VDX" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST VÀO VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VST TO VSDX" description="Định dạng Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST VÀO VSSM" description="Tệp Microsoft Visio Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST VÀO VSSX" description="Vẽ giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST ĐẾN VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST ĐẾN VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST ĐỂ VSX" description="Giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST TO VTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST TO VDX" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST TO VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VST TO VSDX" description="Microsoft Visio Định dạng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST TO VSSM" description="Microsoft Visio Tệp stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST TO VSSX" description="Vẽ giấy nến" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST TO VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST TO VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST TO VSX" description="Giấy nến" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST TO VTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xaml/" name="VST ĐỂ XAML" description="Ngôn ngữ đánh dấu ứng dụng có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xps/" name="VST ĐỂ XPS" description="Thông số kỹ thuật giấy XML" >}}
 

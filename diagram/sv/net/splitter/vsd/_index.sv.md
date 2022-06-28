@@ -2,7 +2,7 @@
 title: Dela VSD filer via .NET 
 weight: 1300
 url: /sv/net/splitter/vsd/ 
-description: C# källkod till Split vsd-fil på .NET Framework, .NET Core, Mono Platforms.
+description: C# källkod till Split vsd-fil på .NET Framework, .NET Core, Mono Plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Dela upp VSD i C#" h2="Inbyggd och högpresterande VSD dokumentdelare med hjälp av API:er på serversidan Aspose.Diagram for .NET, utan användning av någon programvara som Microsoft eller Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ Iterera genom varje sida
 
     {{% blocks/products/pf/agp/content h2="Om Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -95,7 +95,7 @@ Iterera genom varje sida
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Det kommer att komprimeras och sammanfogas direkt." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-VSD-filer är ritningar skapade med Microsoft Visio-applikationen för att representera olika grafiska objekt och kopplingen mellan dessa. Sådana ritningar kan innehålla visuella objekt såsom visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Microsoft Visio erbjuder möjligheten att konvertera Visio-filer till ett antal olika filformat inklusive PNG, BMP, PDF och andra. 
+VSD filer är ritningar som skapats med applikationen Microsoft Visio för att representera olika grafiska objekt och kopplingen mellan dessa. Sådana ritningar kan innehålla visuella objekt som visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Microsoft Visio erbjuder möjligheten att konvertera Visio-filer till ett antal olika filformat inklusive PNG, BMP, PDF och andra. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

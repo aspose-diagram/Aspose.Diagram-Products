@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc hệ điều hành tương thích với Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin- Môi trường phát triển như Microsoft Visual Studio- Aspose.Diagram for .NET DLL được tham chiếu trong dự án của bạn - Cài đặt từ NuGet bằng cách sử dụng nút Tải xuống ở trên
+- Microsoft Windows hoặc một hệ điều hành tương thích với Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin- Môi trường phát triển như Microsoft Visual Studio- Aspose.Diagram for .NET DLL được tham chiếu trong dự án của bạn - Cài đặt từ NuGet bằng cách sử dụng nút Tải xuống ở trên
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Chỉnh sửa Tệp VDW - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.    
+Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu AP
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sau đó lưu và tải xuống." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW là Visio định dạng tệp Dịch vụ đồ họa chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là một tập hợp các trang vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và thông tin cập nhật sơ đồ có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Tệp VDW cũng có thể được mở trong Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác. 
+VDW là Visio định dạng tệp Dịch vụ đồ họa chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là tập hợp các trang vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và diagram thông tin cập nhật có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Tệp VDW cũng có thể được mở bằng Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

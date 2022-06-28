@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base che si unisce e si concatena con
+ Un layout automatico di base del documento con
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Le API possono essere eseguite con poche righe di codice.
 
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Circa Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.  
+ Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sarà layout automatico e concatenato all\'istante." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-file con estensione VST sono file di immagine vettoriale creati con Microsoft Visio e fungono da modello per la creazione di ulteriori file. Questi file modello sono in formato file binario e contengono il layout e le impostazioni predefiniti utilizzati per la creazione di nuovi Visio disegni. Quando un file VST viene aperto in Microsoft Visio, contiene le impostazioni esistenti per continuare a lavorare con il documento. In generale, i file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri. 
+file con estensione VST sono file di immagine vettoriale creati con Microsoft Visio e fungono da modello per la creazione di ulteriori file. Questi file modello sono in formato file binario e contengono il layout e le impostazioni predefiniti utilizzati per la creazione di nuovi Visio disegni. Quando un file VST viene aperto in Microsoft Visio, contiene le impostazioni esistenti per continuare a lavorare con il documento. In generale, i file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, UML diagram, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -105,7 +105,7 @@ file con estensione VST sono file di immagine vettoriale creati con Microsoft Vi
 
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati Visio supportati" subTitle="Utilizzando C#, è possibile eseguire facilmente il layout automatico di diversi formati, tra cui." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vsd/" name="Vsd" description="Disegni Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vsd/" name="Vsd" description="Microsoft Visio Disegni" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vdx/" name="Vdx" description="Visio disegnando un file XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vstx/" name="VSTX" description="Visio File modello" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vsdm/" name="VSDM" description="Visio File di disegno con abilitazione macro" >}}

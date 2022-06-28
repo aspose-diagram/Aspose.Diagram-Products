@@ -15,8 +15,8 @@ description: Java जेएसपी/जेएसएफ एप्लिकेश
  VSDX फ़ाइल को मर्ज करने के लिए, हम उपयोग करेंगे
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान विलय API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं
- [मावेना](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने मावेन-आधारित प्रोजेक्ट में स्थापित करें।
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -77,7 +77,7 @@ description: Java जेएसपी/जेएसएफ एप्लिकेश
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows या JavaJSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश के साथ संगत OS।- Aspose.Diagram for Java का नवीनतम संस्करण सीधे . से प्राप्त करें [मावेना](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट के साथ विंडोज या संगत ओएस।- Aspose.Diagram for Java का नवीनतम संस्करण सीधे . से प्राप्त करें [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
 
     {{% blocks/products/pf/agp/content h2="लगभग Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसके लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर को स्थापित करने की आवश्यकता नहीं है।  
+ Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अधिक जैसे अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसे स्थापित करने के लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर की आवश्यकता नहीं है।  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" इसे तुरंत विलय और संयोजित किया जाएगा।" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-.VSDX एक्सटेंशन वाली फ़ाइलें Microsoft Visio फ़ाइल स्वरूप का प्रतिनिधित्व करती हैं जिसे Microsoft Office 2013 से पेश किया गया है। इसे बाइनरी फ़ाइल स्वरूप, .VSD को प्रतिस्थापित करने के लिए विकसित किया गया था, जो कि Microsoft Visio के पुराने संस्करणों द्वारा समर्थित है। यह माइक्रोसॉफ्ट शेयरपॉइंट सर्वर 2013 में Visio सेवाओं पर भी समर्थित है और इसे शेयरपॉइंट सर्वर पर प्रकाशित करने के लिए मध्यस्थ फ़ाइल प्रारूप की आवश्यकता नहीं है। Visio फाइलों का उपयोग ऐसे चित्र बनाने के लिए किया जाता है जिनमें दृश्य वस्तुएं, प्रवाह चार्ट, यूएमएल आरेख, सूचना प्रवाह, संगठनात्मक चार्ट, सॉफ्टवेयर आरेख, नेटवर्क लेआउट, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी होती है। Visio का उपयोग करके जेनरेट की गई फ़ाइलों को पीएनजी, बीएमपी, पीडीएफ और अन्य जैसे विभिन्न फ़ाइल स्वरूपों में भी निर्यात किया जा सकता है। 
+.VSDX एक्सटेंशन वाली फ़ाइलें Microsoft Visio फ़ाइल स्वरूप का प्रतिनिधित्व करती हैं जो Microsoft Office 2013 के बाद से पेश की गई हैं। इसे बाइनरी फ़ाइल स्वरूप, .VSD को बदलने के लिए विकसित किया गया था, जो Microsoft Visio के पुराने संस्करणों द्वारा समर्थित है। यह Visio सेवाओं पर Microsoft शेयरपॉइंट सर्वर 2013 में भी समर्थित है और इसे शेयरपॉइंट सर्वर पर प्रकाशित करने के लिए एक मध्यस्थ फ़ाइल प्रारूप की आवश्यकता नहीं है। Visio फ़ाइलों का उपयोग ऐसे चित्र बनाने के लिए किया जाता है जिनमें विज़ुअल ऑब्जेक्ट, फ़्लो चार्ट, UML diagram, सूचना प्रवाह, संगठनात्मक चार्ट, सॉफ़्टवेयर आरेख, नेटवर्क लेआउट, डेटाबेस मॉडल, ऑब्जेक्ट मैपिंग और अन्य समान जानकारी होती है। Visio का उपयोग करके जेनरेट की गई फ़ाइलों को पीएनजी, बीएमपी, पीडीएफ और अन्य जैसे विभिन्न फ़ाइल स्वरूपों में भी निर्यात किया जा सकता है। 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,17 +129,17 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX);
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित विलय प्रारूप" subTitle="Java का उपयोग करके, व्यक्ति कई अन्य फ़ाइल स्वरूपों को भी मर्ज कर सकता है, जिनमें शामिल हैं:" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="वीडीडब्ल्यू" description="Visio ग्राफ़िक्स सेवा फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="वीडीएक्स" description="Microsoft Visio आरेखण प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="माइक्रोसॉफ्ट Visio ड्रॉइंग" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="वीएसडीएम" description="Microsoft Visio आरेखण प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio आरेखण प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio आरेखण" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio आरेखण प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="वीएसएस" description="स्टैंसिल फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="वीएसएसएम" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="वीएसएसएक्स" description="ड्राइंग स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="ड्राइंग स्टेंसिल" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="वीएसटी" description="वेक्टर छवि फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="वीएसटीएम" description="माइक्रोसॉफ्ट Visio टेम्पलेट फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="वीएसटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="वीएसएक्स" description="स्टेंसिल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="वीटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio टेम्प्लेट फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

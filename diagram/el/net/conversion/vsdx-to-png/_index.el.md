@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Μια Βιβλιοθήκη διαχείρισης Diagram ειδικά σχεδιασμένη για να λειτουργεί με αρχεία Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν εγγενείς μορφές Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του διαγράμματος για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.
+ Μια Βιβλιοθήκη διαχείρισης Diagram ειδικά σχεδιασμένη για να λειτουργεί με αρχεία Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν εγγενείς μορφές Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του diagram για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-Τα αρχεία με επέκταση .VSDX αντιπροσωπεύουν τη μορφή αρχείου Microsoft Visio που εισήχθη από το Microsoft Office 2013 και μετά. Αναπτύχθηκε για να αντικαταστήσει τη μορφή δυαδικού αρχείου, .VSD, η οποία υποστηρίζεται από προηγούμενες εκδόσεις του Microsoft Visio. Υποστηρίζεται επίσης στις Υπηρεσίες Visio στον Microsoft SharePoint Server 2013 και δεν απαιτεί ενδιάμεση μορφή αρχείου για δημοσίευση στον SharePoint Server. Τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, διάγραμμα UML, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσης δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
+Τα αρχεία με επέκταση .VSDX αντιπροσωπεύουν τη μορφή αρχείου Microsoft Visio που εισήχθη από το Microsoft Office 2013 και μετά. Αναπτύχθηκε για να αντικαταστήσει τη μορφή δυαδικού αρχείου, .VSD, η οποία υποστηρίζεται από προηγούμενες εκδόσεις του Microsoft Visio. Υποστηρίζεται επίσης στις Υπηρεσίες Visio στον Microsoft SharePoint Server 2013 και δεν απαιτεί ενδιάμεση μορφή αρχείου για δημοσίευση στον SharePoint Server. Τα αρχεία Visio χρησιμοποιούνται για τη δημιουργία σχεδίων που περιέχουν οπτικά αντικείμενα, γραφήματα ροής, UML diagram, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Τα αρχεία που δημιουργούνται με τη χρήση του Visio μπορούν επίσης να εξαχθούν σε διαφορετικές μορφές αρχείων, όπως PNG, BMP, PDF και άλλες.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="png" readMoreLink="https://docs.fileformat.com/image/png/" >}}
-Το PNG, Portable Network Graphics, αναφέρεται σε έναν τύπο μορφής αρχείου εικόνας ράστερ που χρησιμοποιεί συμπίεση χωρίς απώλεια. Αυτή η μορφή αρχείου δημιουργήθηκε ως αντικατάσταση του Graphics Interchange Format (GIF) και δεν έχει περιορισμούς πνευματικών δικαιωμάτων. Ωστόσο, η μορφή αρχείου PNG δεν υποστηρίζει κινούμενα σχέδια. Η μορφή αρχείου PNG υποστηρίζει συμπίεση εικόνας χωρίς απώλειες που το κάνει δημοφιλές στους χρήστες του. Με το πέρασμα του χρόνου, το PNG έχει εξελιχθεί ως μία από τις πιο χρησιμοποιούμενες μορφές αρχείων εικόνας. Σχεδόν όλα τα λειτουργικά συστήματα έχουν υποστήριξη για το άνοιγμα αρχείων PNG. Για παράδειγμα, το πρόγραμμα προβολής Microsoft Windows έχει τη δυνατότητα να ανοίγει αρχεία PNG καθώς το λειτουργικό σύστημα έχει από προεπιλογή την υποστήριξη που είναι διαθέσιμη ως μέρος της εγκατάστασης.
+Το PNG, Portable Network Graphics, αναφέρεται σε έναν τύπο μορφής αρχείου εικόνας ράστερ που χρησιμοποιεί συμπίεση χωρίς απώλεια. Αυτή η μορφή αρχείου δημιουργήθηκε ως αντικατάσταση του Graphics Interchange Format (GIF) και δεν έχει περιορισμούς πνευματικών δικαιωμάτων. Ωστόσο, η μορφή αρχείου PNG δεν υποστηρίζει κινούμενα σχέδια. Η μορφή αρχείου PNG υποστηρίζει συμπίεση εικόνας χωρίς απώλειες που το κάνει δημοφιλές στους χρήστες του. Με το πέρασμα του χρόνου, το PNG έχει εξελιχθεί ως μία από τις πιο χρησιμοποιούμενες μορφές αρχείων εικόνας. Σχεδόν όλα τα λειτουργικά συστήματα έχουν υποστήριξη για το άνοιγμα αρχείων PNG. Για παράδειγμα, το πρόγραμμα προβολής των Windows Microsoft έχει τη δυνατότητα να ανοίγει αρχεία PNG καθώς το λειτουργικό σύστημα έχει από προεπιλογή την υποστήριξη που είναι διαθέσιμη ως μέρος της εγκατάστασης.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,14 +112,14 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-svg/" name="VSDX ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-swf/" name="VSDX ΠΡΟΣ SWF" description="Μορφή SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-tiff/" name="VSDX ΣΕ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vdx/" name="VSDX ΣΕ VDX" description="Μορφή σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsdm/" name="VSDX ΠΡΟΣ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX ΠΡΟΣ VSSM" description="Αρχεία Stencil της Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vdx/" name="VSDX ΠΡΟΣ VDX" description="Microsoft Visio Μορφή σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsdm/" name="VSDX ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssm/" name="VSDX ΠΡΟΣ VSSM" description="Microsoft Visio Αρχεία στένσιλ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vssx/" name="VSDX ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstm/" name="VSDX ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstx/" name="VSDX ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstm/" name="VSDX ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vstx/" name="VSDX ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vsx/" name="VSDX ΠΡΟΣ VSX" description="Στένσιλ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vtx/" name="VSDX ΠΡΟΣ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-vtx/" name="VSDX ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-xaml/" name="VSDX ΠΡΟΣ XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdx-to-xps/" name="VSDX ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 

@@ -1,7 +1,7 @@
 ﻿---
 title: تحرير ملفات VDW عبر .NET 
 url: /ar/net/editor/vdw/ 
-description: C# كود المصدر لتعديل مستند VDW على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
+description: C# شفرة المصدر لتعديل مستند VDW على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحرير تنسيقات VDW في C#" h2="تحرير مستندات VDW أصلي وعالي الأداء باستخدام واجهات برمجة تطبيقات Aspose.Diagram for .NET من جانب الخادم ، بدون استخدام أي برنامج مثل Microsoft أو Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -11,7 +11,7 @@ description: C# كود المصدر لتعديل مستند VDW على الأن�
 
 {{% blocks/products/pf/agp/content h2="كيفية تحرير ملف VDW باستخدام C#" %}}
 
-من أجل تحرير ملف VDW ، سنستخدم <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API وهو نظام غني بالميزات وقوي وسهل الاستخدام API لنظام أساسي C# لأي محرر. افتح <a href="https://www.nuget.org/packages/aspose.diagram">نوجيت</a> مدير الحزم ، ابحث عن <b>Aspose.Diagram</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+من أجل تحرير ملف VDW ، سنستخدم <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API وهو نظام غني بالميزات وقوي وسهل الاستخدام API لنظام أساسي C# لأي محرر. يفتح <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> مدير الحزم ، ابحث عن <b>Aspose.Diagram</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="أمر" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core أو Windows Azure Mono أو الأنظمة الأساسية Xamarin- بيئة التطوير مثل Microsoft Visual Studio- Aspose.Diagram for .NET DLL المشار إليه في مشروعك - قم بالتثبيت من NuGet باستخدام الزر "تنزيل" أعلاه
+- Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core أو Windows Azure Mono أو الأنظمة الأساسية Xamarin- بيئة التطوير مثل Microsoft Visual Studio- Aspose.Diagram for .NET DLL المشار إليه في مشروعك - التثبيت من NuGet باستخدام الزر "تنزيل" أعلاه
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="تحرير ملفات VDW - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه API مستقل ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.    
+Aspose.Diagram هو Microsoft Visio معالجة بتنسيق المستند API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه إصدار مستقل API ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمك
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" ثم احفظها ونزلها." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW هو تنسيق ملف Visio Graphics Service الذي يحدد التدفقات والمخازن المطلوبة لعرض رسم الويب. رسم الويب عبارة عن مجموعة من صفحات الرسم والأشكال والخطوط والصور واتصالات البيانات ومعلومات تحديث الرسم التخطيطي التي يمكن تقديمها كرسم متجه أو رسم نقطي. يمكن أيضًا فتح ملفات VDW في Microsoft Visio ولكن يتم حفظها بشكل أساسي للاستخدام على الويب. تقدم Microsoft Visio القدرة على تحويل ملفات Visio إلى عدد من تنسيقات الملفات المختلفة بما في ذلك PNG و BMP و PDF وغيرها. 
+VDW هو تنسيق ملف Visio Graphics Service الذي يحدد التدفقات والمخازن المطلوبة لعرض رسم الويب. رسم الويب عبارة عن مجموعة من صفحات الرسم والأشكال والخطوط والصور واتصالات البيانات و diagram معلومات التحديث التي يمكن تقديمها كرسم متجه أو رسم نقطي. يمكن أيضًا فتح ملفات VDW في Microsoft Visio ولكن يتم حفظها بشكل أساسي للاستخدام على الويب. يوفر Microsoft Visio القدرة على تحويل ملفات Visio إلى عدد من تنسيقات الملفات المختلفة بما في ذلك PNG و BMP و PDF وغيرها. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

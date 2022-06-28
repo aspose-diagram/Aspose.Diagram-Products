@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Diagram
 + Diagram sınıf nesnesini kullanarak Visio dosya yükleyin
 Diagram'in RemoveHiddenInformation işlevini kullanın
 + Save() yöntemini çağırın ve dosya adını (tam yol) ve biçimi (VSDX) parametre olarak iletin.
-+ Artık VSDX dosyasını Microsoft Office, Adobe PDF veya diğer uyumlu programlarda açıp kullanabilirsiniz.
++ Artık VSDX dosyasını Microsoft Office, Adobe PDF veya başka bir uyumlu programda açıp kullanabilirsiniz.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -60,7 +60,7 @@ Diagram'in RemoveHiddenInformation işlevini kullanın
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet'ten yükleyin
+- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet adresinden yükleyin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VST Dosyalarını Sıkıştır - C#" offSpacer="" %}}
@@ -94,7 +94,7 @@ Diagram'in RemoveHiddenInformation işlevini kullanın
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında sıkıştırılır ve birleştirilir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-VST uzantılı dosyalar, Microsoft Visio ile oluşturulan vektör görüntü dosyalarıdır ve daha fazla dosya oluşturmak için şablon görevi görür. Bu şablon dosyaları ikili dosya biçimindedir ve yeni Visio çizimlerinin oluşturulması için kullanılan varsayılan düzeni ve ayarları içerir. Microsoft Visio'ta bir VST dosyası açıldığında, belgeyle çalışmaya devam etmek için mevcut ayarları içerir. Genel olarak, Visio dosyaları görsel nesneler, akış şemaları, UML şeması, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir. 
+VST uzantılı dosyalar, Microsoft Visio ile oluşturulan vektör görüntü dosyalarıdır ve daha fazla dosya oluşturmak için şablon görevi görür. Bu şablon dosyaları ikili dosya biçimindedir ve yeni Visio çizimlerinin oluşturulması için kullanılan varsayılan düzeni ve ayarları içerir. Microsoft Visio içinde bir VST dosyası açıldığında, belgeyle çalışmaya devam etmek için mevcut ayarları içerir. Genel olarak, Visio dosyaları görsel nesneler, akış şemaları, UML diagram, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgileri içeren çizimler oluşturmak için kullanılır. Visio kullanılarak oluşturulan dosyalar PNG, BMP, PDF ve diğerleri gibi farklı dosya biçimlerine de aktarılabilir. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,7 +104,7 @@ VST uzantılı dosyalar, Microsoft Visio ile oluşturulan vektör görüntü dos
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Sıkıştırma Formatları" subTitle="C# kullanarak, aşağıdakiler de dahil olmak üzere farklı biçimler kolayca sıkıştırılabilir." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="vsd" description="Microsoft Visio Çizimleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="Vsd" description="Microsoft Visio Çizimler" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vdx/" name="Vdx" description="Visio çizim XML Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstx/" name="VSTX" description="Visio şablon Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsdm/" name="VSDM" description="Visio makro etkin çizim Dosyası" >}}

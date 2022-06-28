@@ -1,10 +1,10 @@
 ﻿---
 title: Konverze souborů C# Microsoft Visio
 url: /cs/net/conversion/
-description: Převeďte formáty Microsoft Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST na PDF HTML a obrázky s několika řádky kódu C# prostřednictvím knihovny .NET.
+description: Převést Microsoft Visio formáty VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST na PDF HTML a obrázky s několika řádky C# prostřednictvím knihovny .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konverze formátů Microsoft<sup>&reg;</sup> Visio prostřednictvím C#" h2="Převádějte diagramy MS Visio do PDF, HTML a obrázků včetně BMP, JPG, PNG, TIFF a sestavujte aplikace pro různé platformy .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Převod formátů prostřednictvím C#" h2="Převádějte diagramy MS Visio do PDF, HTML a obrázků včetně BMP, JPG, PNG, TIFF a sestavujte aplikace pro různé platformy .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Pro jakékoli řešení, návrh vývojových diagramů a podnikových vývojových diagramů atd. nebo kdykoli je potřeba zpracovat diagramy MS Visio v umístění aplikace. Je tedy potřeba analyzovat Visio formáty a také je převést na jiné formáty. To vše může usnadnit .NET Visio API. API nejen vytváří, čte a manipuluje se soubory Visio, ale také převádí do obrázků, PDF a HTML formátů.
@@ -13,7 +13,7 @@ Pro jakékoli řešení, návrh vývojových diagramů a podnikových vývojový
 
 {{% blocks/products/pf/feature-page-section h2="Inter Conversion Visio souborů" %}}
 
-Soubory Visio, jako jsou VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM, lze vzájemně převést pomocí několika řádků kódu C#. Podívejme se na případ konverze **VSD na VSDX**. API poskytuje a [třída Diagram](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) načíst zdrojový soubor VSD. Po načtení souboru zavolejte metodu Uložit s výstupní cestou s názvem souboru VSDX a [SaveFileFormat](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)Přípona .targetFile jako parametry.
+Soubory Visio, jako jsou VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM, lze vzájemně převést pomocí několika řádků kód C#. Podívejme se na případ konverze **VSD na VSDX**. API poskytuje a [třída Diagram](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) načíst zdrojový soubor VSD. Po načtení souboru zavolejte metodu Uložit s výstupní cestou s názvem souboru VSDX a [SaveFileFormat](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)Přípona .targetFile jako parametry.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód pro konverzi VSD na VSDX" %}}
 
@@ -39,7 +39,7 @@ Kdykoli je potřeba převést Microsoft<sup>&reg;</sup> Visio souborů do obráz
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte soubory Visio do PDF" %}}
 
-API je schopen převádět formáty visio do PDF. Proces konverze je jednoduchý. Načtěte soubor pomocí třídy Diagram. Vytvořit [Objekt Memostream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) a uložte soubor visio jako PDF do streamu pomocí metody Save s objektem streamu a SaveFileFormat.PDF jako parametry. Vytvořte objekt FileStream pro převedený soubor a uložte jej pomocí [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) metoda. 
+API je schopen převést visio formátů do PDF. Proces konverze je jednoduchý. Načtěte soubor pomocí třídy Diagram. Vytvořit [Objekt Memostream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) uložte soubor visio jako PDF do streamu pomocí metody Save s objektem streamu a SaveFileFormat.PDF jako parametry. Vytvořte objekt FileStream pro převedený soubor a uložte jej pomocí [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) metoda. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód pro Visio převod do PDF" %}}
 

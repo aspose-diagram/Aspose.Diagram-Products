@@ -15,7 +15,7 @@ description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션
  VST 파일을 병합하려면 다음을 사용합니다.
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API은 기능이 풍부하고 강력하며 사용하기 쉬운 병합 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
- [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
@@ -77,7 +77,7 @@ description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 Java 런타임 환경과 호환되는 OS.- 에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오. [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경과 호환되는 OS.- 에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
 
     {{% blocks/products/pf/agp/content h2="Aspose.Diagram for Java API 정보" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VST);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 병합 및 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio를 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다. 
+VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML diagram, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio을 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -130,7 +130,7 @@ VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visio 그래픽 서비스 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio 도면" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="스텐실 파일" >}}

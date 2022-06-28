@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Μια Βιβλιοθήκη διαχείρισης Diagram ειδικά σχεδιασμένη για να λειτουργεί με αρχεία Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν εγγενείς μορφές Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του διαγράμματος για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.
+ Μια Βιβλιοθήκη διαχείρισης Diagram ειδικά σχεδιασμένη για να λειτουργεί με αρχεία Microsoft Visio. Επιτρέπει στους προγραμματιστές να δημιουργούν, να χειρίζονται και να μετατρέπουν εγγενείς μορφές Visio. Οι προγραμματιστές μπορούν να δημιουργήσουν διαγράμματα από την αρχή, καθώς και να φορτώσουν εύκολα υπάρχοντα αρχεία και να χειριστούν τα στοιχεία του diagram για να εξαγάγουν το αποτέλεσμα σε άλλες μορφές.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Τα αρχεία VSD είναι σχέδια που δημιουργούνται με την εφαρμογή Microsoft Visio για την αναπαράσταση ποικιλίας γραφικών αντικειμένων και τη διασύνδεση μεταξύ τους. Τέτοια σχέδια μπορεί να περιέχουν οπτικά αντικείμενα όπως οπτικά αντικείμενα, διαγράμματα ροής, διάγραμμα UML, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Η Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
+Τα αρχεία VSD είναι σχέδια που δημιουργούνται με την εφαρμογή Microsoft Visio για την αναπαράσταση ποικιλίας γραφικών αντικειμένων και τη διασύνδεση μεταξύ τους. Τέτοια σχέδια μπορεί να περιέχουν οπτικά αντικείμενα, όπως οπτικά αντικείμενα, γραφήματα ροής, UML diagram, ροή πληροφοριών, οργανογράμματα, διαγράμματα λογισμικού, διάταξη δικτύου, μοντέλα βάσεων δεδομένων, χαρτογράφηση αντικειμένων και άλλες παρόμοιες πληροφορίες. Το Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="html" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-Η HTML (Hyper Text Markup Language) είναι η επέκταση για ιστοσελίδες που δημιουργούνται για εμφάνιση σε προγράμματα περιήγησης. Γνωστή ως γλώσσα του Ιστού, η HTML έχει εξελιχθεί με απαιτήσεις νέων απαιτήσεων πληροφοριών που πρέπει να εμφανίζονται ως μέρος ιστοσελίδων. Η τελευταία παραλλαγή είναι γνωστή ως HTML 5 που δίνει μεγάλη ευελιξία στην εργασία με τη γλώσσα. Οι σελίδες HTML είτε λαμβάνονται από τον διακομιστή, όπου φιλοξενούνται, είτε μπορούν να φορτωθούν και από το τοπικό σύστημα. Κάθε σελίδα HTML αποτελείται από στοιχεία HTML όπως φόρμες, κείμενο, εικόνες, κινούμενα σχέδια, σύνδεσμοι κ.λπ. Αυτά τα στοιχεία αντιπροσωπεύονται από ετικέτες όπως img, a, p και πολλές άλλες, όπου κάθε ετικέτα έχει αρχή και τέλος. Μπορεί επίσης να ενσωματώσει εφαρμογές γραμμένες σε γλώσσες δέσμης ενεργειών όπως JavaScript και Style Sheets (CSS) για συνολική αναπαράσταση διάταξης.
+Η HTML (Hyper Text Markup Language) είναι η επέκταση για ιστοσελίδες που δημιουργούνται για εμφάνιση σε προγράμματα περιήγησης. Γνωστή ως γλώσσα του Ιστού, η HTML έχει εξελιχθεί με απαιτήσεις νέων απαιτήσεων πληροφοριών που πρέπει να εμφανίζονται ως μέρος ιστοσελίδων. Η τελευταία παραλλαγή είναι γνωστή ως HTML 5 που δίνει μεγάλη ευελιξία στην εργασία με τη γλώσσα. Οι σελίδες HTML είτε λαμβάνονται από τον διακομιστή, όπου φιλοξενούνται, είτε μπορούν να φορτωθούν και από το τοπικό σύστημα. Κάθε σελίδα HTML αποτελείται από στοιχεία HTML όπως φόρμες, κείμενο, εικόνες, κινούμενα σχέδια, σύνδεσμοι κ.λπ. Αυτά τα στοιχεία αντιπροσωπεύονται από ετικέτες όπως img, a, p και πολλές άλλες όπου κάθε ετικέτα έχει αρχή και τέλος. Μπορεί επίσης να ενσωματώσει εφαρμογές γραμμένες σε γλώσσες δέσμης ενεργειών όπως JavaScript και Style Sheets (CSS) για συνολική αναπαράσταση διάταξης.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-svg/" name="VSD ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-swf/" name="VSD ΠΡΟΣ SWF" description="Μορφή SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-tiff/" name="VSD ΣΕ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD ΣΕ VDX" description="Μορφή σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD ΠΡΟΣ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD ΠΡΟΣ VDX" description="Microsoft Visio Μορφή σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD ΠΡΟΣ VSSM" description="Αρχεία Stencil της Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD ΠΡΟΣ VSSM" description="Microsoft Visio Αρχεία στένσιλ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssx/" name="VSD ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD ΠΡΟΣ VSX" description="Στένσιλ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD ΠΡΟΣ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xaml/" name="VSD ΠΡΟΣ XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xps/" name="VSD ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 

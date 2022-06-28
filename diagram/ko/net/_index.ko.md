@@ -2,17 +2,17 @@
 title: C# .NET Visio Diagram API - Aspose 
 weight: 1020
 url: /ko/net/ 
-description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다이어그램 라이브러리 Visio VSD VSDX VSS VST VSX VTX VDW VDX VSSX 및 VSTX를 PDF XPS HTML SVG SWF 및 이미지 형식
+description: C# VB.NET ASP.NET Visio 다이어그램 작성 라이브러리를 사용하여 Visio 다이어그램 VSD VSDX VSS VST VSX VTX VDW VDX VSSX 및 VSTX을 PDF XPS로 내보내기 HTML SVG SWF 및 이미지 형식
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio 파일 처리 API" h2="Microsoft Visio 다이어그램을 생성, 편집, 조작 및 XPS, HTML, SVG, SWF, XAML, 이미지 또는 PDF 형식으로 변환합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio 파일 처리 API" h2="Microsoft Visio 다이어그램을 XPS, HTML, SVG, SWF, XAML, 이미지 또는 PDF 형식으로 생성, 편집, 조작 및 변환합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NET은(는) Microsoft Visio 문서와 함께 작동하도록 설계된 특수 API입니다. 개발자가 생성, 조작 및 네이티브 Visio 형식을 변환합니다. 개발자는 처음부터 다이어그램을 생성할 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 다이어그램의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.</p>
+<p>Aspose.Diagram for .NET은(는) Microsoft Visio 문서와 함께 작동하도록 설계된 특수 API입니다. 개발자가 생성, 조작 및 네이티브 Visio 형식을 변환합니다. 개발자는 다이어그램을 처음부터 만들 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 diagram의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.</p>
 
 <p>Aspose.Diagram for .NET은(는) 거의 모든 기본 Visio 형식과 일반적으로 사용되는 일부 이미지를 지원합니다. 고정 레이아웃 형식. 이 API은 Microsoft Visio 개체 모델의 대안이며 더 나은 성능을 제공합니다. Visio 서비스의 고급 기능을 사용하여 서버에서 문서를 조작합니다.</p>
 
@@ -136,7 +136,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     .NET
    </small>
@@ -147,7 +147,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="API은 2.0 및 Mono부터 .NET 프레임워크를 지원합니다. 또한 COM Interop을 통해 다른 언어와 함께 사용할 수 있습니다." >}}
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="API은 2.0 및 Mono부터 .NET Framework를 지원합니다. 또한 COM Interop을 통해 다른 언어와 함께 사용할 수 있습니다." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,7 +168,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET 프레임워크
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -197,7 +197,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     .NET
    </small>
@@ -220,7 +220,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
    <ul>
     <li>
      <b>
-      마이크로소프트 Visio:
+      Microsoft Visio:
      </b>
      VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
@@ -233,7 +233,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
    <ul>
     <li>
      <b>
-      마이크로소프트 Visio:
+      Microsoft Visio:
      </b>
      VDW, VSD, VSS, VST
     </li>
@@ -284,7 +284,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     .NET
    </small>
@@ -334,7 +334,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     다이어그램의 다른 개체 속성 읽기
+     diagram의 다른 객체 속성 읽기
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XpsPrint API를 통해 서버에서 다이어그램 인쇄
+     XpsPrint API를 통해 서버에서 diagram 인쇄
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: C# VB.NET ASP.NET Visio 다이어그램 내보내기를 위한 다�
     </p>
     <div class="codeblock" id="code">
      <h3>
-      다양한 형식으로 다이어그램 저장 - C#
+      다른 형식으로 diagram 저장 - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -472,7 +472,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Microsoft Visio 다이어그램 조작
     </h2>
     <p>
-     Aspose.Diagram for .NET API는 기본 VSD/VSDX 형식과 VSS, VST, VSX, VTX, VDW, VDX, VSSX, VSTX, VSDM, VSSM 및 VSTM. 다이어그램의 내용은 API을 통해 조작할 수 있습니다. 문서에 필요한 변경을 수행한 후 지원되는 형식으로 문서를 디스크에 쓸 수 있습니다.
+     Aspose.Diagram for .NET API는 기본 VSD/VSDX 형식과 VSS, VST, VSX, VTX, VDW, {9를 포함한 기타 형식의 Microsoft Visio 파일을 읽을 수 있습니다. }, VSSX, VSTX, VSDM, VSSM 및 VSTM. diagram의 내용은 API을 통해 조작할 수 있습니다. 문서에 필요한 변경을 수행한 후 지원되는 형식으로 문서를 디스크에 쓸 수 있습니다.
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Visio 다이어그램에서 데이터 액세스
     </h2>
     <p>
-     Aspose.Diagram for .NET 개발자는 문서 속성, 페이지, 마스터, 모양, 이미지, 연결, 솔루션 XML, 주석, 하이퍼링크, 스타일시트, 레이어, 사용자 정의 셀 등과 같은 다이어그램의 데이터를 쉽게 읽을 수 있습니다.
+     Aspose.Diagram for .NET을(를) 사용하면 개발자가 문서 속성, 페이지, 마스터, 모양, 이미지, 연결, 솔루션 XML, 주석, 하이퍼링크, 스타일시트, 레이어, 사용자 정의 셀 등과 같은 diagram의 데이터를 쉽게 읽을 수 있습니다. .
     </p>
    </div>
    <div class="col-lg-12">

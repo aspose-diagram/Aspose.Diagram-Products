@@ -2,7 +2,7 @@
 title: 通过 .NET 查看或编辑 VSS 文件元数据 
 weight: 3050
 url: /zh/net/metadata/vss/ 
-description: C# 用于在 .NET 框架、.NET 核心、Mono 平台上编辑或查看 VSS 格式元数据的源代码。
+description: C# 用于在 .NET Framework、.NET Core、Mono 平台上编辑或查看 VSS 格式元数据的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 C# 中的 VSS 元数据" h2="构建您自己的 .NET 应用，以使用服务器端 API 添加、编辑、删除或提取 VSS 文件中的元数据。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -59,7 +59,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 在您的项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="提取 VSS 元数据 - C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="关于Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
+ Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一个独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
 
 
 
@@ -93,7 +93,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 它将立即被压缩和连接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS 是使用 Microsoft Visio 2007 及更早版本创建的模具文件。一种相对较新的文件格式是 Microsoft Visio 2013 引入的 .VSSX。模板文件提供了可以包含在 .VSD Visio 图形中的图形对象。 Microsoft Visio 本身以创建绘图元素而闻名，例如形状集合、连接器、流程图、网络布局、UML 图、软件图、数据库模型、对象映射和其他类似信息。它还具有丰富的Visio文档到其他文件格式的转换功能，如PNG、BMP、PDF等。 Visio 适用于 Windows 和 Mac OS。 
+VSS 是使用 Microsoft Visio 2007 及更早版本创建的模板文件。 .VSSX 是一种相对较新的文件格式，它是在 2013 年的 Microsoft Visio 中引入的。模板文件提供了可以包含在 .VSD Visio 绘图中的绘图对象。 Microsoft Visio 本身以创建绘图元素而闻名，例如形状、连接器、流程图、网络布局、UML 图、软件图、数据库模型、对象映射和其他类似信息的集合。它还具有丰富的Visio文档到PNG、BMP、PDF等其他文件格式的转换功能。 Visio 适用于 Windows 和 Mac OS。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ VSS 是使用 Microsoft Visio 2007 及更早版本创建的模具文件。一种
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的元数据格式" subTitle="使用 C#，可以轻松操作不同格式的元数据，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="VSD" description="Microsoft Visio 绘图" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio 绘图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio 绘图 XML 文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio 模具文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio 模板文件" >}}

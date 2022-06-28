@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Microsoft Visio dosyalarıyla çalışmak üzere özel olarak tasarlanmış bir Diagram Yönetim Kitaplığı. Geliştiricilerin yerel Visio biçimleri oluşturmasına, değiştirmesine ve dönüştürmesine olanak tanır. Geliştiriciler, sıfırdan diyagramlar oluşturabilir, ayrıca mevcut dosyaları kolayca yükleyebilir ve sonucu diğer formatlarda dışa aktarmak için diyagramın öğelerini değiştirebilir.
+ Microsoft Visio dosyalarıyla çalışmak üzere özel olarak tasarlanmış bir Diagram Yönetim Kitaplığı. Geliştiricilerin yerel Visio biçimleri oluşturmasına, işlemesine ve dönüştürmesine olanak tanır. Geliştiriciler, sıfırdan diyagramlar oluşturabilir, ayrıca mevcut dosyaları kolayca yükleyebilir ve sonucu diğer biçimlerde dışa aktarmak için diagram öğelerini değiştirebilir.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-VSD dosyaları, çeşitli grafik nesneleri ve bunlar arasındaki bağlantıyı temsil etmek için Microsoft Visio uygulamasıyla oluşturulan çizimlerdir. Bu tür çizimler, görsel nesneler, akış şemaları, UML şeması, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi görsel nesneleri içerebilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya biçimine dönüştürme yeteneği sunar.
+VSD dosyaları, çeşitli grafik nesneleri ve bunlar arasındaki bağlantıyı temsil etmek için Microsoft Visio uygulamasıyla oluşturulan çizimlerdir. Bu tür çizimler, görsel nesneler, akış şemaları, UML diagram, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi görsel nesneleri içerebilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya formatına dönüştürme yeteneği sunar.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ SWF, metin, video, vektör grafikleri ve ActionScript'i internet üzerinden taş
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-png/" name="VSD PNG\'ye" description="taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-svg/" name="VSD SVG\'YE" description="ölçeklendirilebilir Vektör Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-tiff/" name="VSD TIFF\'E" description="Etiketli Görüntü Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD VDX\'E" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD VSDM\'YE" description="Microsoft Visio Çizim Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD - VSDX" description="Microsoft Visio Biçimi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD VSSM\'YE" description="Microsoft Visio Şablon dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssx/" name="VSD VSSX\'E" description="Çizim Şablonları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD VSTM\'YE" description="Microsoft Visio Şablon Dosyaları" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD VSTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD VSX\'E" description="şablonlar" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD VTX\'E" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vdx/" name="VSD - VDX" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdm/" name="VSD - VSDM" description="Microsoft Visio Çizim Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsdx/" name="VSD - VSDX" description="Microsoft Visio Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssm/" name="VSD - VSSM" description="Microsoft Visio Şablon dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vssx/" name="VSD - VSSX" description="Çizim Şablonları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstm/" name="VSD - VSTM" description="Microsoft Visio Şablon Dosyaları" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vstx/" name="VSD - VSTX" description="Microsoft Visio Çizim Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vsx/" name="VSD - VSX" description="şablonlar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-vtx/" name="VSD - VTX" description="Microsoft Visio Çizim Şablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xaml/" name="VSD İÇİN XAML" description="Genişletilebilir Uygulama İşaretleme Dili" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsd-to-xps/" name="VSD XPS\'E" description="XML Kağıt Özellikleri" >}}
 

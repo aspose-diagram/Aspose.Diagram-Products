@@ -2,7 +2,7 @@
 title: Konvertieren Sie VTX über Java in XAML 
 weight: 1810
 url: /de/java/conversion/vtx-to-xaml/ 
-description: Beispiel-Umwandlungscode Java für das VTX-Format in eine XAML-Datei. Verwenden Sie diesen Beispielcode, um VTX in jeder Web- oder Desktop Java-basierten Anwendung in XAML zu konvertieren.
+description: Beispiel-Umwandlungscode Java für das VTX-Format in eine XAML-Datei. Verwenden Sie diesen Beispielcode, um VTX in jeder Web- oder Desktop-Java-basierten Anwendung in XAML zu konvertieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie VTX über Java in XAML" h2="Exportieren Sie Microsoft Visio VTX mithilfe der nativen Java-Bibliothek in XAML." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XAML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VTX" >}}
@@ -56,11 +56,11 @@ description: Beispiel-Umwandlungscode Java für das VTX-Format in eine XAML-Date
 
 {{% blocks/products/pf/agp/text %}}
 
- Java-Entwickler können VTX-Dateien in nur wenigen Codezeilen problemlos in XAML konvertieren.
+ Java-Entwickler können die VTX-Datei in nur wenigen Codezeilen problemlos in XAML konvertieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. VTX-Datei mit einer Instanz der Klasse Diagram laden1. Rufen Sie die Methode Diagram.save mit dem Ausgabedateipfad und SaveFileFormat als Parameter auf1. Die XAML-Datei wird unter dem angegebenen Pfad gespeichert
+1. Laden Sie die Datei VTX mit einer Instanz der Klasse Diagram1. Rufen Sie die Methode Diagram.save mit dem Ausgabedateipfad und SaveFileFormat als Parameter auf1. Die XAML-Datei wird unter dem angegebenen Pfad gespeichert
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Anforderungen" %}}
@@ -74,12 +74,12 @@ description: Beispiel-Umwandlungscode Java für das VTX-Format in eine XAML-Date
 - Microsoft Windows oder ein kompatibles Betriebssystem mit Java Laufzeitumgebung für JSP/JSF-Anwendung und Desktop-Anwendungen.- Holen Sie sich die neueste Version von Aspose.Diagram for Java direkt von Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VTX-zu-XAML-Java-Konvertierungsquellcode" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VTX in XAML Java-Conversion-Quellcode" offSpacer="" %}}
 
 ```cs
-// Laden Sie den VTX in ein Objekt von Diagram 
+// Laden Sie die VTX in ein Objekt von Diagram 
 Diagram visio = new Diagram("template.vtx");
-// Speichern Sie VTX als XAML 
+// speichern Sie VTX als XAML 
 visio.save("output.xaml", SaveFileFormat.XAML);   
 
 
@@ -94,7 +94,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VTX-zu-XAML-Konvertierung Live-Demos" sectionDescription="[Konvertieren Sie VTX in XAML](https://products.aspose.app/diagram/conversion/vtx-to-xaml) jetzt, indem Sie unsere Live-Demo-Website besuchen. Die Live-Demo hat die folgenden Vorteile" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VTX zu XAML-Konvertierungs-Live-Demos" sectionDescription="[Konvertieren Sie VTX in XAML](https://products.aspose.app/diagram/conversion/vtx-to-xaml) jetzt, indem Sie unsere Live-Demo-Website besuchen. Die Live-Demo hat die folgenden Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es muss kein Code geschrieben werden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre VTX-Datei hoch, sie wird sofort in XAML konvertiert." >}}
@@ -102,7 +102,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulationsbibliothek" %}}
 
- Aspose.Diagram ist eine Manipulation des Microsoft Visio-Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
+ Aspose.Diagram ist eine Microsoft Visio Manipulation des Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
 
-Eine Datei mit der Erweiterung .vtx ist eine Microsoft Visio-Zeichnungsvorlage, die im XML-Dateiformat auf der Disc gespeichert wird. Die Vorlage soll eine Datei mit grundlegenden Einstellungen bereitstellen, die verwendet werden kann, um mehrere Visio-Dateien mit denselben Einstellungen zu erstellen. Ein weiteres ähnliches Format ist VST, das im Binärformat und nicht im XML-Format gespeichert wird. VTX-Dateien werden mit Visio 2010 und neueren Versionen unterstützt. Visio-Dateien werden verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML-Diagramme, Informationsflüsse, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio generierte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden.
+Eine Datei mit der Erweiterung .vtx ist eine Microsoft Visio-Zeichnungsvorlage, die im XML-Dateiformat auf einer Disc gespeichert wird. Die Vorlage soll eine Datei mit grundlegenden Einstellungen bereitstellen, die verwendet werden kann, um mehrere Visio-Dateien mit denselben Einstellungen zu erstellen. Ein weiteres ähnliches Format ist VST, das im Binärformat und nicht im XML-Format gespeichert wird. VTX-Dateien werden mit Visio 2010 und neueren Versionen unterstützt. Visio-Dateien werden verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML diagram, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio generierte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
 
-XAML, Extensible Application Markup Language, Erweiterungsdateien beschreiben die Elemente der Benutzeroberfläche für Softwareanwendungen, die auf Windows Presentation Foundation (WPF) basieren. Obwohl es sich um eine Sprache handelt, muss es nicht programmiert werden, da es auf dem Standardformat von XML basiert, das einfach zu verwenden und zu verstehen ist. XAML (ausgesprochen als „zammel“) wurde von Microsoft speziell für die Erstellung von Benutzeroberflächen entwickelt. Das ursprüngliche Akronym stand für Extensible Avalon Markup Language, wobei Avalon der Codename für WPF war. XAML-Dateien werden manchmal auch mit der XOML-Erweiterung gespeichert.
+XAML, Extensible Application Markup Language, Erweiterungsdateien beschreiben die Elemente der Benutzeroberfläche für Softwareanwendungen, die auf Windows Presentation Foundation (WPF) basieren. Obwohl es sich um eine Sprache handelt, muss es nicht programmiert werden, da es auf dem Standardformat von XML basiert, das einfach zu verwenden und zu verstehen ist. XAML (ausgesprochen als "zammel") wurde von Microsoft speziell für die Erstellung von Benutzeroberflächen entwickelt. Das ursprüngliche Akronym stand für Extensible Avalon Markup Language, wobei Avalon der Codename für WPF war. XAML-Dateien werden manchmal auch mit der XOML-Erweiterung gespeichert.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -133,21 +133,21 @@ XAML, Extensible Application Markup Language, Erweiterungsdateien beschreiben di
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können VTX auch in viele andere Dateiformate konvertieren, darunter einige, die unten aufgeführt sind." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-bmp/" name="VTX ZU BMP" description="Bitmap-Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-emf/" name="VTX ZU EMF" description="Verbessertes Metafile-Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-emf/" name="VTX AN EMF" description="Verbessertes Metafile-Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-html/" name="VTX ZU HTML" description="Hypertext-Auszeichnungssprache" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-jpeg/" name="VTX ZU JPEG" description="JPEG-Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-pdf/" name="VTX ZU PDF" description="Portables Dokumentenformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-png/" name="VTX ZU PNG" description="Portable Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-svg/" name="VTX ZU SVG" description="Skalierbare Vektorgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-tiff/" name="VTX ZU TIFF" description="Markiertes Bildformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX ZU VDX" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX ZU VSDM" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX ZU VSDX" description="Microsoft Visio-Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX ZU VSSM" description="Microsoft Visio-Schablonendateien" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX ZU VSSX" description="Zeichenschablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX ZU VSTM" description="Microsoft Visio Vorlagendateien" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX ZU VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX ZU VSX" description="Schablonen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX AN VDX" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX AN VSDM" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX AN VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX AN VSSM" description="Microsoft Visio Schablonendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX AN VSSX" description="Zeichenschablonen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX AN VSTM" description="Microsoft Visio Vorlagendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX AN VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX AN VSX" description="Schablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xps/" name="VTX ZU XPS" description="XML-Papierspezifikationen" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

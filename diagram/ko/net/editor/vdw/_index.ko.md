@@ -11,7 +11,7 @@ description: C# 소스 코드는 .NET Framework, .NET Core, Windows Azure, Mono 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 VDW 파일을 편집하는 방법" %}}
 
-VDW 파일을 편집하려면 다음을 사용합니다. <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API은(는) 모든 편집자를 위한 C# 플랫폼에 대해 풍부하고 강력하며 사용하기 쉬운 API입니다. 열려있는 <a href="https://www.nuget.org/packages/aspose.diagram">누겟</a> 패키지 관리자, 검색 <b>Aspose.Diagram</b> 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+VDW 파일을 편집하려면 다음을 사용합니다. <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API은(는) 모든 편집자를 위한 C# 플랫폼에 대해 풍부하고 강력하며 사용하기 쉬운 API입니다. 열려 있는 <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> 패키지 관리자, 검색 <b>Aspose.Diagram</b> 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.    
+Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 그런 다음 저장하고 다운로드합니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW는 웹 그림을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio 그래픽 서비스 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 다이어그램 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다. 
+VDW는 웹 그림을 렌더링하는 데 필요한 스트림과 저장소를 지정하는 Visio 그래픽 서비스 파일 형식입니다. 웹 드로잉은 벡터 또는 래스터 드로잉으로 렌더링할 수 있는 드로잉 페이지, 모양, 글꼴, 이미지, 데이터 연결 및 diagram 업데이트 정보의 모음입니다. VDW 파일은 Microsoft Visio에서도 열 수 있지만 주로 웹에서 사용하기 위해 저장됩니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

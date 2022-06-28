@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Diagram
 
  Een basisdocument dat samenvoegt en samenvoegt met
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API's kunnen worden gemaakt met slechts een paar regels code.
+ API's kunnen worden gemaakt met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Maak één document als basisbestand
 + Roep de relevante methode voor het aaneenschakelen en samenvoegen van bestanden één voor één aan.
 + Roep de methode Save() aan en geef de bestandsnaam (volledig pad) en formaat (VSD) door als parameter.
-Nu kunt u het VSD-bestand openen en gebruiken in Microsoft Office, Adobe PDF of een ander compatibel programma.
++ Nu kunt u het bestand VSD openen en gebruiken in Microsoft Office, Adobe PDF of een ander compatibel programma.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vsd");
 
     {{% blocks/products/pf/agp/content h2="Over Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -103,7 +103,7 @@ Diagram dgF = new Diagram( "f.vsd");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk samengevoegd en aaneengeschakeld." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-VSD-bestanden zijn tekeningen die zijn gemaakt met de Microsoft Visio-toepassing om een verscheidenheid aan grafische objecten en de onderlinge verbinding hiertussen weer te geven. Dergelijke tekeningen kunnen visuele objecten bevatten, zoals visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, het in kaart brengen van objecten en andere soortgelijke informatie. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere. 
+VSD-bestanden zijn tekeningen die zijn gemaakt met de toepassing Microsoft Visio om een verscheidenheid aan grafische objecten en de onderlinge verbinding hiertussen weer te geven. Dergelijke tekeningen kunnen visuele objecten bevatten zoals visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -116,12 +116,12 @@ VSD-bestanden zijn tekeningen die zijn gemaakt met de Microsoft Visio-toepassing
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdw/" name="VDW" description="Visio Grafisch servicebestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio Tekenindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio-indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio Indeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vss/" name="VSS" description="Stencilbestanden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssx/" name="VSSX" description="Tekensjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vst/" name="VST" description="Vector afbeeldingsbestanden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsx/" name="VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Microsoft Visio Tekensjabloon" >}}

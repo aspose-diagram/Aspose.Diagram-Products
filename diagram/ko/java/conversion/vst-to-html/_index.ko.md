@@ -15,7 +15,7 @@ description: VST 형식을 HTML 파일로 변환하는 샘플 Java 변환 코드
  VST를 HTML로 렌더링하려면 다음을 사용합니다.
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API는 기능이 풍부하고 강력하며 사용하기 쉬운 전환 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
- [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
@@ -71,7 +71,7 @@ description: VST 형식을 HTML 파일로 변환하는 샘플 Java 변환 코드
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 Java 런타임 환경과 호환되는 OS.- Maven에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오.
+- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경과 호환되는 OS.- Maven에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VST에서 HTML로의 Java 변환 소스 코드" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.html", SaveFileFormat.HTML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram 조작 라이브러리" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.html", SaveFileFormat.HTML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio를 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다.
+VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML diagram, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio을 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
 
-HTML(Hyper Text Markup Language)은 브라우저에 표시하기 위해 생성된 웹 페이지의 확장입니다. 웹 언어로 알려진 HTML은 웹 페이지의 일부로 표시되어야 하는 새로운 정보 요구 사항과 함께 발전했습니다. 최신 변형은 HTML 5로 알려져 있으며 언어 작업에 많은 유연성을 제공합니다. HTML 페이지는 호스팅되는 서버에서 수신하거나 로컬 시스템에서도 로드할 수 있습니다. 각 HTML 페이지는 양식, 텍스트, 이미지, 애니메이션, 링크 등과 같은 HTML 요소로 구성됩니다. 이러한 요소는 img, a, p 및 각 태그에 시작과 끝이 있는 여러 태그와 같은 태그로 표시됩니다. 또한 전체 레이아웃 표현을 위해 JavaScript 및 CSS(스타일 시트)와 같은 스크립팅 언어로 작성된 응용 프로그램을 포함할 수 있습니다.
+HTML(Hyper Text Markup Language)은 브라우저에 표시하기 위해 생성된 웹 페이지의 확장입니다. 웹 언어로 알려진 HTML은 웹 페이지의 일부로 표시되어야 하는 새로운 정보 요구 사항의 요구 사항으로 발전했습니다. 최신 변형은 언어 작업에 많은 유연성을 제공하는 HTML 5로 알려져 있습니다. HTML 페이지는 호스팅되는 서버에서 수신하거나 로컬 시스템에서도 로드할 수 있습니다. 각 HTML 페이지는 양식, 텍스트, 이미지, 애니메이션, 링크 등과 같은 HTML 요소로 구성됩니다. 이러한 요소는 img, a, p 및 각 태그에 시작과 끝이 있는 여러 태그와 같은 태그로 표시됩니다. 또한 전체 레이아웃 표현을 위해 JavaScript 및 CSS(스타일 시트)와 같은 스크립팅 언어로 작성된 응용 프로그램을 포함할 수 있습니다.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ HTML(Hyper Text Markup Language)은 브라우저에 표시하기 위해 생성�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-png/" name="VST에서 PNG로" description="휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-svg/" name="VST에서 SVG로" description="확장 가능한 벡터 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="VST에서 TIFF로" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST에서 VDX로" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST에서 VSDM으로" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vdx/" name="VST ~ VDX" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST ~ VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VST ~ VSDX" description="Microsoft Visio 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST에서 VSSM으로" description="Microsoft Visio 스텐실 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST에서 VSSX로" description="드로잉 스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VSTM에서 VSTM으로" description="Microsoft Visio 템플릿 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST에서 VSTX로" description="Microsoft Visio 도면 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST에서 VSX로" description="스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST에서 VTX로" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST ~ VSSM" description="Microsoft Visio 스텐실 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST ~ VSSX" description="드로잉 스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST ~ VSTM" description="Microsoft Visio 템플릿 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST ~ VSTX" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST ~ VSX" description="스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST ~ VTX" description="Microsoft Visio 도면 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xaml/" name="VST에서 XAML로" description="확장 가능한 애플리케이션 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xps/" name="VST에서 XPS로" description="XML 용지 사양" >}}
 

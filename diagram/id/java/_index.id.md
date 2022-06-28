@@ -13,7 +13,7 @@ description: Visio library untuk pembuatan, manipulasi, dan konversi diagram. Ek
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java adalah Visio pemrosesan dokumen API Microsoft yang andal. Ini menyediakan fungsionalitas umum seperti membuat, mengurai &amp; mengonversi format Visio asli serta mendukung beberapa format gambar dan tata letak tetap yang umum digunakan. Aplikasi dapat memuat dokumen yang ada dan memanipulasi elemen diagram untuk mengekspor hasilnya dalam format, gambar, atau format tata letak tetapnya sendiri.
+ Aspose.Diagram for Java adalah Microsoft Visio pemrosesan dokumen API yang andal. Ini menyediakan fungsionalitas umum seperti membuat, mengurai &amp; mengonversi format Visio asli serta mendukung beberapa format gambar dan tata letak tetap yang umum digunakan. Aplikasi dapat memuat dokumen yang ada dan memanipulasi elemen diagram untuk mengekspor hasilnya dalam format, gambar, atau format tata letak tetapnya sendiri.
 </p>
 
 <p>
@@ -408,10 +408,10 @@ description: Visio library untuk pembuatan, manipulasi, dan konversi diagram. Ek
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Mengurai Microsoft Visio Dokumen
+     Parsing Microsoft Visio Dokumen
     </h2>
     <p>
-     Java diagram API memungkinkan untuk membaca format file asli dari aplikasi Microsoft Visio, sehingga memungkinkan Anda untuk mengakses data diagram seperti Halaman Dokumen, Properti, Master, Gambar, Bentuk, Terhubung, XML Solusi, Lapisan, Hyperlink, Komentar , StyleSheet, sel yang ditentukan pengguna, dan sebagainya. Objek ini dapat dimanipulasi melalui API, dan hasilnya dapat ditulis ke disk dalam format apa pun yang didukung.
+     Java diagram API memungkinkan untuk membaca format file asli aplikasi Microsoft Visio, sehingga memungkinkan Anda mengakses data diagram seperti Halaman Dokumen, Properti, Master, Gambar, Bentuk, Sambungan, Solusi XML , Lapisan, Hyperlink, Komentar, StyleSheet, sel yang ditentukan pengguna, dan sebagainya. Objek ini dapat dimanipulasi melalui API, dan hasilnya dapat ditulis ke disk dalam format apa pun yang didukung.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio library untuk pembuatan, manipulasi, dan konversi diagram. Ek
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Simpan diagram dalam format yang berbeda - Java
+      Simpan diagram dalam format berbeda - Java
      </h3>
      <pre><code class="java">// load file to be converted
 

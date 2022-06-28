@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM Interop funkcióval.- Fejlesztői környezet, például a Microsoft Visual Studio.- Aspose.Diagram for .NET DLL-re hivatkozik a projektben.
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM együttműködéssel.- Fejlesztői környezet, például a Microsoft Visual Studio.- Aspose.Diagram for .NET DLL-re hivatkozik a projektben.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Ez a mintakód a VSS-ből BMP-be való C# konverziót mutatja" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Egy Diagram Management Library, amelyet kifejezetten a Microsoft Visio fájljaival való együttműködésre terveztek. Lehetővé teszi a fejlesztők számára natív Visio formátumok létrehozását, kezelését és konvertálását. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetik a meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.
+ Egy Diagram Kezelőkönyvtár, amelyet kifejezetten Microsoft Visio fájl kezelésére terveztek. Lehetővé teszi a fejlesztők számára natív Visio formátumok létrehozását, kezelését és konvertálását. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetnek meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS a Microsoft Visio 2007 és korábbi verzióival létrehozott sablonfájlok. Egy viszonylag új fájlformátum a .VSSX, amelyet a Microsoft Visio 2013-mal vezettek be. A sablonfájlok olyan rajzobjektumokat biztosítanak, amelyek belefoglalhatók egy .VSD Visio rajzba. Maga a Microsoft Visio olyan rajzelemek létrehozásáról ismert, mint például alakzatok gyűjteménye, csatlakozók, folyamatábrák, hálózati elrendezés, UML diagramok, szoftverdiagramok, adatbázismodellek, objektumleképezés és más hasonló információk. Gazdag átalakítási funkciókkal is rendelkezik a Visio dokumentumok más fájlformátumokká, például PNG, BMP, PDF és mások. A Visio Windows és Mac OS rendszeren is elérhető.
+VSS olyan sablonfájlok, amelyeket a Microsoft Visio 2007-es és korábbi verziókkal hoztak létre. Egy viszonylag új fájlformátum a .VSSX, amelyet a Microsoft Visio 2013-ban vezettek be. A stencilfájlok olyan rajzobjektumokat biztosítanak, amelyek belefoglalhatók egy .VSD Visio rajzba. A Microsoft Visio maga ismert rajzelemek létrehozásáról, például alakzatok gyűjteményéről, csatlakozókról, folyamatábrákról, hálózati elrendezésről, UML diagramokról, szoftver diagramokról, adatbázismodellekről, objektumleképezésről és más hasonló információkról. Gazdag átalakítási funkciókkal is rendelkezik a Visio dokumentumok más fájlformátumokká, például PNG, BMP, PDF és mások. A Visio Windows és Mac OS rendszeren is elérhető.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="bmp" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}
-.BMP kiterjesztésű fájlok olyan bittérképes képfájlokat képviselnek, amelyeket bittérképes digitális képek tárolására használnak. Ezek a képek függetlenek a grafikus adaptertől, és eszközfüggetlen bittérkép (DIB) fájlformátumnak is nevezik őket. Ez a függetlenség azt a célt szolgálja, hogy a fájlt több platformon, például Microsoft Windowson és Macen is megnyissa. A BMP fájlformátum kétdimenziós digitális képként képes tárolni az adatokat mind monokróm, mind színes formátumban, különböző színmélységgel.
+A .BMP kiterjesztésű fájlok olyan bittérképes képfájlokat képviselnek, amelyeket bittérképes digitális képek tárolására használnak. Ezek a képek függetlenek a grafikus adaptertől, és eszközfüggetlen bittérkép (DIB) fájlformátumnak is nevezik őket. Ez a függetlenség azt a célt szolgálja, hogy a fájlt több platformon is megnyissa, például Microsoft Windows és Mac rendszeren. A BMP fájlformátum kétdimenziós digitális képként képes tárolni az adatokat mind monokróm, mind színes formátumban, különböző színmélységgel.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ VSS a Microsoft Visio 2007 és korábbi verzióival létrehozott sablonfájlok. 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-svg/" name="VSS - SVG" description="Skálázható vektorgrafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-swf/" name="VSS SWF-RE" description="SWF formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-tiff/" name="VSS TIFF-RE" description="Címkézett képformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vdx/" name="VSS - VDX" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdm/" name="VSS A VSDM-hez" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="VSS – VSDX" description="Microsoft Visio formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="VSS VSSM" description="Microsoft Visio Stencil-fájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssx/" name="VSS TO VSSX" description="Rajzsablonok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="VSS VSTM" description="Microsoft Visio sablonfájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="VSS VSTX" description="Microsoft Visio rajzsablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsx/" name="VSS - VSX" description="Stencilek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS - VTX" description="Microsoft Visio rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vdx/" name="VSS – VDX" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdm/" name="VSS – VSDM" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsdx/" name="VSS – VSDX" description="Microsoft Visio Formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssm/" name="VSS – VSSM" description="Microsoft Visio Sablonfájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vssx/" name="VSS – VSSX" description="Rajzsablonok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstm/" name="VSS – VSTM" description="Microsoft Visio Sablonfájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vstx/" name="VSS – VSTX" description="Microsoft Visio Rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vsx/" name="VSS – VSX" description="Stencilek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-vtx/" name="VSS – VTX" description="Microsoft Visio Rajzsablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xaml/" name="VSS TO XAML" description="Bővíthető alkalmazásjelölő nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vss-to-xps/" name="VSS TO XPS" description="XML papírspecifikációk" >}}
 

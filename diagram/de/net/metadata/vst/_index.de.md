@@ -2,7 +2,7 @@
 title: Anzeigen oder Bearbeiten von Metadaten von VST-Dateien über .NET 
 weight: 3050
 url: /de/net/metadata/vst/ 
-description: C#-Quellcode zum Bearbeiten oder Anzeigen von Metadaten im VST-Format auf .NET Framework-, .NET Core-, Mono-Plattformen.
+description: C#-Quellcode zum Bearbeiten oder Anzeigen von Metadaten im VST-Format auf den Plattformen .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VST-Metadaten in C# extrahieren" h2="Erstellen Sie Ihre eigenen .NET-Apps, um mithilfe serverseitiger APIs Metadaten aus VST-Dateien hinzuzufügen, zu bearbeiten, zu entfernen oder zu extrahieren." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -78,7 +78,7 @@ Holen Sie sich DocumentProps von Diagram Objekt
 
     {{% blocks/products/pf/agp/content h2="Über Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram ist eine Manipulation des Microsoft Visio-Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
+ Aspose.Diagram ist eine Microsoft Visio Manipulation des Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
 
 
 
@@ -93,7 +93,7 @@ Holen Sie sich DocumentProps von Diagram Objekt
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort komprimiert und verkettet." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-Dateien mit der Endung VST sind Vektorbilddateien, die mit Microsoft Visio erstellt wurden und als Vorlage für die Erstellung weiterer Dateien dienen. Diese Vorlagendateien liegen im binären Dateiformat vor und enthalten das Standardlayout und die Standardeinstellungen, die zum Erstellen neuer Visio-Zeichnungen verwendet werden. Wenn eine VST-Datei in Microsoft Visio geöffnet wird, enthält sie die vorhandenen Einstellungen, um mit dem Dokument weiterzuarbeiten. Im Allgemeinen werden Visio-Dateien verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML-Diagramme, Informationsflüsse, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio generierte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden. 
+Dateien mit der Erweiterung VST sind Vektorbilddateien, die mit Microsoft Visio erstellt wurden und als Vorlage zum Erstellen weiterer Dateien dienen. Diese Vorlagendateien liegen im binären Dateiformat vor und enthalten das Standardlayout und die Standardeinstellungen, die zum Erstellen neuer Visio-Zeichnungen verwendet werden. Wenn eine VST-Datei in Microsoft Visio geöffnet wird, enthält sie die vorhandenen Einstellungen, um mit dem Dokument weiterzuarbeiten. Im Allgemeinen werden Visio-Dateien verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML diagram, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio erstellte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ Dateien mit der Endung VST sind Vektorbilddateien, die mit Microsoft Visio erste
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Metadatenformate" subTitle="Mit C# kann man leicht Metadaten verschiedener Formate bearbeiten, einschließlich." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio-Zeichnungen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Zeichnungen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio Zeichnungs-XML-Datei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio Schablonendatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio Vorlagendatei" >}}

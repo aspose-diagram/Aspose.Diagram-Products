@@ -2,7 +2,7 @@
 title: Converti VST in VDX tramite Java 
 weight: 1580
 url: /it/java/conversion/vst-to-vdx/ 
-description: Esempio di codice di conversione Java per il formato VST in file VDX. Utilizzare questo codice di esempio per convertire VST in VDX all'interno di qualsiasi applicazione basata su Web o Desktop Java.
+description: Esempio di codice di conversione Java per il formato VST in file VDX. Utilizzare questo codice di esempio per convertire VST in VDX all'interno di qualsiasi applicazione basata su Web o desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti VST in VDX tramite Java" h2="Esporta Microsoft Visio VST in VDX utilizzando la libreria nativa Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VDX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VST" >}}
@@ -12,10 +12,10 @@ description: Esempio di codice di conversione Java per il formato VST in file VD
 
 {{% blocks/products/pf/agp/content h2="Come convertire VST in VDX utilizzando Java" %}}
 
- Per rendere VST in VDX, useremo
+ Per eseguire il rendering di VST in VDX, utilizzeremo
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API che è una piattaforma di conversione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la sua ultima versione direttamente da
- [Esperto di](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -56,11 +56,11 @@ description: Esempio di codice di conversione Java per il formato VST in file VD
 
 {{% blocks/products/pf/agp/text %}}
 
- Java gli sviluppatori possono convertire facilmente file VST in VDX in poche righe di codice.
+ Java gli sviluppatori possono convertire facilmente il file VST in VDX in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carica il file VST con un'istanza della classe Diagram1. Chiama il metodo Diagram.save con il percorso del file di output e SaveFileFormat come parametri1. Il file VDX verrà salvato nel percorso specificato
+1. Carica il file VST con un'istanza della classe Diagram1. Chiama il metodo Diagram.save con il percorso del file di output e SaveFileFormat come parametri1. VDX il file verrà salvato nel percorso specificato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di sistema" %}}
@@ -102,7 +102,7 @@ visio.save("output.vdx", SaveFileFormat.VDX);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Libreria di manipolazione" %}}
 
- Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.  
+ Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vdx", SaveFileFormat.VDX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
 
-file con estensione VST sono file di immagine vettoriale creati con Microsoft Visio e fungono da modello per la creazione di ulteriori file. Questi file modello sono in formato file binario e contengono il layout e le impostazioni predefiniti utilizzati per la creazione di nuovi Visio disegni. Quando un file VST viene aperto in Microsoft Visio, contiene le impostazioni esistenti per continuare a lavorare con il documento. In generale, i file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri.
+file con estensione VST sono file di immagine vettoriale creati con Microsoft Visio e fungono da modello per la creazione di ulteriori file. Questi file modello sono in formato file binario e contengono il layout e le impostazioni predefiniti utilizzati per la creazione di nuovi Visio disegni. Quando un file VST viene aperto in Microsoft Visio, contiene le impostazioni esistenti per continuare a lavorare con il documento. In generale, i file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, UML diagram, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
 
-Qualsiasi disegno o grafico creato in Microsoft Visio, ma salvato in formato XML ha l'estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio, sviluppato da Microsoft. Microsoft Visio ha la capacità di generare documenti visivi che possono essere utilizzati in presentazioni e documenti. Il file XML di disegno Visio contiene gli oggetti visivi ei dettagli dei metadati degli elementi visivi. Il testo può anche essere aggiunto a questi elementi visivi File XML di disegno di visione. Questi file XML di disegno Visio sono integrati con standard di formattazione basati su XML e specifiche di codifica dei dati di immagine che consentono il rendering e l'archiviazione del contenuto da parte del software Microsoft Visio nel formato file VDX.
+Qualsiasi disegno o grafico creato in Microsoft Visio, ma salvato in formato XML ha l'estensione .VDX. Un file XML di disegno Visio viene creato nel software Visio, sviluppato da Microsoft. Microsoft Visio ha la capacità di generare documenti visivi che possono essere utilizzati in presentazioni e documenti. Il file XML di disegno Visio contiene gli oggetti visivi ei dettagli dei metadati degli elementi visivi. Il testo può anche essere aggiunto a questi elementi visivi File XML di disegno di visione. Questi Visio file XML di disegno sono integrati con standard di formattazione basati su XML e specifiche di codifica dei dati di immagine che consentono il rendering e la memorizzazione del contenuto da parte del software Microsoft Visio nel formato di file VDX.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,14 +140,14 @@ Qualsiasi disegno o grafico creato in Microsoft Visio, ma salvato in formato XML
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-png/" name="VST IN PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-svg/" name="VST IN SVG" description="Grafica vettoriale scalabile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-tiff/" name="VST IN TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST A VSDM" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VST A VSDX" description="Formato Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST A VSSM" description="File stencil di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdm/" name="VST A VSDM" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsdx/" name="VST A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssm/" name="VST A VSSM" description="Microsoft Visio File stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vssx/" name="VST A VSSX" description="Stencil da disegno" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST A VSTM" description="File modello Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST A VSTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstm/" name="VST A VSTM" description="Microsoft Visio File modello" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vstx/" name="VST A VSTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vsx/" name="VST A VSX" description="Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST A VTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-vtx/" name="VST A VTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xaml/" name="VST IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vst-to-xps/" name="VST A XPS" description="Specifiche della carta XML" >}}
 

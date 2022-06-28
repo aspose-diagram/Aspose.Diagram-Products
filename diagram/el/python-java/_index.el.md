@@ -2,10 +2,10 @@
 title: Visio Έγγραφα Python API - Aspose 
 weight: 4630
 url: /el/python-java/ 
-description: Το Aspose.Diagram για το Python μέσω του Java είναι ένα javascript visio API για ανάγνωση, εγγραφή και μετατροπή εγγράφων Microsoft Visio όπως VSDX, VDX και άλλες μορφές
+description: Το Aspose.Diagram για Python μέσω Java είναι ένα visio javascript API για ανάγνωση, εγγραφή και μετατροπή Microsoft Visio Έγγραφα όπως VSDX, VDX και περισσότερες μορφές
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Visio Αρχεία API" h2="Δημιουργία, ανάγνωση, εγγραφή και εξαγωγή μορφών Microsoft Visio, συμπεριλαμβανομένων των μορφών VSDX, VDX, VSX, VTX και άλλων μορφών χρησιμοποιώντας το Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Visio Αρχεία API" h2="Δημιουργία, ανάγνωση, εγγραφή και εξαγωγή μορφών Microsoft Visio συμπεριλαμβανομένων των μορφών VSDX, VDX, VSX, VTX και άλλων μορφών χρησιμοποιώντας το Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Python via Java" >}}
 
@@ -13,11 +13,11 @@ description: Το Aspose.Diagram για το Python μέσω του Java είν�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Το Aspose.Diagram για το Python μέσω του Java είναι μια λύση χειρισμού εγγράφων της Microsoft Visio. Κάποιος μπορεί να διαβάζει, να γράφει, να προστατεύει, να εξάγει και να εκτυπώνει εγγενείς μορφές Visio, καθώς και να υποστηρίζει ορισμένες κοινώς χρησιμοποιούμενες μορφές εικόνας και σταθερής διάταξης. Είναι εύκολο να φορτώσετε υπάρχοντα αρχεία, να τροποποιήσετε τα στοιχεία του διαγράμματος για εξαγωγή στην επιθυμητή μορφή, συμπεριλαμβανομένων εικόνων ή μορφών σταθερής διάταξης, όπως PDF ή XPS.
+ Το Aspose.Diagram για το Python μέσω του Java είναι μια λύση χειρισμού εγγράφων Microsoft Visio. Μπορεί κανείς να διαβάζει, να γράφει, να προστατεύει, να εξάγει και να εκτυπώνει εγγενείς μορφές Visio, καθώς και να υποστηρίζει ορισμένες κοινώς χρησιμοποιούμενες μορφές εικόνας και σταθερής διάταξης. Είναι εύκολο να φορτώσετε υπάρχοντα αρχεία, να τροποποιήσετε τα στοιχεία diagram για εξαγωγή στην επιθυμητή μορφή, συμπεριλαμβανομένων εικόνων ή μορφών σταθερής διάταξης, όπως PDF ή XPS.
 </p>
 
 <p>
- Το Aspose.Diagram για το Python μέσω του Java είναι αυτόνομο API και δεν απαιτεί εγκατάσταση του Microsoft Visio ή άλλου λογισμικού. Επιπλέον, λίγες εργασίες που μπορεί κανείς να εκτελέσει εύκολα, όπως η δημιουργία διαγραμμάτων από την αρχή, η ανάγνωση ή η εγγραφή διαφόρων μορφών, η πρόσβαση και η ανάγνωση των ιδιοτήτων, συμπεριλαμβανομένων των τύπων αντικειμένων Visio, η εξαγωγή διαγραμμάτων σε πολλές μορφές, η εκτύπωση διαγραμμάτων με υψηλή πιστότητα και πολλά άλλα.
+ Το Aspose.Diagram για το Python μέσω του Java είναι αυτόνομο API και δεν απαιτεί εγκατάσταση Microsoft Visio ή άλλου λογισμικού. Επιπλέον, λίγες εργασίες που μπορεί κανείς να εκτελέσει εύκολα, όπως η δημιουργία διαγραμμάτων από την αρχή, η ανάγνωση ή η εγγραφή διαφόρων μορφών, η πρόσβαση και η ανάγνωση των ιδιοτήτων, συμπεριλαμβανομένων των τύπων αντικειμένων Visio, η εξαγωγή διαγραμμάτων σε πολλές μορφές, η εκτύπωση διαγραμμάτων με υψηλή πιστότητα και πολλά άλλα.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -143,7 +143,7 @@ description: Το Aspose.Diagram για το Python μέσω του Java είν�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.Diagram για το Python μέσω του Java υποστηρίζει δημοφιλείς μορφές Microsoft Visio και άλλα." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.Diagram για Python μέσω του Java υποστηρίζει δημοφιλείς μορφές Microsoft Visio και άλλα." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      Πρόσβαση και χειρισμός αρχείων Visio
     </h2>
     <p>
-     Το Python διάγραμμα API επιτρέπει την ανάγνωση εγγενών μορφών Microsoft Visio, καθώς και την παροχή πρόσβασης στα δεδομένα του διαγράμματος, όπως έγγραφο, σελίδα, κύρια, σχήμα, φύλλο στυλ, σύνδεση και ούτω καθεξής. Αυτά τα αντικείμενα μπορούν να χειριστούν μέσω του API και το αποτέλεσμα μπορεί να γραφτεί στο δίσκο σε οποιαδήποτε από τις υποστηριζόμενες μορφές.
+     Το Python diagram API επιτρέπει την ανάγνωση εγγενών μορφών Microsoft Visio καθώς και την παροχή πρόσβασης στα diagram δεδομένα όπως έγγραφο, σελίδα, κύρια, σχήμα, φύλλο στυλ, σύνδεση και ούτω καθεξής. Αυτά τα αντικείμενα μπορούν να χειριστούν μέσω του API και το αποτέλεσμα μπορεί να γραφτεί στο δίσκο σε οποιαδήποτε από τις υποστηριζόμενες μορφές.
     </p>
    </div>
    <div class="col-lg-12">

@@ -1,22 +1,22 @@
 ﻿---
 title: Java Microsoft Visio การแปลงไฟล์
 url: /th/java/conversion/
-description: แปลงรูปแบบ Microsoft Visio VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS เป็นรูปภาพ HTML และ PDF ด้วยโค้ด Java สองสามบรรทัด
+description: แปลง Microsoft Visio รูปแบบ VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS เป็นรูปภาพ HTML และ PDF ที่มีไม่กี่บรรทัด Java รหัส
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio แปลงรูปแบบผ่าน Java" h2="แปลง MS Visio Diagrams เป็น HTML, PDF และรูปภาพ รวมถึง JPG, BMP, PNG, TIFF เพื่อสร้างแอปพลิเคชัน Java ข้ามแพลตฟอร์ม" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-สำหรับโซลูชันการแสดงผลรูปแบบต่างๆ ของ Microsoft Visio เช่น การออกแบบผังงานและแผนผังลำดับงานธุรกิจ ฯลฯ Java Visio API จะอำนวยความสะดวกให้กับภาพวาดที่ซับซ้อนทั้งหมดด้วยวิธีง่ายๆ โหลดไฟล์ต้นฉบับโดยใช้ [Diagram คลาส](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) และเรียกวิธีการบันทึกด้วยพารามิเตอร์ที่เหมาะสม
+สำหรับโซลูชันการแสดงผลรูปแบบ Microsoft Visio ใดๆ เช่น การออกแบบผังงานและแผนผังลำดับงานธุรกิจ ฯลฯ Java Visio API ช่วยให้การวาดแบบซับซ้อนทั้งหมดเป็นไปอย่างง่ายดาย โหลดไฟล์ต้นฉบับโดยใช้ [Diagram คลาส](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) และเรียกวิธีการบันทึกด้วยพารามิเตอร์ที่เหมาะสม
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="การแปลงระหว่าง Visio Files" %}}
 
-โปรแกรมเมอร์สามารถแปลงรูปแบบ VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM ได้อย่างง่ายดาย เช่นเดียวกับการโหลด VDW, VSD, VSS, VST และแสดงผลเป็น PDF, HTML และรูปภาพ เมื่อพิจารณาสถานการณ์สมมติของ VSDX ถึง VDX กระบวนการคือ โหลดไฟล์ต้นทาง VSDX โดยใช้คลาสไดอะแกรมและเรียกวิธีการบันทึกโดยจัดเตรียมไฟล์เอาต์พุตและ [บันทึกไฟล์รูปแบบ](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX เป็นพารามิเตอร์ 
+โปรแกรมเมอร์สามารถแปลงรูปแบบ VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM รวมทั้งโหลด VDW, VSD, VSS, VST และแสดงผลเป็น PDF, HTML และรูปภาพ เมื่อพิจารณาสถานการณ์สมมติของ VSDX ถึง VDX กระบวนการคือ โหลดไฟล์ต้นทาง VSDX โดยใช้คลาสไดอะแกรมและเรียกวิธีการบันทึกโดยจัดเตรียมไฟล์เอาต์พุตและ [บันทึกไฟล์รูปแบบ](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX เป็นพารามิเตอร์ 
 
-{{% blocks/products/pf/feature-page-code h3="Java โค้ดสำหรับ VSDX เป็น VDX Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="Java โค้ดสำหรับการแปลง VSDX ถึง VDX" %}}
 
 {{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-vdx.java" >}}
 

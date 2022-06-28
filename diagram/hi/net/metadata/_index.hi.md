@@ -4,7 +4,7 @@ url: /hi/net/metadata/
 description: C# कोड की कुछ पंक्तियों के साथ Visio फ़ाइलें मेटाडेटा देखें, जोड़ें, संपादित करें, निकालें या निकालें
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio फ़ाइल मेटाडेटा .NET के माध्यम से प्रबंधित करें" h2="सर्वर साइड .NET API का उपयोग करके अंतर्निर्मित और कस्टम Visio फ़ाइल गुण देखें, जोड़ें, अपडेट करें, निकालें या निकालें।" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio फ़ाइल मेटाडेटा को .NET के माध्यम से प्रबंधित करें" h2="सर्वर साइड .NET API का उपयोग करके अंतर्निर्मित और कस्टम Visio फ़ाइल गुण देखें, जोड़ें, अपडेट करें, निकालें या निकालें।" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [.NET Visio API](/diagram/net/) सिस्टम-डिफ़ाइंड (अंतर्निहित) गुणों जैसे शीर्षक, लेखक का नाम, दस्तावेज़ आँकड़े आदि के साथ-साथ उपयोगकर्ता-परिभाषित (कस्टम) गुणों के प्रबंधन का समर्थन करता है नाम-मूल्य जोड़ी के रूप में। वहाँ है [Diagram कक्षा](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) फ़ाइलें लोड करने के लिए, और [पृष्ठ संग्रह](https://apireference.aspose.com/diagram/net/aspose.diagram/pagecollection) पृष्ठों के संग्रह के साथ-साथ से संबंधित है [पेज क्लास](https://apireference.aspose.com/diagram/net/aspose.diagram/page) एकल पृष्ठ का प्रतिनिधित्व करने के लिए। इन वर्गों के साथ, दस्तावेज़ गुण, कस्टमप्रॉप मेटाडेटा प्रबंधन के लिए प्रक्रिया को सरल बनाते हैं। 
 {{% /blocks/products/pf/feature-page-summary %}}

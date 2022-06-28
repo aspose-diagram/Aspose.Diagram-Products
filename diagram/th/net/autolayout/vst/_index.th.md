@@ -2,7 +2,7 @@
 title: การจัดวางเอกสาร VST อัตโนมัติผ่าน .NET 
 weight: 3050
 url: /th/net/autolayout/vst/ 
-description: C# ซอร์สโค้ดสำหรับการจัดวางอัตโนมัติไฟล์ vst บน .NET Framework, .NET Core, Mono Platforms
+description: C# ซอร์สโค้ดสำหรับรูปแบบอัตโนมัติ vst ไฟล์บนแพลตฟอร์ม .NET Framework, .NET Core, Mono
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="การจัดวางเอกสาร VST อัตโนมัติใน C#" h2="เอกสาร VST เลย์เอาต์อัตโนมัติดั้งเดิมและประสิทธิภาพสูงโดยใช้ API ฝั่งเซิร์ฟเวอร์ Aspose.Diagram for .NET โดยไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ Open Office, Adobe PDF" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมเอกสารพื้นฐานและการต่อกับ
+ การจัดวางเอกสารอัตโนมัติขั้นพื้นฐานด้วย
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ - ติดตั้งจาก NuGet โดยใช้ปุ่มดาวน์โหลดด้านบน
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ - ติดตั้งจาก NuGet โดยใช้ปุ่มดาวน์โหลดด้านบน
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="เลย์เอาต์อัตโนมัติไฟล์ VST - C#" offSpacer="" %}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram คือการจัดการรูปแบบเอกสารของ Microsoft Visio API หนึ่งสามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นการทำงานแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
+ Aspose.Diagram คือการจัดการรูปแบบเอกสาร Microsoft Visio API สามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะเป็นเลย์เอาต์อัตโนมัติและต่อกันทันที" >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-ไฟล์ที่มีนามสกุล VST คือไฟล์ภาพเวกเตอร์ที่สร้างด้วย Microsoft Visio และทำหน้าที่เป็นเทมเพลตสำหรับสร้างไฟล์เพิ่มเติม ไฟล์เทมเพลตเหล่านี้อยู่ในรูปแบบไฟล์ไบนารีและมีเลย์เอาต์และการตั้งค่าเริ่มต้นที่ใช้สำหรับการสร้างภาพวาด Visio ใหม่ เมื่อไฟล์ VST เปิดขึ้นใน Microsoft Visio จะมีการตั้งค่าที่มีอยู่เพื่อใช้งานเอกสารต่อไป โดยทั่วไป ไฟล์ Visio จะใช้เพื่อสร้างภาพวาดที่มีออบเจ็กต์ที่มองเห็นได้ แผนผังลำดับงาน ไดอะแกรม UML โฟลว์ข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ เลย์เอาต์เครือข่าย โมเดลฐานข้อมูล การแมปออบเจ็กต์ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ 
+ไฟล์ที่มีนามสกุล VST คือไฟล์ภาพเวกเตอร์ที่สร้างด้วย Microsoft Visio และทำหน้าที่เป็นเทมเพลตสำหรับสร้างไฟล์เพิ่มเติม ไฟล์เทมเพลตเหล่านี้อยู่ในรูปแบบไฟล์ไบนารีและมีเลย์เอาต์และการตั้งค่าเริ่มต้นที่ใช้สำหรับการสร้างภาพวาด Visio ใหม่ เมื่อเปิดไฟล์ VST ใน Microsoft Visio ไฟล์นั้นจะมีการตั้งค่าที่มีอยู่เพื่อใช้งานเอกสารต่อไป โดยทั่วไป ไฟล์ Visio จะใช้เพื่อสร้างภาพวาดที่มีออบเจ็กต์ที่มองเห็นได้ โฟลว์ชาร์ต ไดอะแกรม UML โฟลว์ข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ เลย์เอาต์เครือข่าย โมเดลฐานข้อมูล การแมปออบเจ็กต์ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

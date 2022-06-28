@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft-Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente des Diagramms bearbeiten, um das Ergebnis in andere Formate zu exportieren.
+ Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente der diagram manipulieren, um das Ergebnis in andere Formate zu exportieren.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Dateien mit der Endung VST sind Vektorbilddateien, die mit Microsoft Visio erstellt wurden und als Vorlage für die Erstellung weiterer Dateien dienen. Diese Vorlagendateien liegen im binären Dateiformat vor und enthalten das Standardlayout und die Standardeinstellungen, die zum Erstellen neuer Visio-Zeichnungen verwendet werden. Wenn eine VST-Datei in Microsoft Visio geöffnet wird, enthält sie die vorhandenen Einstellungen, um mit dem Dokument weiterzuarbeiten. Im Allgemeinen werden Visio-Dateien verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML-Diagramme, Informationsflüsse, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio generierte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden.
+Dateien mit der Erweiterung VST sind Vektorbilddateien, die mit Microsoft Visio erstellt wurden und als Vorlage zum Erstellen weiterer Dateien dienen. Diese Vorlagendateien liegen im binären Dateiformat vor und enthalten das Standardlayout und die Standardeinstellungen, die zum Erstellen neuer Visio-Zeichnungen verwendet werden. Wenn eine VST-Datei in Microsoft Visio geöffnet wird, enthält sie die vorhandenen Einstellungen, um mit dem Dokument weiterzuarbeiten. Im Allgemeinen werden Visio-Dateien verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML diagram, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio erstellte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="png" readMoreLink="https://docs.fileformat.com/image/png/" >}}
-PNG, Portable Network Graphics, bezieht sich auf eine Art Rasterbilddateiformat, das verlustfreie Komprimierung verwendet. Dieses Dateiformat wurde als Ersatz für das Graphics Interchange Format (GIF) erstellt und unterliegt keinen Urheberrechtsbeschränkungen. Das PNG-Dateiformat unterstützt jedoch keine Animationen. Das PNG-Dateiformat unterstützt die verlustfreie Bildkomprimierung, was es bei seinen Benutzern beliebt macht. Im Laufe der Zeit hat sich PNG zu einem der am häufigsten verwendeten Bilddateiformate entwickelt. Fast alle Betriebssysteme unterstützen das Öffnen von PNG-Dateien. Zum Beispiel hat der Microsoft Windows-Viewer die Fähigkeit, PNG-Dateien zu öffnen, da das Betriebssystem standardmäßig die Unterstützung bietet, die als Teil der Installation verfügbar ist.
+PNG, Portable Network Graphics, bezieht sich auf eine Art Rasterbilddateiformat, das verlustfreie Komprimierung verwendet. Dieses Dateiformat wurde als Ersatz für das Graphics Interchange Format (GIF) erstellt und unterliegt keinen Urheberrechtsbeschränkungen. Das PNG-Dateiformat unterstützt jedoch keine Animationen. Das PNG-Dateiformat unterstützt die verlustfreie Bildkomprimierung, was es bei seinen Benutzern beliebt macht. Im Laufe der Zeit hat sich PNG zu einem der am häufigsten verwendeten Bilddateiformate entwickelt. Fast alle Betriebssysteme unterstützen das Öffnen von PNG-Dateien. Zum Beispiel hat Microsoft Windows Viewer die Fähigkeit, PNG-Dateien zu öffnen, da das Betriebssystem standardmäßig die Unterstützung bietet, die als Teil der Installation verfügbar ist.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,10 +112,10 @@ PNG, Portable Network Graphics, bezieht sich auf eine Art Rasterbilddateiformat,
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-svg/" name="VST ZU SVG" description="Skalierbare Vektorgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-swf/" name="VST ZU SWF" description="SWF-Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST ZU TIFF" description="Markiertes Bildformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST ZU VDX" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST ZU VSDM" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST ZU VSDX" description="Microsoft Visio-Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST ZU VSSM" description="Microsoft Visio-Schablonendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST ZU VDX" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST ZU VSDM" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST ZU VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST ZU VSSM" description="Microsoft Visio Schablonendateien" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST ZU VSSX" description="Zeichenschablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST ZU VSTM" description="Microsoft Visio Vorlagendateien" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST ZU VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}

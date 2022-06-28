@@ -1,11 +1,11 @@
 ﻿---
-title: Visio .NET y Java API | Crear, convertir o manipular diagramas 
+title: Visio .NET Java Python API de Node.js | Crear, convertir o manipular diagramas 
 weight: 10
 url: /es/family
 description: Biblioteca Diagram para crear, editar, imprimir y convertir archivos Visio en aplicaciones .NET Java y Mono sin Microsoft Visio instalado
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de manipulación de archivos Visio de Microsoft" h2=".NET y Java API para crear, editar y convertir archivos de Microsoft Visio en cualquier plataforma." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio API de manipulación de archivos" h2="API .NET y Java para crear, editar y convertir archivos Microsoft Visio en cualquier plataforma." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram API de alto código incluyen" >}}
@@ -19,11 +19,11 @@ API nativas de Java para escritorio, web o cualquier tipo de aplicación basada 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Node.js a través de Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
-Cree, lea, escriba y represente documentos de Microsoft Visio a través de Node.js.
+Cree, lea, escriba y renderice Microsoft Visio documentos a través de Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Python a través de Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
-Cree, lea, escriba y renderice documentos de Microsoft Visio a través de Python.
+Cree, lea, escriba y renderice Microsoft Visio documentos a través de Python.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

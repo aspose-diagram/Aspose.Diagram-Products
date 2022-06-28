@@ -2,10 +2,10 @@
 title: Visio Dokumenty Node.js API – Aspose 
 weight: 1630
 url: /cs/nodejs-java/ 
-description: Aspose.Diagram pro Node.js prostřednictvím Java je visio javascript API pro čtení, zápis a převod dokumentů Microsoft Visio, jako jsou VSDX, VDX a další formáty
+description: Aspose.Diagram pro Node.js prostřednictvím Java je visio javascript API ke čtení, zápisu a převodu Microsoft Visio dokumentů jako VSDX, VDX a dalších formátů
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio Soubory API" h2="Vytvářejte, čtěte, zapisujte a exportujte formáty Microsoft Visio včetně VSDX, VDX, VSX, VTX a dalších formátů pomocí Node.js API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio Soubory API" h2="Vytvářejte, čtěte, zapisujte a exportujte Microsoft Visio formáty včetně VSDX, VDX, VSX, VTX a dalších formátů pomocí Node.js API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +13,11 @@ description: Aspose.Diagram pro Node.js prostřednictvím Java je visio javascri
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram pro Node.js prostřednictvím Java je řešení pro manipulaci s dokumenty společnosti Microsoft Visio. Je možné číst, zapisovat, chránit, exportovat a tisknout nativní formáty Visio a také podporuje některé běžně používané formáty obrázků a formátů s pevným rozvržením. Jeho snadné načítání existujících souborů, úprava prvků diagramu pro export do požadovaného formátu včetně obrázků nebo formátů s pevným rozložením, jako je PDF nebo XPS.
+ Aspose.Diagram pro Node.js prostřednictvím Java je Microsoft Visio řešení pro manipulaci s dokumenty. Je možné číst, zapisovat, chránit, exportovat a tisknout nativní Visio formáty a také podporuje některé běžně používané formáty obrázků a pevných rozvržení. Jeho snadné načítání stávajících souborů, úprava prvků diagram pro export do požadovaného formátu včetně obrázků nebo formátů s pevným rozložením, jako je PDF nebo XPS.
 </p>
 
 <p>
- Aspose.Diagram pro Node.js prostřednictvím Java je samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru. Kromě toho lze snadno provádět několik úkolů, jako je vytváření diagramů od začátku, čtení nebo zápis různých formátů, přístup a čtení vlastností včetně Visio vzorců objektů, export diagramů do různých formátů, tisk diagramů s vysokou věrností a mnoho dalšího.
+ Aspose.Diagram pro Node.js prostřednictvím Java je samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru. Kromě toho lze snadno provádět několik úkolů, jako je vytváření diagramů od začátku, čtení nebo zápis různých formátů, přístup a čtení vlastností včetně Visio vzorců objektů, export diagramů do více formátů, tisk diagramů s vysokou věrností a mnoho dalšího.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -316,10 +316,10 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Přístup a manipulace se soubory Visio
+     Přístup k souborům Visio a manipulace s nimi
     </h2>
     <p>
-     Node.js diagram API umožňuje číst nativní formáty Microsoft Visio a také poskytuje přístup k datům diagramu, jako je dokument, stránka, předloha, tvar, šablona stylů, připojení a tak dále. S těmito objekty lze manipulovat pomocí API a výsledek lze zapsat na disk v jakémkoli z podporovaných formátů.
+     Node.js diagram API umožňuje číst nativní formáty Microsoft Visio a také poskytovat přístup k datům diagram, jako je dokument, stránka, vzor, tvar, šablona stylů, připojení a tak dále. S těmito objekty lze manipulovat pomocí API a výsledek lze zapsat na disk v jakémkoli z podporovaných formátů.
     </p>
    </div>
    <div class="col-lg-12">

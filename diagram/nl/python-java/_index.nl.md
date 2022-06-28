@@ -2,7 +2,7 @@
 title: Visio Documenten Python API - Aspose 
 weight: 4630
 url: /nl/python-java/ 
-description: Aspose.Diagram voor Python via Java is een visio javascript API om Microsoft Visio-documenten zoals VSDX, VDX en meer formaten te lezen, schrijven en converteren
+description: Aspose.Diagram voor Python via Java is een visio javascript API om Microsoft Visio documenten zoals VSDX, VDX en meer formaten te lezen, schrijven en converteren
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Visio Bestanden API" h2="Maak, lees, schrijf en exporteer Microsoft Visio-indelingen, waaronder VSDX, VDX, VSX, VTX en meer indelingen met Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
@@ -13,7 +13,7 @@ description: Aspose.Diagram voor Python via Java is een visio javascript API om 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram voor Python via Java is een Microsoft Visio-oplossing voor documentmanipulatie. Men kan native Visio-formaten lezen, schrijven, beveiligen, exporteren en afdrukken en ondersteunt enkele veelgebruikte formaten voor afbeeldingen en vaste lay-outs. Het is gemakkelijk om bestaande bestanden te laden, de diagramelementen aan te passen om ze naar het gewenste formaat te exporteren, inclusief afbeeldingen of formaten met een vaste lay-out zoals PDF of XPS.
+ Aspose.Diagram voor Python via Java is een Microsoft Visio oplossing voor documentmanipulatie. Men kan native Visio-formaten lezen, schrijven, beveiligen, exporteren en afdrukken en ondersteunt enkele veelgebruikte formaten voor afbeeldingen en vaste lay-outs. Het is gemakkelijk om bestaande bestanden te laden, de diagram-elementen aan te passen om ze naar het gewenste formaat te exporteren, inclusief afbeeldingen of formaten met een vaste lay-out zoals PDF of XPS.
 </p>
 
 <p>
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      Toegang tot en manipuleer Visio bestanden
     </h2>
     <p>
-     Python diagram API staat toe om native Microsoft Visio-formaten te lezen en biedt toegang tot de diagramgegevens zoals document, pagina, master, vorm, stylesheet, connect enzovoort. Deze objecten kunnen worden gemanipuleerd via de API en het resultaat kan in elk van de ondersteunde formaten naar schijf worden geschreven.
+     Python diagram API staat toe om native Microsoft Visio-indelingen te lezen en biedt toegang tot de diagram-gegevens zoals document, pagina, model, vorm, stylesheet, verbinding enzovoort. Deze objecten kunnen worden gemanipuleerd via de API en het resultaat kan in elk van de ondersteunde formaten naar schijf worden geschreven.
     </p>
    </div>
    <div class="col-lg-12">
@@ -323,7 +323,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      Exporteren naar afbeeldingen
     </h2>
     <p>
-     Ontwikkelaars kunnen eenvoudig Visio bestanden laden en ze exporteren naar populaire afbeeldingen, waaronder PNG, TIFF, JPEG, BMP, SVG en EMF. Python bibliotheek ondersteunt ook het exporteren van Visio bestanden naar PDF &amp; XPS-formaten met de hoogste getrouwheid.
+     Ontwikkelaars kunnen eenvoudig Visio bestanden laden en ze exporteren naar populaire afbeeldingen, waaronder PNG, TIFF, JPEG, BMP, SVG en EMF. Python bibliotheek ondersteunt ook het exporteren van Visio bestanden naar PDF &amp; XPS-formaten met de hoogste betrouwbaarheid.
     </p>
     <div class="codeblock" id="code">
      <h3>

@@ -2,10 +2,10 @@
 title: Visio Dokumentumok Node.js API - Aspose 
 weight: 1630
 url: /hu/nodejs-java/ 
-description: A(z) Aspose.Diagram for Node.js a(z) Java-on keresztül egy Visio JavaScript API a Microsoft Visio dokumentumok olvasásához, írásához és konvertálásához, például VSDX, VDX és egyéb formátumok
+description: A(z) Aspose.Diagram for Node.js a(z) Java-on keresztül egy visio javascript API, amellyel olvashat, írhat és konvertálhat Microsoft Visio olyan dokumentumokat, mint a VSDX, VDX és több formátum
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio fájlok API" h2="Hozzon létre, olvasson, írjon és exportáljon Microsoft Visio formátumokat, beleértve a VSDX, VDX, VSX, VTX és egyéb formátumokat a Node.js API használatával." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio fájlok API" h2="Hozzon létre, olvasson, írjon és exportáljon Microsoft Visio formátumokat, beleértve a VSDX, VDX, VSX, VTX és további formátumokat a Node.js API használatával." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +13,11 @@ description: A(z) Aspose.Diagram for Node.js a(z) Java-on keresztül egy Visio J
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A(z) Aspose.Diagram for Node.js a(z) Java-on keresztül a Microsoft Visio dokumentumkezelési megoldása. Lehet olvasni, írni, védeni, exportálni és nyomtatni natív Visio formátumokat, valamint támogat néhány általánosan használt kép- és rögzített elrendezésű formátumot. Könnyű betölteni a meglévő fájlokat, módosítani a diagramelemeket a kívánt formátumba exportáláshoz, beleértve a képeket vagy rögzített elrendezésű formátumokat, például PDF vagy XPS.
+ A(z) Aspose.Diagram a Node.js számára a(z) Java segítségével egy Microsoft Visio dokumentumkezelési megoldás. Lehet olvasni, írni, védeni, exportálni és nyomtatni natív Visio formátumokat, valamint támogat néhány gyakran használt kép- és rögzített elrendezésű formátumot. Könnyű betölteni a meglévő fájlokat, módosítani az diagram elemeket a kívánt formátumba exportáláshoz, beleértve a képeket vagy rögzített elrendezésű formátumokat, például PDF vagy XPS.
 </p>
 
 <p>
- A(z) Aspose.Diagram for Node.js a(z) Java-on keresztül egy önálló API, és nem igényel Microsoft Visio vagy más szoftver telepítését. Ezen túlmenően néhány egyszerűen elvégezhető feladat, például diagramok létrehozása a semmiből, különféle formátumok olvasása vagy írása, a tulajdonságok elérése és olvasása, beleértve a Visio objektumképleteket, diagramok exportálása több formátumba, diagramok nagy pontosságú nyomtatása és még sok más.
+ A(z) Aspose.Diagram for Node.js a(z) Java-on keresztül egy önálló API, és nem szükséges hozzá a(z) Microsoft Visio vagy más szoftver telepítése. Ezen túlmenően néhány egyszerűen elvégezhető feladat, például diagramok létrehozása a semmiből, különféle formátumok olvasása vagy írása, a tulajdonságok elérése és olvasása, beleértve az Visio objektumképleteket, diagramok exportálása többféle formátumba, diagramok nagy pontosságú nyomtatása és még sok más.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -319,7 +319,7 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
      A(z) Visio fájlok elérése és kezelése
     </h2>
     <p>
-     Node.js diagram API lehetővé teszi a natív Microsoft Visio formátumok olvasását, valamint hozzáférést biztosít a diagramadatokhoz, például dokumentumhoz, oldalhoz, mesterhez, alakzathoz, stíluslaphoz, csatlakozáshoz és így tovább. Ezek az objektumok a API-on keresztül manipulálhatók, és az eredmény a támogatott formátumok bármelyikében lemezre írható.
+     A Node.js diagram API lehetővé teszi a natív Microsoft Visio formátumok olvasását, valamint hozzáférést biztosít az diagram adatokhoz, például a dokumentumhoz, oldalhoz, mesterhez, alakzathoz, stíluslaphoz, csatlakozáshoz és így tovább. Ezek az objektumok az API-on keresztül manipulálhatók, és az eredmény a támogatott formátumok bármelyikében lemezre írható.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +327,7 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
      Exportálás a Képek közé
     </h2>
     <p>
-     A fejlesztők könnyedén betölthetnek Visio fájlt, és exportálhatják azokat népszerű képekbe, például PNG, TIFF, JPEG, BMP, SVG és EMF formátumba. A Nodejs könyvtár támogatja a Visio fájlok PDF és amp; XPS formátumok a legmagasabb hűséggel.
+     fejlesztők könnyedén betölthetnek Visio fájlt, és exportálhatják azokat népszerű képekbe, például PNG, TIFF, JPEG, BMP, SVG és EMF formátumba. A Nodejs könyvtár támogatja a Visio fájlok PDF és amp; XPS formátumok a legmagasabb hűséggel.
     </p>
     <div class="codeblock" id="code">
      <h3>

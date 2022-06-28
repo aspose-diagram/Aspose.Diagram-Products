@@ -78,7 +78,7 @@ Pobierz rekwizyty dokumentu Diagram obiektu
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -93,7 +93,7 @@ Pobierz rekwizyty dokumentu Diagram obiektu
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie natychmiast skompresowany i połączony." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS to pliki szablonów utworzone za pomocą Microsoft Visio 2007 i wcześniejszych. Stosunkowo nowym formatem pliku jest .VSSX, który został wprowadzony w firmie Microsoft Visio 2013. Pliki szablonów zawierają obiekty rysunkowe, które można dołączyć do rysunku .VSD Visio. Sam Microsoft Visio jest znany z tworzenia elementów rysunkowych, takich jak zbiór kształtów, łączników, schematów blokowych, układu sieci, diagramów UML, diagramów oprogramowania, modeli baz danych, mapowania obiektów i innych podobnych informacji. Posiada również bogate funkcje konwersji Visio dokumentów do innych formatów plików, takich jak PNG, BMP, PDF i inne. Visio jest dostępny dla systemów Windows i Mac OS. 
+VSS to pliki szablonów utworzone za pomocą Microsoft Visio 2007 i wcześniejszych. Stosunkowo nowym formatem pliku jest .VSSX, który został wprowadzony w Microsoft Visio 2013. Pliki szablonów zawierają obiekty rysunkowe, które można dołączyć do rysunku .VSD Visio. Sam Microsoft Visio jest znany z tworzenia elementów rysunkowych, takich jak zbiór kształtów, łączników, schematów blokowych, układu sieci, diagramów UML, diagramów oprogramowania, modeli baz danych, mapowania obiektów i innych podobnych informacji. Posiada również bogate funkcje konwersji Visio dokumentów do innych formatów plików, takich jak PNG, BMP, PDF i inne. Visio jest dostępny dla systemów Windows i Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ VSS to pliki szablonów utworzone za pomocą Microsoft Visio 2007 i wcześniejsz
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty metadanych" subTitle="Używając C#, można łatwo manipulować metadanymi w różnych formatach, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="VSD" description="Rysunki Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Rysunki" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio plik XML rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio plik szablonu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio plik szablonu" >}}

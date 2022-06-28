@@ -2,7 +2,7 @@
 title: Visio दस्तावेज़ Python API - Aspose 
 weight: 4630
 url: /hi/python-java/ 
-description: Aspose.Diagram Python के माध्यम से Java के लिए एक विज़ियो जावास्क्रिप्ट है API Microsoft Visio दस्तावेज़ जैसे VSDX, VDX और अधिक प्रारूपों को पढ़ने, लिखने और रूपांतरित करने के लिए
+description: Aspose.Diagram के लिए Python से Java के माध्यम से visio जावास्क्रिप्ट API पढ़ने, लिखने और बदलने के लिए है Microsoft Visio दस्तावेज़ जैसे VSDX, VDX और अधिक प्रारूप
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Visio फ़ाइलें API" h2="Python API का उपयोग करके VSDX, VDX, VSX, VTX और अधिक प्रारूपों सहित Microsoft Visio प्रारूप बनाएं, पढ़ें, लिखें और निर्यात करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
@@ -13,7 +13,7 @@ description: Aspose.Diagram Python के माध्यम से Java के 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram Python के लिए Java के माध्यम से एक Microsoft Visio दस्तावेज़ हेरफेर समाधान है। कोई भी मूल Visio स्वरूपों को पढ़, लिख सकता है, संरक्षित कर सकता है, निर्यात कर सकता है और प्रिंट कर सकता है और साथ ही कुछ सामान्य रूप से उपयोग की जाने वाली छवि और निश्चित-लेआउट स्वरूपों का समर्थन करता है। मौजूदा फाइलों को लोड करना आसान है, छवियों या पीडीएफ या एक्सपीएस जैसे फिक्स्ड-लेआउट प्रारूपों सहित वांछित प्रारूप में निर्यात करने के लिए आरेख तत्वों को संशोधित करें।
+ Aspose.Diagram के लिए Python से Java के माध्यम से एक Microsoft Visio दस्तावेज़ हेरफेर समाधान है। कोई भी मूल Visio स्वरूपों को पढ़, लिख सकता है, संरक्षित कर सकता है, निर्यात कर सकता है और प्रिंट कर सकता है और साथ ही कुछ सामान्य रूप से उपयोग की जाने वाली छवि और निश्चित-लेआउट स्वरूपों का समर्थन करता है। मौजूदा फाइलों को लोड करना आसान है, छवियों या पीडीएफ या एक्सपीएस जैसे फिक्स्ड-लेआउट प्रारूपों सहित वांछित प्रारूप में निर्यात करने के लिए diagram तत्वों को संशोधित करें।
 </p>
 
 <p>
@@ -86,7 +86,7 @@ description: Aspose.Diagram Python के माध्यम से Java के 
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     Python द्वारा Java
    </small>
@@ -132,7 +132,7 @@ description: Aspose.Diagram Python के माध्यम से Java के 
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     Python द्वारा Java
    </small>
@@ -155,9 +155,9 @@ description: Aspose.Diagram Python के माध्यम से Java के 
    <ul>
     <li>
      <b>
-      माइक्रोसॉफ्ट Visio:
+      Microsoft Visio:
      </b>
-     VSDX, वीडीएक्स, वीएसएक्स, वीटीएक्स, वीएसएसएक्स, वीएसटीएक्स, वीएसडीएम, वीएसएसएम, वीएसटीएम
+     VSDX, VDX, VSX, VTX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
    </ul>
    <header>
@@ -168,7 +168,7 @@ description: Aspose.Diagram Python के माध्यम से Java के 
    <ul>
     <li>
      <b>
-      माइक्रोसॉफ्ट Visio:
+      Microsoft Visio:
      </b>
      वीडीडब्ल्यू, VSD, वीएसएस, वीएसटी
     </li>
@@ -213,7 +213,7 @@ description: Aspose.Diagram Python के माध्यम से Java के 
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     Python द्वारा Java
    </small>
@@ -291,7 +291,7 @@ description: Aspose.Diagram Python के माध्यम से Java के 
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     विभिन्न स्वरूपों में निर्यात आरेख
+     विभिन्न स्वरूपों में आरेख निर्यात करें
     </p>
    </div>
    <div class="col-lg-12">
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      Visio फ़ाइलें एक्सेस करें और उनमें हेरफेर करें
     </h2>
     <p>
-     Python आरेख API मूल Microsoft Visio स्वरूपों को पढ़ने के साथ-साथ दस्तावेज़, पृष्ठ, मास्टर, आकार, स्टाइलशीट, कनेक्ट आदि जैसे आरेख डेटा तक पहुंच प्रदान करने की अनुमति देता है। इन वस्तुओं को API के माध्यम से हेरफेर किया जा सकता है, और परिणाम किसी भी समर्थित प्रारूप में डिस्क पर लिखा जा सकता है।
+     Python diagram API मूल Microsoft Visio स्वरूपों को पढ़ने के साथ-साथ दस्तावेज़, पृष्ठ, मास्टर, आकार, स्टाइलशीट, कनेक्ट आदि जैसे diagram डेटा तक पहुंच प्रदान करने की अनुमति देता है। इन वस्तुओं को API के माध्यम से हेरफेर किया जा सकता है, और परिणाम किसी भी समर्थित प्रारूप में डिस्क पर लिखा जा सकता है।
     </p>
    </div>
    <div class="col-lg-12">

@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met
+ Organigram maken met
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API's kunnen worden gemaakt met slechts enkele regels code.
 
@@ -51,7 +51,7 @@ PM> Install-Package Aspose.Diagram
 + Voeg verbindingslijnen toe aan de pagina om de vorm en het bovenliggende element te verbinden.
 + Automatische lay-out door Layout-mothod aan te roepen
 + Roep de methode Save() aan en geef de bestandsnaam (volledig pad) en formaat (VSDX) door als parameter.
-+ Nu kunt u het VSDX-bestand openen en gebruiken in Microsoft Office, Adobe PDF of een ander compatibel programma.
++ Nu kunt u het bestand VSDX openen en gebruiken in Microsoft Office, Adobe PDF of een ander compatibel programma.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Over Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het zal direct een CompactTree-stijl organigram in VDW-documenten creëren." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-VDW is de Visio Graphics Service-bestandsindeling die de streams en opslag specificeert die nodig zijn voor het renderen van een webtekening. Een webtekening is een verzameling tekenpagina's, vormen, lettertypen, afbeeldingen, gegevensverbindingen en informatie over diagramupdates die als vector- of rastertekening kan worden weergegeven. VDW-bestanden kunnen ook worden geopend in Microsoft Visio, maar worden voornamelijk opgeslagen voor gebruik op internet. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere. 
+VDW is de Visio Graphics Service-bestandsindeling die de streams en opslag specificeert die nodig zijn voor het renderen van een webtekening. Een webtekening is een verzameling tekenpagina's, vormen, lettertypen, afbeeldingen, gegevensverbindingen en diagram update-informatie die kan worden weergegeven als vector- of rastertekening. VDW-bestanden kunnen ook worden geopend in Microsoft Visio, maar worden voornamelijk opgeslagen voor gebruik op internet. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

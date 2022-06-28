@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET fejlesztői egyszerűen, néhány sornyi kóddal tölthetik be és konvertálhatják a VDW fájlokat BMP-re.
+ A .NET fejlesztői egyszerűen, néhány sornyi kóddal tölthetik be és konvertálhatják a VDW fájlokat BMP-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM Interop funkcióval.- Fejlesztői környezet, például a Microsoft Visual Studio.- Aspose.Diagram for .NET DLL-re hivatkozik a projektben.
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM együttműködéssel.- Fejlesztői környezet, például a Microsoft Visual Studio.- Aspose.Diagram for .NET DLL-re hivatkozik a projektben.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Ez a mintakód a VDW-ből BMP-be való C# konverziót mutatja" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Egy Diagram Management Library, amelyet kifejezetten a Microsoft Visio fájljaival való együttműködésre terveztek. Lehetővé teszi a fejlesztők számára natív Visio formátumok létrehozását, kezelését és konvertálását. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetik a meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.
+ Egy Diagram Kezelőkönyvtár, amelyet kifejezetten Microsoft Visio fájl kezelésére terveztek. Lehetővé teszi a fejlesztők számára natív Visio formátumok létrehozását, kezelését és konvertálását. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetnek meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagramfrissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW fájlok a Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál arra, hogy Visio fájlokat konvertáljon számos különböző fájlformátumba, beleértve a PNG, BMP, PDF és más formátumokat.
+A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagram frissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW-fájlok a(z) Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál a Visio fájlok számos különböző formátumba konvertálására, beleértve a PNG, BMP, PDF és más formátumokat.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="bmp" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}
-.BMP kiterjesztésű fájlok olyan bittérképes képfájlokat képviselnek, amelyeket bittérképes digitális képek tárolására használnak. Ezek a képek függetlenek a grafikus adaptertől, és eszközfüggetlen bittérkép (DIB) fájlformátumnak is nevezik őket. Ez a függetlenség azt a célt szolgálja, hogy a fájlt több platformon, például Microsoft Windowson és Macen is megnyissa. A BMP fájlformátum kétdimenziós digitális képként képes tárolni az adatokat mind monokróm, mind színes formátumban, különböző színmélységgel.
+A .BMP kiterjesztésű fájlok olyan bittérképes képfájlokat képviselnek, amelyeket bittérképes digitális képek tárolására használnak. Ezek a képek függetlenek a grafikus adaptertől, és eszközfüggetlen bittérkép (DIB) fájlformátumnak is nevezik őket. Ez a függetlenség azt a célt szolgálja, hogy a fájlt több platformon is megnyissa, például Microsoft Windows és Mac rendszeren. A BMP fájlformátum kétdimenziós digitális képként képes tárolni az adatokat mind monokróm, mind színes formátumban, különböző színmélységgel.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -112,15 +112,15 @@ A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-svg/" name="VDW - SVG" description="Skálázható vektorgrafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-swf/" name="VDW - SWF" description="SWF formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-tiff/" name="VDW - TIFF" description="Címkézett képformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW - VDX" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW – VSDM" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW – VSDX" description="Microsoft Visio formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW - VSSM" description="Microsoft Visio Stencil-fájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW - VSSX" description="Rajzsablonok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW - VSTM" description="Microsoft Visio sablonfájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW - VSTX" description="Microsoft Visio rajzsablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW - VSX" description="Stencilek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW - VTX" description="Microsoft Visio rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vdx/" name="VDW – VDX" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW – VSDM" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW – VSDX" description="Microsoft Visio Formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW – VSSM" description="Microsoft Visio Sablonfájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW – VSSX" description="Rajzsablonok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW – VSTM" description="Microsoft Visio Sablonfájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW – VSTX" description="Microsoft Visio Rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW – VSX" description="Stencilek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW – VTX" description="Microsoft Visio Rajzsablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW - XAML" description="Bővíthető alkalmazásjelölő nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xps/" name="VDW - XPS" description="XML papírspecifikációk" >}}
 

@@ -2,19 +2,19 @@
 title: C# .NET Visio Diagram API - Aspose 
 weight: 1020
 url: /vi/net/ 
-description: Thư viện lập sơ đồ C# VB .NET ASP .NET Visio để xuất Visio sơ đồ VSD VSDX VSS VST VSX VTX VDW VDX VSSX và VSTX sang PDF XPS HTML SVG SWF và các định dạng hình ảnh
+description: Thư viện sơ đồ C# VB .NET ASP .NET Visio để xuất Visio sơ đồ VSD VSDX VSS VST VSX VTX VDW VDX VSSX và VSTX sang PDF XPS HTML SVG SWF và các định dạng hình ảnh
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API xử lý tệp của .NET Microsoft Visio" h2="Tạo, Chỉnh sửa, Thao tác và Chuyển đổi các sơ đồ Visio của Microsoft sang các định dạng XPS, HTML, SVG, SWF, XAML, hình ảnh hoặc PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio API xử lý tệp" h2="Tạo, Chỉnh sửa, Thao tác và Chuyển đổi Microsoft Visio sơ đồ sang định dạng XPS, HTML, SVG, SWF, XAML, hình ảnh hoặc PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NET là một API chuyên biệt được thiết kế để làm việc với các tài liệu Visio của Microsoft. Nó cho phép các nhà phát triển tạo, thao tác & amp; chuyển đổi định dạng Visio gốc. Các nhà phát triển có thể tạo sơ đồ từ đầu cũng như dễ dàng tải các tệp hiện có và thao tác với các phần tử của sơ đồ để xuất kết quả ở các định dạng khác.</p>
+<p>Aspose.Diagram for .NET là một API chuyên biệt được thiết kế để làm việc với các tài liệu Microsoft Visio. Nó cho phép các nhà phát triển tạo, thao tác & amp; chuyển đổi định dạng Visio gốc. Các nhà phát triển có thể tạo sơ đồ từ đầu cũng như dễ dàng tải các tệp hiện có và thao tác với các phần tử của diagram để xuất kết quả ở các định dạng khác.</p>
 
-<p>Aspose.Diagram for .NET hỗ trợ hầu hết các định dạng Visio gốc cũng như một số hình ảnh & amp; các định dạng bố cục cố định. API này là một giải pháp thay thế cho Mô hình Đối tượng Visio của Microsoft và cung cấp hiệu suất tốt hơn. Nó sử dụng chức năng nâng cao của Visio Dịch vụ để thao tác tài liệu trên máy chủ.</p>
+<p>Aspose.Diagram for .NET hỗ trợ hầu hết các định dạng Visio gốc cũng như một số hình ảnh & amp; các định dạng bố cục cố định. API này là một sự thay thế cho Mô hình Đối tượng Microsoft Visio và cung cấp hiệu suất tốt hơn. Nó sử dụng chức năng nâng cao của Visio Dịch vụ để thao tác tài liệu trên máy chủ.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -168,7 +168,7 @@ description: Thư viện lập sơ đồ C# VB .NET ASP .NET Visio để xuất 
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Khung
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -334,7 +334,7 @@ description: Thư viện lập sơ đồ C# VB .NET ASP .NET Visio để xuất 
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc thuộc tính của các đối tượng khác nhau của sơ đồ
+     Đọc thuộc tính của các đối tượng khác nhau của diagram
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: Thư viện lập sơ đồ C# VB .NET ASP .NET Visio để xuất 
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     In sơ đồ trên máy chủ qua XpsPrint API
+     In diagram trên máy chủ qua XpsPrint API
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Thư viện lập sơ đồ C# VB .NET ASP .NET Visio để xuất 
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Lưu sơ đồ ở các định dạng khác nhau - C#
+      Lưu diagram ở các định dạng khác nhau - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -469,10 +469,10 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Thao tác với Microsoft Visio Sơ đồ
+     Thao tác Microsoft Visio Sơ đồ
     </h2>
     <p>
-     Aspose.Diagram for .NET API cho phép đọc các tệp Microsoft Visio ở định dạng gốc VSD / VSDX cũng như các định dạng khác bao gồm VSS, VST, VSX, VTX, VDW, VDX, VSSX, VSTX, VSDM, VSSM và VSTM. Nội dung của sơ đồ có thể được thao tác thông qua API. Sau khi thực hiện các thay đổi cần thiết đối với tài liệu, tài liệu sau đó có thể được ghi vào đĩa ở bất kỳ định dạng nào được hỗ trợ.
+     Aspose.Diagram for .NET API cho phép đọc các tệp Microsoft Visio ở định dạng gốc VSD / VSDX cũng như các định dạng khác bao gồm VSS, VST, VSX, VTX, VDW, {9 }, VSSX, VSTX, VSDM, VSSM và VSTM. Nội dung của diagram có thể được điều khiển thông qua API. Sau khi thực hiện các thay đổi cần thiết đối với tài liệu, tài liệu sau đó có thể được ghi vào đĩa ở bất kỳ định dạng nào được hỗ trợ.
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Truy cập Dữ liệu từ Visio Sơ đồ
     </h2>
     <p>
-     Aspose.Diagram for .NET cho phép các nhà phát triển dễ dàng đọc dữ liệu của sơ đồ như Thuộc tính tài liệu, Trang, Bản chính, Hình dạng, Hình ảnh, Kết nối, Giải pháp XML, Nhận xét, Siêu liên kết, Biểu định kiểu, Lớp, Ô do người dùng xác định, v.v.
+     Aspose.Diagram for .NET cho phép các nhà phát triển dễ dàng đọc dữ liệu của diagram như Thuộc tính tài liệu, Trang, Bản chính, Hình dạng, Hình ảnh, Kết nối, Giải pháp XML, Nhận xét, Siêu liên kết, Biểu định kiểu, Lớp, Ô do người dùng xác định, v.v. .
     </p>
    </div>
    <div class="col-lg-12">
@@ -530,10 +530,10 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tự động hóa Microsoft Office - Không cần thiết
+     Microsoft Office Tự động hóa - Không cần thiết
     </h2>
     <p>
-     Aspose.Diagram for .NET được tạo bằng cách sử dụng mã được quản lý không bao giờ cần cài đặt Microsoft Office hoặc Microsoft Visio trên máy để làm việc với xử lý tài liệu Visio. Đây là một giải pháp thay thế tự động hóa hoàn hảo cho Microsoft Office Visio về các tính năng được hỗ trợ, bảo mật, tính ổn định, khả năng mở rộng, tốc độ và giá cả.
+     Aspose.Diagram for .NET được tạo bằng cách sử dụng mã được quản lý không bao giờ cần cài đặt Microsoft Office hoặc Microsoft Visio trên máy để xử lý tài liệu Visio. Đây là một giải pháp thay thế tự động hóa Microsoft Office Visio hoàn hảo về các tính năng được hỗ trợ, bảo mật, tính ổn định, khả năng mở rộng, tốc độ và giá cả.
     </p>
    </div>
   </div>

@@ -1,8 +1,8 @@
 ﻿---
-title: Visa eller redigera VSTM-filers metadata via .NET 
+title: Visa eller redigera VSTM filers metadata via .NET 
 weight: 3050
 url: /sv/net/metadata/vstm/ 
-description: C# källkod för att redigera eller visa VSTM-formatmetadata på .NET Framework, .NET Core, Mono Platforms.
+description: C# källkod för att redigera eller visa VSTM-formatmetadata på .NET Framework, .NET Core, Mono-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahera VSTM-metadata i C#" h2="Bygg dina egna .NET-appar för att lägga till, redigera, ta bort eller extrahera metadata från VSTM-filer med hjälp av API:er på serversidan." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -12,7 +12,7 @@ description: C# källkod för att redigera eller visa VSTM-formatmetadata på .N
 
 {{% blocks/products/pf/agp/content h2="Så här extraherar du VDW-metadata med C#" %}}
 
- För att extrahera VSTM-metadata kommer vi att använda
+ För att extrahera VSTM metadata kommer vi att använda
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentmanipulering och sammanslagning av API för C#. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
@@ -62,7 +62,7 @@ Hämta DocumentProps för Diagram objekt
 - Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Mono eller COM Interop- Utvecklingsmiljö som Microsoft Visual Studio- Aspose.Diagram for .NET DLL som refereras till i ditt projekt - Installera från NuGet med hjälp av knappen Ladda ner ovan
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Extrahera VSTM-metadata - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Extraherar VSTM metadata - C#" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-Diagrams-AccessingDocumentProperties.cs" >}}
 
@@ -78,7 +78,7 @@ Hämta DocumentProps för Diagram objekt
 
     {{% blocks/products/pf/agp/content h2="Om Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
+ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.  
 
 
 
@@ -86,14 +86,14 @@ Hämta DocumentProps för Diagram objekt
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata från VSTM via onlineapp" sectionDescription="Visa och redigera metadata till VSTM-dokument genom att besöka vår [Live Demos webbplats](https://products.aspose.app/diagram/metadata). Livedemon har följande fördelar" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata för VSTM via onlineappen" sectionDescription="Visa och redigera metadata till VSTM dokument genom att besöka vår [Live Demos webbplats](https://products.aspose.app/diagram/metadata). Livedemon har följande fördelar" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ned Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp dina VSTM-filer." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp dina VSTM filer." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Det kommer att komprimeras och sammanfogas direkt." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTM" readMoreLink="https://docs.fileformat.com/visio/vstm/" >}}
-Filer med VSTM-tillägget är mallfiler skapade med Microsoft Visio som stöder makron. Till skillnad från VSDX-filer kan filer skapade från VSTM-mallar köra makron som är utvecklade i Visual Basic for Applications (VBA)-kod. En mallfil kan skapas för att tillhandahålla grundläggande inställningar för dokumentet som kan användas för att generera ytterligare dokument med dessa inställningar. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. 
+Filer med tillägget VSTM är mallfiler skapade med Microsoft Visio som stöder makron. Till skillnad från VSDX-filer kan filer skapade från VSTM-mallar köra makron som är utvecklade i Visual Basic for Applications (VBA)-kod. En mallfil kan skapas för att tillhandahålla grundläggande inställningar för dokumentet som kan användas för att generera ytterligare dokument med dessa inställningar. Visio-filer används för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ Filer med VSTM-tillägget är mallfiler skapade med Microsoft Visio som stöder 
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra metadataformat som stöds" subTitle="Med C# kan man enkelt manipulera metadata i olika format inklusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio-ritningar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Ritningar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio ritar XML-fil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio stencilfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio mallfil" >}}

@@ -2,7 +2,7 @@
 title: "A VSS-fájlok metaadatainak megtekintése vagy szerkesztése a következőn keresztül: .NET "
 weight: 3050
 url: /hu/net/metadata/vss/ 
-description: C# forráskód a VSS formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono Platforms rendszeren.
+description: C# forráskód a VSS formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VSS-metaadatok kibontása itt: C#" h2="Készítse el saját .NET-alkalmazásait a VSS-fájlok metaadatok hozzáadásához, szerkesztéséhez, eltávolításához vagy kibontásához szerveroldali API-k segítségével." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -59,7 +59,7 @@ A(z) Diagram objektum DocumentProps lekérése
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM Interop funkcióval- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET A projektben hivatkozott DLL-re – Telepítse a NuGetből a fenti Letöltés gomb segítségével
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM-együttműködéssel- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET DLL-re hivatkozik a projektben – Telepítse innen: NuGet a fenti Letöltés gombbal
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSS-metaadatok kibontása – C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ A(z) Diagram objektum DocumentProps lekérése
 
     {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyedén betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges Microsoft Visio vagy más szoftver telepítése.  
+ A Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyen betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges a Microsoft Visio vagy más szoftver telepítése.  
 
 
 
@@ -93,7 +93,7 @@ A(z) Diagram objektum DocumentProps lekérése
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal tömörítésre és összefűzésre kerül." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS a Microsoft Visio 2007 és korábbi verzióival létrehozott sablonfájlok. Egy viszonylag új fájlformátum a .VSSX, amelyet a Microsoft Visio 2013-mal vezettek be. A stencilfájlok olyan rajzobjektumokat biztosítanak, amelyek belefoglalhatók egy .VSD Visio rajzba. Maga a Microsoft Visio olyan rajzelemek létrehozásáról ismert, mint például alakzatok gyűjteménye, csatlakozók, folyamatábrák, hálózati elrendezés, UML diagramok, szoftverdiagramok, adatbázismodellek, objektumleképezés és más hasonló információk. Gazdag átalakítási funkciókkal is rendelkezik a Visio dokumentumok más fájlformátumokká, például PNG, BMP, PDF és mások. A Visio Windows és Mac OS rendszeren is elérhető. 
+VSS olyan sablonfájlok, amelyeket a Microsoft Visio 2007-es és korábbi verziókkal hoztak létre. Egy viszonylag új fájlformátum a .VSSX, amelyet a Microsoft Visio 2013-ban vezettek be. A stencilfájlok olyan rajzobjektumokat biztosítanak, amelyek belefoglalhatók egy .VSD Visio rajzba. A Microsoft Visio maga ismert rajzelemek létrehozásáról, például alakzatok gyűjteményéről, csatlakozókról, folyamatábrákról, hálózati elrendezésről, UML diagramokról, szoftver diagramokról, adatbázismodellekről, objektumleképezésről és más hasonló információkról. Gazdag átalakítási funkciókkal is rendelkezik a Visio dokumentumok más fájlformátumokká, például PNG, BMP, PDF és mások. A Visio Windows és Mac OS rendszeren is elérhető. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ VSS a Microsoft Visio 2007 és korábbi verzióival létrehozott sablonfájlok. 
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott metaadat-formátumok" subTitle="A C# használatával könnyen kezelhetők a különböző formátumok metaadatai, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio rajzok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Rajzok" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio rajz XML fájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio sablonfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio sablonfájl" >}}

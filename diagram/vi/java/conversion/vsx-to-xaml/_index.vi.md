@@ -2,7 +2,7 @@
 title: Chuyển đổi VSX sang XAML qua Java 
 weight: 2080
 url: /vi/java/conversion/vsx-to-xaml/ 
-description: Mã chuyển đổi Java mẫu cho định dạng VSX thành tệp XAML. Sử dụng mã ví dụ này để chuyển đổi VSX thành XAML trong bất kỳ ứng dụng dựa trên Web hoặc Desktop Java nào.
+description: Mã chuyển đổi Java mẫu cho định dạng VSX thành tệp XAML. Sử dụng mã ví dụ này để chuyển đổi VSX sang XAML trong bất kỳ ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi VSX sang XAML qua Java" h2="Xuất Microsoft Visio VSX sang XAML bằng thư viện Java gốc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XAML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSX" >}}
@@ -12,7 +12,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VSX thành tệp 
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi VSX sang XAML bằng cách sử dụng Java" %}}
 
- Để kết xuất VSX sang XAML, chúng tôi sẽ sử dụng
+ Để hiển thị VSX thành XAML, chúng tôi sẽ sử dụng
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API là một nền tảng chuyển đổi API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -71,7 +71,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VSX thành tệp 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc một hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã nguồn chuyển đổi VSX sang XAML Java" offSpacer="" %}}
@@ -94,15 +94,15 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Bản trình diễn trực tiếp chuyển đổi VSX sang XAML" sectionDescription="[Chuyển đổi VSX sang XAML](https://products.aspose.app/diagram/conversion/vsx-to-xaml) ngay bây giờ bằng cách truy cập trang web Demos Trực tiếp của chúng tôi. Bản demo trực tiếp có những lợi ích sau" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSX sang Bản trình diễn Trực tiếp Chuyển đổi XAML" sectionDescription="[Chuyển đổi VSX sang XAML](https://products.aspose.app/diagram/conversion/vsx-to-xaml) ngay bây giờ bằng cách truy cập trang web Demos Trực tiếp của chúng tôi. Bản demo trực tiếp có những lợi ích sau" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp VSX của bạn, nó sẽ được chuyển đổi ngay lập tức thành XAML." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp VSX của bạn, tệp sẽ được chuyển đổi ngay lập tức thành XAML." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Bạn sẽ nhận được liên kết tải xuống." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Thư viện Thao tác" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
 
-Tệp có phần mở rộng .VSX đề cập đến giấy nến bao gồm các hình vẽ và hình dạng được sử dụng để tạo sơ đồ trong Microsoft Visio. Các tệp VSX được lưu ở định dạng tệp XML và được hỗ trợ cho đến Visio 2013. Các tệp này khác với định dạng tệp VSDX chính đã được giới thiệu với Microsoft Visio 2013. Có thể mở tệp VSX trong bất kỳ trình chỉnh sửa văn bản nào để xem các nội dung.
+Tệp có phần mở rộng. VSX đề cập đến giấy nến bao gồm các hình vẽ và hình dạng được sử dụng để tạo sơ đồ trong Microsoft Visio. Các tệp VSX được lưu ở định dạng tệp XML và được hỗ trợ cho đến Visio 2013. Các tệp này khác với định dạng tệp VSDX chính được giới thiệu với Microsoft Visio 2013. VSX tệp có thể được mở bằng bất kỳ trình soạn thảo văn bản nào để xem nội dung.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
 
-XAML, Ngôn ngữ Đánh dấu Ứng dụng Có thể Mở rộng, các tệp mở rộng mô tả các yếu tố giao diện người dùng cho các ứng dụng phần mềm dựa trên Windows Presentation Foundation (WPF). Mặc dù là một ngôn ngữ, nhưng nó không yêu cầu phải được lập trình vì nó dựa trên định dạng chuẩn của XML, dễ sử dụng và dễ hiểu. XAML (phát âm là "zammel") được phát triển bởi Microsoft với mục đích cụ thể là tạo giao diện người dùng. Từ viết tắt ban đầu của nó là viết tắt của Extensible Avalon Markup Language, trong đó Avalon là tên mã của WPF. Các tệp XAML đôi khi cũng được lưu với phần mở rộng XOML.
+XAML, Ngôn ngữ Đánh dấu Ứng dụng Mở rộng, các tệp mở rộng mô tả các yếu tố giao diện người dùng cho các ứng dụng phần mềm dựa trên Windows Presentation Foundation (WPF). Mặc dù là một ngôn ngữ, nhưng nó không yêu cầu phải được lập trình vì nó dựa trên định dạng chuẩn của XML, dễ sử dụng và dễ hiểu. XAML (phát âm là "zammel") được phát triển bởi Microsoft với mục đích cụ thể là tạo giao diện người dùng. Từ viết tắt ban đầu của nó là viết tắt của Extensible Avalon Markup Language, trong đó Avalon là tên mã của WPF. Các tệp XAML đôi khi cũng được lưu với phần mở rộng XOML.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -132,22 +132,22 @@ XAML, Ngôn ngữ Đánh dấu Ứng dụng Có thể Mở rộng, các tệp m�
 
 {{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi VSX thành nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê bên dưới." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-bmp/" name="VSX TO BMP" description="Hình ảnh bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-emf/" name="VSX TO EMF" description="Định dạng siêu tệp nâng cao" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-html/" name="VSX TO HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-jpeg/" name="VSX TO JPEG" description="Hình ảnh JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-pdf/" name="VSX TO PDF" description="Định dạng tài liệu di động" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-png/" name="VSX TO PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-bmp/" name="VSX ĐẾN BMP" description="Hình ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-emf/" name="VSX ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-html/" name="VSX ĐẾN HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-jpeg/" name="VSX ĐẾN JPEG" description="Hình ảnh JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-pdf/" name="VSX ĐẾN PDF" description="Định dạng tài liệu di động" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-png/" name="VSX ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-svg/" name="VSX ĐẾN SVG" description="Đồ họa vector có thể mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-tiff/" name="VSX TO TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vdx/" name="VSX ĐẾN VDX" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdm/" name="VSX ĐẾN VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdx/" name="VSX ĐẾN VSDX" description="Định dạng Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssm/" name="VSX ĐẾN VSSM" description="Tệp Microsoft Visio Stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-tiff/" name="VSX ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vdx/" name="VSX ĐẾN VDX" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdm/" name="VSX ĐẾN VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vsdx/" name="VSX ĐẾN VSDX" description="Microsoft Visio Định dạng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssm/" name="VSX ĐẾN VSSM" description="Microsoft Visio Tệp stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vssx/" name="VSX ĐẾN VSSX" description="Vẽ giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstm/" name="VSX ĐẾN VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstx/" name="VSX ĐẾN VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vtx/" name="VSX ĐẾN VTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstm/" name="VSX ĐẾN VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vstx/" name="VSX ĐẾN VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-vtx/" name="VSX ĐẾN VTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsx-to-xps/" name="VSX ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

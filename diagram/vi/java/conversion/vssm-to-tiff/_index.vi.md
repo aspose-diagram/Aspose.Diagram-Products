@@ -2,7 +2,7 @@
 title: Chuyển đổi VSSM sang TIFF qua Java 
 weight: 2110
 url: /vi/java/conversion/vssm-to-tiff/ 
-description: Mã chuyển đổi Java mẫu cho định dạng VSSM thành tệp TIFF. Sử dụng mã ví dụ này để chuyển đổi VSSM thành TIFF trong bất kỳ ứng dụng dựa trên Web hoặc Desktop Java nào.
+description: Mã chuyển đổi Java mẫu cho định dạng VSSM thành tệp TIFF. Sử dụng mã ví dụ này để chuyển đổi VSSM sang TIFF trong bất kỳ ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi VSSM sang TIFF qua Java" h2="Xuất Microsoft Visio VSSM sang TIFF bằng thư viện Java gốc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSM" >}}
@@ -12,7 +12,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VSSM thành tệp
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi VSSM sang TIFF bằng cách sử dụng Java" %}}
 
- Để kết xuất VSSM thành TIFF, chúng tôi sẽ sử dụng
+ Để hiển thị VSSM thành TIFF, chúng tôi sẽ sử dụng
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API là một nền tảng chuyển đổi API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -56,11 +56,11 @@ description: Mã chuyển đổi Java mẫu cho định dạng VSSM thành tệp
 
 {{% blocks/products/pf/agp/text %}}
 
- Java các nhà phát triển có thể dễ dàng chuyển đổi tệp VSSM thành TIFF chỉ trong một vài dòng mã.
+ Java các nhà phát triển có thể dễ dàng chuyển đổi tệp VSSM sang TIFF chỉ trong một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Tải tệp VSSM với một phiên bản của lớp Diagram1. Gọi Diagram phương thức .save với đường dẫn tệp đầu ra và SaveFileFormat dưới dạng tham số1. Tệp TIFF sẽ được lưu tại đường dẫn được chỉ định
+1. Tải tệp VSSM bằng một phiên bản của lớp Diagram1. Gọi Diagram phương thức .save với đường dẫn tệp đầu ra và SaveFileFormat dưới dạng tham số1. Tệp TIFF sẽ được lưu tại đường dẫn được chỉ định
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="yêu cầu hệ thống" %}}
@@ -71,7 +71,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VSSM thành tệp
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc một hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã nguồn chuyển đổi VSSM sang TIFF Java" offSpacer="" %}}
@@ -97,12 +97,12 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 {{< blocks/products/pf/agp/demobox sectionTitle="Bản trình diễn trực tiếp chuyển đổi VSSM sang TIFF" sectionDescription="[Chuyển đổi VSSM sang TIFF](https://products.aspose.app/diagram/conversion/vssm-to-tiff) ngay bây giờ bằng cách truy cập trang web Demos Trực tiếp của chúng tôi. Bản demo trực tiếp có những lợi ích sau" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp VSSM của bạn, nó sẽ được chuyển đổi ngay lập tức thành TIFF." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp VSSM của bạn, tệp sẽ được chuyển đổi ngay lập tức thành TIFF." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Bạn sẽ nhận được liên kết tải xuống." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Thư viện Thao tác" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -112,7 +112,7 @@ visio.save("output.tiff", SaveFileFormat.TIFF);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-Tệp có phần mở rộng .VSSM là tệp Microsoft Visio Stencil hỗ trợ cung cấp hỗ trợ cho macro. Một tệp VSSM khi được mở cho phép chạy các macro để đạt được định dạng mong muốn và vị trí của các hình dạng trong sơ đồ. Nói chung, Microsoft Visio là phần mềm vẽ cho phép tạo các tệp có thể chứa và biểu diễn thông tin do người dùng xác định ở các hình dạng khác nhau. Phổ biến nhất trong số này bao gồm, nhưng không giới hạn, sơ đồ UML, lưu đồ, đối tượng trực quan, luồng thông tin, biểu đồ tổ chức, sơ đồ phần mềm, bố trí mạng, mô hình cơ sở dữ liệu, đối tượng ánh xạ và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được chuyển đổi sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
+Tệp có phần mở rộng. VSSM là Microsoft Visio tệp Stencil hỗ trợ cung cấp hỗ trợ cho macro. Tệp VSSM khi được mở cho phép chạy macro để đạt được định dạng và vị trí mong muốn của các hình dạng trong diagram. Nói chung, Microsoft Visio là phần mềm vẽ cho phép tạo các tệp có thể chứa và thể hiện thông tin do người dùng xác định ở các hình dạng khác nhau. Phổ biến nhất trong số này bao gồm, nhưng không giới hạn, sơ đồ UML, lưu đồ, đối tượng trực quan, luồng thông tin, biểu đồ tổ chức, sơ đồ phần mềm, bố trí mạng, mô hình cơ sở dữ liệu, đối tượng ánh xạ và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được chuyển đổi sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -130,7 +130,7 @@ TIFF hoặc TIF, Định dạng tệp hình ảnh được gắn thẻ, đại d
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi VSSM thành nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê dưới đây." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi VSSM thành nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê bên dưới." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-bmp/" name="VSSM ĐẾN BMP" description="Hình ảnh bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-emf/" name="VSSM ĐẾN EMF" description="Định dạng siêu tệp nâng cao" >}}
@@ -139,14 +139,14 @@ TIFF hoặc TIF, Định dạng tệp hình ảnh được gắn thẻ, đại d
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-pdf/" name="VSSM ĐẾN PDF" description="Định dạng tài liệu di động" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-png/" name="VSSM ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-svg/" name="VSSM ĐẾN SVG" description="Đồ họa vector có thể mở rộng" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM ĐẾN VDX" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM ĐẾN VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM ĐẾN VSDX" description="Định dạng Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vdx/" name="VSSM ĐẾN VDX" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM ĐẾN VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM ĐẾN VSDX" description="Microsoft Visio Định dạng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM ĐẾN VSSX" description="Vẽ giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM ĐẾN VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM ĐẾN VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM ĐẾN VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM ĐẾN VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="VSSM ĐẾN VSX" description="Giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM ĐẾN VTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM ĐẾN VTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xaml/" name="VSSM ĐẾN XAML" description="Ngôn ngữ đánh dấu ứng dụng có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-xps/" name="VSSM ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
 

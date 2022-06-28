@@ -20,7 +20,7 @@ description: Code source C# pour combiner des documents VSS sur .NET Framework, 
  **Aspose.Diagram** 
  et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
-{{% blocks/products/pf/agp/code-block title="Commander" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
 ```cs
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Créer un document comme fichier de base
 + Appelez la méthode appropriée pour concaténer et fusionner les fichiers un par un.
 + Appelez la méthode Save() et passez le nom du fichier (chemin complet) et le format (VSS) en paramètre.
-+ Vous pouvez maintenant ouvrir et utiliser le fichier VSS dans Microsoft Office, Adobe PDF ou tout autre programme compatible.
+Vous pouvez maintenant ouvrir et utiliser le fichier VSS dans Microsoft Office, Adobe PDF ou tout autre programme compatible.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou COM Interop- Environnement de développement comme Microsoft Visual Studio- Aspose.Diagram for .NET DLL référencée dans votre projet : installez-la à partir de NuGet à l'aide du bouton Télécharger ci-dessus
+- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou COM Interop- Environnement de développement tel que Microsoft Visual Studio- Aspose.Diagram for .NET DLL référencée dans votre projet – Installez à partir de NuGet à l'aide du bouton Télécharger ci-dessus
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Fusionner les fichiers VSS - C#" offSpacer="" %}}
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vss");
 
     {{% blocks/products/pf/agp/content h2="À propos de Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram est une manipulation de format de document Microsoft Visio API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
+ Aspose.Diagram est une Microsoft Visio manipulation de format de document API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
 
 
 
@@ -103,7 +103,7 @@ Diagram dgF = new Diagram( "f.vss");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera fusionné et concaténé instantanément." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSS sont des fichiers stencil créés avec Microsoft Visio 2007 et versions antérieures. Un format de fichier relativement nouveau est .VSSX qui a été introduit avec Microsoft Visio 2013. Les fichiers Stencil fournissent des objets de dessin qui peuvent être inclus dans un dessin .VSD Visio. Microsoft Visio lui-même est connu pour créer des éléments de dessin tels que des collections de formes, des connecteurs, des organigrammes, la disposition du réseau, des diagrammes UML, des diagrammes de logiciels, des modèles de base de données, des mappages d'objets et d'autres informations similaires. Il possède également de riches fonctionnalités de conversion de documents Visio vers d'autres formats de fichiers tels que PNG, BMP, PDF et autres. Visio est disponible pour Windows et Mac OS. 
+Les VSS sont des fichiers stencil créés avec Microsoft Visio 2007 et versions antérieures. Un format de fichier relativement nouveau est .VSSX qui a été introduit avec Microsoft Visio 2013. Les fichiers Stencil fournissent des objets de dessin qui peuvent être inclus dans un dessin .VSD Visio. Microsoft Visio lui-même est connu pour créer des éléments de dessin tels que des collections de formes, des connecteurs, des organigrammes, la disposition du réseau, des diagrammes UML, des diagrammes de logiciels, des modèles de base de données, des mappages d'objets et d'autres informations similaires. Il possède également de riches fonctionnalités de conversion de documents Visio vers d'autres formats de fichiers tels que PNG, BMP, PDF et autres. Visio est disponible pour Windows et Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,17 +114,17 @@ VSS sont des fichiers stencil créés avec Microsoft Visio 2007 et versions ant
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de fusion pris en charge" subTitle="En utilisant C#, One peut également fusionner de nombreux autres formats de fichiers, y compris." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdw/" name="VDW" description="Visio Fichier de service graphique" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Dessins Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Format de dessin Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Fichiers de pochoir Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio Dessins" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio Format de dessin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio Formater" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio fichiers de gabarit" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssx/" name="VSSX" description="Pochoirs de dessin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vst/" name="VST" description="Fichiers d\'images vectorielles" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Fichiers de modèles Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Modèle de dessin Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Microsoft Visio fichiers modèles" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Microsoft Visio Gabarit de dessin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsx/" name="VSX" description="Pochoirs" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Modèle de dessin Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Microsoft Visio Gabarit de dessin" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

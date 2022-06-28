@@ -2,7 +2,7 @@
 title: Konversikan VDW ke VSTX melalui Java 
 weight: 3860
 url: /id/java/conversion/vdw-to-vstx/ 
-description: Contoh Java kode konversi untuk format VDW ke file VSTX. Gunakan kode contoh ini untuk mengonversi VDW ke VSTX dalam aplikasi berbasis Web atau Desktop Java apa pun.
+description: Contoh Java kode konversi untuk format VDW ke file VSTX. Gunakan kode contoh ini untuk mengonversi VDW ke VSTX dalam aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversikan VDW ke VSTX melalui Java" h2="Ekspor Microsoft Visio VDW ke VSTX menggunakan pustaka Java asli." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VDW" >}}
@@ -14,7 +14,7 @@ description: Contoh Java kode konversi untuk format VDW ke file VSTX. Gunakan ko
 
  Untuk merender VDW ke VSTX, kami akan menggunakan
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
- API yang merupakan platform API for Java konversi yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform konversi API for Java yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -56,11 +56,11 @@ description: Contoh Java kode konversi untuk format VDW ke file VSTX. Gunakan ko
 
 {{% blocks/products/pf/agp/text %}}
 
- Java pengembang dapat dengan mudah mengonversi file VDW ke VSTX hanya dalam beberapa baris kode.
+ Java pengembang dapat dengan mudah mengonversi berkas VDW ke VSTX hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Muat file VDW dengan instance Diagram class1. Panggil metode Diagram.save dengan jalur file keluaran dan SaveFileFormat sebagai parameter1. File VSTX akan disimpan di jalur yang ditentukan
+1. Muat file VDW dengan instance Diagram class1. Panggil metode Diagram.save dengan jalur file keluaran dan SaveFileFormat sebagai parameter1. VSTX file akan disimpan di jalur yang ditentukan
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan sistem" %}}
@@ -94,15 +94,15 @@ visio.save("output.vstx", SaveFileFormat.VSTX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Konversi VDW ke VSTX" sectionDescription="[Mengonversi VDW ke VSTX](https://products.aspose.app/diagram/conversion/vdw-to-vstx) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VDW ke VSTX Demo Konversi Langsung" sectionDescription="[Konversikan VDW ke VSTX](https://products.aspose.app/diagram/conversion/vdw-to-vstx) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VDW Anda, itu akan langsung dikonversi ke VSTX." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VDW Anda, itu akan langsung dikonversi menjadi VSTX." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduhan." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Pustaka Manipulasi" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vstx", SaveFileFormat.VSTX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDW adalah Visio format file Layanan Grafik yang menentukan aliran dan penyimpanan yang diperlukan untuk merender gambar Web. Gambar web adalah kumpulan halaman gambar, bentuk, font, gambar, koneksi data, dan informasi pembaruan diagram yang dapat dirender sebagai gambar vektor atau raster. Berkas VDW juga dapat dibuka di Microsoft Visio tetapi disimpan terutama untuk digunakan di web. Microsoft Visio menawarkan kemampuan untuk mengonversi Visio file ke sejumlah format file yang berbeda termasuk PNG, BMP, PDF, dan lainnya.
+VDW adalah Visio format file Layanan Grafik yang menentukan aliran dan penyimpanan yang diperlukan untuk merender gambar Web. Gambar web adalah kumpulan halaman gambar, bentuk, font, gambar, koneksi data, dan diagram informasi pembaruan yang dapat ditampilkan sebagai gambar vektor atau raster. File VDW juga dapat dibuka di Microsoft Visio tetapi disimpan terutama untuk digunakan di web. Microsoft Visio menawarkan kemampuan untuk mengonversi Visio file ke sejumlah format file yang berbeda termasuk PNG, BMP, PDF, dan lainnya.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/image/vstx/" >}}
 
-File dengan ekstensi VSTX adalah file template gambar yang dibuat dengan Microsoft Visio 2013 dan yang lebih baru. File VSTX ini menyediakan titik awal untuk membuat Visio gambar, disimpan sebagai file .VSDX, dengan tata letak dan pengaturan default. Secara umum, file Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, diagram UML, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya. Program yang membuka file VSTX termasuk Microsoft Visio untuk Windows dan Mac yang memungkinkan Anda membuka file ini untuk dilihat dan diedit. Ini juga memungkinkan untuk mengonversi Visio format file ke sejumlah format lain.
+Berkas dengan ekstensi VSTX adalah berkas kerangka gambar yang dibuat dengan Microsoft Visio 2013 dan yang lebih baru. File VSTX ini menyediakan titik awal untuk membuat Visio gambar, disimpan sebagai file .VSDX, dengan tata letak dan setelan default. Secara umum, file Visio digunakan untuk membuat gambar yang berisi objek visual, diagram alir, UML diagram, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat diekspor ke berbagai format file seperti PNG, BMP, PDF, dan lainnya. Program yang membuka file VSTX termasuk Microsoft Visio untuk Windows dan Mac yang memungkinkan Anda membuka file ini untuk dilihat dan diedit. Ini juga memungkinkan untuk mengonversi Visio format file ke sejumlah format lain.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -143,9 +143,9 @@ File dengan ekstensi VSTX adalah file template gambar yang dibuat dengan Microso
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW KE VDX" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW KE VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW KE VSSM" description="Microsoft Visio file Stensil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW KE VSSM" description="Microsoft Visio File stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW KE VSSX" description="Menggambar Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW KE VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW KE VTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xaml/" name="VDW KE XAML" description="Bahasa Markup Aplikasi yang Dapat Diperluas" >}}

@@ -1,12 +1,12 @@
 ﻿---
 title: "Oszd fel a(z) Visio oldalt a következőre: C#"
 url: /hu/net/splitter/
-description: C# forráskód, amely elmagyarázza, hogyan lehet a Microsoft Visio fájlokat több fájlra felosztani a Visual C#.NET alkalmazásokban
+description: C# forráskód, amely elmagyarázza, hogyan lehet Microsoft Visio fájlt több fájlra felosztani a Visual C#.NET alkalmazásokban
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Fájlfelosztás a következőn keresztül: .NET" h2="Egyetlen Visio dokumentum felosztása különböző fájlokra a C# kód használatával a .NET alapú alkalmazásokban" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[.NET Visio Könyvtár](/diagram/net/) képes Visio dokumentumot több oldalra felosztani a .NET alapú alkalmazásokon belül. A támogatott fájlformátumok közé tartozik a VDW, VDX, VSD, VSDM, VSDX, VSS, VSSM, VSSX, VST, VSTM, VSTX, VSX, VTX.
+[.NET Visio Könyvtár](/diagram/net/) képes Visio dokumentumot több oldalra felosztani a .NET alapú alkalmazásokon belül. A támogatott fájlformátumok közé tartozik a VDW, VDX, VSD, VSDM, VSDX, VSS, VSSM,VSSX, VST,VSTM,VSTX,VSX,VTX.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="A(z) Visio dokumentum felosztása több fájlra" %}}

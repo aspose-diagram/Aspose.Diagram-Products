@@ -1,17 +1,17 @@
 ﻿---
-title: Visio .NET और Java एपीआई | कन्वर्ट या मैनिपुलेट डायग्राम बनाएं 
+title: Visio .NET Java Python Node.js API | कन्वर्ट या मैनिपुलेट डायग्राम बनाएं 
 weight: 10
 url: /hi/family
 description: बिना Microsoft Visio इंस्टॉल किए .NET Java और Mono एप्लिकेशन में ओपन एडिट प्रिंट बनाने और Visio फाइलों को कन्वर्ट करने के लिए Diagram लाइब्रेरी
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio फ़ाइल मैनिपुलेशन APIs" h2="किसी भी प्लेटफ़ॉर्म पर Microsoft Visio फ़ाइलें बनाने, संपादित करने और रूपांतरित करने के लिए .NET और Java API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio फ़ाइल मैनिपुलेशन APIs" h2="किसी भी प्लेटफ़ॉर्म पर Microsoft Visio फ़ाइलें बनाने, संपादित करने और परिवर्तित करने के लिए .NET और Java API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram हाई कोड API में शामिल हैं" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
-विंडोज फॉर्म, एएसपी.NET, डब्ल्यूपीएफ, डब्ल्यूसीएफ या .NET फ्रेमवर्क 2.0 या बाद के संस्करण के आधार पर किसी भी प्रकार के एप्लिकेशन को लक्षित करें।
+.NET Framework 2.0 या बाद के संस्करण के आधार पर विंडोज फॉर्म, एएसपी.NET, डब्ल्यूपीएफ, डब्ल्यूसीएफ या किसी भी प्रकार के एप्लिकेशन को लक्षित करें।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productLink="/diagram/java/" >}}

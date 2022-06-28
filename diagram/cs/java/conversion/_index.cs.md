@@ -1,10 +1,10 @@
 ﻿---
 title: Konverze souborů Java Microsoft Visio
 url: /cs/java/conversion/
-description: Převeďte formáty Microsoft Visio VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS na obrázky HTML a PDF pomocí několika řádků kódu Java.
+description: Převeďte Microsoft Visio formáty VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS na obrázky HTML a PDF s několika řádky kód Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konverze formátů Microsoft<sup>&reg;</sup> Visio prostřednictvím Java" h2="Převádějte diagramy MS Visio do HTML, PDF a obrázků včetně JPG, BMP, PNG, TIFF a sestavujte aplikace pro různé platformy Java." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Převod formátů prostřednictvím Java" h2="Převádějte diagramy MS Visio do HTML, PDF a obrázků včetně JPG, BMP, PNG, TIFF a sestavujte aplikace pro různé platformy Java." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -14,7 +14,7 @@ Pro jakékoli řešení vykreslování formátů Microsoft Visio, jako je návrh
 
 {{% blocks/products/pf/feature-page-section h2="Inter Conversion Visio souborů" %}}
 
-Programátoři mohou snadno převádět formáty VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM a také soubory VDW, VSD, VSS, VST a rendery do PDF, HTML a obrázků. Vezmeme-li v úvahu scénář VSDX do VDX, proces je načíst zdrojový soubor VSDX pomocí třídy diagramu a zavolat metodu uložení poskytnutím výstupního souboru a [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX jako parametry. 
+Programátoři mohou snadno převést formáty VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM a také načíst VDW, VSD, VSS, VST a rendery do PDF, HTML a obrázků. S ohledem na scénář VSDX až VDX proces spočívá v načtení zdrojového souboru VSDX pomocí třídy diagram a volání metody uložení poskytnutím výstupního souboru a [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX jako parametry. 
 
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro konverzi VSDX na VDX" %}}
 
@@ -27,7 +27,7 @@ Programátoři mohou snadno převádět formáty VSDX, VSX, VTX, VDX, VSSX, VSTX
 
 {{% blocks/products/pf/feature-page-section h2="Převod Visio na obrázky" %}}
 
-Pro obecný převod je proces převodu souborů visio na obrázky stejný. Stačí načíst soubor prostřednictvím třídy Diagram a zavolat metodu uložení s výstupním souborem a výstupními parametry SaveFileFormat. A kdykoli je potřeba definovat konkrétní možnosti, mohou vývojáři použít třídu ImageSaveOptions při převodu stránek diagramu na obrázky a SVGSaveOptions pro převod SVG.
+Pro obecný převod je proces převodu visio souborů na obrázky stejný. Stačí načíst soubor přes třídu Diagram a zavolat metodu save s výstupním souborem a výstupními parametry SaveFileFormat. A kdykoli je potřeba definovat konkrétní možnosti, mohou vývojáři použít třídu ImageSaveOptions při převodu diagram stránek na obrázky a SVGSaveOptions pro převod SVG.
 
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro převod Visio do obrazových formátů" %}}
 

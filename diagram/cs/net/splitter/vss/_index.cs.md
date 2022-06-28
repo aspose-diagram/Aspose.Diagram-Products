@@ -61,7 +61,7 @@ Iterujte každou stránku
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí, jako je Microsoft Visual Studio- Aspose.Diagram DLL for .NET, na kterou odkazuje váš projekt – Nainstalujte z webu NuGet pomocí tlačítka Stáhnout výše
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Rozdělit soubory VSS – C#" offSpacer="" %}}
@@ -80,7 +80,7 @@ Iterujte každou stránku
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -95,7 +95,7 @@ Iterujte každou stránku
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude komprimován a zřetězen." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS jsou soubory vzorníků vytvořené pomocí Microsoft Visio 2007 a starší. Relativně novým formátem souborů je .VSSX, který byl představen společností Microsoft Visio v roce 2013. Soubory vzorníků poskytují objekty kreslení, které lze zahrnout do výkresu .VSD Visio. Samotný Microsoft Visio je známý vytvářením kreslicích prvků, jako jsou kolekce tvarů, konektory, vývojové diagramy, rozložení sítě, diagramy UML, softwarové diagramy, databázové modely, mapování objektů a další podobné informace. Má také bohaté funkce převodu dokumentů Visio do jiných formátů souborů, jako jsou PNG, BMP, PDF a další. Visio je k dispozici pro Windows i Mac OS. 
+VSS jsou soubory vzorníků vytvořené pomocí Microsoft Visio 2007 a starší. Relativně nový formát souboru je .VSSX, který byl představen v roce Microsoft Visio 2013. Soubory vzorníků poskytují objekty kreslení, které lze zahrnout do výkresu .VSD Visio. Samotný Microsoft Visio je známý vytvářením kreslicích prvků, jako jsou kolekce tvarů, konektory, vývojové diagramy, rozvržení sítě, diagramy UML, softwarové diagramy, databázové modely, mapování objektů a další podobné informace. Má také bohaté funkce převodu dokumentů Visio do jiných formátů souborů, jako jsou PNG, BMP, PDF a další. Visio je k dispozici pro Windows i Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ VSS jsou soubory vzorníků vytvořené pomocí Microsoft Visio 2007 a starší.
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované formáty rozdělení" subTitle="Pomocí C# lze snadno rozdělit různé formáty včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Nákresy Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Microsoft Visio Nákresy" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vdx/" name="Vdx" description="Visio soubor XML výkresu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssx/" name="VSSX" description="Soubor vzorníku Visio" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vstx/" name="VSTX" description="Soubor šablony Visio" >}}

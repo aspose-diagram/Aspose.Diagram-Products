@@ -2,7 +2,7 @@
 title: 通过 .NET 在 VSD 文档中创建流程图样式的组织结构图 
 weight: 3050
 url: /zh/net/flowchart/vsd/ 
-description: C# 用于在 .NET 框架、.NET 核心、Mono 平台的 vsd 文件中创建流程图样式组织结构图的源代码。
+description: C# 用于在 .NET Framework、.NET 核心、Mono 平台上的 vsd 文件中创建流程图样式组织结构图的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 C# 中的 VSD 中创建流程图样式组织图" h2="使用服务器端 Aspose.Diagram for .NET API 在 VSD 文档中创建本机和高性能的流程图样式组织结构图，无需使用 Microsoft 或 Open Office、Adobe PDF 等任何软件。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,13 +39,13 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- 合并和连接的基本文档
+ 创建流程图风格的组织结构图
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  只需几行代码即可完成 API。
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ 从模板创建图表。
++ 从模板创建 diagram。
 + 通过其 id 选择页面
 + 将组织节点形状添加到页面。
 + 将连接器添加到页面以连接形状及其父级。
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 在您的项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="在 VSD 个文件中创建流程图样式组织图 - C#" offSpacer="" %}}
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="关于Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
+ Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一个独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 它将立即在 VSD 文档中创建流程图样式组织图。" >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-VSD 文件是使用 Microsoft Visio 应用程序创建的图形，用于表示各种图形对象以及这些对象之间的互连。此类绘图可以包含可视对象，例如可视对象、流程图、UML图、信息流、组织图、软件图、网络布局、数据库模型、对象映射和其他类似信息。 Microsoft Visio 提供将 Visio 文件转换为多种不同文件格式的功能，包括 PNG、BMP、PDF 等。 
+VSD 文件是使用 Microsoft Visio 应用程序创建的图形，用于表示各种图形对象以及这些对象之间的互连。此类绘图可以包含可视对象，如可视对象、流程图、UMLdiagram、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息。 Microsoft Visio 能够将 Visio 文件转换为多种不同的文件格式，包括 PNG、BMP、PDF 等。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

@@ -2,7 +2,7 @@
 title: Converteer VSD naar VTX via Java 
 weight: 3730
 url: /nl/java/conversion/vsd-to-vtx/ 
-description: Voorbeeld Java conversiecode voor VSD formaat naar VTX-bestand. Gebruik deze voorbeeldcode om VSD naar VTX te converteren binnen een web- of desktoptoepassing op Java.
+description: Voorbeeld Java conversiecode voor VSD formaat naar VTX bestand. Gebruik deze voorbeeldcode om VSD naar VTX te converteren binnen elke web- of desktoptoepassing op Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer VSD naar VTX via Java" h2="Exporteer Microsoft Visio VSD naar VTX met behulp van native Java-bibliotheek." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSD" >}}
@@ -12,7 +12,7 @@ description: Voorbeeld Java conversiecode voor VSD formaat naar VTX-bestand. Geb
 
 {{% blocks/products/pf/agp/content h2="Hoe u VSD naar VTX converteert met Java" %}}
 
- Om VSD naar VTX weer te geven, gebruiken we
+ Om VSD weer te geven tot VTX, gebruiken we
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, een veelzijdig, krachtig en gebruiksvriendelijk conversieplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -52,15 +52,15 @@ description: Voorbeeld Java conversiecode voor VSD formaat naar VTX-bestand. Geb
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Stappen om VSD naar VTX te converteren via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Stappen om VSD te converteren naar VTX via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Java ontwikkelaars kunnen VSD bestanden gemakkelijk converteren naar VTX in slechts een paar regels code.
+ Java ontwikkelaars kunnen VSD bestand gemakkelijk converteren naar VTX in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Laad VSD bestand met een instantie van Diagram class1. Roep Diagram.save-methode aan met pad naar uitvoerbestand en SaveFileFormat als parameters1. VTX-bestand wordt opgeslagen op het opgegeven pad
+1. Laad VSD bestand met een instantie van Diagram class1. Roep Diagram.save-methode aan met pad naar uitvoerbestand en SaveFileFormat als parameters1. VTX bestand wordt opgeslagen op het opgegeven pad
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
@@ -71,10 +71,10 @@ description: Voorbeeld Java conversiecode voor VSD formaat naar VTX-bestand. Geb
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
+- Microsoft Windows of een compatibel besturingssysteem met Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.- Ontvang de nieuwste versie van Aspose.Diagram for Java rechtstreeks van Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VSD naar VTX Java Broncode voor conversie" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSD naar VTX Java Conversiebroncode" offSpacer="" %}}
 
 ```cs
 // laad de VSD in een object van Diagram 
@@ -94,7 +94,7 @@ visio.save("output.vtx", SaveFileFormat.VTX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VSD naar VTX-conversie Live demo\'s" sectionDescription="[Converteer VSD naar VTX](https://products.aspose.app/diagram/conversion/vsd-to-vtx) op dit moment door onze Live Demo\'s-website te bezoeken. De live demo heeft de volgende voordelen:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSD naar VTX conversie live demo\'s" sectionDescription="[Converteer VSD naar VTX](https://products.aspose.app/diagram/conversion/vsd-to-vtx) op dit moment door onze Live Demo\'s-website te bezoeken. De live demo heeft de volgende voordelen:" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft Aspose API niet te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VSD-bestand, het wordt onmiddellijk geconverteerd naar VTX." >}}
@@ -102,7 +102,7 @@ visio.save("output.vtx", SaveFileFormat.VTX);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulatiebibliotheek" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vtx", SaveFileFormat.VTX);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
 
-VSD-bestanden zijn tekeningen die zijn gemaakt met de Microsoft Visio-toepassing om een verscheidenheid aan grafische objecten en de onderlinge verbinding hiertussen weer te geven. Dergelijke tekeningen kunnen visuele objecten bevatten, zoals visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, het in kaart brengen van objecten en andere soortgelijke informatie. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere.
+VSD-bestanden zijn tekeningen die zijn gemaakt met de toepassing Microsoft Visio om een verscheidenheid aan grafische objecten en de onderlinge verbinding hiertussen weer te geven. Dergelijke tekeningen kunnen visuele objecten bevatten zoals visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Microsoft Visio biedt de mogelijkheid om Visio-bestanden te converteren naar een aantal verschillende bestandsindelingen, waaronder PNG, BMP, PDF en andere.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
 
-Een bestand met de extensie .vtx is een Microsoft Visio-tekeningsjabloon die op schijf wordt opgeslagen in XML-bestandsindeling. De sjabloon is bedoeld om een bestand te bieden met basisinstellingen die kunnen worden gebruikt om meerdere Visio bestanden met dezelfde instellingen te maken. Een ander soortgelijk formaat is VST, dat wordt opgeslagen in binair formaat in plaats van XML. VTX-bestanden worden ondersteund met Visio 2010 en nieuwere versies. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML-diagrammen, informatiestromen, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
+Een bestand met de extensie .vtx is een Microsoft Visio tekensjabloon die op schijf wordt opgeslagen in XML-bestandsindeling. De sjabloon is bedoeld om een bestand te bieden met basisinstellingen die kunnen worden gebruikt om meerdere Visio bestanden met dezelfde instellingen te maken. Een ander soortgelijk formaat is VST, dat wordt opgeslagen in binair formaat in plaats van XML. VTX-bestanden worden ondersteund met Visio 2010 en nieuwere versies. Visio-bestanden worden gebruikt om tekeningen te maken die visuele objecten, stroomdiagrammen, UML diagram, informatiestroom, organigrammen, softwarediagrammen, netwerklay-out, databasemodellen, objecttoewijzing en andere soortgelijke informatie bevatten. Bestanden die zijn gegenereerd met Visio kunnen ook worden geëxporteerd naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -141,10 +141,10 @@ Een bestand met de extensie .vtx is een Microsoft Visio-tekeningsjabloon die op 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-svg/" name="VSD NAAR SVG" description="Schaalbare vectorafbeeldingen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-tiff/" name="VSD NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdm/" name="VSD NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD NAAR VSDX" description="Microsoft Visio-indeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsdx/" name="VSD NAAR VSDX" description="Microsoft Visio Indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssm/" name="VSD NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vssx/" name="VSD NAAR VSSX" description="Tekensjablonen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstm/" name="VSD NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vstx/" name="VSD NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-vsx/" name="VSD NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsd-to-xaml/" name="VSD NAAR XAML" description="Uitbreidbare opmaaktaal voor toepassingen" >}}

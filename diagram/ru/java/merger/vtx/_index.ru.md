@@ -1,8 +1,8 @@
 ﻿---
-title: Объединить файлы VTX через Java 
+title: Объединить VTX файлов через Java 
 weight: 110
 url: /ru/java/merger/vtx/ 
-description: Пример кода Java для объединения документов VTX в Java среде выполнения для приложений JSP/JSF и настольных приложений.
+description: Пример кода Java для объединения VTX документов в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить форматы VTX в Java" h2="Встроенное слияние документов VTX с использованием серверных Java API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VTX" >}}
@@ -15,7 +15,7 @@ description: Пример кода Java для объединения докум
  Чтобы объединить файл VTX, мы будем использовать
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, многофункциональная, мощная и простая в использовании платформа слияния API for Java. Вы можете скачать его последнюю версию прямо с
- [Мавен](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
@@ -52,7 +52,7 @@ description: Пример кода Java для объединения докум
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Действия по объединению файлов VTX в Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Действия по объединению VTX файлов в Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -77,11 +77,11 @@ description: Пример кода Java для объединения докум
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с Java средой выполнения для приложений JSP/JSF и настольных приложений.- Получите последнюю версию Aspose.Diagram for Java непосредственно из [Мавен](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows или совместимая ОС с Java средой выполнения для приложений JSP/JSF и настольных приложений.- Получите последнюю версию Aspose.Diagram for Java непосредственно из [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Объединить файлы VTX — Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Объединить VTX файлов - Java" offSpacer="" %}}
 
 ```cs
 Diagram dgrmF = new Diagram( "f.vtx");
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VTX);
 
     {{% blocks/products/pf/agp/content h2="О Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram – это манипулирование форматом документа Microsoft VisioAPI. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
+ Aspose.Diagram — это Microsoft Visioобработка формата документа API. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
 
 
 
@@ -111,14 +111,14 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VTX);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн-демонстрации слияния VTX" sectionDescription="Объедините документы VTX прямо сейчас, посетив наш [Веб-сайт живых демонстраций](https://products.aspose.app/diagram/merger). Живая демонстрация имеет следующие преимущества" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн-демонстрации слияния VTX в реальном времени" sectionDescription="Объедините VTX документов прямо сейчас, посетив наш [Веб-сайт живых демонстраций](https://products.aspose.app/diagram/merger). Живая демонстрация имеет следующие преимущества" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файлы VTX." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Он будет объединен и объединен мгновенно." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-Файл с расширением .vtx представляет собой шаблон чертежа Microsoft Visio, который сохраняется на диске в формате файла XML. Шаблон предназначен для предоставления файла с основными настройками, который можно использовать для создания нескольких Visio файлов с одинаковыми настройками. Другим подобным форматом является VST, который сохраняется в двоичном формате, а не в XML. Файлы VTX поддерживаются в Visio версии 2010 и более поздних. Файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, диаграмму UML, информационный поток, организационные диаграммы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие. 
+Файл с расширением .vtx представляет собой шаблон чертежа Microsoft Visio, который сохраняется на диске в формате файла XML. Шаблон предназначен для предоставления файла с основными настройками, который можно использовать для создания нескольких Visio файлов с одинаковыми настройками. Другим подобным форматом является VST, который сохраняется в двоичном формате, а не в XML. Файлы VTX поддерживаются в версиях Visio 2010 и более поздних. Файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, UML diagram, информационные потоки, организационные диаграммы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,16 +129,16 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VTX);
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединять файлы многих других форматов, включая .." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="ВДВ" description="Visio Файл графической службы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Чертежи Майкрософт Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="ВСДМ" description="Формат чертежа Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Формат Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Чертежи" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Формат чертежа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio Формат" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="ВСС" description="Файлы трафаретов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="ВССМ" description="Файлы трафаретов Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Файлы трафаретов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Трафареты для рисования" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="ВСТ" description="Файлы векторных изображений" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="ВСТМ" description="Файлы шаблонов Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Шаблон чертежа Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio Файлы шаблонов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio Шаблон чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="Трафареты" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -2,7 +2,7 @@
 title: Konversikan VSSM ke XPS melalui Java 
 weight: 1640
 url: /id/java/conversion/vssm-to-xps/ 
-description: Contoh Java kode konversi untuk format VSSM ke file XPS. Gunakan kode contoh ini untuk mengonversi VSSM ke XPS dalam aplikasi berbasis Web atau Desktop Java apa pun.
+description: Contoh Java kode konversi untuk format VSSM ke berkas XPS. Gunakan kode contoh ini untuk mengonversi VSSM ke XPS dalam aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversikan VSSM ke XPS melalui Java" h2="Ekspor Microsoft Visio VSSM ke XPS menggunakan pustaka Java asli." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSM" >}}
@@ -14,7 +14,7 @@ description: Contoh Java kode konversi untuk format VSSM ke file XPS. Gunakan ko
 
  Untuk merender VSSM ke XPS, kami akan menggunakan
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
- API yang merupakan platform API for Java konversi yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform konversi API for Java yang kaya fitur, canggih, dan mudah digunakan. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -52,11 +52,11 @@ description: Contoh Java kode konversi untuk format VSSM ke file XPS. Gunakan ko
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah Mengonversi VSSM ke XPS melalui Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah untuk Mengonversi VSSM ke XPS melalui Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Java pengembang dapat dengan mudah mengonversi file VSSM ke XPS hanya dalam beberapa baris kode.
+ Java pengembang dapat dengan mudah mengonversi berkas VSSM ke XPS hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -94,7 +94,7 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Konversi VSSM ke XPS" sectionDescription="[Mengonversi VSSM ke XPS](https://products.aspose.app/diagram/conversion/vssm-to-xps) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSSM ke Demo Langsung Konversi XPS" sectionDescription="[Konversikan VSSM ke XPS](https://products.aspose.app/diagram/conversion/vssm-to-xps) sekarang dengan mengunjungi situs web Demo Langsung kami. Demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file VSSM Anda, itu akan langsung dikonversi ke XPS." >}}
@@ -102,7 +102,7 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Pustaka Manipulasi" %}}
 
- Aspose.Diagram adalah manipulasi format dokumen Visio Microsoft API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi Visio diagram ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
+ Aspose.Diagram adalah Microsoft Visio manipulasi format dokumen API. Seseorang dapat dengan mudah memuat, membuat, memodifikasi, memanipulasi termasuk elemen daigram dan mengonversi diagram Visio ke format lain seperti PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF, dan lainnya. Ini adalah API mandiri dan tidak memerlukan Microsoft Visio atau perangkat lunak lain untuk diinstal.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xps", SaveFileFormat.XPS);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSM" readMoreLink="https://docs.fileformat.com/image/vssm/" >}}
 
-File dengan ekstensi .VSSM adalah file Microsoft Visio Stencil yang mendukung memberikan dukungan untuk makro. File VSSM saat dibuka memungkinkan untuk menjalankan makro untuk mencapai pemformatan dan penempatan bentuk yang diinginkan dalam diagram. Secara umum, Microsoft Visio adalah perangkat lunak menggambar yang memungkinkan untuk membuat file yang dapat berisi dan mewakili informasi yang ditentukan pengguna dalam berbagai bentuk. Yang paling umum termasuk, tetapi tidak terbatas pada, diagram UML, diagram alur, objek visual, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat dikonversi ke format file yang berbeda seperti PNG, BMP, PDF, dan lainnya.
+File dengan ekstensi .VSSM adalah Microsoft Visio File stensil yang mendukung memberikan dukungan untuk makro. File VSSM saat dibuka memungkinkan menjalankan makro untuk mencapai pemformatan dan penempatan bentuk yang diinginkan dalam diagram. Secara umum, Microsoft Visio adalah perangkat lunak menggambar yang memungkinkan untuk membuat file yang dapat berisi dan mewakili informasi yang ditentukan pengguna dalam berbagai bentuk. Yang paling umum termasuk, tetapi tidak terbatas pada, diagram UML, diagram alir, objek visual, aliran informasi, bagan organisasi, diagram perangkat lunak, tata letak jaringan, model basis data, pemetaan objek, dan informasi serupa lainnya. File yang dihasilkan menggunakan Visio juga dapat dikonversi ke berbagai format file seperti PNG, BMP, PDF, dan lainnya.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
 
-File XPS mewakili file tata letak halaman yang didasarkan pada Spesifikasi Kertas XML yang dibuat oleh Microsoft. Format ini dikembangkan oleh Microsoft sebagai pengganti format file EMF dan mirip dengan format file PDF, tetapi menggunakan XML dalam tata letak, tampilan, dan informasi pencetakan dokumen. Faktanya, lebih dapat dibenarkan untuk mengatakan bahwa XPS adalah percobaan pada PDF, tetapi tidak mendapatkan popularitas yang cukup seperti yang dimiliki oleh PDF karena beberapa alasan. Microsoft menyediakan XPS Document Writer secara default dari Windows 7 dan seterusnya untuk pembuatan file XPS. File XPS dapat dibuat dengan memilih "Microsoft XPS Document Writer" sebagai printer saat mencetak dokumen.
+File XPS mewakili file tata letak halaman yang didasarkan pada Spesifikasi Kertas XML yang dibuat oleh Microsoft. Format ini dikembangkan oleh Microsoft sebagai pengganti format file EMF dan mirip dengan format file PDF, tetapi menggunakan XML dalam tata letak, tampilan, dan informasi pencetakan dokumen. Faktanya, lebih dapat dibenarkan untuk mengatakan bahwa XPS adalah sebuah percobaan pada PDF, tetapi tidak mendapatkan popularitas yang cukup seperti yang dimiliki oleh PDF karena beberapa alasan. Microsoft menyediakan XPS Document Writer secara default dari Windows 7 dan seterusnya untuk pembuatan file XPS. File XPS dapat dibuat dengan memilih "Microsoft XPS Document Writer" sebagai printer saat mencetak dokumen.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -144,7 +144,7 @@ File XPS mewakili file tata letak halaman yang didasarkan pada Spesifikasi Kerta
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdm/" name="VSSM KE VSDM" description="Microsoft Visio Format Gambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsdx/" name="VSSM KE VSDX" description="Microsoft Visio Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vssx/" name="VSSM KE VSSX" description="Menggambar Stensil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM KE VSTM" description="Microsoft Visio File Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstm/" name="VSSM KE VSTM" description="Microsoft Visio Berkas Kerangka" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vstx/" name="VSSM KE VSTX" description="Microsoft Visio Template Menggambar" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vsx/" name="VSSM KE VSX" description="Stensil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vssm-to-vtx/" name="VSSM KE VTX" description="Microsoft Visio Template Menggambar" >}}

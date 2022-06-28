@@ -1,5 +1,5 @@
 ﻿---
-title: .NET를 통해 VSSX 파일 병합 
+title: .NET을(를) 통해 VSSX 파일 병합 
 weight: 3770
 url: /ko/net/merger/vssx/ 
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 COM Interop에서 VSSX 문서를 결합합니다.
@@ -12,10 +12,10 @@ description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 COM Inte
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 VSSX 파일을 병합하는 방법" %}}
 
- VSSX 파일을 병합하려면 다음을 사용합니다.
+ VSSX 파일을 병합하기 위해 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려 있는
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  **Aspose.Diagram** 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="C#에서 VSSX 파일 병합 단계" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C#에서 VSSX 파일을 병합하는 단계" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
+- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop이 있는 호환 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSSX 파일 병합 - C#" offSpacer="" %}}
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vssx");
 
     {{% blocks/products/pf/agp/content h2="Aspose.Diagram for .NET API 정보" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -96,14 +96,14 @@ Diagram dgF = new Diagram( "f.vssx");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 VSSX 합병 라이브 데모" sectionDescription="지금 바로 저희 웹사이트를 방문하여 VSSX 문서를 병합하십시오. [라이브 데모 웹사이트](https://products.aspose.app/diagram/merger). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 VSSX 합병 라이브 데모" sectionDescription="지금 바로 다음을 방문하여 VSSX 문서를 병합하십시오. [라이브 데모 웹사이트](https://products.aspose.app/diagram/merger). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을(를) 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="VSSX 파일을 업로드하기만 하면 됩니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 병합 및 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSX" readMoreLink="https://docs.fileformat.com/image/vssx/" >}}
-확장자가 .VSSX인 파일은 Microsoft Visio 2013 이상으로 만든 도면 스텐실입니다. VSSX 파일 형식은 Visio 2013 이상에서 열 수 있습니다. Visio 파일은 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 다양한 그리기 요소를 나타내는 것으로 알려져 있습니다. Microsoft Visio는 또한 Visio 파일을 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능을 제공합니다. Windows 및 Mac OS 모두에서 사용할 수 있습니다. 
+확장자가 .VSSX인 파일은 Microsoft Visio 2013 이상으로 만든 도면 스텐실입니다. VSSX 파일 형식은 Visio 2013 이상에서 열 수 있습니다. Visio 파일은 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 다양한 그리기 요소를 나타내는 것으로 알려져 있습니다. Microsoft Visio은 또한 Visio 파일을 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능을 제공합니다. Windows 및 Mac OS 모두에서 사용할 수 있습니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,7 +115,7 @@ Diagram dgF = new Diagram( "f.vssx");
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdw/" name="VDW" description="Visio 그래픽 서비스 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio 도면" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vss/" name="VSS" description="스텐실 파일" >}}

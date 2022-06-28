@@ -71,7 +71,7 @@ description: Ukázkový konverzní kód Java pro formát VDW na soubor XAML. Ten
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.- Získejte nejnovější verzi Aspose.Diagram for Java přímo od společnosti Maven.
+- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.- Získejte nejnovější verzi Aspose.Diagram for Java přímo od Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Zdrojový kód převodu VDW na XAML Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
     {{% blocks/products/pf/agp/content h2="Knihovna manipulací Java Diagram" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDW je formát souboru služby Visio Graphics Service, který určuje datové proudy a úložiště potřebné pro vykreslení webového výkresu. Webový výkres je sbírka stránek výkresu, tvarů, písem, obrázků, datových připojení a informací o aktualizaci diagramu, které lze vykreslit jako vektorový nebo rastrový výkres. Soubory VDW lze otevřít také v Microsoft Visio, ale primárně se ukládají pro použití na webu. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších.
+VDW je formát souboru služby Visio Graphics Service, který určuje datové proudy a úložiště potřebné pro vykreslení webového výkresu. Webový výkres je sbírka stránek výkresu, tvarů, písem, obrázků, datových připojení a diagramaktualizačních informací, které lze vykreslit jako vektorový nebo rastrový výkres. Soubory VDW lze otevřít také v Microsoft Visio, ale primárně se ukládají pro použití na webu. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
 
-XAML, Extensible Application Markup Language, soubory rozšíření popisují prvky uživatelského rozhraní pro softwarové aplikace založené na Windows Presentation Foundation (WPF). Přestože jde o jazyk, není nutné jej programovat, protože je založen na standardním formátu XML, který je snadno použitelný a srozumitelný. XAML (vyslovováno jako „zammel“) byl vyvinut společností Microsoft se specifickým cílem pro vytváření uživatelských rozhraní. Jeho původní zkratka znamenala Extensible Avalon Markup Language, kde Avalon byl kódový název pro WPF. Soubory XAML se někdy ukládají také s příponou XOML.
+XAML, Extensible Application Markup Language, soubory rozšíření popisují prvky uživatelského rozhraní pro softwarové aplikace založené na Windows Presentation Foundation (WPF). Přestože jde o jazyk, není nutné jej programovat, protože je založen na standardním formátu XML, který je snadno použitelný a srozumitelný. XAML (vyslovováno jako „zammel“) byl vyvinut společností Microsoft se specifickým cílem vytvořit uživatelská rozhraní. Jeho původní zkratka znamenala Extensible Avalon Markup Language, kde Avalon byl kódový název pro WPF. Soubory XAML se někdy ukládají také s příponou XOML.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,15 +140,15 @@ XAML, Extensible Application Markup Language, soubory rozšíření popisují pr
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-png/" name="VDW DO PNG" description="Přenosná síťová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-svg/" name="VDW NA SVG" description="Škálovatelná vektorová grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDW NA TIFF" description="Formát tagovaného obrázku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW NA VDX" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW DO VSDM" description="Formát výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW DO VSDX" description="Formát Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW DO VSSM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW na VSSX" description="Kreslicí šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW NA VSTM" description="Soubory šablon Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW NA VSTX" description="Šablona výkresu Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW na VSX" description="Šablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW NA VTX" description="Šablona výkresu Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW DO VDX" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW DO VSDM" description="Microsoft Visio Formát výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW DO VSDX" description="Microsoft Formát Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW DO VSSM" description="Soubory šablon: Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW DO VSSX" description="Kreslicí šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW DO VSTM" description="Microsoft Visio Soubory šablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW DO VSTX" description="Microsoft Visio Šablona výkresu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW DO VSX" description="Šablony" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW DO VTX" description="Microsoft Visio Šablona výkresu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="VDW až XPS" description="Specifikace papíru XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

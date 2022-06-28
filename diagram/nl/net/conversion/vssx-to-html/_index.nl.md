@@ -39,11 +39,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET ontwikkelaars kunnen eenvoudig VSSX-bestanden laden en converteren naar HTML in slechts een paar regels code.
+ .NET ontwikkelaars kunnen gemakkelijk VSSX bestanden laden en converteren naar HTML in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Laad VSSX-bestand met een instantie van Diagram class1. Roep de Diagram.Save-methode aan met pad naar uitvoerbestand en SaveFileFormat.HTML als parameters1. HTML-bestand wordt opgeslagen op het opgegeven pad
+1. Laad VSSX bestand met een instantie van Diagram class1. Roep de Diagram.Save-methode aan met pad naar uitvoerbestand en SaveFileFormat.HTML als parameters1. HTML-bestand wordt opgeslagen op het opgegeven pad
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
@@ -57,7 +57,7 @@ PM> Install-Package Aspose.Diagram
 - Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Mono of COM Interop.- Ontwikkelomgeving zoals Microsoft Visual Studio.- Aspose.Diagram for .NET DLL waarnaar wordt verwezen in uw project.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Deze voorbeeldcode toont VSSX naar HTML C#-conversie" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Deze voorbeeldcode toont VSSX naar HTML C# Conversie" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssx-to-html.cs" >}}
 
@@ -73,12 +73,12 @@ PM> Install-Package Aspose.Diagram
 {{< blocks/products/pf/agp/demobox sectionTitle="Gratis app om VSSX naar HTML te converteren" sectionDescription="Check onze live demo\'s voor [VSSX naar HTML-conversie](https://products.aspose.app/diagram/conversion/vssx-to-html) met volgende voordelen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft niets te downloaden of in te stellen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VSSX-bestand en klik op de knop \"Converteren\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw VSSX-bestand en klik op de knop \'Converteren\'." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" U krijgt direct de downloadlink voor het resulterende HTML-bestand." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Een Diagram beheerbibliotheek die speciaal is ontworpen om te werken met Microsoft Visio-bestanden. Hiermee kunnen ontwikkelaars native Visio-indelingen maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van het diagram manipuleren om het resultaat naar andere indelingen te exporteren.
+ Een Diagram beheerbibliotheek die speciaal is ontworpen om met Microsoft Visio bestanden te werken. Hiermee kunnen ontwikkelaars native Visio-formaten maken, manipuleren en converteren. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van de diagram manipuleren om het resultaat naar andere formaten te exporteren.
 
 
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSX" readMoreLink="https://docs.fileformat.com/image/vssx/" >}}
-Bestanden met de extensie .VSSX zijn tekenstencils die zijn gemaakt met Microsoft Visio 2013 en hoger. De VSSX-bestandsindeling kan worden geopend met Visio 2013 en hoger. Visio-bestanden staan bekend om de weergave van een verscheidenheid aan tekenelementen, zoals het verzamelen van vormen, connectoren, stroomdiagrammen, netwerklay-out, UML-diagrammen, softwarediagrammen, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Microsoft Visio biedt ook de mogelijkheid om Visio-bestanden te converteren naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere. Het is beschikbaar voor zowel Windows als Mac OS.
+Bestanden met de extensie .VSSX zijn tekenstencils die zijn gemaakt met Microsoft Visio 2013 en hoger. De bestandsindeling VSSX kan worden geopend met Visio 2013 en hoger. Visio-bestanden staan bekend om de weergave van een verscheidenheid aan tekenelementen, zoals het verzamelen van vormen, connectoren, stroomdiagrammen, netwerklay-out, UML-diagrammen, softwarediagrammen, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Microsoft Visio biedt ook de mogelijkheid om Visio-bestanden te converteren naar verschillende bestandsindelingen zoals PNG, BMP, PDF en andere. Het is beschikbaar voor zowel Windows als Mac OS.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ HTML (Hyper Text Markup Language) is de extensie voor webpagina's die zijn gemaa
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt VSSX ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-bmp/" name="VSSX NAAR BMP" description="Bitmap afbeelding" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-emf/" name="VSSX NAAR EMF" description="Verbeterde metabestandsindeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-emf/" name="VSSX NAAR EMV" description="Verbeterde metabestandsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-jpeg/" name="VSSX NAAR JPEG" description="JPEG-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-pdf/" name="VSSX NAAR PDF" description="Draagbaar documentformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-png/" name="VSSX NAAR PNG" description="Draagbare netwerkgrafieken" >}}
@@ -114,9 +114,9 @@ HTML (Hyper Text Markup Language) is de extensie voor webpagina's die zijn gemaa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-tiff/" name="VSSX NAAR TIFF" description="Gelabelde afbeeldingsindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vdx/" name="VSSX NAAR VDX" description="Microsoft Visio Tekenindeling" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsdm/" name="VSSX NAAR VSDM" description="Microsoft Visio Tekenindeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsdx/" name="VSSX NAAR VSDX" description="Microsoft Visio-indeling" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vssm/" name="VSSX NAAR VSSM" description="Microsoft Visio Stencil-bestanden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vstm/" name="VSSX NAAR VSTM" description="Microsoft Visio-sjabloonbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsdx/" name="VSSX NAAR VSDX" description="Microsoft Visio Indeling" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vssm/" name="VSSX NAAR VSSM" description="Microsoft Visio Stencilbestanden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vstm/" name="VSSX NAAR VSTM" description="Microsoft Visio Sjabloonbestanden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vstx/" name="VSSX NAAR VSTX" description="Microsoft Visio Tekensjabloon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsx/" name="VSSX NAAR VSX" description="Sjablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vtx/" name="VSSX NAAR VTX" description="Microsoft Visio Tekensjabloon" >}}

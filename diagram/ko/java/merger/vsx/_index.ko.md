@@ -1,8 +1,8 @@
 ﻿---
-title: Java를 통해 VSX 파일 병합 
+title: Java을(를) 통해 VSX 파일 병합 
 weight: 5160
 url: /ko/java/merger/vsx/ 
-description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션을 위한 Java 런타임 환경에서 VSX 문서를 결합하는 샘플 코드.
+description: JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 Java 런타임 환경에서 VSX 문서를 결합하는 Java 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java에서 VSX 형식 병합" h2="서버측 Java API를 사용한 기본 VSX 문서 병합." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSX" >}}
@@ -12,10 +12,10 @@ description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 VSX 파일을 병합하는 방법" %}}
 
- VSX 파일을 병합하려면 다음을 사용합니다.
+ VSX 파일을 병합하기 위해 다음을 사용합니다.
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API은 기능이 풍부하고 강력하며 사용하기 쉬운 병합 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
- [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
@@ -52,7 +52,7 @@ description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Java에서 VSX 파일 병합 단계" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Java에서 VSX 파일을 병합하는 단계" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -65,7 +65,7 @@ description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션
 + Diagram 클래스의 인스턴스가 있는 첫 번째 VSX 파일을 로드합니다.
 + Diagram 클래스의 인스턴스로 두 번째 VSX 문서를 로드합니다.
 + Combine() 메서드를 사용하여 파일을 병합합니다.
-+ 병합된 VSX 파일을 지정된 경로에 저장
++ 지정된 경로에 병합된 VSX 파일 저장
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -77,7 +77,7 @@ description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 Java 런타임 환경과 호환되는 OS.- 에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오. [메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows 또는 Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경과 호환되는 OS.- 에서 직접 최신 버전의 Aspose.Diagram for Java을(를) 받으십시오. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSX);
 
     {{% blocks/products/pf/agp/content h2="Aspose.Diagram for Java API 정보" %}}
 
- Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립 실행형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
+ Aspose.Diagram은(는) Microsoft Visio 문서 형식 조작API입니다. daigram 요소를 포함하여 쉽게 로드, 생성, 수정, 조작하고 Visio 다이어그램을 PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF 등과 같은 다른 형식으로 변환할 수 있습니다. 독립형 API이며 Microsoft Visio 또는 기타 소프트웨어를 설치할 필요가 없습니다.  
 
 
 
@@ -111,14 +111,14 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSX);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 VSX 합병 라이브 데모" sectionDescription="당사를 방문하여 지금 VSX 문서를 병합하십시오. [라이브 데모 웹사이트](https://products.aspose.app/diagram/merger). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 VSX 합병 라이브 데모" sectionDescription="지금 바로 다음을 방문하여 VSX 문서를 병합하십시오. [라이브 데모 웹사이트](https://products.aspose.app/diagram/merger). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을(를) 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="VSX 파일을 업로드하기만 하면 됩니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 병합 및 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/image/vsx/" >}}
-.VSX 확장자를 가진 파일은 Microsoft Visio에서 다이어그램을 만드는 데 사용되는 그림과 모양으로 구성된 스텐실을 나타냅니다. VSX 파일은 XML 파일 형식으로 저장되며 Visio 2013년까지 지원되었습니다. 이는 Microsoft Visio 2013에 도입된 기본 VSDX 파일 형식과 다릅니다. VSX 파일은 모든 텍스트 편집기에서 열어 볼 수 있습니다. 내용물. 
+확장자가 .VSX인 파일은 Microsoft Visio에서 다이어그램을 만드는 데 사용되는 그림과 모양으로 구성된 스텐실을 나타냅니다. VSX 파일은 XML 파일 형식으로 저장되며 2013년 Visio까지 지원되었습니다. 이는 Microsoft Visio 2013에서 도입된 기본 VSDX 파일 형식과 다릅니다. VSX 파일은 다음 위치에서 열 수 있습니다. 모든 텍스트 편집기를 사용하여 내용을 볼 수 있습니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -130,7 +130,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSX);
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visio 그래픽 서비스 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio 도면" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="스텐실 파일" >}}

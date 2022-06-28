@@ -2,7 +2,7 @@
 title: Javaを介してVSSファイルをマージ 
 weight: 1180
 url: /ja/java/merger/vss/ 
-description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でVSSドキュメントを組み合わせるためのサンプルコード。
+description: JSP/JSFアプリケーションとデスクトップアプリケーションのJavaランタイム環境でVSSドキュメントを組み合わせるためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JavaのVSSフォーマットをマージ" h2="サーバー側のJavaAPIを使用したネイティブVSSドキュメントのマージ。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSS" >}}
@@ -52,11 +52,11 @@ description: Java JSP/JSFアプリケーションとデスクトップアプリ�
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="JavaでVSSファイルをマージする手順" %}}
+{{% blocks/products/pf/agp/feature-section-col title="JavaのVSSファイルをマージする手順" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- とマージおよび連結する基本的なドキュメント
+ マージおよび連結する基本的なドキュメント
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  APIは、ほんの数行のコードで実行できます。
 
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSS);
 
     {{% blocks/products/pf/agp/content h2="約Aspose.Diagramfor JavaAPI" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSS);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 即座にマージおよび連結されます。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/image/vss/" >}}
-VSSは、MicrosoftVisio2007以前で作成されたステンシルファイルです。比較的新しいファイル形式は、Microsoft Visio 2013で導入された.VSSXです。ステンシルファイルは、.VSDVisio図面に含めることができる図面オブジェクトを提供します。 Microsoft Visio自体は、形状のコレクション、コネクタ、フローチャート、ネットワークレイアウト、UMLダイアグラム、ソフトウェアダイアグラム、データベースモデル、オブジェクトマッピング、その他の同様の情報などの描画要素を作成することで知られています。また、VisioドキュメントからPNG、BMP、PDFなどの他のファイル形式への豊富な変換機能も備えています。 Visioは、WindowsとMacOSの両方で使用できます。 
+VSSは、MicrosoftVisio2007以前で作成されたステンシルファイルです。比較的新しいファイル形式は、Microsoft Visio 2013で導入された.VSSXです。ステンシルファイルは、。VSDVisio図面に含めることができる図面オブジェクトを提供します。 Microsoft Visio自体は、形状のコレクション、コネクタ、フローチャート、ネットワークレイアウト、UMLダイアグラム、ソフトウェアダイアグラム、データベースモデル、オブジェクトマッピング、その他の同様の情報などの描画要素を作成することで知られています。また、VisioドキュメントからPNG、BMP、PDFなどの他のファイル形式への豊富な変換機能も備えています。 Visioは、WindowsとMacOSの両方で使用できます。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,9 +129,9 @@ VSSは、MicrosoftVisio2007以前で作成されたステンシルファイル�
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているマージ形式" subTitle="Javaを使用すると、を含む他の多くのファイル形式をマージすることもできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdw/" name="VDW" description="Visioグラフィックサービスファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="MicrosoftVisio図面" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="MicrosoftVisio形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="MicrosoftVisioステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="ステンシルの描画" >}}

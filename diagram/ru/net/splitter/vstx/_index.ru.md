@@ -1,5 +1,5 @@
 ﻿---
-title: Разделить файлы VSTX через .NET 
+title: Разделить VSTX файлов через .NET 
 weight: 1300
 url: /ru/net/splitter/vstx/ 
 description: Исходный код C# для разделения файла vstx на платформах .NET Framework, .NET Core, Mono.
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Действия по разделению файлов VSTX в C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Шаги по разделению VSTX файлов в C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -61,10 +61,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или COM Interop- Среда разработки, такая как Microsoft Visual Studio- Aspose.Diagram for .NET DLL, на которые есть ссылка в вашем проекте. Установите из NuGet с помощью кнопки «Загрузить» выше.
+- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или COM Interop- Среда разработки, такая как Microsoft Visual Studio- Aspose.Diagram for .NET DLL, на которые ссылается ваш проект. Установите из NuGet с помощью кнопки "Загрузить" выше.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Разделить файлы VSTX — C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Разделить VSTX файлов - C#" offSpacer="" %}}
 
 {{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-SplitVisioPage-SplitVisioPage -VSTX.cs" >}}
 
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="О Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram – это манипулирование форматом документа Microsoft VisioAPI. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
+ Aspose.Diagram — это Microsoft Visioобработка формата документа API. Можно легко загружать, создавать, изменять, манипулировать элементами схемы и преобразовывать диаграммы Visio в другие форматы, такие как PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF и другие. Это автономный API и не требует установки Microsoft Visio или любого другого программного обеспечения.  
 
 
 
@@ -88,14 +88,14 @@ PM> Install-Package Aspose.Diagram
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн-демонстрации VSTX Split Live" sectionDescription="Разделите документы VSTX прямо сейчас, посетив наш [Веб-сайт живых демонстраций](https://products.aspose.app/diagram/splitter). Живая демонстрация имеет следующие преимущества" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн VSTX сплит-демонстрации" sectionDescription="Разделите VSTX документов прямо сейчас, посетив наш [Веб-сайт живых демонстраций](https://products.aspose.app/diagram/splitter). Живая демонстрация имеет следующие преимущества" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости загружать Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файлы VSTX." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Он будет сжат и объединен мгновенно." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/visio/vstx/" >}}
-Файлы с расширениями VSTX представляют собой файлы шаблонов чертежей, созданные с помощью Microsoft Visio 2013 и более поздних версий. Эти файлы VSTX служат отправной точкой для создания чертежей Visio, сохраненных в виде файлов .VSDX, с макетом и настройками по умолчанию. Как правило, файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, схемы UML, информационные потоки, организационные схемы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие. Программы, которые открывают файлы VSTX, включают Microsoft Visio для Windows и Mac, которые позволяют открывать эти файлы для просмотра и редактирования. Он также позволяет конвертировать форматы файлов Visio в ряд других форматов. 
+Файлы с расширениями VSTX представляют собой файлы шаблонов чертежей, созданные с помощью Microsoft Visio 2013 и более поздних версий. Эти файлы VSTX служат отправной точкой для создания чертежей Visio, сохраненных в виде файлов .VSDX, с макетом и настройками по умолчанию. Как правило, файлы Visio используются для создания чертежей, содержащих визуальные объекты, блок-схемы, UML diagram, информационный поток, организационные диаграммы, схемы программного обеспечения, схему сети, модели баз данных, сопоставление объектов и другую подобную информацию. Файлы, созданные с помощью Visio, также можно экспортировать в различные форматы файлов, такие как PNG, BMP, PDF и другие. Программы, которые открывают файлы VSTX, включают Microsoft Visio для Windows и Mac, которые позволяют открывать эти файлы для просмотра и редактирования. Он также позволяет конвертировать форматы файлов Visio в ряд других форматов. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,12 +105,12 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы разделения" subTitle="Используя C#, можно легко разделить различные форматы, в том числе." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="VSD" description="Чертежи Майкрософт Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Microsoft Visio Чертежи" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vdx/" name="Vdx" description="Visio XML-файл чертежа" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssx/" name="VSSX" description="Visio файл трафарета" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsdm/" name="ВСДМ" description="Visio файл чертежа с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssm/" name="ВССМ" description="Visio файл шаблона с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vstm/" name="ВСТМ" description="Visio файл шаблона с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsdm/" name="VSDM" description="Visio файл чертежа с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssm/" name="VSSM" description="Visio файл шаблона с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vstm/" name="VSTM" description="Visio файл шаблона с поддержкой макросов" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsdx/" name="VSDX" description="Visio файл чертежа" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

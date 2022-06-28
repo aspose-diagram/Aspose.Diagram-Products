@@ -2,7 +2,7 @@
 title: تحويل VSDX إلى VSDM عبر Java 
 weight: 3300
 url: /ar/java/conversion/vsdx-to-vsdm/ 
-description: نموذج Java كود التحويل من أجل تنسيق VSDX إلى ملف VSDM. استخدم رمز المثال هذا لتحويل VSDX إلى VSDM داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
+description: نموذج Java شفرة تحويل من تنسيق VSDX إلى ملف VSDM. استخدم رمز المثال هذا لتحويل VSDX إلى VSDM داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل VSDX إلى VSDM عبر Java" h2="تصدير Microsoft Visio VSDX إلى VSDM باستخدام مكتبة Java أصلية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="VSDM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSDX" >}}
@@ -15,8 +15,8 @@ description: نموذج Java كود التحويل من أجل تنسيق VSDX �
  من أجل تقديم VSDX إلى VSDM ، سنستخدم
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API نظام أساسي للتحويل غني بالميزات وقوي وسهل الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
- [مخضرم](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- وقم بتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ وتثبيته في مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -56,7 +56,7 @@ description: نموذج Java كود التحويل من أجل تنسيق VSDX �
 
 {{% blocks/products/pf/agp/text %}}
 
- Java يمكن للمطورين بسهولة تحويل ملف VSDX إلى VSDM في بضعة أسطر من التعليمات البرمجية.
+ يمكن لمطوري Java تحويل VSDX ملف إلى VSDM بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -79,7 +79,7 @@ description: نموذج Java كود التحويل من أجل تنسيق VSDX �
 ```cs
 // تحميل VSDX في كائن Diagram 
 Diagram visio = new Diagram("template.vsdx");
-// احفظ VSDX كـ VSDM 
+// حفظ VSDX باسم VSDM 
 visio.save("output.vsdm", SaveFileFormat.VSDM);   
 
 
@@ -94,7 +94,7 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="VSDX إلى العروض التوضيحية المباشرة لتحويل VSDM" sectionDescription="[تحويل VSDX إلى VSDM](https://products.aspose.app/diagram/conversion/vsdx-to-vsdm) الآن من خلال زيارة موقع Live Demos الخاص بنا ، حيث يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VSDX إلى VSDM عروض توضيحية مباشرة للتحويلات" sectionDescription="[تحويل VSDX إلى VSDM](https://products.aspose.app/diagram/conversion/vsdx-to-vsdm) الآن من خلال زيارة موقع Live Demos الخاص بنا ، حيث يتمتع العرض التوضيحي المباشر بالمزايا التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي كود." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ما عليك سوى تحميل ملف VSDX الخاص بك ، وسيتم تحويله على الفور إلى VSDM." >}}
@@ -102,7 +102,7 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram مكتبة المعالجة" %}}
 
- Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه API مستقل ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
+ Aspose.Diagram هو Microsoft Visio معالجة بتنسيق المستند API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه إصدار مستقل API ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-تمثل الملفات ذات الامتداد. VSDX تنسيق ملف Microsoft Visio المقدم من Microsoft Office 2013 فصاعدًا. تم تطويره ليحل محل تنسيق الملف الثنائي ،. VSD ، المدعوم من قبل الإصدارات السابقة من Microsoft Visio. وهو مدعوم أيضًا في Visio الخدمات في Microsoft SharePoint Server 2013 ولا يتطلب تنسيق ملف وسيط للنشر على SharePoint Server. تُستخدم ملفات Visio لإنشاء رسومات تحتوي على كائنات مرئية ومخططات انسيابية ومخطط UML وتدفق المعلومات والمخططات التنظيمية ومخططات البرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
+تمثل الملفات ذات الامتداد VSDX. Microsoft Visio تنسيق ملف مقدم من Microsoft Office 2013 فصاعدًا. تم تطويره ليحل محل تنسيق الملف الثنائي ،. VSD ، الذي تدعمه الإصدارات السابقة من Microsoft Visio. وهو مدعوم أيضًا في Visio الخدمات في Microsoft SharePoint Server 2013 ولا يتطلب تنسيق ملف وسيط للنشر على SharePoint Server. تُستخدم ملفات Visio لإنشاء رسومات تحتوي على كائنات مرئية ومخططات انسيابية و UML diagram وتدفق المعلومات والمخططات التنظيمية والرسومات التخطيطية للبرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المشابهة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
 
-الملفات ذات الامتداد VSDM هي ملفات رسم تم إنشاؤها باستخدام تطبيق Microsoft Visio الذي يدعم وحدات الماكرو. ملفات VSDM هي رسومات OPC / XML تشبه VSDX ولكنها توفر أيضًا القدرة على تشغيل وحدات الماكرو عند فتح الملف. وحدات الماكرو هي إجراءات / خطوات يحددها المستخدم تم تطويرها في Visual Basic for Applications (VBA) ويمكن استخدامها لأداء المهام المتكررة. تم تقديم تنسيق ملف VSDM مع إطلاق Microsoft Visio 2013. Visio تُستخدم الملفات لإنشاء رسومات تحتوي على كائنات مرئية ومخططات تدفق ومخطط UML وتدفق المعلومات والمخططات التنظيمية ومخططات البرامج وتخطيط الشبكة ونماذج قواعد البيانات ، تعيين الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
+الملفات ذات الامتداد VSDM هي ملفات رسم تم إنشاؤها باستخدام تطبيق Microsoft Visio الذي يدعم وحدات الماكرو. ملفات VSDM هي رسومات OPC / XML تشبه VSDX ولكنها توفر أيضًا القدرة على تشغيل وحدات الماكرو عند فتح الملف. وحدات الماكرو هي إجراءات / خطوات يحددها المستخدم تم تطويرها في Visual Basic for Applications (VBA) ويمكن استخدامها لأداء المهام المتكررة. VSDM تم تقديم تنسيق الملف مع إطلاق Microsoft Visio 2013. Visio تُستخدم الملفات لإنشاء رسومات تحتوي على كائنات مرئية ومخططات انسيابية و UML diagram وتدفق المعلومات والمخططات التنظيمية ومخططات البرامج ، تخطيط الشبكة ونماذج قواعد البيانات ورسم خرائط الكائنات ومعلومات أخرى مماثلة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,13 +140,13 @@ visio.save("output.vsdm", SaveFileFormat.VSDM);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-png/" name="VSDX إلى PNG" description="رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-svg/" name="VSDX إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-tiff/" name="VSDX إلى TIFF" description="تنسيق الصورة الموسومة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX إلى VDX" description="تنسيق رسم Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX إلى VSSM" description="ملفات استنسل Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX إلى VDX" description="Microsoft Visio تنسيق الرسم" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX إلى VSSM" description="Microsoft Visio ملفات الاستنسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssx/" name="VSDX إلى VSSX" description="الإستنسل الرسم" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX إلى VSTM" description="ملفات قوالب Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX إلى VSTX" description="قالب رسم Visio Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX إلى VSTM" description="Microsoft Visio ملفات النماذج" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX إلى VSTX" description="Microsoft Visio نموذج الرسم" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsx/" name="VSDX إلى VSX" description="الإستنسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX إلى VTX" description="قالب رسم Visio Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX إلى VTX" description="Microsoft Visio نموذج الرسم" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xaml/" name="VSDX إلى XAML" description="لغة ترميز التطبيق الموسعة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xps/" name="VSDX إلى XPS" description="مواصفات ورق XML" >}}
 

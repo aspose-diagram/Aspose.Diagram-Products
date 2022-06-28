@@ -1,8 +1,8 @@
 ﻿---
-title: 通過 Java 合併 VTX 文件 
+title: 通過 Java 合併 VTX 個文件 
 weight: 110
 url: /zh-hant/java/merger/vtx/ 
-description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中組合 VTX 文檔的示例代碼。
+description: Java 示例代碼，用於組合 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中的 VTX 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="合併 Java 中的 VTX 格式" h2="使用服務器端 Java API 的本機 VTX 文檔合併。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VTX" >}}
@@ -15,7 +15,7 @@ description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運
  為了合併 VTX 文件，我們將使用
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API 是一個功能豐富、功能強大且易於使用的合併API for Java 平台。您可以直接從
- [馬文](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
  並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="存儲庫" offSpacer="true" %}}
@@ -52,7 +52,7 @@ description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="在 Java 中合併 VTX 文件的步驟" %}}
+{{% blocks/products/pf/agp/feature-section-col title="合併 Java 中的 VTX 文件的步驟" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -65,7 +65,7 @@ description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運
 + 使用 Diagram 類的實例加載第一個 VTX 文件。
 + 使用 Diagram 類的實例加載第二個 VTX 文檔。
 + 使用 combine() 方法合併文件。
-+ 將合併後的 VTX 文件保存在指定路徑
++ 將合併的 VTX 文件保存在指定路徑
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -77,11 +77,11 @@ description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 Java JSP/JSF 應用程序和桌面應用程序運行時環境的兼容操作系統。- 直接從 Aspose.Diagram for Java 獲取最新版本 [馬文](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
+- Microsoft Windows 或具有Java JSP/JSF 應用程序和桌面應用程序運行時環境的兼容操作系統。- 直接從 Aspose.Diagram for Java 獲取最新版本 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram)  .
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="合併 VTX 文件 - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="合併 VTX 個文件 - Java" offSpacer="" %}}
 
 ```cs
 Diagram dgrmF = new Diagram( "f.vtx");
@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VTX);
 
     {{% blocks/products/pf/agp/content h2="關於Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。  
+ Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一個獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。  
 
 
 
@@ -111,14 +111,14 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VTX);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="在線 VTX 合併現場演示" sectionDescription="立即通過訪問我們的合併 VTX 文檔 [現場演示網站](https://products.aspose.app/diagram/merger).現場演示有以下好處" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="在線VTX合併現場演示" sectionDescription="立即通過訪問我們的合併 VTX 個文檔 [現場演示網站](https://products.aspose.app/diagram/merger).現場演示有以下好處" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載 Aspose API。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 無需編寫任何代碼。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 VTX 文件。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 它將立即合併和連接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-擴展名為 .vtx 的文件是 Microsoft Visio 繪圖模板，以 XML 文件格式保存到光盤。該模板旨在提供具有基本設置的文件，可用於創建具有相同設置的多個 Visio 文件。另一種類似的格式是 VST，它以二進制格式而不是 XML 格式保存。 Visio 2010 和更新版本支持 VTX 文件。 Visio 文件用於創建包含視覺對象、流程圖、UML 圖、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的圖形。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。 
+擴展名為 .vtx 的文件是以 XML 文件格式保存到光盤的 Microsoft Visio 繪圖模板。該模板旨在提供具有基本設置的文件，可用於創建具有相同設置的多個 Visio 文件。另一種類似的格式是 VST，它以二進制格式而不是 XML 格式保存。 Visio 2010 和更新版本支持 VTX 文件。 Visio 文件用於創建包含視覺對象、流程圖、UML diagram、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的圖形。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,9 +132,9 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VTX);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio 繪圖格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio 繪圖" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio 繪圖格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="微軟Visio格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio 格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="模板文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio 模具文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="繪圖模具" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="VST" description="矢量圖像文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio 模板文件" >}}

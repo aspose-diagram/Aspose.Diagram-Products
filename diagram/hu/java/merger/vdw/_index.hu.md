@@ -103,7 +103,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VDW);
 
     {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Diagram for Java API" %}}
 
- Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyedén betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges Microsoft Visio vagy más szoftver telepítése.  
+ A Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyen betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges a Microsoft Visio vagy más szoftver telepítése.  
 
 
 
@@ -118,7 +118,7 @@ dgrmF.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VDW);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal összevonják és összefűzik." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagramfrissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW fájlok a Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál arra, hogy Visio fájlokat konvertáljon számos különböző fájlformátumba, beleértve a PNG, BMP, PDF és más formátumokat. 
+A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagram frissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW-fájlok a(z) Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál a Visio fájlok számos különböző formátumba konvertálására, beleértve a PNG, BMP, PDF és más formátumokat. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -128,18 +128,18 @@ A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzo
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Java használatával számos más fájlformátum is egyesíthető, beleértve a következőket:" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio rajzok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio rajzformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vdx/" name="VDX" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsd/" name="VSD" description="Microsoft Visio Rajzok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdm/" name="VSDM" description="Microsoft Visio Rajzformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsdx/" name="VSDX" description="Microsoft Visio Formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vss/" name="VSS" description="Stencil fájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Stencil-fájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssm/" name="VSSM" description="Microsoft Visio Sablonfájlok" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vssx/" name="VSSX" description="Rajzsablonok" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vst/" name="VST" description="vektoros képfájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio sablonfájlok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstm/" name="VSTM" description="Microsoft Visio Sablonfájlok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vstx/" name="VSTX" description="Microsoft Visio Rajzsablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vsx/" name="VSX" description="Stencilek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio rajzsablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/merger/vtx/" name="VTX" description="Microsoft Visio Rajzsablon" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

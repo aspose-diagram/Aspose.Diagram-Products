@@ -2,7 +2,7 @@
 title: Visio Dokumentumok Python API - Aspose 
 weight: 4630
 url: /hu/python-java/ 
-description: Aspose.Diagram for Python via Java egy Visio JavaScript API a Microsoft Visio dokumentumok olvasásához, írásához és konvertálásához, például VSDX, VDX és egyéb formátumok
+description: Aspose.Diagram for Python via Java egy visio javascript API, amellyel olvashat, írhat és konvertálhat Microsoft Visio Olyan dokumentumokat, mint a VSDX, VDX és további formátumok
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Visio Fájlok API" h2="Hozzon létre, olvasson, írjon és exportáljon Microsoft Visio formátumokat, beleértve a VSDX, VDX, VSX, VTX és további formátumokat a Python API használatával." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
@@ -13,11 +13,11 @@ description: Aspose.Diagram for Python via Java egy Visio JavaScript API a Micro
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A(z) Aspose.Diagram for Python a(z) Java szolgáltatáson keresztül a Microsoft Visio dokumentumkezelési megoldása. Lehet olvasni, írni, védeni, exportálni és nyomtatni natív Visio formátumokat, valamint támogat néhány gyakran használt kép- és rögzített elrendezésű formátumot. Könnyű betölteni a meglévő fájlokat, módosítani a diagramelemeket a kívánt formátumba exportáláshoz, beleértve a képeket vagy rögzített elrendezésű formátumokat, például PDF vagy XPS.
+ A(z) Aspose.Diagram for Python ezen keresztül: Java egy Microsoft Visio dokumentumkezelési megoldás. Lehet olvasni, írni, védeni, exportálni és nyomtatni natív Visio formátumokat, valamint támogat néhány gyakran használt kép- és rögzített elrendezésű formátumot. Könnyű betölteni a meglévő fájlokat, módosítani a diagram elemeket a kívánt formátumba exportáláshoz, beleértve a képeket vagy rögzített elrendezésű formátumokat, például PDF vagy XPS.
 </p>
 
 <p>
- A(z) Aspose.Diagram for Python via Java egy önálló API, és nem igényel Microsoft Visio vagy más szoftver telepítését. Ezen túlmenően néhány egyszerűen elvégezhető feladat, például diagramok létrehozása a semmiből, különféle formátumok olvasása vagy írása, a tulajdonságok elérése és olvasása, beleértve az Visio objektumképleteket, diagramok exportálása többféle formátumba, diagramok nagy pontosságú nyomtatása és még sok más.
+ A(z) Aspose.Diagram for Python via Java egy önálló API, és nem igényel Microsoft Visio vagy más szoftver telepítését. Ezen túlmenően néhány egyszerűen elvégezhető feladat, például diagramok létrehozása a semmiből, különféle formátumok olvasása vagy írása, a tulajdonságok elérése és olvasása, beleértve a Visio objektumképleteket, diagramok exportálása többféle formátumba, diagramok nagy pontosságú nyomtatása és még sok más.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -299,7 +299,7 @@ description: Aspose.Diagram for Python via Java egy Visio JavaScript API a Micro
      Hozzon létre Visio dokumentumokat a semmiből
     </h2>
     <p>
-     Aspose.Diagram a(z) Python számára egyszerű és könnyen használható. Lehetővé teszi a felhasználók számára, hogy diagramokkal dolgozzanak anélkül, hogy megértenék a mögöttes formátumot, például VSDX fájlt hozhatnak létre a semmiből, mindössze néhány sornyi kóddal.
+     A Aspose.Diagram a(z) Python számára egyszerű és könnyen használható. Lehetővé teszi a felhasználók számára, hogy diagramokkal dolgozzanak anélkül, hogy megértenék a mögöttes formátumot, például VSDX fájlt hozhatnak létre a semmiből, mindössze néhány sornyi kóddal.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      A(z) Visio fájlok elérése és kezelése
     </h2>
     <p>
-     A Python diagram API lehetővé teszi a natív Microsoft Visio formátumok olvasását, valamint hozzáférést biztosít a diagramadatokhoz, például dokumentumhoz, oldalhoz, mesterhez, alakzathoz, stíluslaphoz, csatlakozáshoz és így tovább. Ezek az objektumok a API-on keresztül manipulálhatók, és az eredmény lemezre írható a támogatott formátumok bármelyikében.
+     A Python diagram API lehetővé teszi a natív Microsoft Visio formátumok olvasását, valamint hozzáférést biztosít az diagram adatokhoz, például dokumentumhoz, oldalhoz, mesterhez, alakzathoz, stíluslaphoz, csatlakozáshoz és így tovább. Ezek az objektumok a API-on keresztül manipulálhatók, és az eredmény a támogatott formátumok bármelyikében lemezre írható.
     </p>
    </div>
    <div class="col-lg-12">
@@ -323,7 +323,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      Exportálás a Képek közé
     </h2>
     <p>
-     A fejlesztők könnyedén betölthetnek Visio fájlt, és exportálhatják azokat népszerű képekbe, például PNG, TIFF, JPEG, BMP, SVG és EMF formátumba. A Python könyvtár támogatja a Visio fájlok PDF és amp; XPS formátumok a legmagasabb hűséggel.
+     fejlesztők könnyedén betölthetnek Visio fájlt, és exportálhatják azokat népszerű képekbe, például PNG, TIFF, JPEG, BMP, SVG és EMF formátumba. A Python könyvtár támogatja a Visio fájlok PDF és amp; XPS formátumok a legmagasabb hűséggel.
     </p>
     <div class="codeblock" id="code">
      <h3>

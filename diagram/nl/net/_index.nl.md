@@ -2,17 +2,17 @@
 title: C# .NET Visio Diagram API - Aspose 
 weight: 1020
 url: /nl/net/ 
-description: C# VB.NET ASP.NET Visio diagrambibliotheek om Visio diagrammen te exporteren VSD VSDX VSS VST VSX VTX VDW VDX VSSX en VSTX naar PDF XPS HTML SVG SWF- en afbeeldingsindelingen
+description: C# VB.NET ASP.NET Visio diagrambibliotheek om Visio diagrammen VSD VSDX VSS VST VSX VTX VDW VDX VSSX en VSTX naar PDF XPS te exporteren HTML SVG SWF- en afbeeldingsindelingen
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio-API\'s voor bestandsverwerking" h2="Genereer, bewerk, manipuleer en transformeer Microsoft Visio-diagrammen naar XPS-, HTML-, SVG-, SWF-, XAML-, afbeeldingen of PDF-indelingen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio API\'s voor bestandsverwerking" h2="Genereer, bewerk, manipuleer en transformeer Microsoft Visio-diagrammen naar XPS-, HTML-, SVG-, SWF-, XAML-, afbeeldingen of PDF-indelingen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NET is een gespecialiseerde API die is ontworpen om te werken met Microsoft Visio-documenten. Het stelt ontwikkelaars in staat om te creëren, manipuleren &amp; converteer native Visio formaten. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van het diagram manipuleren om het resultaat naar andere indelingen te exporteren.</p>
+<p>Aspose.Diagram for .NET is een gespecialiseerde API die is ontworpen om met Microsoft Visio-documenten te werken. Het stelt ontwikkelaars in staat om te creëren, manipuleren &amp; converteer native Visio-formaten. Ontwikkelaars kunnen vanaf het begin diagrammen maken en eenvoudig bestaande bestanden laden en de elementen van de diagram manipuleren om het resultaat naar andere formaten te exporteren.</p>
 
 <p>Aspose.Diagram for .NET ondersteunt bijna alle oorspronkelijke Visio-indelingen, evenals enkele veelgebruikte afbeeldings- &amp; vaste indelingen. Deze API is een alternatief voor het Microsoft Visio Object Model en levert betere prestaties. Het maakt gebruik van de geavanceerde functionaliteit van Visio Services om documenten op een server te manipuleren.</p>
 
@@ -168,7 +168,7 @@ description: C# VB.NET ASP.NET Visio diagrambibliotheek om Visio diagrammen te e
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Kader
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -334,7 +334,7 @@ description: C# VB.NET ASP.NET Visio diagrambibliotheek om Visio diagrammen te e
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lees de eigenschappen van verschillende objecten van het diagram
+     Lees de eigenschappen van verschillende objecten van de diagram
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET Visio diagrambibliotheek om Visio diagrammen te e
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Diagram afdrukken op een server via XpsPrint API
+     Print diagram op een server via XpsPrint API
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: C# VB.NET ASP.NET Visio diagrambibliotheek om Visio diagrammen te e
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Sla het diagram op in verschillende formaten - C#
+      Sla de diagram op in verschillende formaten - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -469,10 +469,10 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manipuleer Microsoft Visio-diagrammen
+     Manipuleer Microsoft Visio diagrammen
     </h2>
     <p>
-     Aspose.Diagram for .NET API maakt het lezen van Microsoft Visio-bestanden in de oorspronkelijke VSD/VSDX-indeling mogelijk, evenals andere indelingen, waaronder VSS, VST, VSX, VTX, VDW, VDX, VSSX, VSTX, VSDM, VSSM en VSTM. De inhoud van het diagram kan worden gemanipuleerd via de API. Nadat de vereiste wijzigingen in het document zijn aangebracht, kan het document in een van de ondersteunde formaten naar schijf worden geschreven.
+     Aspose.Diagram for .NET API staat het lezen van Microsoft Visio-bestanden in de oorspronkelijke VSD/VSDX-indeling toe, evenals andere indelingen, waaronder VSS, VST, VSX, VTX, VDW, {9 }, VSSX, VSTX, VSDM, VSSM en VSTM. De inhoud van de diagram kan worden gemanipuleerd via de API. Nadat de vereiste wijzigingen in het document zijn aangebracht, kan het document in een van de ondersteunde formaten naar schijf worden geschreven.
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Toegang tot gegevens uit Visio diagrammen
     </h2>
     <p>
-     Aspose.Diagram for .NET stelt ontwikkelaars in staat om eenvoudig de gegevens van het diagram te lezen, zoals documenteigenschappen, pagina's, masters, vormen, afbeeldingen, verbindingen, oplossing-XML, opmerkingen, hyperlinks, stylesheet, lagen, door de gebruiker gedefinieerde cellen, enzovoort.
+     Aspose.Diagram for .NET stelt ontwikkelaars in staat om eenvoudig de gegevens van de diagram te lezen, zoals documenteigenschappen, pagina's, masters, vormen, afbeeldingen, verbindingen, oplossing-XML, opmerkingen, hyperlinks, stylesheet, lagen, door de gebruiker gedefinieerde cellen enzovoort .
     </p>
    </div>
    <div class="col-lg-12">
@@ -530,10 +530,10 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office-automatisering – niet nodig
+     Microsoft Office Automatisering – niet nodig
     </h2>
     <p>
-     Aspose.Diagram for .NET is gebouwd met beheerde code waarvoor Microsoft Office of Microsoft Visio nooit op de computer hoeft te worden geïnstalleerd om met Visio-documentverwerking te werken. Het is een perfect Microsoft Office Visio-automatiseringsalternatief in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
+     Aspose.Diagram for .NET is gebouwd met beheerde code die nooit Microsoft Office of Microsoft Visio hoeft te worden geïnstalleerd op de machine om te werken met Visio documentverwerking. Het is een perfect Microsoft Office Visio automatiseringsalternatief in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
     </p>
    </div>
   </div>

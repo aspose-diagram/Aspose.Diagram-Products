@@ -2,7 +2,7 @@
 title: VSS-Dokument mit automatischem Layout über .NET 
 weight: 3050
 url: /de/net/autolayout/vss/ 
-description: C# Quellcode für automatisches Layout vss-Datei auf .NET Framework, .NET Core, Mono Plattformen.
+description: C#-Quellcode für das automatische Layout vss-Datei auf den Plattformen .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VSS-Dokument mit automatischem Layout in C#" h2="Natives und hochleistungsfähiges VSS-Dokument mit automatischem Layout unter Verwendung serverseitiger Aspose.Diagram for .NET-APIs, ohne Verwendung von Software wie Microsoft oder Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein grundlegendes Dokument, mit dem zusammengeführt und verkettet wird
+ Ein grundlegendes automatisches Layout von Dokumenten mit
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  APIs können mit nur wenigen Codezeilen erstellt werden.
 
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Über Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram ist eine Manipulation des Microsoft Visio-Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
+ Aspose.Diagram ist eine Microsoft Visio Manipulation des Dokumentformats API. Man kann einfach Diagrammelemente laden, erstellen, modifizieren, manipulieren und Visio-Diagramme in andere Formate wie PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF und mehr konvertieren. Es ist ein eigenständiges API und erfordert keine Installation von Microsoft Visio oder anderer Software.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird automatisch angeordnet und sofort verkettet." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS sind Schablonendateien, die mit Microsoft Visio 2007 und früher erstellt wurden. Ein relativ neues Dateiformat ist .VSSX, das mit Microsoft Visio 2013 eingeführt wurde. Schablonendateien stellen Zeichnungsobjekte bereit, die in eine .VSD Visio-Zeichnung eingefügt werden können. Microsoft Visio selbst ist dafür bekannt, Zeichnungselemente wie Sammlungen von Formen, Konnektoren, Flussdiagramme, Netzwerklayouts, UML-Diagramme, Softwarediagramme, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen zu erstellen. Es hat auch umfangreiche Konvertierungsfunktionen von Visio Dokumenten in andere Dateiformate wie PNG, BMP, PDF und andere. Visio ist sowohl für Windows als auch für Mac OS verfügbar. 
+VSS sind Schablonendateien, die mit Microsoft Visio 2007 und früher erstellt wurden. Ein relativ neues Dateiformat ist .VSSX, das mit Microsoft Visio 2013 eingeführt wurde. Schablonendateien stellen Zeichnungsobjekte bereit, die in eine .VSD Visio-Zeichnung eingefügt werden können. Microsoft Visio selbst ist dafür bekannt, Zeichnungselemente wie Sammlungen von Formen, Konnektoren, Flussdiagramme, Netzwerklayouts, UML-Diagramme, Softwarediagramme, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen zu erstellen. Es hat auch umfangreiche Konvertierungsfunktionen von Visio-Dokumenten in andere Dateiformate wie PNG, BMP, PDF und andere. Visio ist sowohl für Windows als auch für Mac OS verfügbar. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -105,7 +105,7 @@ VSS sind Schablonendateien, die mit Microsoft Visio 2007 und früher erstellt wu
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Visio-Formate" subTitle="Mit C# kann man problemlos verschiedene Formate automatisch anordnen, einschließlich." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vsd/" name="Vsd" description="Microsoft Visio-Zeichnungen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vsd/" name="Vsd" description="Microsoft Visio Zeichnungen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vdx/" name="Vdx" description="Visio Zeichnungs-XML-Datei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vssx/" name="VSSX" description="Visio Schablonendatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/autolayout/vstx/" name="VSTX" description="Visio Vorlagendatei" >}}

@@ -1,8 +1,8 @@
 ﻿---
-title: 通过 .NET 合并 VTX 文件 
+title: 通过 .NET 合并 VTX 个文件 
 weight: 4330
 url: /zh/net/merger/vtx/ 
-description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 COM Interop 上组合 VTX 文档。
+description: C# 源代码，用于组合 .NET Framework、.NET Core、Mono 或 COM Interop 上的 VTX 文档。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="合并 C# 中的 VTX 格式" h2="使用服务器端 Aspose.Diagram for .NET API 的本机和高性能 VTX 文档合并，无需使用任何软件，如 Microsoft 或 Open Office、Adobe PDF。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VTX" >}}
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="在 C# 中合并 VTX 文件的步骤" %}}
+{{% blocks/products/pf/agp/feature-section-col title="合并 C# 中的 VTX 文件的步骤" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -61,10 +61,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 COM Interop 的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Diagram for .NET 在您的项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="合并 VTX 文件 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="合并 VTX 个文件 - C#" offSpacer="" %}}
 
 ```cs
 Diagram dgF = new Diagram( "f.vtx");
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vtx");
 
     {{% blocks/products/pf/agp/content h2="关于Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
+ Aspose.Diagram 是 Microsoft Visio 文档格式操作 API。您可以轻松加载、创建、修改、操作包括图形元素在内的 Visio 图表转换为其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一个独立的 API，不需要安装 Microsoft Visio 或任何其他软件。  
 
 
 
@@ -96,14 +96,14 @@ Diagram dgF = new Diagram( "f.vtx");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="在线 VTX 合并现场演示" sectionDescription="立即通过访问我们的合并 VTX 文档 [现场演示网站](https://products.aspose.app/diagram/merger).现场演示有以下好处" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="在线VTX合并现场演示" sectionDescription="立即通过访问我们的合并 VTX 个文档 [现场演示网站](https://products.aspose.app/diagram/merger).现场演示有以下好处" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 VTX 文件。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 它将立即合并和连接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
-扩展名为 .vtx 的文件是 Microsoft Visio 绘图模板，以 XML 文件格式保存到光盘。该模板旨在提供具有基本设置的文件，可用于创建具有相同设置的多个 Visio 文件。另一种类似的格式是 VST，它以二进制格式而不是 XML 格式保存。 Visio 2010 和更新版本支持 VTX 文件。 Visio 文件用于创建包含视觉对象、流程图、UML 图、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。 
+扩展名为 .vtx 的文件是以 XML 文件格式保存到光盘的 Microsoft Visio 绘图模板。该模板旨在提供具有基本设置的文件，可用于创建具有相同设置的多个 Visio 文件。另一种类似的格式是 VST，它以二进制格式而不是 XML 格式保存。 Visio 2010 和更新版本支持 VTX 文件。 Visio 文件用于创建包含视觉对象、流程图、UML diagram、信息流、组织结构图、软件图、网络布局、数据库模型、对象映射和其他类似信息的图形。使用 Visio 生成的文件也可以导出为不同的文件格式，例如 PNG、BMP、PDF 等。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -117,9 +117,9 @@ Diagram dgF = new Diagram( "f.vtx");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio 绘图格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="Microsoft Visio 绘图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio 绘图格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="微软Visio格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio 格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vss/" name="VSS" description="模板文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio 模具文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio 模板文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssx/" name="VSSX" description="绘图模具" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vst/" name="VST" description="矢量图像文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Microsoft Visio 模板文件" >}}

@@ -2,7 +2,7 @@
 title: Διαχωρισμός αρχείων VSS μέσω .NET 
 weight: 1300
 url: /el/net/splitter/vss/ 
-description: C# πηγαίος κώδικας για Split vss αρχείο σε .NET Framework, .NET Core, Mono Platforms.
+description: C# πηγαίος κώδικας για Split vss αρχείο σε πλατφόρμες .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Διαχωρισμός VSS σε C#" h2="Εγγενής και υψηλής απόδοσης διαχωριστής εγγράφων VSS χρησιμοποιώντας API από την πλευρά του διακομιστή Aspose.Diagram for .NET, χωρίς τη χρήση λογισμικού όπως Microsoft ή Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Diagram for .NET API" %}}
 
- Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου της Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
+ Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα συμπιεστεί και θα ενωθεί αμέσως." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-Τα VSS είναι αρχεία στένσιλ που δημιουργήθηκαν με το Microsoft Visio 2007 και παλαιότερες εκδόσεις. Μια σχετικά νέα μορφή αρχείου είναι το .VSSX που παρουσιάστηκε με το Microsoft Visio 2013. Τα αρχεία στένσιλ παρέχουν αντικείμενα σχεδίασης που μπορούν να συμπεριληφθούν σε ένα σχέδιο .VSD Visio. Η ίδια η Microsoft Visio είναι γνωστή για τη δημιουργία στοιχείων σχεδίασης όπως συλλογή σχημάτων, συνδέσεις, διαγράμματα ροής, διάταξη δικτύου, διαγράμματα UML, διαγράμματα λογισμικού, μοντέλα βάσεων δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Διαθέτει επίσης πλούσιες δυνατότητες μετατροπής εγγράφων Visio σε άλλες μορφές αρχείων όπως PNG, BMP, PDF και άλλες. Το Visio είναι διαθέσιμο τόσο για Windows όσο και για Mac OS. 
+Τα VSS είναι αρχεία στένσιλ που δημιουργήθηκαν με το Microsoft Visio 2007 και παλαιότερα. Μια σχετικά νέα μορφή αρχείου είναι το .VSSX που εισήχθη με το Microsoft Visio 2013. Τα αρχεία στένσιλ παρέχουν αντικείμενα σχεδίασης που μπορούν να συμπεριληφθούν σε ένα σχέδιο .VSD Visio. Το ίδιο το Microsoft Visio είναι γνωστό για τη δημιουργία στοιχείων σχεδίασης όπως συλλογή σχημάτων, συνδέσεις, διαγράμματα ροής, διάταξη δικτύου, διαγράμματα UML, διαγράμματα λογισμικού, μοντέλα βάσεων δεδομένων, αντιστοίχιση αντικειμένων και άλλες παρόμοιες πληροφορίες. Διαθέτει επίσης πλούσιες δυνατότητες μετατροπής εγγράφων Visio σε άλλες μορφές αρχείων όπως PNG, BMP, PDF και άλλες. Το Visio είναι διαθέσιμο τόσο για Windows όσο και για Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,7 +105,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μορφές διαχωρισμού" subTitle="Χρησιμοποιώντας το C#, μπορεί κανείς εύκολα να χωρίσει διαφορετικές μορφές, συμπεριλαμβανομένων." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Σχέδια Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vsd/" name="Vsd" description="Microsoft Visio Σχέδια" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vdx/" name="Vdx" description="Visio σχέδιο αρχείου XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vssx/" name="VSSX" description="Visio Αρχείο στένσιλ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/splitter/vstx/" name="VSTX" description="Αρχείο προτύπου Visio" >}}

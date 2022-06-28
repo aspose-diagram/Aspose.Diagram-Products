@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje
+ Základní automatické rozvržení dokumentu s
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Vyberte stránku prostřednictvím jejího ID
 + Použijte funkci Rozvržení stránky
 + Zavolejte metodu Save() a předejte název souboru (úplnou cestu) a formát (VSDX) jako parametr.
-+ Nyní můžete otevřít a používat soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
++ Nyní můžete otevřít a použít soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí, jako je Microsoft Visual Studio- Aspose.Diagram DLL for .NET, na kterou odkazuje váš projekt – Nainstalujte z webu NuGet pomocí tlačítka Stáhnout výše
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Automatické rozložení VSD souborů – C#" offSpacer="" %}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Bude automaticky rozvržen a okamžitě zřetězen." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-Soubory VSD jsou kresby vytvořené pomocí aplikace Microsoft Visio, které představují různé grafické objekty a vzájemné propojení mezi nimi. Takové výkresy mohou obsahovat vizuální objekty, jako jsou vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších. 
+Soubory VSD jsou kresby vytvořené pomocí aplikace Microsoft Visio, které představují různé grafické objekty a vzájemné propojení mezi nimi. Takové výkresy mohou obsahovat vizuální objekty, jako jsou vizuální objekty, vývojové diagramy, UML diagram, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

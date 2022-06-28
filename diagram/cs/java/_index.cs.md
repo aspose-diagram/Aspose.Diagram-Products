@@ -5,7 +5,7 @@ url: /cs/java/
 description: Knihovna Visio pro vytváření, manipulaci a konverzi diagramů. Exportujte diagramy do více formátů v aplikacích založených na Java
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Manipulujte a exportujte soubory Microsoft Office Visio do formátů PDF, HTML, Obrázky a XAML bez jakýchkoli závislostí Microsoft Office Visio." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Manipulujte a exportujte soubory Microsoft Office Visio do formátů PDF, HTML, obrázků a XAML bez jakýchkoli závislostí Microsoft Office Visio." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Knihovna Visio pro vytváření, manipulaci a konverzi diagramů. E
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java je výkonný nástroj pro zpracování dokumentů společnosti Microsoft VisioAPI. Poskytuje běžné funkce, jako je vytvářet, analyzovat &amp; převést nativní formáty Visio a také podporuje některé běžně používané formáty obrázků a pevných rozvržení. Aplikace mohou načítat existující dokumenty a manipulovat s prvky diagramu tak, aby exportovaly výsledek do vlastních formátů, obrázků nebo formátů s pevným rozvržením.
+ Aspose.Diagram for Java je výkonné Microsoft Visio zpracování dokumentů API. Poskytuje běžné funkce, jako je vytvářet, analyzovat &amp; převést nativní formáty Visio a také podporuje některé běžně používané formáty obrázků a pevných rozvržení. Aplikace mohou načítat existující dokumenty a manipulovat s prvky diagram tak, aby exportovaly výsledek do vlastních formátů, obrázků nebo formátů s pevným rozvržením.
 </p>
 
 <p>
@@ -408,10 +408,10 @@ description: Knihovna Visio pro vytváření, manipulaci a konverzi diagramů. E
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Analyzujte dokumenty Microsoft Visio
+     Analyzujte Microsoft Visio dokumentů
     </h2>
     <p>
-     Java diagram API umožňuje číst nativní formáty souborů aplikace Microsoft Visio, a tak vám umožňuje přistupovat k datům diagramu, jako jsou stránky dokumentu, vlastnosti, předlohy, obrázky, tvary, spojení, XML řešení, vrstvy, hypertextové odkazy, komentáře , StyleSheet, uživatelem definované buňky a tak dále. S těmito objekty lze manipulovat pomocí API a výsledek lze zapsat na disk v jakémkoli z podporovaných formátů.
+     Java diagram API umožňuje číst nativní formáty souborů aplikace Microsoft Visio, a tak vám umožňuje přístup k datům diagram, jako jsou stránky dokumentu, vlastnosti, předlohy, obrázky, tvary, propojení, XML řešení , Vrstvy, Hypertextové odkazy, Komentáře, StyleSheet, uživatelem definované buňky a tak dále. S těmito objekty lze manipulovat pomocí API a výsledek lze zapsat na disk v jakémkoli z podporovaných formátů.
     </p>
    </div>
    <div class="col-lg-12">
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Uspořádejte tvary v kontejneru
     </h2>
     <p>
-     Vývojáři obvykle přidávají tvary do kontejneru, aby byly věci dobře organizované a srozumitelné. Nádoby přidávají vizuální ohraničení kolem tvarů, včetně štítku. K přidání kontejneru a dílčích tvarů do diagramu mohou vývojáři použít knihovnu, protože poskytuje snadný a rychlý přístup.
+     Vývojáři obvykle přidávají tvary do kontejneru, aby byly věci dobře organizované a srozumitelné. Nádoby přidávají vizuální ohraničení kolem tvarů, včetně štítku. K přidání kontejneru a dílčích tvarů do diagram mohou vývojáři použít knihovnu, protože poskytuje snadný a rychlý přístup.
     </p>
    </div>
    <div class="col-lg-12">

@@ -2,7 +2,7 @@
 title: แปลง VSDM เป็น SWF ผ่าน C# 
 weight: 2490
 url: /th/net/conversion/vsdm-to-swf/ 
-description: โค้ดตัวอย่างสำหรับการแปลง VSDM เป็น SWF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ VSDM แบบแบตช์เป็นการแปลง SWF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
+description: โค้ดตัวอย่างสำหรับการแปลง VSDM เป็น SWF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์ VSDM เป็นการแปลง SWF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง VSDM เป็น SWF ผ่าน C#" h2="ส่งออกไฟล์ Microsoft® Visio VSDM เป็น SWF บน .NET Framework, .NET Core, Mono หรือ COM Interop" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SWF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSDM" >}}
@@ -14,7 +14,7 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
  ในการแปลง VSDM เป็น SWF เราจะใช้
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API ซึ่งเป็นการจัดการและแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและการแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  package manager ค้นหา
  Aspose.Diagram 
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET นักพัฒนาซอฟต์แวร์สามารถโหลดและแปลงไฟล์ VSDM เป็น SWF ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ นักพัฒนาซอฟต์แวร์ .NET สามารถโหลดและแปลงไฟล์ VSDM เป็น SWF ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,10 +54,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดง VSDM เป็น SWF C# Conversion" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดงการแปลง VSDM เป็น SWF C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-swf.cs" >}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="แอพฟรีเพื่อแปลง VSDM เป็น SWF" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง VSDM เป็น SWF](https://products.aspose.app/diagram/conversion/vsdm-to-swf) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="แอปฟรีสำหรับแปลง VSDM เป็น SWF" sectionDescription="ตรวจสอบการสาธิตสดของเราสำหรับ [การแปลง VSDM เป็น SWF](https://products.aspose.app/diagram/conversion/vsdm-to-swf) พร้อมสิทธิประโยชน์ดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ VSDM ของคุณแล้วกดปุ่ม \"แปลง\"" >}}
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
-ไฟล์ที่มีนามสกุล VSDM คือไฟล์รูปวาดที่สร้างด้วยแอปพลิเคชัน Microsoft Visio ที่รองรับมาโคร ไฟล์ VSDM เป็นภาพวาด OPC/XML ที่คล้ายกับ VSDX แต่ยังให้ความสามารถในการเรียกใช้มาโครเมื่อเปิดไฟล์ แมโครคือการกระทำ/ขั้นตอนที่ผู้ใช้กำหนดซึ่งพัฒนาขึ้นใน Visual Basic for Applications (VBA) และสามารถใช้เพื่อทำงานซ้ำได้ รูปแบบไฟล์ VSDM ถูกนำมาใช้กับการเปิดตัวของ Microsoft Visio 2013 ไฟล์ Visio ถูกใช้เพื่อสร้างภาพวาดที่มีวัตถุที่มองเห็นได้ แผนผังลำดับงาน ไดอะแกรม UML การไหลของข้อมูล แผนผังองค์กร แผนผังซอฟต์แวร์ โครงร่างเครือข่าย โมเดลฐานข้อมูล การทำแผนที่วัตถุและข้อมูลอื่นที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ
+ไฟล์ที่มีนามสกุล VSDM คือไฟล์รูปวาดที่สร้างด้วยแอปพลิเคชัน Microsoft Visio ที่รองรับมาโคร ไฟล์ VSDM เป็นภาพวาด OPC/XML ที่คล้ายกับ VSDX แต่ยังให้ความสามารถในการเรียกใช้มาโครเมื่อเปิดไฟล์ แมโครคือการกระทำ/ขั้นตอนที่ผู้ใช้กำหนดซึ่งพัฒนาขึ้นใน Visual Basic for Applications (VBA) และสามารถใช้เพื่อทำงานซ้ำได้ รูปแบบไฟล์ VSDM ถูกนำมาใช้เมื่อเปิดตัว Microsoft Visio 2013 ไฟล์ Visio ถูกใช้เพื่อสร้างภาพวาดที่มีวัตถุที่มองเห็นได้ แผนผังลำดับงาน ไดอะแกรม UML การไหลของข้อมูล แผนผังองค์กร ไดอะแกรมซอฟต์แวร์ เค้าโครงเครือข่าย , โมเดลฐานข้อมูล, การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน ไฟล์ที่สร้างโดยใช้ Visio ยังสามารถส่งออกไปยังรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -107,9 +107,9 @@ SWF คือรูปแบบไฟล์ที่ใช้ในการข�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-bmp/" name="VSDM ถึง BMP" description="ภาพบิตแมป" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-emf/" name="VSDM ถึง EMF" description="รูปแบบไฟล์ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-html/" name="VSDM เป็น HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-jpeg/" name="VSDM เป็น JPEG" description="ภาพ JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-pdf/" name="VSDM เป็น PDF" description="รูปแบบเอกสารพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-png/" name="VSDM เป็น PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-jpeg/" name="VSDM ถึง JPEG" description="ภาพ JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-pdf/" name="VSDM ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-png/" name="VSDM ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-svg/" name="VSDM ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-tiff/" name="VSDM ถึง TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vdx/" name="VSDM ถึง VDX" description="Microsoft Visio รูปแบบการวาด" >}}
@@ -119,9 +119,9 @@ SWF คือรูปแบบไฟล์ที่ใช้ในการข�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstm/" name="VSDM ถึง VSTM" description="Microsoft Visio ไฟล์เทมเพลต" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstx/" name="VSDM ถึง VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsx/" name="VSDM ถึง VSX" description="ลายฉลุ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vtx/" name="VSDM เป็น VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vtx/" name="VSDM ถึง VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xaml/" name="VSDM ถึง XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xps/" name="VSDM เป็น XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xps/" name="VSDM ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -60,7 +60,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VTX thành tệp 
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Tải tệp VTX với một phiên bản của lớp Diagram1. Gọi Diagram phương thức .save với đường dẫn tệp đầu ra và SaveFileFormat dưới dạng tham số1. Tệp XAML sẽ được lưu tại đường dẫn được chỉ định
+1. Tải tệp VTX bằng một phiên bản của lớp Diagram1. Gọi Diagram phương thức .save với đường dẫn tệp đầu ra và SaveFileFormat dưới dạng tham số1. Tệp XAML sẽ được lưu tại đường dẫn được chỉ định
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="yêu cầu hệ thống" %}}
@@ -71,7 +71,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VTX thành tệp 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc một hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã nguồn chuyển đổi VTX sang XAML Java" offSpacer="" %}}
@@ -94,15 +94,15 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Bản trình diễn trực tiếp chuyển đổi VTX sang XAML" sectionDescription="[Chuyển đổi VTX sang XAML](https://products.aspose.app/diagram/conversion/vtx-to-xaml) ngay bây giờ bằng cách truy cập trang web Demos Trực tiếp của chúng tôi. Bản demo trực tiếp có những lợi ích sau" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="VTX sang Bản trình diễn Trực tiếp Chuyển đổi XAML" sectionDescription="[Chuyển đổi VTX sang XAML](https://products.aspose.app/diagram/conversion/vtx-to-xaml) ngay bây giờ bằng cách truy cập trang web Demos Trực tiếp của chúng tôi. Bản demo trực tiếp có những lợi ích sau" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp VTX của bạn, tệp sẽ được chuyển đổi ngay lập tức sang XAML." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp VTX của bạn, tệp sẽ được chuyển đổi ngay lập tức thành XAML." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Bạn sẽ nhận được liên kết tải xuống." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Thư viện Thao tác" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/image/vtx/" >}}
 
-Tệp có phần mở rộng .vtx là mẫu bản vẽ Visio của Microsoft được lưu vào đĩa ở định dạng tệp XML. Mẫu nhằm cung cấp một tệp có cài đặt cơ bản có thể được sử dụng để tạo nhiều Visio tệp có cùng cài đặt. Một định dạng tương tự khác là VST được lưu ở định dạng nhị phân chứ không phải XML. Tệp VTX được hỗ trợ với Visio 2010 và các phiên bản mới hơn. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, biểu đồ luồng, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
+Tệp có phần mở rộng. vtx là mẫu bản vẽ Microsoft Visio được lưu vào đĩa ở định dạng tệp XML. Mẫu nhằm cung cấp một tệp có cài đặt cơ bản có thể được sử dụng để tạo nhiều Visio tệp có cùng cài đặt. Một định dạng tương tự khác là VST được lưu ở định dạng nhị phân chứ không phải XML. VTX tệp được hỗ trợ với Visio 2010 và các phiên bản mới hơn. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, lưu đồ, UML diagram, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
 
-XAML, Ngôn ngữ Đánh dấu Ứng dụng Có thể Mở rộng, các tệp mở rộng mô tả các yếu tố giao diện người dùng cho các ứng dụng phần mềm dựa trên Windows Presentation Foundation (WPF). Mặc dù là một ngôn ngữ, nhưng nó không yêu cầu phải được lập trình vì nó dựa trên định dạng chuẩn của XML, dễ sử dụng và dễ hiểu. XAML (phát âm là "zammel") được phát triển bởi Microsoft với mục đích cụ thể là tạo giao diện người dùng. Từ viết tắt ban đầu của nó là viết tắt của Extensible Avalon Markup Language, trong đó Avalon là tên mã của WPF. Các tệp XAML đôi khi cũng được lưu với phần mở rộng XOML.
+XAML, Ngôn ngữ Đánh dấu Ứng dụng Mở rộng, các tệp mở rộng mô tả các yếu tố giao diện người dùng cho các ứng dụng phần mềm dựa trên Windows Presentation Foundation (WPF). Mặc dù là một ngôn ngữ, nhưng nó không yêu cầu phải được lập trình vì nó dựa trên định dạng chuẩn của XML, dễ sử dụng và dễ hiểu. XAML (phát âm là "zammel") được phát triển bởi Microsoft với mục đích cụ thể là tạo giao diện người dùng. Từ viết tắt ban đầu của nó là viết tắt của Extensible Avalon Markup Language, trong đó Avalon là tên mã của WPF. Các tệp XAML đôi khi cũng được lưu với phần mở rộng XOML.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -140,13 +140,13 @@ XAML, Ngôn ngữ Đánh dấu Ứng dụng Có thể Mở rộng, các tệp m�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-png/" name="VTX ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-svg/" name="VTX ĐẾN SVG" description="Đồ họa vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-tiff/" name="VTX ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX ĐẾN VDX" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX ĐẾN VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX ĐẾN VSDX" description="Định dạng Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX ĐẾN VSSM" description="Tệp Microsoft Visio Stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vdx/" name="VTX ĐẾN VDX" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdm/" name="VTX ĐẾN VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsdx/" name="VTX ĐẾN VSDX" description="Microsoft Visio Định dạng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssm/" name="VTX ĐẾN VSSM" description="Microsoft Visio Tệp stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vssx/" name="VTX ĐẾN VSSX" description="Vẽ giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX ĐẾN VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX ĐẾN VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstm/" name="VTX ĐẾN VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vstx/" name="VTX ĐẾN VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-vsx/" name="VTX ĐẾN VSX" description="Giấy nến" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vtx-to-xps/" name="VTX ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
 

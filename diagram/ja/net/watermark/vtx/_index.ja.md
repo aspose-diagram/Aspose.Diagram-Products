@@ -2,7 +2,7 @@
 title: .NET経由の透かしVTXドキュメント 
 weight: 3050
 url: /ja/net/watermark/vtx/ 
-description: .NETフレームワーク、.NETコア、Monoプラットフォーム上のvtxファイルに透かしを追加するためのC#ソースコード。
+description: .NET Framework、.NETコア、Monoプラットフォーム上のvtxファイルに透かしを追加するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#のVTXにテキスト透かしを追加" h2="MicrosoftやOpenOffice、Adobe PDFなどのソフトウェアを使用せずに、サーバー側のAspose.Diagramfor .NETAPIを使用したネイティブで高性能なVTXドキュメントの透かし。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="C#でVTXファイルに透かしを入れる手順" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C#のVTXファイルに透かしを入れる手順" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windowsまたは.NETフレームワーク、.NETコア、Mono、またはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
+- MicrosoftWindowsまたは.NETFramework、.NETコア、MonoまたはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="透かしVTXファイル-C#" offSpacer="" %}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="約Aspose.Diagramfor .NETAPI" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 透かしが入り、即座に連結されます。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VTX" readMoreLink="https://docs.fileformat.com/visio/vtx/" >}}
-拡張子が.vtxのファイルは、XMLファイル形式でディスクに保存されるMicrosoftVisio図面テンプレートです。テンプレートは、同じ設定の複数のVisioファイルを作成するために使用できる基本設定のファイルを提供することを目的としています。もう1つの同様の形式は、XMLではなくバイナリ形式で保存されるVSTです。 VTXファイルは、Visio2010以降のバージョンでサポートされています。 Visioファイルは、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織チャート、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 
+拡張子が.vtxのファイルは、XMLファイル形式でディスクに保存されるMicrosoftVisio図面テンプレートです。このテンプレートは、同じ設定の複数のVisioファイルを作成するために使用できる基本設定のファイルを提供することを目的としています。もう1つの同様の形式は、XMLではなくバイナリ形式で保存されるVSTです。 VTXファイルは、Visio2010以降のバージョンでサポートされています。 Visioファイルは、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

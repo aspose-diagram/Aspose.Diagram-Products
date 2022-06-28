@@ -2,7 +2,7 @@
 title: แปลง VSSX เป็น PDF ผ่าน C# 
 weight: 800
 url: /th/net/conversion/vssx-to-pdf/ 
-description: โค้ดตัวอย่างสำหรับการแปลง VSSX เป็น PDF C# ใช้ API โค้ดตัวอย่างสำหรับไฟล์ VSSX แบบแบตช์เป็นการแปลง PDF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
+description: โค้ดตัวอย่างสำหรับการแปลง VSSX เป็น PDF C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์ VSSX เพื่อแปลงเป็น PDF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง VSSX เป็น PDF ผ่าน C#" h2="ส่งออกไฟล์ Microsoft® Visio VSSX เป็น PDF บน .NET Framework, .NET Core, Mono หรือ COM Interop" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSSX" >}}
@@ -14,7 +14,7 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
  ในการแปลง VSSX เป็น PDF เราจะใช้
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API ซึ่งเป็นการจัดการและแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและการแปลงเอกสารที่มีคุณลักษณะหลากหลาย มีประสิทธิภาพ และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  package manager ค้นหา
  Aspose.Diagram 
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET นักพัฒนาสามารถโหลดและแปลงไฟล์ VSSX เป็น PDF ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ .NET นักพัฒนาซอฟต์แวร์สามารถโหลดและแปลงไฟล์ VSSX เป็น PDF ได้อย่างง่ายดายโดยใช้โค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -54,10 +54,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดง VSSX เป็น PDF C# Conversion" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างนี้แสดงการแปลง VSSX เป็น PDF C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssx-to-pdf.cs" >}}
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSSX" readMoreLink="https://docs.fileformat.com/image/vssx/" >}}
-ไฟล์ที่มีนามสกุล .VSSX เป็นการวาดสเตนซิลที่สร้างด้วย Microsoft Visio 2013 ขึ้นไป รูปแบบไฟล์ VSSX สามารถเปิดได้ตั้งแต่ Visio 2013 ขึ้นไป ไฟล์ Visio เป็นที่รู้จักสำหรับการแสดงองค์ประกอบการวาดภาพต่างๆ เช่น การรวบรวมรูปร่าง ตัวเชื่อมต่อ ผังงาน เค้าโครงเครือข่าย ไดอะแกรม UML ซอฟต์แวร์ไดอะแกรม โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน Microsoft Visio ยังให้ความสามารถในการแปลงไฟล์ Visio เป็นรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ สามารถใช้ได้กับทั้ง Windows และ Mac OS
+ไฟล์ที่มีนามสกุล .VSSX เป็นการวาดสเตนซิลที่สร้างด้วย Microsoft Visio 2013 ขึ้นไป รูปแบบไฟล์ VSSX สามารถเปิดได้ตั้งแต่ Visio 2013 ขึ้นไป ไฟล์ Visio เป็นที่รู้จักสำหรับการแสดงองค์ประกอบการวาดที่หลากหลาย เช่น การรวบรวมรูปร่าง ตัวเชื่อมต่อ ผังงาน เค้าโครงเครือข่าย ไดอะแกรม UML ซอฟต์แวร์ไดอะแกรม โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน Microsoft Visio ยังให้ความสามารถในการแปลงไฟล์ Visio เป็นรูปแบบไฟล์ต่างๆ เช่น PNG, BMP, PDF และอื่นๆ สามารถใช้ได้กับทั้ง Windows และ Mac OS
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,24 +104,24 @@ Portable Document Format (PDF) เป็นเอกสารประเภท�
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง VSSX เป็นรูปแบบไฟล์อื่นๆ ได้มากมาย รวมถึงบางรูปแบบตามรายการด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-bmp/" name="VSSX เป็น BMP" description="ภาพบิตแมป" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-emf/" name="VSSX เป็น EMF" description="รูปแบบไฟล์ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-bmp/" name="VSSX ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-emf/" name="VSSX ถึง EMF" description="รูปแบบไฟล์ Metafile ที่ปรับปรุงแล้ว" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-html/" name="VSSX เป็น HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-jpeg/" name="VSSX เป็น JPEG" description="ภาพ JPEG" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-png/" name="VSSX เป็น PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-jpeg/" name="VSSX ถึง JPEG" description="ภาพ JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-png/" name="VSSX ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-svg/" name="VSSX ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-swf/" name="VSSX เป็น SWF" description="รูปแบบ SWF" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-tiff/" name="VSSX เป็น TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vdx/" name="VSSX เป็น VDX" description="Microsoft Visio รูปแบบการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-swf/" name="VSSX ถึง SWF" description="รูปแบบ SWF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-tiff/" name="VSSX ถึง TIFF" description="รูปแบบภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vdx/" name="VSSX ถึง VDX" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsdm/" name="VSSX ถึง VSDM" description="Microsoft Visio รูปแบบการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsdx/" name="VSSX ถึง VSDX" description="Microsoft Visio รูปแบบ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vssm/" name="VSSX ถึง VSSM" description="Microsoft Visio ไฟล์ลายฉลุ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vstm/" name="VSSX ถึง VSTM" description="Microsoft Visio ไฟล์เทมเพลต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vstx/" name="VSSX เป็น VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vstx/" name="VSSX ถึง VSTX" description="Microsoft Visio เทมเพลตการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vsx/" name="VSSX ถึง VSX" description="ลายฉลุ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vtx/" name="VSSX เป็น VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-vtx/" name="VSSX ถึง VTX" description="Microsoft Visio เทมเพลตการวาด" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-xaml/" name="VSSX ถึง XAML" description="ภาษามาร์กอัปแอปพลิเคชันที่ขยายได้" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-xps/" name="VSSX เป็น XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vssx-to-xps/" name="VSSX ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

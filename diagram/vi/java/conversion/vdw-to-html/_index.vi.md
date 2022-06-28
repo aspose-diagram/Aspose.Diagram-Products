@@ -71,7 +71,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VDW thành tệp 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc một hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã nguồn chuyển đổi VDW sang HTML Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.html", SaveFileFormat.HTML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Thư viện Thao tác" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.html", SaveFileFormat.HTML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDW là Visio định dạng tệp Dịch vụ đồ họa chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là một tập hợp các trang vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và thông tin cập nhật sơ đồ có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Tệp VDW cũng có thể được mở trong Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác.
+VDW là Visio định dạng tệp Dịch vụ đồ họa chỉ định các luồng và kho lưu trữ cần thiết để hiển thị bản vẽ Web. Bản vẽ web là tập hợp các trang vẽ, hình dạng, phông chữ, hình ảnh, kết nối dữ liệu và diagram thông tin cập nhật có thể được hiển thị dưới dạng bản vẽ vectơ hoặc raster. Tệp VDW cũng có thể được mở bằng Microsoft Visio nhưng chủ yếu được lưu để sử dụng trên web. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
 
-HTML (Ngôn ngữ đánh dấu siêu văn bản) là phần mở rộng cho các trang web được tạo để hiển thị trong trình duyệt. Được biết đến như là ngôn ngữ của web, HTML đã phát triển với các yêu cầu về yêu cầu thông tin mới được hiển thị như một phần của các trang web. Biến thể mới nhất được gọi là HTML 5 mang lại nhiều tính linh hoạt cho việc làm việc với ngôn ngữ này. Các trang HTML hoặc được nhận từ máy chủ, nơi chúng được lưu trữ hoặc cũng có thể được tải từ hệ thống cục bộ. Mỗi trang HTML được tạo thành từ các phần tử HTML như biểu mẫu, văn bản, hình ảnh, hoạt ảnh, liên kết, v.v. Những phần tử này được biểu thị bằng các thẻ như img, a, p và một số thẻ khác trong đó mỗi thẻ có bắt đầu và kết thúc. Nó cũng có thể nhúng các ứng dụng được viết bằng ngôn ngữ kịch bản như JavaScript và Style Sheets (CSS) để trình bày bố cục tổng thể.
+HTML (Ngôn ngữ đánh dấu siêu văn bản) là phần mở rộng cho các trang web được tạo để hiển thị trong trình duyệt. Được biết đến như là ngôn ngữ của web, HTML đã phát triển với các yêu cầu về yêu cầu thông tin mới được hiển thị như một phần của các trang web. Biến thể mới nhất được gọi là HTML 5 mang lại nhiều tính linh hoạt cho việc làm việc với ngôn ngữ này. Các trang HTML hoặc được nhận từ máy chủ, nơi chúng được lưu trữ hoặc cũng có thể được tải từ hệ thống cục bộ. Mỗi trang HTML được tạo thành từ các phần tử HTML như biểu mẫu, văn bản, hình ảnh, hoạt ảnh, liên kết, v.v. Những phần tử này được biểu thị bằng các thẻ như img, a, p và một số thẻ khác trong đó mỗi thẻ có bắt đầu và kết thúc. Nó cũng có thể nhúng các ứng dụng được viết bằng ngôn ngữ script như JavaScript và Style Sheets (CSS) để trình bày bố cục tổng thể.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ HTML (Ngôn ngữ đánh dấu siêu văn bản) là phần mở rộng cho các
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-png/" name="VDW TO PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-svg/" name="VDW ĐẾN SVG" description="Đồ họa vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDW TO TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW ĐẾN VDX" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW ĐẾN VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VÌ SAO CHO VSDX" description="Định dạng Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW ĐẾN VSSM" description="Tệp Microsoft Visio Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW ĐẾN VSSX" description="Vẽ giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW ĐẾN VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW ĐẾN VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW ĐẾN VSX" description="Giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW ĐẾN VTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VÌ SAO CHO VDX" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VÌ SAO CHO VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VÌ SAO CHO VSDX" description="Microsoft Visio Định dạng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VÌ SAO CHO VSSM" description="Microsoft Visio Tệp stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VÌ SAO CHO VSSX" description="Vẽ giấy nến" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VÌ SAO CHO VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VÌ SAO CHO VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VÌ SAO CHO VSX" description="Giấy nến" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VÌ SAO CHO VTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xaml/" name="VDW ĐỂ XAML" description="Ngôn ngữ đánh dấu ứng dụng có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="VDW ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
 

@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系統- Microsoft Visual Studio 等開發環境- Aspose.Diagram for .NET 項目中引用的 DLL - 使用上面的下載按鈕從 NuGet 安裝
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系統- Microsoft Visual Studio 等開發環境- Aspose.Diagram for .NET 在您的項目中引用的 DLL - 使用上面的下載按鈕從 NuGet 安裝
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="編輯 VSDX 個文件 - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。    
+Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加載、創建、修改、操作包括圖形元素在內的 Visio 圖表轉換為其他格式，例如 PDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMF 等。它是一個獨立的 API，不需要安裝 Microsoft Visio 或任何其他軟件。    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram 是 Microsoft Visio 文檔格式操作 API。您可以輕鬆加�
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 然後保存並下載。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-帶有 .VSDX 擴展名的文件代表從 Microsoft Office 2013 開始引入的 Microsoft Visio 文件格式。開發它是為了替換早期版本的 Microsoft Visio 支持的二進製文件格式 .VSD。 Microsoft SharePoint Server 2013 中的 Visio 服務也支持它，並且不需要中間文件格式即可發佈到 SharePoint Server。 Visio 文件用於創建包含視覺對象、流程圖、UML 圖、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的圖紙。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。 
+帶有 .VSDX 擴展名的文件代表從 Microsoft Office 2013 年開始引入的 Microsoft Visio 文件格式。開發它是為了替換早期版本的 Microsoft Visio 支持的二進製文件格式 .VSD。 Microsoft SharePoint Server 2013 中的 Visio 服務也支持它，並且不需要中間文件格式即可發佈到 SharePoint Server。 Visio 文件用於創建包含視覺對象、流程圖、UML diagram、信息流、組織結構圖、軟件圖、網絡佈局、數據庫模型、對象映射和其他類似信息的繪圖。使用 Visio 生成的文件也可以導出為不同的文件格式，例如 PNG、BMP、PDF 等。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

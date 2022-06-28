@@ -2,7 +2,7 @@
 title: "Tekintse meg vagy szerkessze a VDW-fájlok metaadatait a következőn keresztül: .NET "
 weight: 3050
 url: /hu/net/metadata/vdw/ 
-description: C# forráskód a VDW formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono Platforms rendszeren.
+description: C# forráskód a VDW formátumú metaadatok szerkesztéséhez vagy megtekintéséhez .NET Framework, .NET Core, Mono platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VDW metaadatok kibontása itt: C#" h2="Készítse el saját .NET-alkalmazásait a VDW-fájlok metaadatainak hozzáadásához, szerkesztéséhez, eltávolításához vagy kibontásához szerveroldali API-k segítségével." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -59,7 +59,7 @@ A(z) Diagram objektum DocumentProps lekérése
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM Interop funkcióval- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET A projektben hivatkozott DLL-re – Telepítse a NuGetből a fenti Letöltés gomb segítségével
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy COM-együttműködéssel- Fejlesztői környezet, például a Microsoft Visual Studio- Aspose.Diagram for .NET DLL-re hivatkozik a projektben – Telepítse innen: NuGet a fenti Letöltés gombbal
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDW metaadatok kibontása – C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ A(z) Diagram objektum DocumentProps lekérése
 
     {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyedén betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges Microsoft Visio vagy más szoftver telepítése.  
+ A Aspose.Diagram egy Microsoft Visio dokumentumformátum-manipuláció API. Könnyen betölthető, létrehozható, módosítható, manipulálható, beleértve a daigram elemeket, és konvertálható a Visio diagramok más formátumokba, mint például PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF stb. Ez egy önálló API, és nem szükséges a Microsoft Visio vagy más szoftver telepítése.  
 
 
 
@@ -93,7 +93,7 @@ A(z) Diagram objektum DocumentProps lekérése
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal tömörítésre és összefűzésre kerül." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/visio/vdw/" >}}
-A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagramfrissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW fájlok a Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál arra, hogy Visio fájlokat konvertáljon számos különböző fájlformátumba, beleértve a PNG, BMP, PDF és más formátumokat. 
+A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzok megjelenítéséhez szükséges adatfolyamokat és tárolókat. A webes rajz rajzoldalak, alakzatok, betűtípusok, képek, adatkapcsolatok és diagram frissítési információk gyűjteménye, amelyek vektoros vagy raszteres rajzként jeleníthetők meg. A VDW-fájlok a(z) Microsoft Visio alkalmazásban is megnyithatók, de elsősorban webes használatra mentik őket. A Microsoft Visio lehetőséget kínál a Visio fájlok számos különböző formátumba konvertálására, beleértve a PNG, BMP, PDF és más formátumokat. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ A VDW a Visio Graphics Service fájlformátum, amely meghatározza a webes rajzo
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott metaadat-formátumok" subTitle="A C# használatával könnyen kezelhetők a különböző formátumok metaadatai, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio rajzok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio Rajzok" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio rajz XML fájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio sablonfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio sablonfájl" >}}

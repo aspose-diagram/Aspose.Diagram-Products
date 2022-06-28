@@ -1,20 +1,20 @@
 ﻿---
 title: Java Microsoft Visio Dosyaları Dönüştürme
 url: /tr/java/conversion/
-description: Microsoft Visio biçimlerini VSDX VSX VDX VTX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS'yi birkaç satır Java koduyla HTML Görüntülerine ve PDF'ye dönüştürün.
+description: Microsoft Visio biçimlerini VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS'yi HTML Görüntülerine ve PDF'ye birkaç satırla dönüştürün Java kodu.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Java Yoluyla Dönüştürmeyi Biçimlendirir" h2="Platformlar arası Java uygulamalar oluşturmak için MS Visio Diyagramlarını HTML, PDF ve JPG, BMP, PNG, TIFF dahil olmak üzere Görüntülere dönüştürün." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Java Yoluyla Dönüştürme Biçimleri" h2="Platformlar arası Java uygulamalar oluşturmak için MS Visio Diyagramlarını HTML, PDF ve JPG, BMP, PNG, TIFF dahil olmak üzere Görüntülere dönüştürün." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Akış şemaları ve iş akış şemaları vb. tasarlamak gibi herhangi bir Microsoft Visio formatı oluşturma çözümü için Java Visio API, tüm karmaşık çizimleri kolay bir şekilde kolaylaştırır. kullanarak kaynak dosyayı yükleyin [Diagram sınıfı](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) ve uygun parametrelerle kaydetme yöntemini çağırın.
+Akış şemaları ve iş akış şemaları vb. tasarlamak gibi herhangi bir Microsoft Visio biçimi oluşturma çözümü için Java Visio API, tüm karmaşık çizimleri kolay bir şekilde kolaylaştırır. kullanarak kaynak dosyayı yükleyin [Diagram sınıfı](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) ve uygun parametrelerle kaydetme yöntemini çağırın.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Dönüşümler Arası Visio Dosyaları" %}}
 
-Programcılar, VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM formatlarını kolayca dönüştürebilir ve ayrıca VDW, VSD, VSS, VST ve işlemeleri PDF, HTML ve Görüntülere dönüştürebilir. VSDX'den VDX'e senaryosu göz önüne alındığında, process is, diagram sınıfını kullanarak kaynak VSDX dosyasını yükleyin ve çıktı dosyasını sağlayarak save yöntemini çağırın ve [KaydetDosya Biçimi](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX parametre olarak. 
+Programcılar VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM formatlarını kolayca dönüştürebilir ve ayrıca VDW, VSD, VSS, VST ve PDF, HTML ve Görüntülere dönüştürür. VSDX - VDX senaryosu göz önüne alındığında, process is, kaynak VSDX dosyasını diagram sınıfını kullanarak yükleyin ve çıktı dosyasını sağlayarak save yöntemini çağırın ve [KaydetDosya Biçimi](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX parametre olarak. 
 
 {{% blocks/products/pf/feature-page-code h3="VSDX - VDX Dönüşümü için Java Kodu" %}}
 
@@ -27,7 +27,7 @@ Programcılar, VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM formatlarını 
 
 {{% blocks/products/pf/feature-page-section h2="Visio Görüntü Dönüşümü" %}}
 
-Jenerik dönüştürme için, visio dosyalarını görüntülere dönüştürme işlemi aynıdır. Dosyayı Diagram sınıfı aracılığıyla yükleyin ve çıktı dosyası ve SaveFileFormat çıktı parametreleriyle kaydetme yöntemini çağırın. Ve belirli seçenekleri tanımlamaya ihtiyaç duyulduğunda, geliştiriciler diyagram sayfalarını görüntülere dönüştürürken ImageSaveOptions sınıfını ve SVG dönüşümü için SVGSaveOptions'ı kullanabilir.
+Jenerik dönüştürme için, visio dosyasının görüntüye dönüştürülmesi işlemi aynıdır. Dosyayı Diagram sınıfı aracılığıyla yükleyin ve çıktı dosyası ve SaveFileFormat çıktı parametreleriyle kaydetme yöntemini çağırın. Ayrıca, belirli seçenekleri tanımlamaya ihtiyaç duyulduğunda, geliştiriciler diagram sayfaları görüntülere dönüştürürken ImageSaveOptions sınıfını ve SVG dönüşümü için SVGSaveOptions'ı kullanabilir.
 
 {{% blocks/products/pf/feature-page-code h3="Visio\'yi Görüntü Biçimlerine Dönüştürecek Java Kodu" %}}
 
@@ -46,7 +46,7 @@ Jenerik dönüştürme için, visio dosyalarını görüntülere dönüştürme 
 
 {{% blocks/products/pf/feature-page-section h2="Visio\'i PDF ve HTML\'ye dönüştürün" %}}
 
-API, visio biçimlerini HTML'nin yanı sıra PDF'ye de dönüştürebilir. Sadece kullan [KaydetDosya Biçimi](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF ve SaveFileFormat.HTML içinde parametre olarak kaydetme yöntemi. Ve özel ayarlar için geliştiriciler PdfSaveOptions ve HTMLSaveOptions sınıflarını kullanabilir.
+API, visio biçimlerini HTML'ye olduğu kadar PDF'ye de dönüştürebilir. Sadece kullan [KaydetDosya Biçimi](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF ve SaveFileFormat.HTML içinde parametre olarak kaydetme yöntemi. Ve özel ayarlar için geliştiriciler PdfSaveOptions ve HTMLSaveOptions sınıflarını kullanabilir.
 
 {{% blocks/products/pf/feature-page-code h3="Visio\'den PDF\'ye Dönüştürme için Java Kodu" %}}
 

@@ -2,10 +2,10 @@
 title: Visio Documents Python API - Aspose 
 weight: 4630
 url: /fr/python-java/ 
-description: Aspose.Diagram pour Python via Java est un visio javascript API pour lire, écrire et convertir des documents Microsoft Visio comme VSDX, VDX et d'autres formats
+description: Aspose.Diagram pour Python via Java est un visio javascript API pour lire, écrire et convertir Microsoft Visio des documents comme VSDX, VDX et d'autres formats
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Visio Fichiers API" h2="Créez, lisez, écrivez et exportez des formats Microsoft Visio, notamment VSDX, VDX, VSX, VTX et d\'autres formats à l\'aide de Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Visio Fichiers API" h2="Créez, lisez, écrivez et exportez des formats Microsoft Visio, y compris VSDX, VDX, VSX, VTX et d\'autres formats à l\'aide de Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Python via Java" >}}
 
@@ -13,11 +13,11 @@ description: Aspose.Diagram pour Python via Java est un visio javascript API pou
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram pour Python via Java est une solution de manipulation de documents Microsoft Visio. On peut lire, écrire, protéger, exporter et imprimer des formats natifs Visio et prendre en charge certains formats d'image et de mise en page fixes couramment utilisés. Il est facile de charger des fichiers existants, de modifier les éléments du diagramme à exporter dans le format souhaité, y compris des images ou des formats à mise en page fixe tels que PDF ou XPS.
+ Aspose.Diagram pour Python via Java est une solution de manipulation de documents Microsoft Visio. On peut lire, écrire, protéger, exporter et imprimer des formats natifs Visio et prendre en charge certains formats d'image et de mise en page fixes couramment utilisés. Il est facile de charger des fichiers existants, de modifier les éléments diagram à exporter dans le format souhaité, y compris des images ou des formats à mise en page fixe tels que PDF ou XPS.
 </p>
 
 <p>
- Aspose.Diagram pour Python via Java est un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel. De plus, peu de tâches que l'on peut effectuer facilement comme créer des diagrammes à partir de zéro, lire ou écrire divers formats, accéder et lire les propriétés, y compris Visio formules d'objets, exporter des diagrammes vers plusieurs formats, imprimer des diagrammes avec une haute fidélité, et bien plus encore.
+ Aspose.Diagram pour Python via Java est un API autonome et ne nécessite pas Microsoft Visio ou toute autre installation de logiciel. De plus, peu de tâches que l'on peut effectuer facilement comme créer des diagrammes à partir de zéro, lire ou écrire divers formats, accéder et lire les propriétés, y compris Visio formules d'objets, exporter des diagrammes vers plusieurs formats, imprimer des diagrammes avec une haute fidélité, et bien plus encore.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -143,7 +143,7 @@ description: Aspose.Diagram pour Python via Java est un visio javascript API pou
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Diagram pour Python via Java prend en charge les formats populaires de Microsoft Visio et plus encore." >}}
+{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Diagram pour Python via Java prend en charge les formats populaires Microsoft Visio et plus encore." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -155,7 +155,7 @@ description: Aspose.Diagram pour Python via Java est un visio javascript API pou
    <ul>
     <li>
      <b>
-      MicrosoftVisio :
+      Microsoft Visio :
      </b>
      VSDX, VDX, VSX, VTX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
@@ -168,7 +168,7 @@ description: Aspose.Diagram pour Python via Java est un visio javascript API pou
    <ul>
     <li>
      <b>
-      MicrosoftVisio :
+      Microsoft Visio :
      </b>
      VDW, VSD, VSS, VST
     </li>
@@ -196,7 +196,7 @@ description: Aspose.Diagram pour Python via Java est un visio javascript API pou
     </li>
     <li>
      <strong>
-      Les autres
+      Autres
      </strong>
      :XAML
     </li>
@@ -242,7 +242,7 @@ description: Aspose.Diagram pour Python via Java est un visio javascript API pou
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Créer des diagrammes à partir de rien
+     Créer des diagrammes à partir de zéro
     </p>
    </div>
    <div class="col-lg-4">
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      Accéder et manipuler Visio fichiers
     </h2>
     <p>
-     Python diagram API permet de lire les formats Microsoft Visio natifs et de fournir un accès aux données du diagramme telles que le document, la page, le maître, la forme, la feuille de style, la connexion, etc. Ces objets peuvent être manipulés via API et le résultat peut être écrit sur le disque dans n'importe quel format pris en charge.
+     Python diagram API permet de lire les formats natifs Microsoft Visio et de fournir un accès aux données diagram telles que document, page, maître, forme, feuille de style, connexion, etc. Ces objets peuvent être manipulés via le API, et le résultat peut être écrit sur le disque dans n'importe lequel des formats pris en charge.
     </p>
    </div>
    <div class="col-lg-12">

@@ -5,7 +5,7 @@ url: /ko/java/
 description: 다이어그램 생성, 조작 및 변환을 위한 Visio 라이브러리. Java 기반 애플리케이션에서 다이어그램을 여러 형식으로 내보내기
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Microsoft Office Visio 파일을 조작하고 Microsoft Office Visio 종속성 없이 PDF, HTML, 이미지 및 XAML 형식으로 내보냅니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Microsoft Office Visio 종속성 없이 Microsoft Office Visio 파일을 PDF, HTML, 이미지 및 XAML 형식으로 조작하고 내보냅니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: 다이어그램 생성, 조작 및 변환을 위한 Visio 라이브
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java은(는) 강력한 Microsoft Visio 문서 처리API입니다. 생성, 구문 분석 및 같은 일반적인 기능을 제공합니다. 기본 Visio 형식을 변환하고 일반적으로 사용되는 일부 이미지 및 고정 레이아웃 형식을 지원합니다. 애플리케이션은 기존 문서를 로드하고 다이어그램 요소를 조작하여 자체 형식, 이미지 또는 고정 레이아웃 형식으로 결과를 내보낼 수 있습니다.
+ Aspose.Diagram for Java은(는) 강력한 Microsoft Visio 문서 처리API입니다. 생성, 구문 분석 및 같은 일반적인 기능을 제공합니다. 기본 Visio 형식을 변환하고 일반적으로 사용되는 일부 이미지 및 고정 레이아웃 형식을 지원합니다. 애플리케이션은 기존 문서를 로드하고 diagram 요소를 조작하여 자체 형식, 이미지 또는 고정 레이아웃 형식으로 결과를 내보낼 수 있습니다.
 </p>
 
 <p>
@@ -146,7 +146,7 @@ description: 다이어그램 생성, 조작 및 변환을 위한 Visio 라이브
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     Java
    </small>
@@ -189,7 +189,7 @@ description: 다이어그램 생성, 조작 및 변환을 위한 Visio 라이브
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     Java
    </small>
@@ -212,7 +212,7 @@ description: 다이어그램 생성, 조작 및 변환을 위한 Visio 라이브
    <ul>
     <li>
      <b>
-      마이크로소프트 Visio:
+      Microsoft Visio:
      </b>
      VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
@@ -225,7 +225,7 @@ description: 다이어그램 생성, 조작 및 변환을 위한 Visio 라이브
    <ul>
     <li>
      <b>
-      마이크로소프트 Visio:
+      Microsoft Visio:
      </b>
      VDW, VSD, VSS, VST
     </li>
@@ -276,7 +276,7 @@ description: 다이어그램 생성, 조작 및 변환을 위한 Visio 라이브
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     Java
    </small>
@@ -411,7 +411,7 @@ description: 다이어그램 생성, 조작 및 변환을 위한 Visio 라이브
      Microsoft Visio 문서 구문 분석
     </h2>
     <p>
-     Java 다이어그램 API을 사용하면 Microsoft Visio 애플리케이션의 기본 파일 형식을 읽을 수 있으므로 문서 페이지, 속성, 마스터, 이미지, 모양, 연결, 솔루션 XML, 레이어, 하이퍼링크, 주석과 같은 다이어그램 데이터에 액세스할 수 있습니다. , StyleSheet, 사용자 정의 셀 등. 이러한 개체는 API을 통해 조작할 수 있으며 결과는 지원되는 형식으로 디스크에 쓸 수 있습니다.
+     Java diagram API는 Microsoft Visio 애플리케이션의 기본 파일 형식을 읽을 수 있으므로 문서 페이지, 속성, 마스터, 이미지, 모양, 연결, 솔루션 XML과 같은 diagram 데이터에 액세스할 수 있습니다. , 레이어, 하이퍼링크, 주석, 스타일시트, 사용자 정의 셀 등. 이러한 객체는 API을 통해 조작할 수 있으며 결과는 지원되는 형식으로 디스크에 쓸 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: 다이어그램 생성, 조작 및 변환을 위한 Visio 라이브
     </p>
     <div class="codeblock" id="code">
      <h3>
-      다양한 형식으로 다이어그램 저장 - Java
+      다른 형식으로 diagram 저장 - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      컨테이너에 모양 구성
     </h2>
     <p>
-     일반적으로 개발자는 내용을 잘 정리하고 이해할 수 있도록 컨테이너에 모양을 추가합니다. 컨테이너는 레이블을 포함하여 모양 주위에 시각적 경계를 추가합니다. 다이어그램에 컨테이너 및 하위 모양을 추가하기 위해 개발자는 쉽고 빠른 접근 방식을 제공하기 때문에 라이브러리를 사용할 수 있습니다.
+     일반적으로 개발자는 내용을 잘 정리하고 이해할 수 있도록 컨테이너에 모양을 추가합니다. 컨테이너는 레이블을 포함하여 모양 주위에 시각적 경계를 추가합니다. diagram에 컨테이너 및 하위 모양을 추가하기 위해 개발자는 라이브러리를 사용할 수 있습니다. 쉽고 빠른 접근 방식을 제공하기 때문입니다.
     </p>
    </div>
    <div class="col-lg-12">

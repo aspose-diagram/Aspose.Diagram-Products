@@ -2,7 +2,7 @@
 title: Hợp nhất VSD Tệp qua .NET 
 weight: 2530
 url: /vi/net/merger/vsd/ 
-description: C# mã nguồn để kết hợp VSD tài liệu trên .NET Framework, .NET Core Mono hoặc COM Interop.
+description: C# mã nguồn để kết hợp VSD tài liệu trên .NET Framework, .NET Core, Mono hoặc COM Interop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hợp nhất VSD Định dạng trong C#" h2="Hợp nhất tài liệu gốc và hiệu suất cao VSD bằng cách sử dụng API Aspose.Diagram for .NET phía máy chủ mà không cần sử dụng bất kỳ phần mềm nào như Microsoft hoặc Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSD" >}}
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Tạo một tài liệu làm tệp cơ sở
 + Gọi phương thức liên quan để nối và hợp nhất từng tệp một.
 + Gọi phương thức Save () và chuyển tên tệp (đường dẫn đầy đủ) và định dạng (VSD) làm tham số.
-Giờ đây, bạn có thể mở và sử dụng tệp VSD trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
++ Giờ đây, bạn có thể mở và sử dụng VSD tệp trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vsd");
 
     {{% blocks/products/pf/agp/content h2="Giới thiệu về Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -103,7 +103,7 @@ Diagram dgF = new Diagram( "f.vsd");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được hợp nhất và nối ngay lập tức." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Tệp VSD là các bản vẽ được tạo bằng ứng dụng Microsoft Visio để thể hiện nhiều đối tượng đồ họa và sự kết nối giữa các đối tượng này. Các bản vẽ như vậy có thể chứa các đối tượng trực quan như đối tượng trực quan, lưu đồ, sơ đồ UML, luồng thông tin, biểu đồ tổ chức, sơ đồ phần mềm, bố trí mạng, mô hình cơ sở dữ liệu, đối tượng lập bản đồ và các thông tin tương tự khác. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác. 
+Tệp VSD là các bản vẽ được tạo bằng ứng dụng Microsoft Visio để thể hiện nhiều đối tượng đồ họa và sự kết nối giữa các đối tượng này. Các bản vẽ như vậy có thể chứa các đối tượng trực quan như đối tượng trực quan, lưu đồ, UML diagram, luồng thông tin, biểu đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, đối tượng ánh xạ và các thông tin tương tự khác. Microsoft Visio cung cấp khả năng chuyển đổi tệp Visio sang một số định dạng tệp khác nhau bao gồm PNG, BMP, PDF và các định dạng khác. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,17 +114,17 @@ Tệp VSD là các bản vẽ được tạo bằng ứng dụng Microsoft Visio
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng hợp nhất được hỗ trợ khác" subTitle="Sử dụng C#, Người ta cũng có thể hợp nhất nhiều định dạng tệp khác bao gồm." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdw/" name="VDW" description="Visio Tệp Dịch vụ Đồ họa" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Định dạng Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="Microsoft Visio Định dạng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vss/" name="VSS" description="Tệp Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Tệp Microsoft Visio Stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="Microsoft Visio Tệp stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssx/" name="VSSX" description="Vẽ giấy nến" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vst/" name="VST" description="Tệp hình ảnh vectơ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstm/" name="VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vstx/" name="VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsx/" name="VSX" description="Giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vtx/" name="VTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

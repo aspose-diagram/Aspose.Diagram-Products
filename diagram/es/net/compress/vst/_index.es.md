@@ -2,7 +2,7 @@
 title: Comprimir documento VST a través de .NET 
 weight: 3050
 url: /es/net/compress/vst/ 
-description: C# código fuente para comprimir el archivo vst en .NET Framework, .NET Core, Mono Platforms.
+description: C# código fuente para comprimir archivos vst en .NET Framework, .NET Core, Mono Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Comprimir VST en C#" h2="Compresor de documentos VST nativo y de alto rendimiento que utiliza API Aspose.Diagram for .NET del lado del servidor, sin el uso de ningún software como Microsoft u Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -60,7 +60,7 @@ Usar la función RemoveHiddenInformation de Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o COM Interop- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto: instálelo desde NuGet mediante el botón Descargar de arriba
+- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o COM Interop- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Diagram for .NET DLL a la que se hace referencia en su proyecto - Instale desde NuGet usando el botón Descargar arriba
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Comprimir archivos VST - C#" offSpacer="" %}}
@@ -79,7 +79,7 @@ Usar la función RemoveHiddenInformation de Diagram
 
     {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram es una manipulación de formato de documento Visio de Microsoft API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
+ Aspose.Diagram es una Microsoft Visio manipulación de formato de documento API. Uno puede cargar, crear, modificar, manipular fácilmente, incluidos los elementos de daigram, y convertir Visio diagramas a otros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF y más. Es un API independiente y no requiere la instalación de Microsoft Visio ni de ningún otro software.  
 
 
 
@@ -94,7 +94,7 @@ Usar la función RemoveHiddenInformation de Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Se comprimirá y concatenará al instante." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/visio/vst/" >}}
-Los archivos con extensión VST son archivos de imágenes vectoriales creados con Microsoft Visio y actúan como plantilla para crear más archivos. Estos archivos de plantilla están en formato de archivo binario y contienen el diseño y la configuración predeterminados que se utilizan para la creación de nuevos dibujos Visio. Cuando se abre un archivo VST en Microsoft Visio, contiene la configuración existente para continuar trabajando con el documento. En general, los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, diagramas UML, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros. 
+Los archivos con extensión VST son archivos de imágenes vectoriales creados con Microsoft Visio y actúan como plantilla para crear más archivos. Estos archivos de plantilla están en formato de archivo binario y contienen el diseño y la configuración predeterminados que se utilizan para la creación de nuevos dibujos Visio. Cuando se abre un archivo VST en Microsoft Visio, contiene la configuración existente para continuar trabajando con el documento. En general, los archivos Visio se utilizan para crear dibujos que contienen objetos visuales, diagramas de flujo, UML diagram, flujo de información, organigramas, diagramas de software, diseño de red, modelos de bases de datos, mapeo de objetos y otra información similar. Los archivos generados con Visio también se pueden exportar a diferentes formatos de archivo, como PNG, BMP, PDF y otros. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,7 +104,7 @@ Los archivos con extensión VST son archivos de imágenes vectoriales creados co
 
 {{< blocks/products/pf/agp/other-supported-section title="Otros formatos de compresión admitidos" subTitle="Usando C#, uno puede comprimir fácilmente diferentes formatos, incluidos." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="vsd" description="Dibujos de Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="Vsd" description="Microsoft Visio Dibujos" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vdx/" name="Vdx" description="Visio archivo XML de dibujo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstx/" name="VSTX" description="Visio archivo de plantilla" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsdm/" name="VSDM" description="Visio archivo de dibujo habilitado para macros" >}}

@@ -2,7 +2,7 @@
 title: .NET을(를) 통해 VSX 파일 메타데이터 보기 또는 편집 
 weight: 3050
 url: /ko/net/metadata/vsx/ 
-description: C# 소스 코드를 사용하여 .NET 프레임워크, .NET 코어, Mono 플랫폼에서 VSX 형식 메타데이터를 편집하거나 봅니다.
+description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 플랫폼에서 VSX 형식 메타데이터를 편집하거나 봅니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#에서 VSX 메타데이터 추출" h2="서버 측 API를 사용하여 VSX 파일에서 메타데이터를 추가, 편집, 제거 또는 추출하는 고유한 .NET 앱을 빌드합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -15,7 +15,7 @@ description: C# 소스 코드를 사용하여 .NET 프레임워크, .NET 코어,
  VSX 메타데이터를 추출하기 위해 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려 있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  **Aspose.Diagram** 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -59,7 +59,7 @@ Diagram 개체의 DocumentProps 가져오기
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
+- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop이 있는 호환 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSX 메타데이터 추출 - C#" offSpacer="" %}}
@@ -86,14 +86,14 @@ Diagram 개체의 DocumentProps 가져오기
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 앱을 통해 VSX의 메타데이터 추출" sectionDescription="당사를 방문하여 VSX 문서에 대한 메타데이터 보기 및 편집 [라이브 데모 웹사이트](https://products.aspose.app/diagram/metadata). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="온라인 앱을 통해 VSX의 메타데이터 추출" sectionDescription="다음을 방문하여 VSX 문서에 대한 메타데이터 보기 및 편집 [라이브 데모 웹사이트](https://products.aspose.app/diagram/metadata). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을(를) 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="VSX 파일을 업로드하기만 하면 됩니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 압축되어 즉시 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSX" readMoreLink="https://docs.fileformat.com/visio/vsx/" >}}
-.VSX 확장자를 가진 파일은 Microsoft Visio에서 다이어그램을 만드는 데 사용되는 그림과 모양으로 구성된 스텐실을 나타냅니다. VSX 파일은 XML 파일 형식으로 저장되며 Visio 2013년까지 지원되었습니다. 이는 Microsoft Visio 2013에 도입된 기본 VSDX 파일 형식과 다릅니다. VSX 파일은 모든 텍스트 편집기에서 열어서 볼 수 있습니다. 내용물. 
+확장자가 .VSX인 파일은 Microsoft Visio에서 다이어그램을 만드는 데 사용되는 그림과 모양으로 구성된 스텐실을 나타냅니다. VSX 파일은 XML 파일 형식으로 저장되며 2013년 Visio까지 지원되었습니다. 이는 Microsoft Visio 2013에서 도입된 기본 VSDX 파일 형식과 다릅니다. VSX 파일은 다음 위치에서 열 수 있습니다. 모든 텍스트 편집기를 사용하여 내용을 볼 수 있습니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,8 +103,8 @@ Diagram 개체의 DocumentProps 가져오기
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 메타데이터 형식" subTitle="C#을 사용하면 다음을 포함한 다양한 형식의 메타데이터를 쉽게 조작할 수 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="대" description="Microsoft Visio 도면" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="VDX" description="Visio 도면 XML 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio 도면 XML 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio 스텐실 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio 템플릿 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsdm/" name="VSDM" description="Visio 매크로 사용 도면 파일" >}}

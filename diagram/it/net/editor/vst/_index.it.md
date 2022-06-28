@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o di qualsiasi altro software.    
+Aspose.Diagram è una Microsoft Visio manipolazione del formato del documento API. Si può facilmente caricare, creare, modificare, manipolare inclusi elementi daigram e convertire Visio diagrammi in altri formati come PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e altro ancora. È un API autonomo e non richiede l'installazione di Microsoft Visio o altro software.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram è una manipolazione del formato del documento Visio Microsoft AP
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Quindi salva e scarica." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-file con estensione VST sono file di immagine vettoriale creati con Microsoft Visio e fungono da modello per la creazione di ulteriori file. Questi file modello sono in formato file binario e contengono il layout e le impostazioni predefiniti utilizzati per la creazione di nuovi Visio disegni. Quando un file VST viene aperto in Microsoft Visio, contiene le impostazioni esistenti per continuare a lavorare con il documento. In generale, i file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri. 
+file con estensione VST sono file di immagine vettoriale creati con Microsoft Visio e fungono da modello per la creazione di ulteriori file. Questi file modello sono in formato file binario e contengono il layout e le impostazioni predefiniti utilizzati per la creazione di nuovi Visio disegni. Quando un file VST viene aperto in Microsoft Visio, contiene le impostazioni esistenti per continuare a lavorare con il documento. In generale, i file Visio vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, UML diagram, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura di oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

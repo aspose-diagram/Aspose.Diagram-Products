@@ -4,7 +4,7 @@ url: /el/net/metadata/
 description: Προβολή, προσθήκη, επεξεργασία, αφαίρεση ή εξαγωγή μεταδεδομένων αρχείων Visio με λίγες μόνο γραμμές κώδικα C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Διαχείριση Μεταδεδομένων αρχείου Microsoft<sup>&reg;</sup> Visio μέσω .NET" h2="Προβάλετε, προσθέστε, ενημερώστε, αφαιρέστε ή εξαγάγετε ενσωματωμένες και προσαρμοσμένες ιδιότητες αρχείων Visio χρησιμοποιώντας API της πλευράς διακομιστή .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Διαχείριση Microsoft<sup>&reg;</sup> Visio Μεταδεδομένων αρχείου μέσω .NET" h2="Προβάλετε, προσθέστε, ενημερώστε, αφαιρέστε ή εξαγάγετε ενσωματωμένες και προσαρμοσμένες ιδιότητες αρχείων Visio χρησιμοποιώντας API της πλευράς διακομιστή .NET." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [.NET Visio API](/diagram/net/) υποστηρίζει τη διαχείριση ιδιοτήτων που καθορίζονται από το σύστημα (ενσωματωμένες) όπως τίτλος, όνομα συντάκτη, στατιστικά εγγράφων κ.λπ. καθώς και ιδιοτήτων που ορίζονται από τον χρήστη (προσαρμοσμένες) με τη μορφή ζεύγους ονόματος-τιμής. Υπάρχει [Diagram τάξη](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) για να φορτώσετε τα αρχεία και [Συλλογή Σελίδων](https://apireference.aspose.com/diagram/net/aspose.diagram/pagecollection) ασχολείται με τη συλλογή σελίδων καθώς και [Κατηγορία σελίδας](https://apireference.aspose.com/diagram/net/aspose.diagram/page) για την αντιπροσώπευση μιας Σελίδας. Μαζί με αυτές τις τάξεις, τις ιδιότητες εγγράφων, τα customprops καθιστούν τη διαδικασία απλή για τη διαχείριση μεταδεδομένων. 
 {{% /blocks/products/pf/feature-page-summary %}}

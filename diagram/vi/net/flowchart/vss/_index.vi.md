@@ -39,19 +39,19 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Một tài liệu cơ bản hợp nhất và nối với
+ Tạo sơ đồ tổ chức kiểu lưu đồ với
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Các API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Tạo sơ đồ từ stencil.
++ Tạo diagram từ stencil.
 + Chọn Trang qua id của nó
 + Thêm hình dạng nút tổ chức vào trang.
 + Thêm trình kết nối vào trang để kết nối hình dạng và cha của nó.
 + Bố cục tự động bằng cách gọi mothod Bố cục
 + Gọi phương thức Save () và chuyển tên tệp (đường dẫn đầy đủ) và định dạng (VSDX) làm tham số.
-+ Giờ đây, bạn có thể mở và sử dụng tệp VSDX trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
++ Giờ đây, bạn có thể mở và sử dụng VSDX tệp trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Giới thiệu về Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ tạo biểu đồ Tổ chức kiểu FlowChart trong tài liệu VSS ngay lập tức." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS là các tệp stencil được tạo bằng Microsoft Visio 2007 trở về trước. Một định dạng tệp tương đối mới là .VSSX đã được giới thiệu với Microsoft Visio 2013. Tệp stencil cung cấp các đối tượng vẽ có thể được đưa vào bản vẽ. VSD Visio. Bản thân Microsoft Visio được biết đến với việc tạo các phần tử bản vẽ như tập hợp các hình dạng, trình kết nối, sơ đồ, bố cục mạng, sơ đồ UML, sơ đồ phần mềm, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Nó cũng có các tính năng chuyển đổi phong phú của Visio tài liệu sang các định dạng tệp khác như PNG, BMP, PDF và các định dạng khác. Visio có sẵn cho cả Windows và Mac OS. 
+VSS là các tệp stencil được tạo bằng Microsoft Visio 2007 trở về trước. Một định dạng tệp tương đối mới là. VSSX đã được giới thiệu với Microsoft Visio 2013. Tệp stencil cung cấp các đối tượng vẽ có thể được đưa vào bản vẽ. VSD Visio. Bản thân Microsoft Visio được biết đến với việc tạo các phần tử bản vẽ như tập hợp các hình dạng, trình kết nối, sơ đồ, bố cục mạng, sơ đồ UML, sơ đồ phần mềm, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Nó cũng có các tính năng chuyển đổi phong phú của Visio tài liệu sang các định dạng tệp khác như PNG, BMP, PDF và các định dạng khác. Visio có sẵn cho cả Windows và Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

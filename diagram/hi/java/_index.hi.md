@@ -5,7 +5,7 @@ url: /hi/java/
 description: Visio आरेखों के निर्माण, हेरफेर और रूपांतरण के लिए पुस्तकालय। Java-आधारित अनुप्रयोगों में डायग्राम को अनेक प्रारूपों में निर्यात करें
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram एपीआई" h2="Microsoft Office Visio फ़ाइलों को PDF, HTML, छवियों और XAML प्रारूपों में बिना किसी Microsoft Office Visio निर्भरता के हेरफेर और निर्यात करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram एपीआई" h2="बिना किसी Microsoft Office Visio निर्भरता के पीडीएफ, एचटीएमएल, छवियों और एक्सएएमएल प्रारूपों में Microsoft Office Visio फाइलों में हेरफेर और निर्यात करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Visio आरेखों के निर्माण, हेरफ
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java एक शक्तिशाली Microsoft Visio दस्तावेज़ संसाधन API है। यह सामान्य कार्यक्षमता प्रदान करता है जैसे कि बनाना, पार्स करना और amp; देशी Visio स्वरूपों को रूपांतरित करने के साथ-साथ कुछ सामान्य रूप से उपयोग की जाने वाली छवि और निश्चित-लेआउट स्वरूपों का समर्थन करता है। एप्लिकेशन मौजूदा दस्तावेज़ों को लोड कर सकते हैं और परिणाम को अपने स्वरूपों, छवियों या निश्चित-लेआउट स्वरूपों में निर्यात करने के लिए आरेख तत्वों में हेरफेर कर सकते हैं।
+ Aspose.Diagram for Java एक शक्तिशाली Microsoft Visio दस्तावेज़ संसाधन API है। यह सामान्य कार्यक्षमता प्रदान करता है जैसे कि बनाना, पार्स करना और amp; देशी Visio स्वरूपों को परिवर्तित करने के साथ-साथ कुछ सामान्य रूप से उपयोग की जाने वाली छवि और निश्चित-लेआउट स्वरूपों का समर्थन करता है। एप्लिकेशन मौजूदा दस्तावेज़ों को लोड कर सकते हैं और परिणाम को अपने स्वरूपों, छवियों या निश्चित-लेआउट स्वरूपों में निर्यात करने के लिए diagram तत्वों में हेरफेर कर सकते हैं।
 </p>
 
 <p>
@@ -146,7 +146,7 @@ description: Visio आरेखों के निर्माण, हेरफ
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     Java
    </small>
@@ -189,7 +189,7 @@ description: Visio आरेखों के निर्माण, हेरफ
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     Java
    </small>
@@ -212,9 +212,9 @@ description: Visio आरेखों के निर्माण, हेरफ
    <ul>
     <li>
      <b>
-      माइक्रोसॉफ्ट Visio:
+      Microsoft Visio:
      </b>
-     VSDX, वीएसएक्स, वीटीएक्स, वीडीएक्स, वीएसएसएक्स, वीएसटीएक्स, वीएसडीएम, वीएसएसएम, वीएसटीएम
+     VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
    </ul>
    <header>
@@ -225,7 +225,7 @@ description: Visio आरेखों के निर्माण, हेरफ
    <ul>
     <li>
      <b>
-      माइक्रोसॉफ्ट Visio:
+      Microsoft Visio:
      </b>
      वीडीडब्ल्यू, VSD, वीएसएस, वीएसटी
     </li>
@@ -276,7 +276,7 @@ description: Visio आरेखों के निर्माण, हेरफ
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     Java
    </small>
@@ -396,7 +396,7 @@ description: Visio आरेखों के निर्माण, हेरफ
     <em class="fa fa-file-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ड्राइंग में एक नया रिक्त पृष्ठ डालें
+     ड्राइंग में एक नया खाली पृष्ठ डालें
     </p>
    </div>
    <div class="col-lg-4">
@@ -408,10 +408,10 @@ description: Visio आरेखों के निर्माण, हेरफ
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Visio दस्तावेज़ों को पार्स करें
+     पार्स Microsoft Visio दस्तावेज़
     </h2>
     <p>
-     Java आरेख API Microsoft Visio अनुप्रयोग के मूल फ़ाइल स्वरूपों को पढ़ने की अनुमति देता है, इस प्रकार आपको आरेख डेटा जैसे दस्तावेज़ पृष्ठ, गुण, मास्टर, चित्र, आकृतियाँ, कनेक्ट, समाधान XML, परतें, हाइपरलिंक, टिप्पणियाँ तक पहुँचने की अनुमति देता है , StyleSheet, उपयोगकर्ता-परिभाषित कक्ष इत्यादि। इन वस्तुओं को API के माध्यम से हेरफेर किया जा सकता है, और परिणाम किसी भी समर्थित प्रारूप में डिस्क पर लिखा जा सकता है।
+     Java diagram API Microsoft Visio एप्लिकेशन के मूल फ़ाइल स्वरूपों को पढ़ने की अनुमति देता है, इस प्रकार आपको दस्तावेज़ पृष्ठ, गुण, मास्टर, चित्र, आकार, कनेक्ट, समाधान XML जैसे diagram डेटा तक पहुंचने की अनुमति देता है , परतें, हाइपरलिंक, टिप्पणियाँ, स्टाइलशीट, उपयोगकर्ता-परिभाषित सेल आदि। इन वस्तुओं को API के माध्यम से हेरफेर किया जा सकता है, और परिणाम किसी भी समर्थित प्रारूप में डिस्क पर लिखा जा सकता है।
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio आरेखों के निर्माण, हेरफ
     </p>
     <div class="codeblock" id="code">
      <h3>
-      आरेख को विभिन्न स्वरूपों में सहेजें - Java
+      diagram को विभिन्न स्वरूपों में सहेजें - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      एक कंटेनर में आकृतियों को व्यवस्थित करें
     </h2>
     <p>
-     आम तौर पर, डेवलपर्स चीजों को व्यवस्थित और समझने योग्य रखने के लिए एक कंटेनर में आकार जोड़ते हैं। कंटेनर एक लेबल सहित आकृतियों के चारों ओर एक दृश्य सीमा जोड़ते हैं। आरेख में एक कंटेनर और उप आकार जोड़ने के लिए, डेवलपर्स पुस्तकालय का उपयोग कर सकते हैं क्योंकि यह एक आसान और त्वरित दृष्टिकोण देता है।
+     आम तौर पर, डेवलपर्स चीजों को व्यवस्थित और समझने योग्य रखने के लिए एक कंटेनर में आकार जोड़ते हैं। कंटेनर एक लेबल सहित आकृतियों के चारों ओर एक दृश्य सीमा जोड़ते हैं। diagram में कंटेनर और उप-आकार जोड़ने के लिए, डेवलपर लाइब्रेरी का उपयोग कर सकते हैं क्योंकि यह एक आसान और त्वरित तरीका प्रदान करता है।
     </p>
    </div>
    <div class="col-lg-12">

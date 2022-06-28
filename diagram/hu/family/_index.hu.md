@@ -1,14 +1,14 @@
 ﻿---
-title: Visio .NET és Java API | Diagramok konvertálása vagy manipulálása 
+title: Visio .NET Java Python Node.js API-k | Diagramok konvertálása vagy manipulálása 
 weight: 10
 url: /hu/family
-description: Diagram könyvtár nyílt szerkesztésű nyomtatás létrehozásához és Visio fájlok konvertálásához a .NET Java és Mono alkalmazásokban anélkül, hogy a Microsoft Visio telepítve lenne.
+description: Diagram könyvtár nyílt szerkesztésű nyomtatás létrehozásához és Visio fájlok konvertálásához a .NET Java és Mono alkalmazásokban a Microsoft Visio telepítése nélkül
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio File Manipulation API-k" h2=".NET és Java API-k Microsoft Visio-fájlok létrehozásához, szerkesztéséhez és konvertálásához bármilyen platformon." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio Fájlmanipulációs API-k" h2=".NET és Java API-k Microsoft Visio fájlok létrehozásához, szerkesztéséhez és konvertálásához bármilyen platformon." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Diagram Magas kódú API-k:" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Diagram Magas kódú API-k" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
 Célozzon Windows Forms, ASP.NET, WPF, WCF vagy bármilyen típusú alkalmazást a .NET Framework 2.0 vagy újabb verzióján.
@@ -19,11 +19,11 @@ Natív Java API-k asztali számítógéphez, webhez vagy bármilyen alkalmazásh
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Node.js a következőn keresztül: Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
-Microsoft Visio dokumentumok létrehozása, olvasása, írása és megjelenítése a Node.js segítségével.
+Hozzon létre, olvasson, írjon és jelenítsen meg Microsoft Visio dokumentumot a Node.js segítségével.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Python ezen keresztül: Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
-Hozzon létre, olvasson, írjon és jelenítsen meg Microsoft Visio dokumentumokat a Python segítségével.
+Hozzon létre, olvasson, írjon és jelenítsen meg Microsoft Visio dokumentumot a következőn keresztül: Python.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

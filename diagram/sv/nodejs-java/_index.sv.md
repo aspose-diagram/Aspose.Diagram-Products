@@ -2,7 +2,7 @@
 title: Visio Dokument Node.js API - Aspose 
 weight: 1630
 url: /sv/nodejs-java/ 
-description: Aspose.Diagram för Node.js via Java är ett visio-javascript API för att läsa, skriva och konvertera Microsoft Visio-dokument som VSDX, VDX och fler format
+description: Aspose.Diagram för Node.js via Java är ett visio javascript API för att läsa, skriva och konvertera Microsoft Visio dokument som VSDX, VDX och fler format
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio filer API" h2="Skapa, läs, skriv och exportera Microsoft Visio-format inklusive VSDX, VDX, VSX, VTX och fler format med Node.js API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
@@ -13,11 +13,11 @@ description: Aspose.Diagram för Node.js via Java är ett visio-javascript API f
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram för Node.js via Java är en Microsoft Visio-dokumenthanteringslösning. Man kan läsa, skriva, skydda, exportera och skriva ut inbyggda Visio-format samt stöder några vanliga bildformat och format med fast layout. Det är lätt att ladda befintliga filer, ändra diagramelementen för att exportera till önskat format inklusive bilder eller format med fast layout som PDF eller XPS.
+ Aspose.Diagram för Node.js via Java är en Microsoft Visio dokumentmanipuleringslösning. Man kan läsa, skriva, skydda, exportera och skriva ut inbyggda Visio-format samt stöder några vanliga bildformat och format med fast layout. Det är lätt att ladda befintliga filer, ändra diagram-elementen för att exportera till önskat format inklusive bilder eller format med fast layout som PDF eller XPS.
 </p>
 
 <p>
- Aspose.Diagram för Node.js via Java är en fristående API och kräver inte Microsoft Visio eller någon annan programvaruinstallation. Dessutom är det få uppgifter som man enkelt kan utföra som att skapa diagram från grunden, läsa eller skriva olika format, komma åt och läsa egenskaperna inklusive Visio objektformler, exportera diagram till flera format, skriva ut diagram med hög kvalitet och mycket mer.
+ Aspose.Diagram för Node.js via Java är en fristående API och kräver inte Microsoft Visio eller någon annan programvaruinstallation. Dessutom är det få uppgifter som man enkelt kan utföra som att skapa diagram från början, läsa eller skriva olika format, komma åt och läsa egenskaperna inklusive Visio objektformler, exportera diagram till flera format, skriva ut diagram med hög kvalitet och mycket mer.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -319,7 +319,7 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
      Få åtkomst till och manipulera Visio filer
     </h2>
     <p>
-     Node.js-diagram API tillåter att läsa inbyggda Microsoft Visio-format samt ge tillgång till diagramdata som dokument, sida, mall, form, stilmall, ansluta och så vidare. Dessa objekt kan manipuleras genom API, och resultatet kan skrivas till disk i vilket som helst av de format som stöds.
+     Node.js diagram API tillåter att läsa inbyggda Microsoft Visio-format samt ge åtkomst till diagram-data som dokument, sida, mall, form, stilmall, ansluta och så vidare. Dessa objekt kan manipuleras genom API, och resultatet kan skrivas till disk i vilket som helst av de format som stöds.
     </p>
    </div>
    <div class="col-lg-12">

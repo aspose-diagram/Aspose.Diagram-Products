@@ -2,7 +2,7 @@
 title: C# .NET Visio Diagram API - Aspose 
 weight: 1020
 url: /tr/net/ 
-description: Visio diyagramlarını VSD VSDX VSS VST VSX VTX VDW VDX VSSX ve VSTX'i PDF XPS HTML SVG SWF ve görüntü formatlarını dışa aktarmak için C# VB.NET ASP.NET Visio diyagram kitaplığı
+description: Visio diyagramlarını VSD VSDX VSS VST VSX VTX VDW VDX VSSX ve VSTX'i PDF XPS'e dışa aktarmak için C# VB.NET ASP.NET Visio diyagram kitaplığı HTML SVG SWF ve görüntü biçimleri
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio Dosya İşleme API\'leri" h2="Microsoft Visio diyagramlarını oluşturun, düzenleyin, işleyin ve XPS, HTML, SVG, SWF, XAML, resimler veya PDF biçimlerine dönüştürün." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
@@ -12,7 +12,7 @@ description: Visio diyagramlarını VSD VSDX VSS VST VSX VTX VDW VDX VSSX ve VST
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NET, Microsoft Visio belgeleriyle çalışmak üzere tasarlanmış özel bir API'dir. Geliştiricilerin oluşturmasına, manipüle etmesine &amp; yerel Visio biçimlerini dönüştürün. Geliştiriciler, sıfırdan diyagramlar oluşturabilir, ayrıca mevcut dosyaları kolayca yükleyebilir ve sonucu diğer formatlarda dışa aktarmak için diyagramın öğelerini değiştirebilir.</p>
+<p>Aspose.Diagram for .NET, Microsoft Visio belgelerle çalışmak üzere tasarlanmış özel bir API'dir. Geliştiricilerin oluşturmasına, manipüle etmesine &amp; yerel Visio biçimleri dönüştürün. Geliştiriciler, sıfırdan diyagramlar oluşturabilir, ayrıca mevcut dosyaları kolayca yükleyebilir ve sonucu diğer biçimlerde dışa aktarmak için diagram öğelerini değiştirebilir.</p>
 
 <p>Aspose.Diagram for .NET, yaygın olarak kullanılan bazı resim &amp; sabit düzen biçimleri. Bu API, Microsoft Visio Nesne Modeline bir alternatiftir ve daha iyi performans sağlar. Bir sunucudaki belgeleri değiştirmek için Visio Hizmetlerinin gelişmiş işlevlerini kullanır.</p>
 
@@ -147,7 +147,7 @@ description: Visio diyagramlarını VSD VSDX VSS VST VSX VTX VDW VDX VSSX ve VST
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="API, 2.0 ve Mono\'den başlayarak .NET Çerçevesini destekler. Ayrıca COM Interop aracılığıyla diğer dillerle de kullanılabilir." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="API, 2.0 ve Mono\'den başlayarak .NET Framework\'yi destekler. Ayrıca COM Interop aracılığıyla diğer dillerle de kullanılabilir." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,7 +168,7 @@ description: Visio diyagramlarını VSD VSDX VSS VST VSX VTX VDW VDX VSSX ve VST
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Çerçeve
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -334,7 +334,7 @@ description: Visio diyagramlarını VSD VSDX VSS VST VSX VTX VDW VDX VSSX ve VST
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Diyagramın farklı nesnelerinin özelliklerini okuyun
+     diagram öğesinin farklı nesnelerinin özelliklerini okuyun
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: Visio diyagramlarını VSD VSDX VSS VST VSX VTX VDW VDX VSSX ve VST
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Diyagramı bir sunucuda XpsPrint API aracılığıyla yazdırın
+     XpsPrint API aracılığıyla bir sunucuda diagram yazdırın
     </p>
    </div>
    <div class="col-lg-4">
@@ -445,14 +445,14 @@ description: Visio diyagramlarını VSD VSDX VSS VST VSX VTX VDW VDX VSSX ve VST
      Basit, Hızlı ve Visio Dosyanın Güvenilir Dönüşümü
     </h2>
     <p>
-     Şirketler, Microsoft Visio'ta teknik diyagramlar oluşturur ve bu bilgileri paylaşmak ister. Ancak sorun, genel kullanıcıların Microsoft Visio veya belirli dosya biçimlerini Visio yükleyebilecek başka bir araç yüklemedikleri sürece bu tür görselleri yükleyemeyecek olmalarıdır. Bu sorunu çözmenin yollarından biri, diyagramları PDF, HTML &amp; makineye özel programların yüklenmesini gerektirmeyen raster görüntüler.
+     Şirketler Microsoft Visio içinde teknik diyagramlar oluşturur ve bu bilgileri paylaşmak ister. Ancak sorun şu ki, sıradan kullanıcılar Microsoft Visio veya belirli dosya biçimlerini Visio yükleyebilecek başka bir araç yüklemedikçe bu tür görselleri yükleyemezler. Bu sorunu çözmenin yollarından biri, diyagramları PDF, HTML &amp; makineye özel programların yüklenmesini gerektirmeyen raster görüntüler.
     </p>
     <p>
      .NET Visio kitaplığının, diğer yazılımlardan bağımsız olarak çalışan ve yalnızca birkaç satır kodla desteklenen herhangi bir Visio biçimini desteklenen herhangi birine dönüştürebilen kendi dönüştürme motoru vardır. Dönüştürme işlemi hızlı ancak güvenilirdir ve sonuçta elde edilen formattan bağımsız olarak size yüksek kaliteli sonuçlar sunar.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Diyagramı farklı biçimlerde kaydedin - C#
+      diagram öğesini farklı biçimlerde kaydedin - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -469,10 +469,10 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Visio Diyagramlarını İşleyin
+     Microsoft Visio Diyagramlarını Değiştir
     </h2>
     <p>
-     Aspose.Diagram for .NET API, Microsoft Visio dosyalarının yerel VSD/VSDX biçiminde ve ayrıca VSS, VST, VSX, VTX, VDW, VDX, VSSX, VSTX, VSDM, VSSM ve VSTM. Diyagramın içeriği API aracılığıyla değiştirilebilir. Belgede gerekli değişiklikleri yaptıktan sonra belge, desteklenen formatlardan herhangi birinde diske yazılabilir.
+     Aspose.Diagram for .NET API, Microsoft Visio dosyalarının yerel VSD/VSDX biçiminde ve ayrıca VSS, VST, VSX, VTX, VDW, {9 dahil olmak üzere diğer biçimlerde okunmasına izin verir. }, VSSX, VSTX, VSDM, VSSM ve VSTM. diagram içeriği API aracılığıyla değiştirilebilir. Belgede gerekli değişiklikleri yaptıktan sonra belge, desteklenen formatlardan herhangi birinde diske yazılabilir.
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Visio Diyagramdan Verilere Erişin
     </h2>
     <p>
-     Aspose.Diagram for .NET, geliştiricilerin, Belge Özellikleri, Sayfalar, Kalıplar, Şekiller, Görüntüler, Bağlantılar, Çözüm XML'si, Yorumlar, Köprüler, Stil Sayfası, Katmanlar, Kullanıcı tanımlı hücreler vb. gibi diyagram verilerini kolayca okumasına olanak tanır.
+     Aspose.Diagram for .NET, geliştiricilerin Belge Özellikleri, Sayfalar, Kalıplar, Şekiller, Görüntüler, Bağlantılar, Çözüm XML'si, Yorumlar, Köprüler, Stil Sayfası, Katmanlar, Kullanıcı tanımlı hücreler vb. gibi diagram verilerini kolayca okumasına olanak tanır .
     </p>
    </div>
    <div class="col-lg-12">
@@ -530,10 +530,10 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Otomasyonu – Gerekli Değil
+     Microsoft Office Otomasyon – Gerekli Değil
     </h2>
     <p>
-     Aspose.Diagram for .NET, Visio belge işlemeyle çalışmak için hiçbir zaman Microsoft Office veya Microsoft Visio'un makineye yüklenmesini gerektirmeyen yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Office Visio otomasyon alternatifidir.
+     Aspose.Diagram for .NET, Visio belge işlemeyle çalışmak için makineye hiçbir zaman Microsoft Office veya Microsoft Visio yüklenmesi gerekmeyen yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Office Visio otomasyon alternatifidir.
     </p>
    </div>
   </div>

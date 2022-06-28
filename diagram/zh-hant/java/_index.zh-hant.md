@@ -13,7 +13,7 @@ description: Visio 用於創建、操作和轉換圖表的庫。在基於 Java �
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java 是一個強大的 Microsoft Visio 文檔處理API。它提供了常見的功能，例如創建、解析和轉換原生 Visio 格式以及支持一些常用的圖像和固定佈局格式。應用程序可以加載現有文檔並操縱圖表元素以自己的格式、圖像或固定佈局格式導出結果。
+ Aspose.Diagram for Java 是一個強大的 Microsoft Visio 文檔處理 API。它提供了常見的功能，例如創建、解析和轉換原生 Visio 格式以及支持一些常用的圖像和固定佈局格式。應用程序可以加載現有文檔並操縱 diagram 元素以自己的格式、圖像或固定佈局格式導出結果。
 </p>
 
 <p>
@@ -118,7 +118,7 @@ description: Visio 用於創建、操作和轉換圖表的庫。在基於 Java �
      形狀幾何
     </li>
     <li>
-     註釋
+     評論
     </li>
    </ul>
    <header>
@@ -212,7 +212,7 @@ description: Visio 用於創建、操作和轉換圖表的庫。在基於 Java �
    <ul>
     <li>
      <b>
-      微軟 Visio：
+      Microsoft Visio：
      </b>
      VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM
     </li>
@@ -225,7 +225,7 @@ description: Visio 用於創建、操作和轉換圖表的庫。在基於 Java �
    <ul>
     <li>
      <b>
-      微軟 Visio：
+      Microsoft Visio：
      </b>
      VDW、VSD、VSS、VST
     </li>
@@ -408,10 +408,10 @@ description: Visio 用於創建、操作和轉換圖表的庫。在基於 Java �
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     解析 Microsoft Visio 文檔
+     解析 Microsoft Visio 個文檔
     </h2>
     <p>
-     Java 圖表 API 允許讀取 Microsoft Visio 應用程序的本機文件格式，從而允許您訪問圖表數據，如文檔頁面、屬性、母版、圖像、形狀、連接、解決方案 XML、圖層、超鏈接、評論、StyleSheet、用戶自定義單元格等。這些對象可以通過 API 進行操作，並且可以以任何支持的格式將結果寫入磁盤。
+     Java diagram API 允許讀取 Microsoft Visio 應用程序的本機文件格式，從而允許您訪問 diagram 數據，如文檔頁面、屬性、母版、圖像、形狀、連接、解決方案 XML 、圖層、超鏈接、註釋、樣式表、用戶自定義單元格等。這些對象可以通過 API 進行操作，結果可以任何支持的格式寫入磁盤。
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio 用於創建、操作和轉換圖表的庫。在基於 Java �
     </p>
     <div class="codeblock" id="code">
      <h3>
-      以不同格式保存圖表 - Java
+      以不同格式保存 diagram - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      在容器中組織形狀
     </h2>
     <p>
-     通常，開發人員會在容器中添加形狀以使事物井井有條且易於理解。容器在形狀周圍添加了視覺邊界，包括標籤。要將容器和子形狀添加到圖表中，開發人員可以使用該庫，因為它提供了一種簡單快捷的方法。
+     通常，開發人員會在容器中添加形狀以使事物井井有條且易於理解。容器在形狀周圍添加了視覺邊界，包括標籤。要將容器和子形狀添加到 diagram，開發人員可以使用該庫，因為它提供了一種簡單快捷的方法。
     </p>
    </div>
    <div class="col-lg-12">
@@ -493,7 +493,7 @@ dgm.print("LaserJet1100", "Job Name");</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/diagram/java/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-diagram/Aspose.Diagram-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 參考資料" href="https://apireference.aspose.com/java/diagram" >}}
+{{< blocks/products/pf/slr-element name="API 參考文獻" href="https://apireference.aspose.com/java/diagram" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

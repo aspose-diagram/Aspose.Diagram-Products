@@ -2,7 +2,7 @@
 title: VSD Dosyayı .NET ile Böl 
 weight: 1300
 url: /tr/net/splitter/vsd/ 
-description: .NET Framework, .NET Core, Mono Platformlarında Böl vsd dosyasına C# kaynak kodu.
+description: .NET Framework, .NET Core, Mono Platformlarında vsd dosyasını Bölmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="VSD\'i C#\'ye böl" h2="Microsoft veya Open Office, Adobe PDF gibi herhangi bir yazılım kullanmadan, sunucu tarafı Aspose.Diagram for .NET API\'lerini kullanan yerel ve yüksek performanslı VSD belge ayırıcı." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -61,7 +61,7 @@ Her sayfada yineleme
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet'ten yükleyin
+- Microsoft Windows veya .NET Framework, .NET Core, Mono veya COM Interop ile uyumlu bir işletim sistemi- Microsoft Visual Studio gibi geliştirme ortamı- Projenizde referans verilen Aspose.Diagram for .NET DLL - Yukarıdaki İndir düğmesini kullanarak NuGet adresinden yükleyin
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSD Dosyayı Böl - C#" offSpacer="" %}}
@@ -95,7 +95,7 @@ Her sayfada yineleme
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında sıkıştırılır ve birleştirilir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-VSD dosyaları, çeşitli grafik nesneleri ve bunlar arasındaki bağlantıyı temsil etmek için Microsoft Visio uygulamasıyla oluşturulan çizimlerdir. Bu tür çizimler, görsel nesneler, akış şemaları, UML şeması, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi görsel nesneleri içerebilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya biçimine dönüştürme yeteneği sunar. 
+VSD dosyaları, çeşitli grafik nesneleri ve bunlar arasındaki bağlantıyı temsil etmek için Microsoft Visio uygulamasıyla oluşturulan çizimlerdir. Bu tür çizimler, görsel nesneler, akış şemaları, UML diagram, bilgi akışı, organizasyon şemaları, yazılım şemaları, ağ düzeni, veritabanı modelleri, nesne eşleme ve diğer benzer bilgiler gibi görsel nesneleri içerebilir. Microsoft Visio, Visio dosyalarını PNG, BMP, PDF ve diğerleri dahil olmak üzere bir dizi farklı dosya formatına dönüştürme yeteneği sunar. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

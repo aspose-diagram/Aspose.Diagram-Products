@@ -1,7 +1,7 @@
 ﻿---
-title: C# Konversi Berkas Visio Microsoft
+title: C# Microsoft Visio Konversi Berkas
 url: /id/net/conversion/
-description: Konversi Microsoft Visio format VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST ke PDF HTML dan Gambar dengan beberapa baris kode C# melalui pustaka .NET.
+description: Konversi format Microsoft Visio VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST ke PDF HTML dan Gambar dengan beberapa baris C# kode melalui .NET perpustakaan.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Memformat Konversi Melalui C#" h2="Konversikan MS Visio Diagram ke PDF, HTML, dan Gambar termasuk BMP, JPG, PNG, TIFF untuk membuat aplikasi .NET lintas platform." >}}
@@ -13,7 +13,7 @@ Untuk solusi apa pun, merancang diagram alur dan diagram alur bisnis, dll., atau
 
 {{% blocks/products/pf/feature-page-section h2="Antar Konversi Visio File" %}}
 
-Visio file seperti VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM dapat diinterkonversi hanya dengan beberapa baris kode C#. Mari kita pertimbangkan kasus **VSD ke VSDX konversi**. API menyediakan [Diagram kelas](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) untuk memuat berkas VSD sumber. Setelah memuat file, Panggil metode Simpan dengan jalur keluaran dengan VSDX nama file dan [SimpanFormat File](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)Ekstensi .targetFile sebagai parameter.
+Visio file seperti VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM dapat diubah antar hanya dengan beberapa baris C# kode. Mari kita pertimbangkan kasus **VSD menjadi VSDX konversi**. API menyediakan [Diagram kelas](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) untuk memuat berkas VSD sumber. Setelah memuat file, Panggil metode Simpan dengan jalur keluaran dengan VSDX nama file dan [SimpanFormat File](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat)Ekstensi .targetFile sebagai parameter.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk VSD ke VSDX Konversi" %}}
 
@@ -39,7 +39,7 @@ Kapan pun ada kebutuhan untuk mengonversi Microsoft<sup>&reg;</sup> Visio file k
 
 {{% blocks/products/pf/feature-page-section h2="Konversikan Visio Berkas ke PDF" %}}
 
-API mampu mengonversi format visio ke PDF. Proses konversi sederhana. Muat file menggunakan kelas Diagram. Membuat [Objek memostream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) dan simpan file visio sebagai PDF ke dalam aliran menggunakan metode Simpan yang memiliki objek aliran dan SaveFileFormat.PDF sebagai parameter. Buat Objek FileStream untuk file yang dikonversi untuk menyimpannya menggunakan [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) metode. 
+API mampu mengonversi visio format ke PDF. Proses konversi sederhana. Muat file menggunakan kelas Diagram. Membuat [Objek memostream](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) dan simpan file visio sebagai PDF ke dalam aliran menggunakan metode Simpan yang memiliki objek aliran dan SaveFileFormat.PDF sebagai parameter. Buat Objek FileStream untuk file yang dikonversi untuk menyimpannya menggunakan [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) metode. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Konversi Visio ke PDF" %}}
 

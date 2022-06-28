@@ -1,7 +1,7 @@
 ﻿---
-title: C# Microsoft Visio fájlok konvertálása
+title: C# Microsoft Visio Fájlok átalakítása
 url: /hu/net/conversion/
-description: Konvertálja a Microsoft Visio formátumokat VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST PDF HTML formátumba és képekké néhány soros C# kóddal a .NET könyvtáron keresztül.
+description: Alakítsa át a(z) Microsoft Visio formátumot VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST PDF HTML formátumba és képekké néhány sorral C# kód a .NET könyvtáron keresztül.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Formátumkonverzió a következőn keresztül: C#" h2="Konvertálja az MS Visio diagramokat PDF-, HTML- és képekké, beleértve a BMP-t, JPG-t, PNG-t, TIFF-et, hogy platformokon átívelő .NET-alkalmazásokat készítsen." >}}
@@ -13,7 +13,7 @@ Bármilyen megoldáshoz, folyamatábrák és üzleti folyamatábrák tervezése 
 
 {{% blocks/products/pf/feature-page-section h2="Konverziók közötti Visio fájlok" %}}
 
-A Visio fájlok, például a VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM egymással konvertálhatók mindössze néhány soros C# kóddal. Tekintsük a **VSD–VSDX konverzió** esetét. Az API a [Diagram osztály](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) a forrás VSD fájl betöltéséhez. A fájl betöltése után hívja meg a Mentés metódust a kimeneti útvonallal VSDX fájlnévvel és [SaveFileFormat](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFile kiterjesztés paraméterként.
+A(z) Visio fájl, például a(z) VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM néhány sornyi fájllal konvertálható C# kódot. Tekintsük a **VSD–VSDX konverzió** esetét. A API a [Diagram osztály](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) a forrás VSD fájl betöltéséhez. A fájl betöltése után hívja meg a Mentés metódust a kimeneti útvonallal VSDX fájlnévvel és [SaveFileFormat](https://apireference.aspose.com/diagram/net/aspose.diagram/savefileformat).targetFile kiterjesztés paraméterként.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód a(z) VSD – VSDX konverzióhoz" %}}
 
@@ -26,7 +26,7 @@ A Visio fájlok, például a VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM e
 
 {{% blocks/products/pf/feature-page-section h2="Visio Formátumok konvertálása képekké" %}}
 
-Amikor szükség van a Microsoft konvertálására<sup>&reg;</sup> Visio fájlt a képekre, beleértve a JPG, PNG, BMP, TIFF és SVG formátumokat. A API megkönnyíti, és a konverziós folyamat ugyanaz. Használja a Diagram osztályt a fájl betöltéséhez és a mentési metódus meghívásához a képnév teljes elérési úttal és a SaveFileFormat paraméterek megadásával. Egy adott képbeállításhoz a API rendelkezik [ImageSaveOptions osztály](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
+Amikor szükség van a(z) Microsoft konvertálására<sup>&reg;</sup> Visio fájlt a képekre, beleértve a JPG, PNG, BMP, TIFF és SVG formátumokat. A API megkönnyíti, és a konverziós folyamat ugyanaz. Használja a Diagram osztályt a fájl betöltéséhez és a mentési metódus meghívásához a képnév teljes elérési úttal és a SaveFileFormat paraméterek megadásával. Egy adott képbeállításhoz a API rendelkezik [ImageSaveOptions osztály](https://apireference.aspose.com/diagram/net/aspose.diagram.saving/imagesaveoptions).
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód a(z) Visio képformátumokká konvertálásához" %}}
 
@@ -39,7 +39,7 @@ Amikor szükség van a Microsoft konvertálására<sup>&reg;</sup> Visio fájlt 
 
 {{% blocks/products/pf/feature-page-section h2="Konvertálja a(z) Visio fájlt PDF-be" %}}
 
-A API képes a Visio formátumokat PDF-be konvertálni. Az átalakítás folyamata egyszerű. Töltse be a fájlt a Diagram osztály használatával. Hozzon létre egy [Memostream objektum](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) és mentse a visio fájlt PDF formátumban adatfolyamba a Mentés metódus használatával, amelyben a stream objektum és a SaveFileFormat.PDF paraméterek vannak. Hozzon létre egy FileStream objektumot a konvertált fájlhoz, hogy elmentse a segítségével [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) módszer. 
+A API visio formátumot képes PDF-be konvertálni. Az átalakítás folyamata egyszerű. Töltse be a fájlt a Diagram osztály használatával. Hozzon létre egy [Memostream objektum](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream) és mentse a(z) visio fájlt PDF formátumban adatfolyamba a Mentés metódussal, amelyben a stream objektum és a SaveFileFormat.PDF paraméterek vannak. Hozzon létre egy FileStream objektumot a konvertált fájlhoz, hogy elmentse a segítségével [MemoryStream.WriteTo(FileStream)](https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream.writeto?view=net-5.0#System_IO_MemoryStream_WriteTo_System_IO_Stream_) módszer. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód a(z) Visio PDF-be konvertálásához" %}}
 

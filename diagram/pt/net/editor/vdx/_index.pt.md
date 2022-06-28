@@ -1,5 +1,5 @@
 ﻿---
-title: Edite arquivos VDX por meio de .NET 
+title: Edite VDX arquivos por meio de .NET 
 url: /pt/net/editor/vdx/ 
 description: C# código-fonte para editar o documento VDX nas plataformas .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.
 ---
@@ -11,7 +11,7 @@ description: C# código-fonte para editar o documento VDX nas plataformas .NET F
 
 {{% blocks/products/pf/agp/content h2="Como editar o arquivo VDX usando C#" %}}
 
-Para editar o arquivo VDX, usaremos <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API que é uma plataforma rica em recursos, poderosa e fácil de usar API para C# para qualquer editor. Abrir <a href="https://www.nuget.org/packages/aspose.diagram">NuGetName</a> gerenciador de pacotes, procure <b>Aspose.Diagram</b> e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para editar o arquivo VDX, usaremos <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API que é uma plataforma rica em recursos, poderosa e fácil de usar API para C# para qualquer editor. Aberto <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> gerenciador de pacotes, procure <b>Aspose.Diagram</b> e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -50,10 +50,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Windows Azure, Mono ou plataformas Xamarin- Ambiente de desenvolvimento como o Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale do NuGet usando o botão Download acima
+- Microsoft Windows ou um sistema operacional compatível com plataformas .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin- Ambiente de desenvolvimento como Microsoft Visual Studio- Aspose.Diagram for .NET DLL referenciada em seu projeto - Instale de NuGet usando o botão Download acima
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Editar arquivos VDX - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Editar VDX arquivos - C#" offSpacer="" %}}
 
 ```cs
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagrama e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.    
+Aspose.Diagram é uma manipulação de formato de documento Microsoft Visio API. Pode-se facilmente carregar, criar, modificar, manipular incluindo elementos de diagramas e converter diagramas Visio para outros formatos, como PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF e muito mais. É um API autônomo e não requer que o Microsoft Visio ou qualquer outro software seja instalado.    
 
 
 
@@ -80,14 +80,14 @@ Aspose.Diagram é uma manipulação de formato de documento da Microsoft Visio A
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo do editor VDX on-line" sectionDescription="Edite documentos VDX agora mesmo visitando nosso [Site de demonstrações ao vivo](https://products.aspose.app/diagram/editor). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações on-line do editor VDX ao vivo" sectionDescription="Edite VDX documentos agora mesmo visitando nosso [Site de demonstrações ao vivo](https://products.aspose.app/diagram/editor). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos VDX, use o editor online para editar instantaneamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos VDX, use o editor on-line para editar instantaneamente." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Em seguida, salve e baixe." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDX" readMoreLink="https://docs.fileformat.com/image/vdx/" >}}
-Qualquer desenho ou gráfico criado no Microsoft Visio, mas salvo no formato XML, tem extensão .VDX. Um arquivo XML de desenho Visio é criado no software Visio, desenvolvido pela Microsoft. A Microsoft Visio tem a capacidade de gerar documentos visuais que podem ser usados em apresentações e documentos. O arquivo XML de desenho Visio contém os objetos visuais e detalhes de metadados dos elementos visuais. O texto também pode ser adicionado a esses elementos visuais Arquivo XML de desenho de visão. Esses Visio arquivos XML de desenho são integrados com padrões de formatação baseados em XML e especificações de codificação de dados de imagem que permitem que seu conteúdo seja renderizado e armazenado pelo software Microsoft Visio no formato de arquivo VDX. 
+Qualquer desenho ou gráfico criado em Microsoft Visio, mas salvo no formato XML, tem extensão .VDX. Um arquivo XML de desenho Visio é criado no software Visio, que é desenvolvido por Microsoft. Microsoft Visio tem a capacidade de gerar documentos visuais que podem ser usados em apresentações e documentos. O arquivo XML de desenho Visio contém os objetos visuais e detalhes de metadados dos elementos visuais. O texto também pode ser adicionado a esses elementos visuais Arquivo XML de desenho de visão. Esses Visio arquivos XML de desenho são integrados com padrões de formatação baseados em XML e especificações de codificação de dados de imagem que permitem que seu conteúdo seja renderizado e armazenado pelo software Microsoft Visio no formato de arquivo VDX. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

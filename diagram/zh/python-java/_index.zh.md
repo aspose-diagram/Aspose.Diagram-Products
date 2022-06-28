@@ -13,7 +13,7 @@ description: Aspose.Diagram for Python via Java 是一个 visio javascript API�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Python via Java 是 Microsoft Visio 文档操作解决方案。可以读取、写入、保护、导出和打印原生 Visio 格式，并支持一些常用的图像和固定布局格式。它可以轻松加载现有文件，修改图表元素以导出为所需格式，包括图像或 PDF 或 XPS 等固定布局格式。
+ Aspose.Diagram for Python via Java 是一种 Microsoft Visio 文档操作解决方案。可以读取、写入、保护、导出和打印原生 Visio 格式，并支持一些常用的图像和固定布局格式。它可以轻松加载现有文件，修改 diagram 元素以导出为所需格式，包括图像或 PDF 或 XPS 等固定布局格式。
 </p>
 
 <p>
@@ -155,7 +155,7 @@ description: Aspose.Diagram for Python via Java 是一个 visio javascript API�
    <ul>
     <li>
      <b>
-      微软 Visio：
+      Microsoft Visio：
      </b>
      VSDX、VDX、VSX、VTX、VSSX、VSTX、VSDM、VSSM、VSTM
     </li>
@@ -168,7 +168,7 @@ description: Aspose.Diagram for Python via Java 是一个 visio javascript API�
    <ul>
     <li>
      <b>
-      微软 Visio：
+      Microsoft Visio：
      </b>
      VDW、VSD、VSS、VST
     </li>
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      访问和操作 Visio 文件
     </h2>
     <p>
-     Python图表API允许读取原生 Microsoft Visio 格式，并提供对图表数据（如文档、页面、母版、形状、样式表、连接等）的访问。这些对象可以通过 API 进行操作，并且可以以任何支持的格式将结果写入磁盘。
+     Python diagram API 允许读取原生 Microsoft Visio 格式以及提供对文档、页面、母版、形状、样式表、连接等 diagram 数据的访问。这些对象可以通过 API 进行操作，结果可以任何支持的格式写入磁盘。
     </p>
    </div>
    <div class="col-lg-12">

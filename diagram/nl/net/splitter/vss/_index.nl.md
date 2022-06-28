@@ -80,7 +80,7 @@ Herhaal elke pagina
 
     {{% blocks/products/pf/agp/content h2="Over Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk inclusief daigram-elementen laden, creëren, wijzigen, manipuleren en Visio-diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen installatie van Microsoft Visio of andere software.  
+ Aspose.Diagram is een Microsoft Visio manipulatie van documentindeling API. Men kan gemakkelijk laden, creëren, wijzigen, manipuleren inclusief daigram-elementen en Visio diagrammen converteren naar andere formaten zoals PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF en meer. Het is een standalone API en vereist geen Microsoft Visio of andere software om te worden geïnstalleerd.  
 
 
 
@@ -95,7 +95,7 @@ Herhaal elke pagina
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk gecomprimeerd en aaneengeschakeld." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS zijn stencilbestanden die zijn gemaakt met Microsoft Visio 2007 en eerder. Een relatief nieuwe bestandsindeling is .VSSX die werd geïntroduceerd met Microsoft Visio 2013. Stencilbestanden bieden tekenobjecten die kunnen worden opgenomen in een .VSD Visio-tekening. Microsoft Visio staat zelf bekend om het maken van tekenelementen, zoals het verzamelen van vormen, connectoren, stroomdiagrammen, netwerklay-out, UML-diagrammen, softwarediagrammen, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Het heeft ook uitgebreide conversiefuncties van Visio-documenten naar andere bestandsindelingen zoals PNG, BMP, PDF en andere. Visio is beschikbaar voor zowel Windows als Mac OS. 
+VSS zijn stencilbestanden die zijn gemaakt met Microsoft Visio 2007 en eerder. Een relatief nieuwe bestandsindeling is .VSSX die werd geïntroduceerd met Microsoft Visio 2013. Stencilbestanden bieden tekenobjecten die kunnen worden opgenomen in een .VSD Visio-tekening. Microsoft Visio zelf staat bekend om het maken van tekenelementen zoals het verzamelen van vormen, connectoren, stroomdiagrammen, netwerklay-out, UML-diagrammen, softwarediagrammen, databasemodellen, objecttoewijzing en andere soortgelijke informatie. Het heeft ook uitgebreide conversiefuncties van Visio documenten naar andere bestandsformaten zoals PNG, BMP, PDF en andere. Visio is beschikbaar voor zowel Windows als Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

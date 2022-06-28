@@ -2,7 +2,7 @@
 title: Bố cục tự động VSDX tài liệu qua .NET 
 weight: 3050
 url: /vi/net/autolayout/vsdx/ 
-description: C# mã nguồn để tự động bố cục tệp vsdx trên Nền tảng .NET Framework, .NET Core, Mono.
+description: C# mã nguồn để bố cục tự động vsdx tệp trên Nền tảng .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Bố cục tự động VSDX tài liệu trong C#" h2="Tài liệu bố cục tự động VSDX gốc và hiệu suất cao sử dụng API Aspose.Diagram for .NET phía máy chủ mà không cần sử dụng bất kỳ phần mềm nào như Microsoft hoặc Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Một tài liệu cơ bản hợp nhất và nối với
+ Bố cục tự động tài liệu cơ bản với
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Các API có thể được thực hiện chỉ với vài dòng mã.
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 + Chọn Trang qua id của nó
 + Sử dụng chức năng Bố cục của Trang
 + Gọi phương thức Save () và chuyển tên tệp (đường dẫn đầy đủ) và định dạng (VSDX) làm tham số.
-+ Giờ đây, bạn có thể mở và sử dụng tệp VSDX trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
++ Giờ đây, bạn có thể mở và sử dụng VSDX tệp trong Microsoft Office, Adobe PDF hoặc bất kỳ chương trình tương thích nào khác.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="Giới thiệu về Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được bố trí tự động và nối ngay lập tức." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-Tệp có phần mở rộng. VSDX đại diện cho định dạng tệp Microsoft Visio được giới thiệu từ Microsoft Office 2013 trở đi. Nó được phát triển để thay thế định dạng tệp nhị phân,. VSD, được hỗ trợ bởi các phiên bản trước của Microsoft Visio. Nó cũng được hỗ trợ trên Visio Dịch vụ trong Microsoft SharePoint Server 2013 và không yêu cầu định dạng tệp trung gian để xuất bản lên SharePoint Server. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, biểu đồ luồng, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác. 
+Tệp có phần mở rộng. VSDX đại diện cho định dạng tệp Microsoft Visio được giới thiệu từ Microsoft Office 2013 trở đi. Nó được phát triển để thay thế định dạng tệp nhị phân,. VSD, được hỗ trợ bởi các phiên bản trước đó của Microsoft Visio. Nó cũng được hỗ trợ trên Visio Dịch vụ trong Microsoft SharePoint Server 2013 và không yêu cầu định dạng tệp trung gian để xuất bản lên SharePoint Server. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, lưu đồ, UML diagram, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     

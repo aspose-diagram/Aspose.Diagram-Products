@@ -12,7 +12,7 @@ description: Codice di esempio per la conversione da VSDM a HTML C#. Utilizza AP
 
 {{% blocks/products/pf/agp/content h2="Come convertire VSDM in HTML utilizzando C#" %}}
 
- Per convertire VSDM in HTML, useremo
+ Per convertire VSDM in HTML, utilizzeremo
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API che è una piattaforma di manipolazione e conversione di documenti API ricca di funzionalità, potente e facile da usare per C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.diagram) 
@@ -39,11 +39,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET gli sviluppatori possono caricare e convertire facilmente i file VSDM in HTML in poche righe di codice.
+ .NET gli sviluppatori possono caricare e convertire facilmente VSDM file in HTML in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carica il file VSDM con un'istanza della classe Diagram1. Chiama il metodo Diagram.Save con il percorso del file di output e SaveFileFormat.HTML come parametri1. Il file HTML verrà salvato nel percorso specificato
+1. Carica il file VSDM con un'istanza di classe Diagram1. Chiama il metodo Diagram.Save con il percorso del file di output e SaveFileFormat.HTML come parametri1. Il file HTML verrà salvato nel percorso specificato
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di sistema" %}}
@@ -70,15 +70,15 @@ PM> Install-Package Aspose.Diagram
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per convertire VSDM in HTML" sectionDescription="Controlla le nostre demo dal vivo per [Conversione da VSDM a HTML](https://products.aspose.app/diagram/conversion/vsdm-to-html) con i seguenti vantaggi." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="App gratuita per convertire VSDM in HTML" sectionDescription="Controlla le nostre demo dal vivo per [VSDM in conversione HTML](https://products.aspose.app/diagram/conversion/vsdm-to-html) con i seguenti vantaggi." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare il tuo file VSDM e premere il pulsante \"Converti\"." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Carica il tuo file VSDM e premi il pulsante \"Converti\"." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Otterrai immediatamente il link per il download per il file HTML risultante." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Una Diagram Libreria di gestione appositamente progettata per funzionare con i file Microsoft Visio. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, caricare facilmente file esistenti e manipolare gli elementi del diagramma per esportare il risultato in altri formati.
+ Una Diagram Libreria di gestione appositamente progettata per funzionare con Microsoft Visio file. Consente agli sviluppatori di creare, manipolare e convertire formati Visio nativi. Gli sviluppatori possono creare diagrammi da zero, nonché caricare facilmente file esistenti e manipolare gli elementi di diagram per esportare il risultato in altri formati.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/image/vsdm/" >}}
-I file con estensione VSDM sono file di disegno creati con l'applicazione Microsoft Visio che supporta le macro. I file VSDM sono disegni OPC/XML simili a VSDX ma offrono anche la possibilità di eseguire macro quando il file viene aperto. Le macro sono azioni/passaggi definiti dall'utente che vengono sviluppati in Visual Basic, Applications Edition (VBA) e possono essere utilizzati per eseguire attività ripetitive. Il formato di file VSDM è stato introdotto con il lancio di Microsoft Visio 2013. Visio i file vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, diagramma UML, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura degli oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri.
+file con estensione VSDM sono file di disegno creati con l'applicazione Microsoft Visio che supporta le macro. I file VSDM sono disegni OPC/XML simili a VSDX ma offrono anche la possibilità di eseguire macro quando il file viene aperto. Le macro sono azioni/passaggi definiti dall'utente che vengono sviluppati in Visual Basic, Applications Edition (VBA) e possono essere utilizzati per eseguire attività ripetitive. VSDM il formato di file è stato introdotto con il lancio del Microsoft Visio 2013. Visio i file vengono utilizzati per creare disegni che contengono oggetti visivi, diagrammi di flusso, UML diagram, flusso di informazioni, organigrammi, diagrammi software, layout di rete, modelli di database, mappatura degli oggetti e altre informazioni simili. I file generati utilizzando Visio possono anche essere esportati in diversi formati di file come PNG, BMP, PDF e altri.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="html" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per la visualizzazione nei browser. Conosciuto come linguaggio del web, l'HTML si è evoluto con i requisiti di nuovi requisiti informativi da visualizzare come parte delle pagine web. L'ultima variante è nota come HTML 5 che offre molta flessibilità per lavorare con la lingua. Le pagine HTML vengono ricevute dal server, dove sono ospitate, oppure possono essere caricate anche dal sistema locale. Ogni pagina HTML è composta da elementi HTML come moduli, testo, immagini, animazioni, collegamenti, ecc. Questi elementi sono rappresentati da tag come img, a, p e molti altri in cui ogni tag ha inizio e fine. Può anche incorporare applicazioni scritte in linguaggi di scripting come JavaScript e fogli di stile (CSS) per la rappresentazione generale del layout.
+HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per la visualizzazione nei browser. Conosciuto come la lingua del web, l'HTML si è evoluto con i requisiti di nuovi requisiti di informazione da visualizzare come parte delle pagine web. L'ultima variante è nota come HTML 5 che offre molta flessibilità per lavorare con la lingua. Le pagine HTML vengono ricevute dal server, dove sono ospitate, oppure possono essere caricate anche dal sistema locale. Ogni pagina HTML è composta da elementi HTML come moduli, testo, immagini, animazioni, collegamenti, ecc. Questi elementi sono rappresentati da tag come img, a, p e molti altri in cui ogni tag ha inizio e fine. Può anche incorporare applicazioni scritte in linguaggi di scripting come JavaScript e fogli di stile (CSS) per la rappresentazione generale del layout.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -105,21 +105,21 @@ HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per l
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire VSDM in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-bmp/" name="VSDM A BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-emf/" name="VSDM A EMF" description="Formato Metafile migliorato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-emf/" name="VSDM A CEM" description="Formato Metafile migliorato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-jpeg/" name="VSDM IN JPEG" description="Immagine JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-pdf/" name="VSDM IN PDF" description="Formato documento portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-png/" name="VSDM IN PNG" description="Grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-svg/" name="VSDM IN SVG" description="Grafica vettoriale scalabile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-swf/" name="VSDM IN SWF" description="Formato SWF" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-tiff/" name="VSDM IN TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vdx/" name="DA VSDM A VDX" description="Formato di disegno Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsdx/" name="VSDM A VSDX" description="Formato Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssm/" name="VSDM A VSSM" description="File stencil di Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssx/" name="DA VSDM A VSSX" description="Stencil da disegno" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstm/" name="VSDM A VSTM" description="File modello Visio Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstx/" name="DA VSDM A VSTX" description="Modello di disegno di Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsx/" name="DA VSDM A VSX" description="Stencil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vtx/" name="VSDM A VTX" description="Modello di disegno di Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vdx/" name="VSDM A VDX" description="Microsoft Visio Formato di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsdx/" name="VSDM A VSDX" description="Microsoft Visio Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssm/" name="VSDM A VSSM" description="Microsoft Visio File stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vssx/" name="VSDM A VSSX" description="Stencil da disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstm/" name="VSDM A VSTM" description="Microsoft Visio File modello" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vstx/" name="VSDM A VSTX" description="Microsoft Visio Modello di disegno" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vsx/" name="VSDM A VSX" description="Stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-vtx/" name="VSDM A VTX" description="Microsoft Visio Modello di disegno" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xaml/" name="VSDM IN XAML" description="Linguaggio di markup dell\'applicazione estensibile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vsdm-to-xps/" name="VSDM A XPS" description="Specifiche della carta XML" >}}
 

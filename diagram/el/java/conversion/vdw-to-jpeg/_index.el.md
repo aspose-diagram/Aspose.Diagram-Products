@@ -71,7 +71,7 @@ description: Δείγμα κώδικα μετατροπής Java για μορφ
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application and Desktop Applications.- Λάβετε την τελευταία έκδοση του Aspose.Diagram for Java απευθείας από τη Maven.
+- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για JSP/JSF Application και Desktop Applications.- Λάβετε την πιο πρόσφατη έκδοση του Aspose.Diagram for Java απευθείας από το Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Πηγαίος κώδικας μετατροπής VDW σε JPEG Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Βιβλιοθήκη χειρισμού" %}}
 
- Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου της Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
+ Το Aspose.Diagram είναι ένας χειρισμός μορφής εγγράφου Microsoft Visio API. Κάποιος μπορεί εύκολα να φορτώσει, να δημιουργήσει, να τροποποιήσει, να χειριστεί συμπεριλαμβανομένων των στοιχείων daigram και να μετατρέψει Visio διαγράμματα σε άλλες μορφές όπως PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF και άλλα. Είναι αυτόνομο API και δεν απαιτεί την εγκατάσταση του Microsoft Visio ή άλλου λογισμικού.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-Το VDW είναι η μορφή αρχείου της υπηρεσίας γραφικών Visio που καθορίζει τις ροές και τις αποθήκες που απαιτούνται για την απόδοση ενός σχεδίου Ιστού. Ένα σχέδιο Ιστού είναι μια συλλογή σελίδων σχεδίασης, σχημάτων, γραμματοσειρών, εικόνων, συνδέσεων δεδομένων και πληροφοριών ενημέρωσης διαγραμμάτων που μπορούν να αποδοθούν ως διανυσματικό ή ράστερ σχέδιο. Τα αρχεία VDW μπορούν να ανοίξουν και στο Microsoft Visio, αλλά αποθηκεύονται κυρίως για χρήση στον ιστό. Η Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
+Το VDW είναι η μορφή αρχείου της υπηρεσίας γραφικών Visio που καθορίζει τις ροές και τις αποθήκες που απαιτούνται για την απόδοση ενός σχεδίου Ιστού. Ένα σχέδιο Ιστού είναι μια συλλογή σελίδων σχεδίασης, σχημάτων, γραμματοσειρών, εικόνων, συνδέσεων δεδομένων και diagram πληροφοριών ενημέρωσης που μπορούν να αποδοθούν ως διανυσματικό ή ράστερ σχέδιο. Τα αρχεία VDW μπορούν να ανοίξουν και στο Microsoft Visio, αλλά αποθηκεύονται κυρίως για χρήση στον ιστό. Το Microsoft Visio προσφέρει τη δυνατότητα μετατροπής αρχείων Visio σε διάφορες μορφές αρχείων, συμπεριλαμβανομένων των PNG, BMP, PDF και άλλων.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" >}}
 
-Το JPEG είναι ένας τύπος μορφής εικόνας που αποθηκεύεται χρησιμοποιώντας τη μέθοδο της συμπίεσης με απώλειες. Η εικόνα εξόδου, ως αποτέλεσμα της συμπίεσης, είναι μια αντιστάθμιση μεταξύ του μεγέθους αποθήκευσης και της ποιότητας της εικόνας. Οι χρήστες μπορούν να προσαρμόσουν το επίπεδο συμπίεσης για να επιτύχουν το επιθυμητό επίπεδο ποιότητας ενώ ταυτόχρονα να μειώσουν το μέγεθος αποθήκευσης. Η ποιότητα της εικόνας επηρεάζεται αμελητέα εάν εφαρμοστεί συμπίεση 10:1 στην εικόνα. Όσο υψηλότερη είναι η τιμή συμπίεσης, τόσο μεγαλύτερη είναι η υποβάθμιση της ποιότητας της εικόνας. Η μορφή αρχείου εικόνας JPEG τυποποιήθηκε από την Joint Photographic Experts Group και, ως εκ τούτου, το όνομα JPEG. Η μορφή ήταν η επιλογή αποθήκευσης και μετάδοσης φωτογραφικών εικόνων στο διαδίκτυο. Σχεδόν όλα τα λειτουργικά συστήματα έχουν πλέον προγράμματα προβολής που υποστηρίζουν την οπτικοποίηση εικόνων JPEG, οι οποίες συχνά αποθηκεύονται και με επέκταση JPG. Ακόμη και τα προγράμματα περιήγησης Ιστού υποστηρίζουν την οπτικοποίηση εικόνων JPEG.
+Το JPEG είναι ένας τύπος μορφής εικόνας που αποθηκεύεται χρησιμοποιώντας τη μέθοδο της συμπίεσης με απώλειες. Η εικόνα εξόδου, ως αποτέλεσμα της συμπίεσης, είναι μια αντιστάθμιση μεταξύ του μεγέθους αποθήκευσης και της ποιότητας της εικόνας. Οι χρήστες μπορούν να προσαρμόσουν το επίπεδο συμπίεσης για να επιτύχουν το επιθυμητό επίπεδο ποιότητας ενώ ταυτόχρονα να μειώσουν το μέγεθος αποθήκευσης. Η ποιότητα της εικόνας επηρεάζεται αμελητέα εάν εφαρμοστεί συμπίεση 10:1 στην εικόνα. Όσο υψηλότερη είναι η τιμή συμπίεσης, τόσο μεγαλύτερη είναι η υποβάθμιση της ποιότητας της εικόνας. Η μορφή αρχείου εικόνας JPEG τυποποιήθηκε από την Joint Photographic Experts Group και, ως εκ τούτου, το όνομα JPEG. Η μορφή ήταν η επιλογή αποθήκευσης και μετάδοσης φωτογραφικών εικόνων στο διαδίκτυο. Σχεδόν όλα τα λειτουργικά συστήματα διαθέτουν πλέον προγράμματα προβολής που υποστηρίζουν οπτικοποίηση εικόνων JPEG, οι οποίες συχνά αποθηκεύονται και με επέκταση JPG. Ακόμη και τα προγράμματα περιήγησης Ιστού υποστηρίζουν την οπτικοποίηση εικόνων JPEG.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,15 +139,15 @@ visio.save("output.jpeg", SaveFileFormat.JPEG);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-png/" name="VDW ΣΕ PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-svg/" name="VDW ΣΕ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDW TO TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW ΣΕ VDX" description="Μορφή σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW ΣΕ VSDM" description="Μορφή σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW ΠΡΟΣ VDX" description="Microsoft Visio Μορφή σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW ΠΡΟΣ VSDM" description="Microsoft Visio Μορφή σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="VDW ΠΡΟΣ VSDX" description="Μορφή Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW ΣΕ VSSM" description="Αρχεία Stencil της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW ΣΕ VSSX" description="Στένσιλ σχεδίασης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW ΣΕ VSTM" description="Αρχεία προτύπων της Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW ΣΕ VSTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW ΣΕ VSX" description="Στένσιλ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW ΣΕ VTX" description="Πρότυπο σχεδίασης Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW ΠΡΟΣ VSSM" description="Microsoft Visio Αρχεία στένσιλ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW ΠΡΟΣ VSSX" description="Στένσιλ σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW ΠΡΟΣ VSTM" description="Microsoft Visio Αρχεία προτύπων" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW ΠΡΟΣ VSTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW ΠΡΟΣ VSX" description="Στένσιλ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW ΠΡΟΣ VTX" description="Microsoft Visio Πρότυπο σχεδίασης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xaml/" name="VDW TO XAML" description="Επεκτάσιμη γλώσσα σήμανσης εφαρμογής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="VDW ΣΕ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 

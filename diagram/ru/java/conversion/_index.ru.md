@@ -1,20 +1,20 @@
 ﻿---
-title: Преобразование файлов Java Microsoft Visio
+title: Java Microsoft Visio Преобразование файлов
 url: /ru/java/conversion/
-description: Преобразование форматов Microsoft Visio VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS в изображения HTML и PDF с помощью нескольких строк кода Java.
+description: Преобразование форматов Microsoft Visio VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS в изображения HTML и PDF с несколькими строками Java код.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Преобразование форматов Microsoft<sup>&reg;</sup> Visio через Java" h2="Преобразование диаграмм MS Visio в HTML, PDF и изображения, включая JPG, BMP, PNG, TIFF, для создания кроссплатформенных Java приложений." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Преобразование форматов через Java" h2="Преобразование диаграмм MS Visio в HTML, PDF и изображения, включая JPG, BMP, PNG, TIFF, для создания кроссплатформенных Java приложений." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Для любого решения Microsoft для рендеринга форматов Visio, такого как разработка блок-схем, схем бизнес-процессов и т. д., Java Visio API упрощает все сложные чертежи. Загрузите исходный файл, используя [Diagram класс](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) и вызовите метод сохранения с соответствующими параметрами.
+Для любого решения для рендеринга форматов Microsoft Visio, такого как разработка блок-схем, схем бизнес-процессов и т. д., Java Visio API упрощает все сложные чертежи. Загрузите исходный файл, используя [Diagram класс](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) и вызовите метод сохранения с соответствующими параметрами.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Интерконвертация Visio файлов" %}}
 
-Программисты могут легко преобразовывать форматы VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM, а также загружать VDW, VSD, VSS, VST и отображать в PDF, HTML и изображения. Учитывая сценарий VSDX для VDX, процесс заключается в загрузке исходного файла VSDX с использованием класса диаграммы и вызове метода сохранения, предоставляя выходной файл и [СохранитьФайлФормат](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX в качестве параметров. 
+Программисты могут легко преобразовывать форматы VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM, а также загружать VDW, VSD, VSS, VST и рендеринг в PDF, HTML и изображения. Учитывая сценарий VSDX–VDX, процесс заключается в загрузке исходного файла VSDX с использованием класса diagram и вызове метода сохранения, предоставляя выходной файл и [СохранитьФайлФормат](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX в качестве параметров. 
 
 {{% blocks/products/pf/feature-page-code h3="Код Java для преобразования VSDX в VDX" %}}
 
@@ -27,7 +27,7 @@ description: Преобразование форматов Microsoft Visio VSDX 
 
 {{% blocks/products/pf/feature-page-section h2="Преобразование Visio в изображения" %}}
 
-Для общего преобразования процесс преобразования файлов visio в изображения такой же. Просто загрузите файл через класс Diagram и вызовите метод сохранения с выходным файлом и выходными параметрами SaveFileFormat. И всякий раз, когда необходимо определить определенные параметры, разработчики могут использовать класс ImageSaveOptions при преобразовании страниц схемы в изображения и SVGSaveOptions для преобразования SVG.
+Для общего преобразования процесс преобразования файлов visio в изображения такой же. Просто загрузите файл через класс Diagram и вызовите метод сохранения с выходным файлом и выходными параметрами SaveFileFormat. И всякий раз, когда необходимо определить определенные параметры, разработчики могут использовать класс ImageSaveOptions при преобразовании diagram страниц в изображения и SVGSaveOptions для преобразования SVG.
 
 {{% blocks/products/pf/feature-page-code h3="Java Код для преобразования Visio в форматы изображений" %}}
 
@@ -46,7 +46,7 @@ description: Преобразование форматов Microsoft Visio VSDX 
 
 {{% blocks/products/pf/feature-page-section h2="Преобразование Visio в PDF и HTML" %}}
 
-API может преобразовывать форматы Visio в PDF, а также в HTML. Просто используйте [СохранитьФайлФормат](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF и SaveFileFormat.HTML в методе сохранения в качестве параметра. А для специальных настроек разработчики могут использовать классы PdfSaveOptions и HTMLSaveOptions.
+API может преобразовывать форматы visio в PDF, а также в HTML. Просто используйте [СохранитьФайлФормат](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).PDF и SaveFileFormat.HTML в методе сохранения в качестве параметра. А для специальных настроек разработчики могут использовать классы PdfSaveOptions и HTMLSaveOptions.
 
 {{% blocks/products/pf/feature-page-code h3="Java Код для преобразования Visio в PDF" %}}
 

@@ -5,7 +5,7 @@ url: /hu/java/
 description: Visio könyvtár diagramok létrehozásához, kezeléséhez és konvertálásához. Diagramok exportálása több formátumba Java-alapú alkalmazásokban
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Manipuláljon és exportáljon Microsoft Office Visio fájlokat PDF, HTML, Images és XAML formátumokba Microsoft Office Visio függőségek nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API" h2="Manipuláljon és exportáljon Microsoft Office Visio fájlt PDF, HTML, képek és XAML formátumokba Microsoft Office Visio függőségek nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Visio könyvtár diagramok létrehozásához, kezeléséhez és kon
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A Aspose.Diagram for Java egy hatékony Microsoft Visio dokumentumfeldolgozó API. Olyan általános funkciókat biztosít, mint a létrehozás, elemzés és amp; átalakítja a natív Visio formátumokat, valamint támogat néhány gyakran használt kép- és rögzített elrendezésű formátumot. Az alkalmazások betölthetik a meglévő dokumentumokat, és manipulálhatják a diagramelemeket, hogy az eredményt saját formátumokba, képekbe vagy rögzített elrendezésű formátumokba exportálják.
+ Aspose.Diagram for Java egy hatékony Microsoft Visio dokumentumfeldolgozó API. Olyan általános funkciókat biztosít, mint a létrehozás, elemzés és amp; átalakítja a natív Visio formátumokat, valamint támogat néhány gyakran használt kép- és rögzített elrendezésű formátumot. Az alkalmazások betölthetik a meglévő dokumentumokat, és manipulálhatják a diagram elemeket, hogy az eredményt saját formátumokba, képekbe vagy rögzített elrendezésű formátumokba exportálják.
 </p>
 
 <p>
@@ -408,10 +408,10 @@ description: Visio könyvtár diagramok létrehozásához, kezeléséhez és kon
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Elemezze a Microsoft Visio dokumentumokat
+     Microsoft Visio dokumentumok elemzése
     </h2>
     <p>
-     A Java diagram API lehetővé teszi a Microsoft Visio alkalmazás natív fájlformátumainak olvasását, így lehetővé teszi a diagramadatok elérését, például a dokumentumoldalakat, a tulajdonságokat, a mestereket, a képeket, az alakzatokat, a kapcsolatokat, a megoldás XML-ét, a rétegeket, a hiperhivatkozásokat, a megjegyzéseket , StyleSheet, felhasználó által definiált cellák és így tovább. Ezek az objektumok a API-on keresztül manipulálhatók, és az eredmény lemezre írható a támogatott formátumok bármelyikében.
+     A Java diagram API lehetővé teszi a(z) Microsoft Visio alkalmazás natív fájlformátumainak olvasását, így lehetővé teszi a(z) diagram adatokhoz való hozzáférést, mint például a dokumentumoldalak, tulajdonságok, mesterek, képek, alakzatok, kapcsolatok, megoldás XML , rétegek, hiperhivatkozások, megjegyzések, stíluslap, felhasználó által definiált cellák és így tovább. Ezek az objektumok a API-on keresztül manipulálhatók, és az eredmény a támogatott formátumok bármelyikében lemezre írható.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Visio könyvtár diagramok létrehozásához, kezeléséhez és kon
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Diagram mentése különböző formátumokban - Java
+      diagram mentése különböző formátumokban – Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Alakzatok rendezése tárolóban
     </h2>
     <p>
-     Általában a fejlesztők alakzatokat adnak hozzá egy tárolóhoz, hogy a dolgok jól szervezett és érthetőek legyenek. A tárolók vizuális határvonalat adnak az alakzatok körül, beleértve a címkét is. A fejlesztők használhatják a könyvtárat egy konténer és al-alakzatok diagramhoz való hozzáadásához, mivel ez egyszerű és gyors megközelítést biztosít.
+     Általában a fejlesztők alakzatokat adnak hozzá egy tárolóhoz, hogy a dolgok jól szervezett és érthetőek legyenek. A tárolók vizuális határvonalat adnak az alakzatok körül, beleértve a címkét is. A fejlesztők használhatják a könyvtárat, ha tárolót és al-alakzatokat szeretnének hozzáadni a diagram-hoz, mert ez egyszerű és gyors megközelítést biztosít.
     </p>
    </div>
    <div class="col-lg-12">

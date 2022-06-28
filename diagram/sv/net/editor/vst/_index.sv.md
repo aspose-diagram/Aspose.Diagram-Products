@@ -11,7 +11,7 @@ description: C# källkod för att redigera VST-dokument på .NET Framework, .NET
 
 {{% blocks/products/pf/agp/content h2="Så här redigerar du VST-fil med C#" %}}
 
-För att redigera VST-fil kommer vi att använda <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API som är en funktionsrik, kraftfull och lättanvänd API för C#-plattform för alla redaktörer. Öppet <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> pakethanterare, sök efter <b>Aspose.Diagram</b> och installera. Du kan också använda följande kommando från Package Manager Console.
+För att redigera VST-fil kommer vi att använda <a href="https://products.aspose.com/diagram/net">Aspose.Diagram for .NET</a> API som är en funktionsrik, kraftfull och lättanvänd API för C#-plattform för alla redaktörer. Öppen <a href="https://www.nuget.org/packages/aspose.diagram">NuGet</a> pakethanterare, sök efter <b>Aspose.Diagram</b> och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, ändra, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.    
+Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan enkelt ladda, skapa, modifiera, manipulera inklusive daigramelement och konvertera Visio-diagram till andra format som PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF och mer. Det är en fristående API och kräver inte att Microsoft Visio eller någon annan programvara installeras.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram är en Microsoft Visio dokumentformatmanipulation API. Man kan en
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Spara sedan och ladda ner." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Filer med VST-tillägg är vektorbildfiler skapade med Microsoft Visio och fungerar som mall för att skapa ytterligare filer. Dessa mallfiler är i binärt filformat och innehåller standardlayouten och inställningarna som används för att skapa nya Visio-ritningar. När en VST-fil öppnas i Microsoft Visio innehåller den de befintliga inställningarna för att fortsätta arbeta med dokumentet. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML-diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. 
+Filer med VST-tillägg är vektorbildfiler skapade med Microsoft Visio och fungerar som mall för att skapa ytterligare filer. Dessa mallfiler är i binärt filformat och innehåller standardlayouten och inställningarna som används för att skapa nya Visio-ritningar. När en VST-fil öppnas i Microsoft Visio innehåller den de befintliga inställningarna för att fortsätta arbeta med dokumentet. I allmänhet används Visio-filer för att skapa ritningar som innehåller visuella objekt, flödesscheman, UML diagram, informationsflöde, organisationsdiagram, programvarudiagram, nätverkslayout, databasmodeller, objektkartläggning och annan liknande information. Filer som genereras med Visio kan också exporteras till olika filformat som PNG, BMP, PDF och andra. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

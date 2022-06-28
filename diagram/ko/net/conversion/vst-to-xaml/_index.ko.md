@@ -14,8 +14,8 @@ description: VST에서 XAML C#로의 변환을 위한 샘플 코드입니다. VB
 
  VST를 XAML로 변환하기 위해 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
- API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 변환API입니다. 열려 있는
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  Aspose.Diagram 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Microsoft Visio 파일과 함께 작동하도록 특별히 설계된 Diagram 관리 라이브러리. 이를 통해 개발자는 기본 Visio 형식을 생성, 조작 및 변환할 수 있습니다. 개발자는 다이어그램을 처음부터 생성할 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 다이어그램의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.
+ Microsoft Visio 파일과 함께 작동하도록 특별히 설계된 Diagram 관리 라이브러리. 이를 통해 개발자는 기본 Visio 형식을 생성, 조작 및 변환할 수 있습니다. 개발자는 다이어그램을 처음부터 만들 수 있을 뿐만 아니라 기존 파일을 쉽게 로드하고 diagram의 요소를 조작하여 결과를 다른 형식으로 내보낼 수 있습니다.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio를 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다.
+VST 확장자를 가진 파일은 Microsoft Visio로 생성된 벡터 이미지 파일이며 추가 파일 생성을 위한 템플릿 역할을 합니다. 이 템플릿 파일은 바이너리 파일 형식이며 새 Visio 도면을 만드는 데 사용되는 기본 레이아웃 및 설정을 포함합니다. Microsoft Visio에서 VST 파일을 열면 문서 작업을 계속하기 위한 기존 설정이 포함됩니다. 일반적으로 Visio 파일은 시각적 개체, 순서도, UML diagram, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보가 포함된 도면을 만드는 데 사용됩니다. Visio을 사용하여 생성된 파일은 PNG, BMP, PDF 등과 같은 다양한 파일 형식으로 내보낼 수도 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xaml" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
-XAML, Extensible Application Markup Language, 확장 파일은 WPF(Windows Presentation Foundation) 기반 소프트웨어 응용 프로그램의 사용자 인터페이스 요소를 설명합니다. 비록 언어이지만 사용하기 쉽고 이해하기 쉬운 XML의 표준 형식을 기반으로 하므로 프로그래밍할 필요가 없습니다. XAML("zammel"로 발음)은 사용자 인터페이스를 만들기 위한 특정 목표로 Microsoft에서 개발했습니다. 원래는 Extensible Avalon Markup Language의 약자였으며, 여기서 Avalon은 WPF의 코드명이었습니다. XAML 파일은 XOML 확장명으로도 저장되는 경우가 있습니다.
+XAML, Extensible Application Markup Language, 확장 파일은 WPF(Windows Presentation Foundation) 기반 소프트웨어 응용 프로그램의 사용자 인터페이스 요소를 설명합니다. 비록 언어이지만 사용하기 쉽고 이해하기 쉬운 XML의 표준 형식을 기반으로 하므로 프로그래밍할 필요가 없습니다. XAML("zammel"로 발음)은 사용자 인터페이스를 만들기 위한 특정 목표로 Microsoft에 의해 개발되었습니다. 원래는 Extensible Avalon Markup Language의 약자였으며, 여기서 Avalon은 WPF의 코드명이었습니다. XAML 파일은 XOML 확장명으로도 저장되는 경우가 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,15 +113,15 @@ XAML, Extensible Application Markup Language, 확장 파일은 WPF(Windows Prese
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-svg/" name="VST에서 SVG로" description="확장 가능한 벡터 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-swf/" name="VST에서 SWF로" description="SWF 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST에서 TIFF로" description="태그가 지정된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST에서 VDX로" description="Microsoft Visio 그리기 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST에서 VSDM으로" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST ~ VDX" description="Microsoft Visio 그리기 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST ~ VSDM" description="Microsoft Visio 그리기 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST ~ VSDX" description="Microsoft Visio 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST에서 VSSM으로" description="Microsoft Visio 스텐실 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST에서 VSSX로" description="드로잉 스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VSTM에서 VSTM으로" description="Microsoft Visio 템플릿 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST에서 VSTX로" description="Microsoft Visio 도면 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST에서 VSX로" description="스텐실" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST에서 VTX로" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST ~ VSSM" description="Microsoft Visio 스텐실 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST ~ VSSX" description="드로잉 스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST ~ VSTM" description="Microsoft Visio 템플릿 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST ~ VSTX" description="Microsoft Visio 도면 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsx/" name="VST ~ VSX" description="스텐실" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vtx/" name="VST ~ VTX" description="Microsoft Visio 도면 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-xps/" name="VST에서 XPS로" description="XML 용지 사양" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

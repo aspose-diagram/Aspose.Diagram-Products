@@ -2,7 +2,7 @@
 title: Konwertuj VSTX na XAML przez Java 
 weight: 290
 url: /pl/java/conversion/vstx-to-xaml/ 
-description: Przykładowy kod konwersji Java dla formatu VSTX do pliku XAML. Użyj tego przykładowego kodu, aby przekonwertować VSTX na XAML w dowolnej aplikacji opartej na sieci Web lub Desktop Java.
+description: Przykładowy kod konwersji Java dla formatu VSTX do pliku XAML. Użyj tego przykładowego kodu, aby przekonwertować VSTX na XAML w dowolnej aplikacji opartej na sieci Web lub na komputerze Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj VSTX na XAML przez Java" h2="Eksportuj Microsoft Visio VSTX do XAML przy użyciu natywnej biblioteki Java." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XAML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="VSTX" >}}
@@ -12,7 +12,7 @@ description: Przykładowy kod konwersji Java dla formatu VSTX do pliku XAML. Uż
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować VSTX na XAML przy użyciu Java" %}}
 
- Aby renderować VSTX do XAML, użyjemy
+ Aby wyrenderować VSTX do XAML, użyjemy
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą konwersji API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
@@ -71,10 +71,10 @@ description: Przykładowy kod konwersji Java dla formatu VSTX do pliku XAML. Uż
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od firmy Maven.
+- Microsoft Windows lub zgodny system operacyjny z Java środowiskiem wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.- Pobierz najnowszą wersję Aspose.Diagram for Java bezpośrednio od Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Kod źródłowy konwersji VSTX do XAML Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="VSTX do XAML Java Kod źródłowy konwersji" offSpacer="" %}}
 
 ```cs
 // załaduj VSTX do obiektu Diagram 
@@ -102,7 +102,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Biblioteka manipulacji" %}}
 
- Aspose.Diagram to manipulacja formatem dokumentów firmy Microsoft Visio API. Można łatwo ładować, tworzyć, modyfikować, manipulować, w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
+ Aspose.Diagram to Microsoft Visio manipulacja formatem dokumentu API. Można łatwo ładować, tworzyć, modyfikować, manipulować w tym elementami daigramów i konwertować Visio diagramy do innych formatów, takich jak PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF i inne. Jest to samodzielny API i nie wymaga instalacji Microsoft Visio ani żadnego innego oprogramowania.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSTX" readMoreLink="https://docs.fileformat.com/image/vstx/" >}}
 
-Pliki z rozszerzeniami VSTX to pliki szablonów rysunków utworzone za pomocą Microsoft Visio 2013 i nowszych. Te pliki VSTX stanowią punkt wyjścia do tworzenia Visio rysunków, zapisanych jako pliki .VSDX, z domyślnym układem i ustawieniami. Ogólnie pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, diagram UML, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. Programy otwierające pliki VSTX obejmują Microsoft Visio dla systemów Windows i Mac, które umożliwiają otwieranie tych plików w celu przeglądania i edycji. Pozwala również na konwersję Visio formatów plików na wiele innych formatów.
+Pliki z rozszerzeniami VSTX to pliki szablonów rysunków utworzone w wersji Microsoft Visio 2013 i nowszych. Te VSTX pliki stanowią punkt wyjścia do tworzenia Visio rysunków, zapisanych jako pliki .VSDX, z domyślnym układem i ustawieniami. Ogólnie rzecz biorąc, pliki Visio służą do tworzenia rysunków zawierających obiekty wizualne, schematy blokowe, UML diagram, przepływ informacji, schematy organizacyjne, diagramy oprogramowania, układ sieci, modele baz danych, mapowanie obiektów i inne podobne informacje. Pliki wygenerowane za pomocą Visio można również eksportować do różnych formatów plików, takich jak PNG, BMP, PDF i inne. Programy otwierające pliki VSTX obejmują Microsoft Visio dla systemów Windows i Mac, które umożliwiają otwieranie tych plików w celu przeglądania i edycji. Pozwala również na konwersję Visio formatów plików na wiele innych formatów.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
 
-XAML, Extensible Application Markup Language, pliki rozszerzeń opisują elementy interfejsu użytkownika dla aplikacji opartych na Windows Presentation Foundation (WPF). Chociaż jest językiem, nie wymaga programowania, ponieważ jest oparty na standardowym formacie XML, który jest łatwy w użyciu i zrozumiały. XAML (wymawiane jako „zammel”) został opracowany przez firmę Microsoft w celu tworzenia interfejsów użytkownika. Jego akronim w oryginale oznaczał Extensible Avalon Markup Language, gdzie Avalon był kryptonimem WPF. Pliki XAML są czasami zapisywane również z rozszerzeniem XOML.
+XAML, Extensible Application Markup Language, pliki rozszerzeń opisują elementy interfejsu użytkownika dla aplikacji opartych na Windows Presentation Foundation (WPF). Chociaż jest językiem, nie wymaga programowania, ponieważ jest oparty na standardowym formacie XML, który jest łatwy w użyciu i zrozumiały. XAML (wymawiane jako „zammel”) został opracowany przez Microsoft w celu tworzenia interfejsów użytkownika. Jego oryginalny akronim oznaczał Extensible Avalon Markup Language, gdzie Avalon był kryptonimem WPF. Pliki XAML są czasami zapisywane również z rozszerzeniem XOML.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -135,19 +135,19 @@ XAML, Extensible Application Markup Language, pliki rozszerzeń opisują element
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-bmp/" name="VSTX DO BMP" description="Bitmapa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-emf/" name="VSTX DO EMF" description="Ulepszony format metapliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-html/" name="VSTX DO HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-jpeg/" name="VSTX NA JPEG" description="Obraz JPEG" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-jpeg/" name="VSTX DO JPEG" description="Obraz JPEG" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-pdf/" name="VSTX DO PDF" description="format dokumentu przenośnego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-png/" name="VSTX DO PNG" description="Przenośna Grafika Sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-svg/" name="VSTX DO SVG" description="Skalowalna Grafika wektorowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-tiff/" name="VSTX DO TIFF" description="Oznaczony format obrazu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vdx/" name="VSTX DO VDX" description="Microsoft Visio Format rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsdm/" name="VSTX DO VSDM" description="Microsoft Visio Format rysunku" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsdx/" name="VSTX DO VSDX" description="Format Microsoft Visio" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vssm/" name="VSTX DO VSSM" description="Pliki szablonów Visio firmy Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsdx/" name="VSTX DO VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vssm/" name="VSTX DO VSSM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vssx/" name="VSTX DO VSSX" description="Szablony do rysowania" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vstm/" name="VSTX DO VSTM" description="Microsoft Visio Pliki szablonów" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vsx/" name="VSTX DO VSX" description="Szablony" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vtx/" name="VSTX DO VTX" description="Microsoft Visio szablon rysunku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-vtx/" name="VSTX DO VTX" description="Microsoft Visio Szablon rysunku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vstx-to-xps/" name="VSTX DO XPS" description="Specyfikacje papieru XML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

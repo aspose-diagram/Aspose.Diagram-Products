@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc hệ điều hành tương thích với Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin- Môi trường phát triển như Microsoft Visual Studio- Aspose.Diagram for .NET DLL được tham chiếu trong dự án của bạn - Cài đặt từ NuGet bằng cách sử dụng nút Tải xuống ở trên
+- Microsoft Windows hoặc một hệ điều hành tương thích với Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin- Môi trường phát triển như Microsoft Visual Studio- Aspose.Diagram for .NET DLL được tham chiếu trong dự án của bạn - Cài đặt từ NuGet bằng cách sử dụng nút Tải xuống ở trên
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Chỉnh sửa VSDX Tệp - C#" offSpacer="" %}}
@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.    
+Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.    
 
 
 
@@ -87,7 +87,7 @@ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu AP
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Sau đó lưu và tải xuống." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
-Tệp có phần mở rộng. VSDX đại diện cho định dạng tệp Microsoft Visio được giới thiệu từ Microsoft Office 2013 trở đi. Nó được phát triển để thay thế định dạng tệp nhị phân,. VSD, được hỗ trợ bởi các phiên bản trước của Microsoft Visio. Nó cũng được hỗ trợ trên Visio Dịch vụ trong Microsoft SharePoint Server 2013 và không yêu cầu định dạng tệp trung gian để xuất bản lên SharePoint Server. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, biểu đồ luồng, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác. 
+Tệp có phần mở rộng. VSDX đại diện cho định dạng tệp Microsoft Visio được giới thiệu từ Microsoft Office 2013 trở đi. Nó được phát triển để thay thế định dạng tệp nhị phân,. VSD, được hỗ trợ bởi các phiên bản trước đó của Microsoft Visio. Nó cũng được hỗ trợ trên Visio Dịch vụ trong Microsoft SharePoint Server 2013 và không yêu cầu định dạng tệp trung gian để xuất bản lên SharePoint Server. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, lưu đồ, UML diagram, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

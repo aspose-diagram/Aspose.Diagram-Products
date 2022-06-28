@@ -5,7 +5,7 @@ url: /tr/java/
 description: Diyagramların oluşturulması, işlenmesi ve dönüştürülmesi için Visio kitaplığı. Java tabanlı uygulamalarda diyagramları birden çok biçime aktarın
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API\'leri" h2="Microsoft Office Visio dosyalarını herhangi bir Microsoft Office Visio bağımlılığı olmadan işleyin ve PDF, HTML, Görüntüler ve XAML biçimlerine aktarın." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Visio Diagram API\'leri" h2="Herhangi bir Microsoft Office Visio bağımlılığı olmadan Microsoft Office Visio dosyalarını PDF, HTML, Görüntüler ve XAML biçimlerine dönüştürün ve dışa aktarın." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-java.svg" pfName="Aspose.Diagram" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/diagram/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for Java" >}}
 
@@ -13,7 +13,7 @@ description: Diyagramların oluşturulması, işlenmesi ve dönüştürülmesi i
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Diagram for Java, güçlü bir Microsoft Visio belge işleme aracıdır API. Oluşturma, ayrıştırma &amp; yerel Visio biçimlerini dönüştürmenin yanı sıra yaygın olarak kullanılan bazı görüntü ve sabit düzen biçimlerini destekler. Uygulamalar, mevcut belgeleri yükleyebilir ve sonucu kendi formatlarında, görüntülerinde veya sabit düzen formatlarında dışa aktarmak için diyagram öğelerini değiştirebilir.
+ Aspose.Diagram for Java, güçlü bir Microsoft Visio belge işleme API'dir. Oluşturma, ayrıştırma &amp; yerel Visio biçimlerini dönüştürmenin yanı sıra yaygın olarak kullanılan bazı görüntü ve sabit düzen biçimlerini destekler. Uygulamalar, mevcut belgeleri yükleyebilir ve sonucu kendi biçimlerinde, görüntülerinde veya sabit düzen biçimlerinde dışa aktarmak için diagram öğelerini değiştirebilir.
 </p>
 
 <p>
@@ -411,7 +411,7 @@ description: Diyagramların oluşturulması, işlenmesi ve dönüştürülmesi i
      Microsoft Visio Belgelerini Ayrıştırma
     </h2>
     <p>
-     Java diyagramı API, Microsoft Visio uygulamasının yerel dosya biçimlerini okumanıza izin verir, böylece Belge Sayfaları, Özellikler, Kalıplar, Görüntüler, Şekiller, Bağlantılar, Çözüm XML, Katmanlar, Köprüler, Yorumlar gibi diyagram verilerine erişmenizi sağlar. , StyleSheet, kullanıcı tanımlı hücreler vb. Bu nesneler API aracılığıyla değiştirilebilir ve sonuç desteklenen herhangi bir formatta diske yazılabilir.
+     Java diagram API, Microsoft Visio uygulamasının yerel dosya biçimlerini okumanıza, böylece Belge Sayfaları, Özellikler, Kalıplar, Görüntüler, Şekiller, Bağlantılar, Çözüm XML gibi diagram verilere erişmenize olanak tanır , Katmanlar, Köprüler, Yorumlar, Stil Sayfası, kullanıcı tanımlı hücreler vb. Bu nesneler API aracılığıyla değiştirilebilir ve sonuç desteklenen herhangi bir formatta diske yazılabilir.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ description: Diyagramların oluşturulması, işlenmesi ve dönüştürülmesi i
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Diyagramı farklı biçimlerde kaydedin - Java
+      diagram'i farklı biçimlerde kaydedin - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -443,7 +443,7 @@ dgrm.save("D:/output.jpg", SaveFileFormat.JPEG);</code></pre>
      Bir Kapta Şekilleri Düzenleme
     </h2>
     <p>
-     Normalde geliştiriciler, işleri iyi organize edilmiş ve anlaşılır kılmak için bir kapsayıcıya şekiller ekler. Kaplar, bir etiket de dahil olmak üzere şekillerin etrafına görsel bir sınır ekler. Diyagrama bir kap ve alt şekiller eklemek için geliştiriciler, kolay ve hızlı bir yaklaşım sağladığı için kitaplığı kullanabilir.
+     Normalde geliştiriciler, işleri iyi organize edilmiş ve anlaşılır kılmak için bir kapsayıcıya şekiller ekler. Kaplar, bir etiket de dahil olmak üzere şekillerin etrafına görsel bir sınır ekler. diagram öğesine bir kap ve alt şekiller eklemek için geliştiriciler kitaplığı kullanabilir, çünkü bu kolay ve hızlı bir yaklaşım sağlar.
     </p>
    </div>
    <div class="col-lg-12">

@@ -4,7 +4,7 @@ url: /nl/net/metadata/
 description: Bekijk, voeg toe, bewerk, verwijder of extraheer Visio metadata van bestanden met slechts enkele regels C# code
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Beheer Microsoft<sup>&reg;</sup> Visio bestandsmetagegevens via .NET" h2="Bekijk, voeg toe, update, verwijder of extraheer ingebouwde en aangepaste Visio bestandseigenschappen met behulp van server-side .NET API\'s." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Beheer Microsoft<sup>&reg;</sup> Visio bestandsmetadata via .NET" h2="Bekijk, voeg toe, update, verwijder of extraheer ingebouwde en aangepaste Visio bestandseigenschappen met behulp van server-side .NET API\'s." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [.NET Visio API](/diagram/net/) ondersteunt het beheer van door het systeem gedefinieerde (ingebouwde) eigenschappen zoals titel, naam van de auteur, documentstatistieken enz. evenals door de gebruiker gedefinieerde (aangepaste) eigenschappen in de vorm van een naam-waardepaar. Er is [Diagram klas](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) om de bestanden te laden, en [Paginaverzameling](https://apireference.aspose.com/diagram/net/aspose.diagram/pagecollection) gaat over het verzamelen van pagina's en ook over [Pagina klasse](https://apireference.aspose.com/diagram/net/aspose.diagram/page) voor het vertegenwoordigen van een enkele pagina. Samen met deze klassen, documenteigenschappen, maken customprops het proces eenvoudig voor metadatabeheer. 
 {{% /blocks/products/pf/feature-page-summary %}}

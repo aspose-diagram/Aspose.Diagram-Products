@@ -1,20 +1,20 @@
 ﻿---
 title: JavaMicrosoftVisioファイル変換
 url: /ja/java/conversion/
-description: MicrosoftVisio形式を変換しますVSDXVSXVDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSDVSTVSSを数行のJavaコードでHTML画像とPDFに変換します。
+description: MicrosoftVisioフォーマットを変換するVSDXVSXVDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSDVSTVSSをHTML画像とPDFに変換します。 Javaコード。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup>＆reg; </ sup>VisioJavaによるフォーマット変換" h2="MS Visio図をHTML、PDF、およびJPG、BMP、PNG、TIFFを含む画像に変換して、クロスプラットフォームのJavaアプリケーションを構築します。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft＆reg; </ sup>VisioJavaによるフォーマット変換" h2="MS VisioダイアグラムをHTML、PDF、およびJPG、BMP、PNG、TIFFを含む画像に変換して、クロスプラットフォームJavaアプリケーションを構築します。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-フローチャートやビジネスフロー図などの設計など、Microsoft Visio形式のレンダリングソリューションの場合、Java Visio APIは、すべての複雑な図面を簡単な方法で容易にします。を使用してソースファイルをロードする [Diagramクラス](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) 適切なパラメータを使用してsaveメソッドを呼び出します。
+フローチャートやビジネスフロー図の設計など、あらゆるMicrosoft Visio形式のレンダリングソリューションの場合、Java Visio APIは、すべての複雑な図面を簡単な方法で容易にします。を使用してソースファイルをロードする [Diagramクラス](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) 適切なパラメータを使用してsaveメソッドを呼び出します。
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="相互変換Visioファイル" %}}
 
-プログラマーは、VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM形式を簡単に変換でき、VDW、VSD、VSS、VSTをロードして、PDF、HTML、および画像にレンダリングできます。 VSDXからVDXへのシナリオを考慮すると、プロセスは、ダイアグラムクラスを使用してソースVSDXファイルをロードし、出力ファイルを提供してsaveメソッドを呼び出します。 [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat)パラメータとしての.VDX。 
+プログラマーは、VSDX、VSX、VTX、VDX、VSSX、VSTX、VSDM、VSSM、VSTM形式を簡単に変換したり、VDW、VSD、 VSS、VST、PDF、HTML、画像へのレンダリング。 VSDXからVDXのシナリオを考えると、プロセスは、diagramクラスを使用してソースVSDXファイルをロードし、出力ファイルを提供してsaveメソッドを呼び出します。 [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat)パラメータとして.VDX。 
 
 {{% blocks/products/pf/feature-page-code h3="JavaVSDXからVDXへの変換のコード" %}}
 
@@ -27,7 +27,7 @@ description: MicrosoftVisio形式を変換しますVSDXVSXVDX VTX VSSX VSTX VSDM
 
 {{% blocks/products/pf/feature-page-section h2="Visioから画像への変換" %}}
 
-一般的な変換の場合、Visioファイルを画像に変換するプロセスは同じです。 Diagramクラスを介してファイルをロードし、出力ファイルとSaveFileFormat出力パラメーターを使用してsaveメソッドを呼び出すだけです。また、特定のオプションを定義する必要がある場合はいつでも、開発者はImageSaveOptionsクラスを使用して、ダイアグラムページを画像に変換し、SVGSaveOptionsを使用してSVG変換を行うことができます。
+一般的な変換の場合、visioファイルを画像に変換するプロセスは同じです。 Diagramクラスを介してファイルをロードし、出力ファイルとSaveFileFormat出力パラメーターを使用してsaveメソッドを呼び出すだけです。また、特定のオプションを定義する必要がある場合はいつでも、開発者はdiagramページを画像に変換するときにImageSaveOptionsクラスを使用し、SVG変換のためにSVGSaveOptionsを使用できます。
 
 {{% blocks/products/pf/feature-page-code h3="JavaVisioを画像形式に変換するコード" %}}
 
@@ -46,7 +46,7 @@ description: MicrosoftVisio形式を変換しますVSDXVSXVDX VTX VSSX VSTX VSDM
 
 {{% blocks/products/pf/feature-page-section h2="VisioをPDFとHTMLに変換する" %}}
 
-APIは、Visio形式をHTMLだけでなくPDFにも変換できます。使用するだけ [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat)パラメータとしてsaveメソッド内の.PDFおよびSaveFileFormat.HTML。また、特別な設定の場合、開発者はPdfSaveOptionsクラスとHTMLSaveOptionsクラスを使用できます。
+APIは、visio形式をPDFおよびHTMLに変換できます。使用するだけ [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat)パラメータとしてsaveメソッド内の.PDFおよびSaveFileFormat.HTML。また、特別な設定の場合、開発者はPdfSaveOptionsクラスとHTMLSaveOptionsクラスを使用できます。
 
 {{% blocks/products/pf/feature-page-code h3="JavaVisioからPDFへの変換のコード" %}}
 

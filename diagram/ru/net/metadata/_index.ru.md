@@ -4,7 +4,7 @@ url: /ru/net/metadata/
 description: Просматривайте, добавляйте, редактируйте, удаляйте или извлекайте метаданные файлов Visio с помощью всего нескольких строк кода C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Управление метаданными файлов Microsoft<sup>&reg;</sup> Visio через .NET" h2="Просматривайте, добавляйте, обновляйте, удаляйте или извлекайте встроенные и настраиваемые свойства файлов Visio с помощью .NET API на стороне сервера." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Управляйте метаданными файлов Microsoft<sup>&reg;</sup> Visio через .NET" h2="Просматривайте, добавляйте, обновляйте, удаляйте или извлекайте встроенные и настраиваемые свойства файлов Visio с помощью .NET API на стороне сервера." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [.NET Visio API](/diagram/net/) поддерживает управление определенными системой (встроенными) свойствами, такими как заголовок, имя автора, статистика документа и т. д., а также определяемыми пользователем (настраиваемыми) свойствами в виде пары имя-значение. Там есть [Diagram класс](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) загрузить файлы и [Коллекция страниц](https://apireference.aspose.com/diagram/net/aspose.diagram/pagecollection) занимается сбором страниц, а также [Класс страницы](https://apireference.aspose.com/diagram/net/aspose.diagram/page) для представления одной страницы. Наряду с этими классами, documentproperties, customprops упрощают процесс управления метаданными. 
 {{% /blocks/products/pf/feature-page-summary %}}

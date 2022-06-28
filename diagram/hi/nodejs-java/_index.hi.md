@@ -2,7 +2,7 @@
 title: Visio दस्तावेज़ Node.js API - Aspose 
 weight: 1630
 url: /hi/nodejs-java/ 
-description: Java के माध्यम से Node.js के लिए Aspose.Diagram, Microsoft Visio दस्तावेज़ जैसे VSDX, VDX और अधिक प्रारूपों को पढ़ने, लिखने और रूपांतरित करने के लिए एक visio Javascript API है
+description: Java के माध्यम से Node.js के लिए Aspose.Diagram Microsoft Visio दस्तावेज़ जैसे VSDX, VDX और अधिक प्रारूपों को पढ़ने, लिखने और रूपांतरित करने के लिए एक visio जावास्क्रिप्ट API है
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Node.js Visio फ़ाइलें API" h2="Node.js API का उपयोग करके VSDX, VDX, VSX, VTX और अधिक प्रारूपों सहित Microsoft Visio प्रारूप बनाएं, पढ़ें, लिखें और निर्यात करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-nodejs-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/diagram/nodejs" >}}
@@ -13,11 +13,11 @@ description: Java के माध्यम से Node.js के लिए Aspo
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Java के माध्यम से Node.js के लिए Aspose.Diagram एक Microsoft Visio दस्तावेज़ हेरफेर समाधान है। कोई भी मूल Visio स्वरूपों को पढ़, लिख सकता है, संरक्षित कर सकता है, निर्यात कर सकता है और प्रिंट कर सकता है और साथ ही कुछ सामान्य रूप से उपयोग की जाने वाली छवि और निश्चित-लेआउट प्रारूपों का समर्थन करता है। मौजूदा फाइलों को लोड करना आसान है, छवियों या पीडीएफ या एक्सपीएस जैसे फिक्स्ड-लेआउट प्रारूपों सहित वांछित प्रारूप में निर्यात करने के लिए आरेख तत्वों को संशोधित करें।
+ Java के माध्यम से Node.js के लिए Aspose.Diagram एक Microsoft Visio दस्तावेज़ हेरफेर समाधान है। कोई भी मूल Visio स्वरूपों को पढ़, लिख सकता है, संरक्षित कर सकता है, निर्यात कर सकता है और प्रिंट कर सकता है और साथ ही कुछ सामान्य रूप से उपयोग की जाने वाली छवि और निश्चित-लेआउट स्वरूपों का समर्थन करता है। मौजूदा फाइलों को लोड करना आसान है, छवियों या पीडीएफ या एक्सपीएस जैसे फिक्स्ड-लेआउट प्रारूपों सहित वांछित प्रारूप में निर्यात करने के लिए diagram तत्वों को संशोधित करें।
 </p>
 
 <p>
- Java के माध्यम से Node.js के लिए Aspose.Diagram एक स्टैंडअलोन API है और इसके लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर स्थापना की आवश्यकता नहीं है। इसके अलावा, कुछ कार्य जिन्हें कोई भी आसानी से कर सकता है जैसे स्क्रैच से आरेख बनाना, विभिन्न प्रारूपों को पढ़ना या लिखना, Visio ऑब्जेक्ट फ़ार्मुलों सहित गुणों को पढ़ना और पढ़ना, डायग्राम को कई प्रारूपों में निर्यात करना, उच्च निष्ठा के साथ आरेख प्रिंट करना, और बहुत कुछ।
+ Java के माध्यम से Node.js के लिए Aspose.Diagram एक स्टैंडअलोन API है और इसके लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर स्थापना की आवश्यकता नहीं है। इसके अलावा, कुछ कार्य जिन्हें कोई भी आसानी से कर सकता है जैसे स्क्रैच से आरेख बनाना, विभिन्न प्रारूपों को पढ़ना या लिखना, Visio ऑब्जेक्ट फ़ार्मुलों सहित गुणों को एक्सेस करना और पढ़ना, डायग्राम को कई प्रारूपों में निर्यात करना, उच्च निष्ठा के साथ आरेख प्रिंट करना, और बहुत कुछ।
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -86,7 +86,7 @@ description: Java के माध्यम से Node.js के लिए Aspo
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     Node.js द्वारा Java
    </small>
@@ -132,7 +132,7 @@ description: Java के माध्यम से Node.js के लिए Aspo
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     Node.js द्वारा Java
    </small>
@@ -143,7 +143,7 @@ description: Java के माध्यम से Node.js के लिए Aspo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="Java के माध्यम से Node.js के लिए Aspose.Diagram लोकप्रिय Microsoft Visio स्वरूपों और अधिक का समर्थन करता है।" >}}
+{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="Java के माध्यम से Node.js के लिए Aspose.Diagram लोकप्रिय Microsoft Visio स्वरूपों और अन्य का समर्थन करता है।" >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -155,9 +155,9 @@ description: Java के माध्यम से Node.js के लिए Aspo
    <ul>
     <li>
      <b>
-      माइक्रोसॉफ्ट Visio:
+      Microsoft Visio:
      </b>
-     VSDX, वीडीएक्स, वीएसएक्स, वीटीएक्स, वीएसएसएक्स, वीएसटीएक्स, वीएसडीएम, वीएसएसएम, वीएसटीएम
+     VSDX, VDX, VSX, VTX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
    </ul>
    <header>
@@ -168,7 +168,7 @@ description: Java के माध्यम से Node.js के लिए Aspo
    <ul>
     <li>
      <b>
-      माइक्रोसॉफ्ट Visio:
+      Microsoft Visio:
      </b>
      वीडीडब्ल्यू, VSD, वीएसएस, वीएसटी
     </li>
@@ -213,7 +213,7 @@ description: Java के माध्यम से Node.js के लिए Aspo
   <footer>
    <small>
     <em>
-     के लिये
+     के लिए
     </em>
     Node.js द्वारा Java
    </small>
@@ -291,7 +291,7 @@ description: Java के माध्यम से Node.js के लिए Aspo
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     विभिन्न स्वरूपों में निर्यात आरेख
+     विभिन्न स्वरूपों में आरेख निर्यात करें
     </p>
    </div>
    <div class="col-lg-12">
@@ -319,7 +319,7 @@ diagram.save("output.vsdx", aspose.diagram.SaveFileFormat.VSDX);</code></pre>
      Visio फ़ाइलें एक्सेस करें और उनमें हेरफेर करें
     </h2>
     <p>
-     Node.js आरेख API मूल Microsoft Visio स्वरूपों को पढ़ने की अनुमति देता है और साथ ही दस्तावेज़, पृष्ठ, मास्टर, आकार, स्टाइलशीट, कनेक्ट आदि जैसे आरेख डेटा तक पहुंच प्रदान करता है। इन वस्तुओं को API के माध्यम से हेरफेर किया जा सकता है, और परिणाम किसी भी समर्थित प्रारूप में डिस्क पर लिखा जा सकता है।
+     Node.js diagram API मूल Microsoft Visio स्वरूपों को पढ़ने के साथ-साथ दस्तावेज़, पृष्ठ, मास्टर, आकार, स्टाइलशीट, कनेक्ट आदि जैसे diagram डेटा तक पहुंच प्रदान करने की अनुमति देता है। इन वस्तुओं को API के माध्यम से हेरफेर किया जा सकता है, और परिणाम किसी भी समर्थित प्रारूप में डिस्क पर लिखा जा सकता है।
     </p>
    </div>
    <div class="col-lg-12">

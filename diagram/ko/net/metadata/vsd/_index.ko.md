@@ -2,7 +2,7 @@
 title: .NET을(를) 통해 VSD 파일 메타데이터 보기 또는 편집 
 weight: 3050
 url: /ko/net/metadata/vsd/ 
-description: .NET 프레임워크, .NET 코어, Mono 플랫폼에서 VSD 형식 메타데이터를 편집하거나 보기 위한 C# 소스 코드.
+description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 플랫폼에서 VSD 형식 메타데이터를 편집하거나 봅니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#에서 VSD 메타데이터 추출" h2="서버 측 API를 사용하여 VSD 파일에서 메타데이터를 추가, 편집, 제거 또는 추출하는 고유한 .NET 앱을 빌드합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -15,7 +15,7 @@ description: .NET 프레임워크, .NET 코어, Mono 플랫폼에서 VSD 형식 
  VSD 메타데이터를 추출하기 위해 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려 있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  **Aspose.Diagram** 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -59,7 +59,7 @@ Diagram 개체의 DocumentProps 가져오기
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
+- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop이 있는 호환 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSD 메타데이터 추출 - C#" offSpacer="" %}}
@@ -93,7 +93,7 @@ Diagram 개체의 DocumentProps 가져오기
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 압축되어 즉시 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-VSD 파일은 다양한 그래픽 개체와 이들 간의 상호 연결을 나타내기 위해 Microsoft Visio 응용 프로그램으로 만든 그림입니다. 이러한 도면에는 시각적 개체, 순서도, UML 다이어그램, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보와 같은 시각적 개체가 포함될 수 있습니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다. 
+VSD 파일은 다양한 그래픽 개체와 이들 간의 상호 연결을 나타내기 위해 Microsoft Visio 응용 프로그램으로 만든 그림입니다. 이러한 도면에는 시각적 개체, 순서도, UML diagram, 정보 흐름, 조직도, 소프트웨어 다이어그램, 네트워크 레이아웃, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보와 같은 시각적 개체가 포함될 수 있습니다. Microsoft Visio는 Visio 파일을 PNG, BMP, PDF 등을 포함한 다양한 파일 형식으로 변환하는 기능을 제공합니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ VSD 파일은 다양한 그래픽 개체와 이들 간의 상호 연결을 나�
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 메타데이터 형식" subTitle="C#을 사용하면 다음을 포함한 다양한 형식의 메타데이터를 쉽게 조작할 수 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="VDX" description="Visio 도면 XML 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio 도면 XML 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio 스텐실 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio 템플릿 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsdm/" name="VSDM" description="Visio 매크로 사용 도면 파일" >}}

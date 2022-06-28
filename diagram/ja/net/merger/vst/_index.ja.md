@@ -2,7 +2,7 @@
 title: .NETを介してVSTファイルをマージする 
 weight: 2900
 url: /ja/net/merger/vst/ 
-description: .NETフレームワーク、.NETコア、Mono、またはCOM相互運用機能でVSTドキュメントを組み合わせるためのC#ソースコード。
+description: .NET Framework、.NETコア、Mono、またはCOM相互運用機能でVSTドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#でVSTフォーマットをマージ" h2="MicrosoftやOpenOffice、Adobe PDFなどのソフトウェアを使用せずに、サーバー側のAspose.Diagramfor .NETAPIを使用したネイティブで高性能なVSTドキュメントのマージ。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VST" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- とマージおよび連結する基本的なドキュメント
+ マージおよび連結する基本的なドキュメント
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  APIは、ほんの数行のコードで実行できます。
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Diagram
 +1つのドキュメントをベースファイルとして作成します
 +ファイルを1つずつ連結およびマージするための関連するメソッドを呼び出します。
 + Save（）メソッドを呼び出し、ファイル名（フルパス）とフォーマット（VST）をパラメーターとして渡します。
-+これで、Microsoft Office、Adobe PDF、またはその他の互換性のあるプログラムでVSTファイルを開いて使用できます。
++これで、Microsoft Office、Adobe PDF、またはその他の互換性のあるプログラムでVSTファイルを開いて使用できるようになりました。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows、または.NETフレームワーク、.NETコア、Mono、またはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- プロジェクトで参照されているAspose.Diagramfor .NETDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
+- MicrosoftWindowsまたは.NETFramework、.NETコア、MonoまたはCOM相互運用機能を備えた互換性のあるOS- MicrosoftVisualStudioのような開発環境- Aspose.Diagramfor .NETプロジェクトで参照されているDLL-上の[ダウンロード]ボタンを使用してNuGetからインストールします
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSTファイルをマージする-C#" offSpacer="" %}}
@@ -88,7 +88,7 @@ Diagram dgF = new Diagram( "f.vst");
 
     {{% blocks/products/pf/agp/content h2="約Aspose.Diagramfor .NETAPI" %}}
 
- Aspose.Diagramは、MicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
+ Aspose.DiagramはMicrosoftVisioドキュメント形式の操作APIです。ダイグラム要素を含むロード、作成、変更、操作を簡単に実行し、Visio図をPDF、XPS、JPEG、PNG、BMP、TIFF、SVG、EMFなどの他の形式に変換できます。これはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアをインストールする必要はありません。  
 
 
 
@@ -103,7 +103,7 @@ Diagram dgF = new Diagram( "f.vst");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 即座にマージおよび連結されます。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-VST拡張子の付いたファイルは、Microsoft Visioで作成されたベクターイメージファイルであり、さらにファイルを作成するためのテンプレートとして機能します。これらのテンプレートファイルはバイナリファイル形式であり、新しいVisio図面の作成に使用されるデフォルトのレイアウトと設定が含まれています。 VSTファイルをMicrosoftVisioで開くと、ドキュメントの操作を続行するための既存の設定が含まれています。一般に、Visioファイルは、ビジュアルオブジェクト、フローチャート、UMLダイアグラム、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 
+VST拡張子の付いたファイルは、Microsoft Visioで作成されたベクター画像ファイルであり、さらにファイルを作成するためのテンプレートとして機能します。これらのテンプレートファイルはバイナリファイル形式であり、新しいVisio図面の作成に使用されるデフォルトのレイアウトと設定が含まれています。 VSTファイルをMicrosoftVisioで開くと、ドキュメントの操作を続行するための既存の設定が含まれています。一般に、Visioファイルは、ビジュアルオブジェクト、フローチャート、UML diagram、情報フロー、組織図、ソフトウェアダイアグラム、ネットワークレイアウト、データベースモデル、オブジェクトマッピング、およびその他の同様の情報を含む図面を作成するために使用されます。 Visioを使用して生成されたファイルは、PNG、BMP、PDFなどのさまざまなファイル形式にエクスポートすることもできます。 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,9 +114,9 @@ VST拡張子の付いたファイルは、Microsoft Visioで作成されたベ�
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているマージ形式" subTitle="C#を使用すると、を含む他の多くのファイル形式をマージすることもできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdw/" name="VDW" description="Visioグラフィックサービスファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vdx/" name="VDX" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsd/" name="VSD" description="MicrosoftVisio図面" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="MicrosoftVisioの描画形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdm/" name="VSDM" description="MicrosoftVisio描画形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vsdx/" name="VSDX" description="MicrosoftVisio形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vss/" name="VSS" description="ステンシルファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/merger/vssm/" name="VSSM" description="MicrosoftVisioステンシルファイル" >}}

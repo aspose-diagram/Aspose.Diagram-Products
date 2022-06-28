@@ -2,10 +2,10 @@
 title: VisioドキュメントPythonAPI-Aspose 
 weight: 4630
 url: /ja/python-java/ 
-description: Aspose.Diagram for Python via Javaは、Microsoft Visioドキュメント（VSDX、VDX、その他の形式）の読み取り、書き込み、変換を行うためのvisiojavascriptAPIです。
+description: Aspose.Diagram for Python via Javaは、Microsoft Visio VSDX、VDXなどの形式のドキュメントの読み取り、書き込み、変換を行うvisiojavascriptAPIです。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PythonVisioファイルAPI" h2="Python APIを使用して、VSDX、VDX、VSX、VTXなどのMicrosoftVisio形式を作成、読み取り、書き込み、およびエクスポートします。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PythonVisioファイルAPI" h2="Microsoft Visio形式（VSDX、VDX、VSX、VTX、およびPython APIを使用したその他の形式を含む）の作成、読み取り、書き込み、およびエクスポート。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Python via Java" >}}
 
@@ -13,11 +13,11 @@ description: Aspose.Diagram for Python via Javaは、Microsoft Visioドキュメ
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Java経由のPythonのAspose.Diagramは、MicrosoftVisioドキュメント操作ソリューションです。ネイティブVisio形式の読み取り、書き込み、保護、エクスポート、および印刷が可能であり、一般的に使用されるいくつかの画像および固定レイアウト形式をサポートします。既存のファイルをロードし、ダイアグラム要素を変更して、画像やPDFやXPSなどの固定レイアウト形式を含む目的の形式にエクスポートするのは簡単です。
+ Javaを介したPythonのAspose.Diagramは、MicrosoftVisioドキュメント操作ソリューションです。ネイティブVisio形式の読み取り、書き込み、保護、エクスポート、および印刷が可能であり、一般的に使用されるいくつかの画像および固定レイアウト形式をサポートします。既存のファイルを簡単にロードし、diagram要素を変更して、画像やPDFやXPSなどの固定レイアウト形式を含む目的の形式にエクスポートします。
 </p>
 
 <p>
- Java経由のPythonのAspose.DiagramはスタンドアロンAPIであり、MicrosoftVisioやその他のソフトウェアのインストールは必要ありません。さらに、ダイアグラムを最初から作成する、さまざまな形式を読み書きする、Visioオブジェクト式を含むプロパティにアクセスして読み取る、ダイアグラムを複数のフォーマットにエクスポートする、忠実度の高いダイアグラムを印刷するなど、簡単に実行できるタスクはほとんどありません。
+ Java経由のPythonのAspose.DiagramはスタンドアロンのAPIであり、MicrosoftVisioやその他のソフトウェアのインストールは必要ありません。さらに、ダイアグラムを最初から作成する、さまざまな形式を読み書きする、Visioオブジェクト式を含むプロパティにアクセスして読み取る、ダイアグラムを複数のフォーマットにエクスポートする、忠実度の高いダイアグラムを印刷するなど、簡単に実行できるタスクはほとんどありません。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -86,7 +86,7 @@ description: Aspose.Diagram for Python via Javaは、Microsoft Visioドキュメ
   <footer>
    <small>
     <em>
-     ために
+     にとって
     </em>
     Python経由Java
    </small>
@@ -132,7 +132,7 @@ description: Aspose.Diagram for Python via Javaは、Microsoft Visioドキュメ
   <footer>
    <small>
     <em>
-     ために
+     にとって
     </em>
     Python経由Java
    </small>
@@ -213,7 +213,7 @@ description: Aspose.Diagram for Python via Javaは、Microsoft Visioドキュメ
   <footer>
    <small>
     <em>
-     ために
+     にとって
     </em>
     Python経由Java
    </small>
@@ -315,7 +315,7 @@ diagram.save("output.vsdx", SaveFileFormat.VSDX)</code></pre>
      Visioファイルへのアクセスと操作
     </h2>
     <p>
-     PythonダイアグラムAPIは、ネイティブのMicrosoft Visio形式の読み取りを許可するだけでなく、ドキュメント、ページ、マスター、シェイプ、スタイルシート、接続などのダイアグラムデータへのアクセスを提供します。これらのオブジェクトはAPIを介して操作でき、結果はサポートされている任意の形式でディスクに書き込むことができます。
+     Python diagram APIは、ネイティブMicrosoft Visio形式の読み取りを許可するだけでなく、ドキュメント、ページ、マスター、図形、スタイルシート、接続などのdiagramデータへのアクセスを提供します。これらのオブジェクトはAPIを介して操作でき、結果はサポートされている任意の形式でディスクに書き込むことができます。
     </p>
    </div>
    <div class="col-lg-12">

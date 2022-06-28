@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft-Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente des Diagramms bearbeiten, um das Ergebnis in andere Formate zu exportieren.
+ Eine Diagram-Verwaltungsbibliothek, die speziell für die Arbeit mit Microsoft Visio-Dateien entwickelt wurde. Es ermöglicht Entwicklern, native Visio-Formate zu erstellen, zu manipulieren und zu konvertieren. Entwickler können Diagramme von Grund auf neu erstellen sowie vorhandene Dateien einfach laden und die Elemente der diagram manipulieren, um das Ergebnis in andere Formate zu exportieren.
 
 
 
@@ -87,12 +87,12 @@ PM> Install-Package Aspose.Diagram
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VST" readMoreLink="https://docs.fileformat.com/image/vst/" >}}
-Dateien mit der Endung VST sind Vektorbilddateien, die mit Microsoft Visio erstellt wurden und als Vorlage für die Erstellung weiterer Dateien dienen. Diese Vorlagendateien liegen im binären Dateiformat vor und enthalten das Standardlayout und die Standardeinstellungen, die zum Erstellen neuer Visio-Zeichnungen verwendet werden. Wenn eine VST-Datei in Microsoft Visio geöffnet wird, enthält sie die vorhandenen Einstellungen, um mit dem Dokument weiterzuarbeiten. Im Allgemeinen werden Visio-Dateien verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML-Diagramme, Informationsflüsse, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio generierte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden.
+Dateien mit der Erweiterung VST sind Vektorbilddateien, die mit Microsoft Visio erstellt wurden und als Vorlage zum Erstellen weiterer Dateien dienen. Diese Vorlagendateien liegen im binären Dateiformat vor und enthalten das Standardlayout und die Standardeinstellungen, die zum Erstellen neuer Visio-Zeichnungen verwendet werden. Wenn eine VST-Datei in Microsoft Visio geöffnet wird, enthält sie die vorhandenen Einstellungen, um mit dem Dokument weiterzuarbeiten. Im Allgemeinen werden Visio-Dateien verwendet, um Zeichnungen zu erstellen, die visuelle Objekte, Flussdiagramme, UML diagram, Informationsfluss, Organigramme, Softwarediagramme, Netzwerklayouts, Datenbankmodelle, Objektzuordnungen und andere ähnliche Informationen enthalten. Mit Visio erstellte Dateien können auch in verschiedene Dateiformate wie PNG, BMP, PDF und andere exportiert werden.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="xps" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
-Eine XPS-Datei stellt Seitenlayoutdateien dar, die auf von Microsoft erstellten XML-Papierspezifikationen basieren. Dieses Format wurde von Microsoft als Ersatz für das EMF-Dateiformat entwickelt und ähnelt dem PDF-Dateiformat, verwendet jedoch XML für Layout, Aussehen und Druckinformationen eines Dokuments. Es ist in der Tat gerechtfertigter zu sagen, dass XPS ein Versuch auf PDF ist, aber aus einer Reihe von Gründen nicht genug Popularität als Eigentum von PDF erlangen konnte. Microsoft stellt XPS Document Writer standardmäßig ab Windows 7 für die Erstellung von XPS-Dateien zur Verfügung. XPS-Dateien können generiert werden, indem beim Drucken des Dokuments der "Microsoft XPS Document Writer" als Drucker ausgewählt wird.
+Eine XPS-Datei stellt Seitenlayoutdateien dar, die auf von Microsoft erstellten XML-Papierspezifikationen basieren. Dieses Format wurde von Microsoft als Ersatz für das EMF-Dateiformat entwickelt und ähnelt dem PDF-Dateiformat, verwendet jedoch XML für Layout, Erscheinungsbild und Druckinformationen eines Dokuments. Es ist in der Tat gerechtfertigter zu sagen, dass XPS ein Versuch auf PDF ist, aber aus einer Reihe von Gründen nicht genug Popularität als Eigentum von PDF erlangen konnte. Microsoft stellt ab Windows 7 standardmäßig XPS Document Writer für die Erstellung von XPS-Dateien bereit. XPS-Dateien können generiert werden, indem beim Drucken des Dokuments der "Microsoft XPS Document Writer" als Drucker ausgewählt wird.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -113,10 +113,10 @@ Eine XPS-Datei stellt Seitenlayoutdateien dar, die auf von Microsoft erstellten 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-svg/" name="VST ZU SVG" description="Skalierbare Vektorgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-swf/" name="VST ZU SWF" description="SWF-Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-tiff/" name="VST ZU TIFF" description="Markiertes Bildformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST ZU VDX" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST ZU VSDM" description="Microsoft Visio-Zeichnungsformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST ZU VSDX" description="Microsoft Visio-Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST ZU VSSM" description="Microsoft Visio-Schablonendateien" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vdx/" name="VST ZU VDX" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdm/" name="VST ZU VSDM" description="Microsoft Visio Zeichnungsformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vsdx/" name="VST ZU VSDX" description="Microsoft Visio Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssm/" name="VST ZU VSSM" description="Microsoft Visio Schablonendateien" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vssx/" name="VST ZU VSSX" description="Zeichenschablonen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstm/" name="VST ZU VSTM" description="Microsoft Visio Vorlagendateien" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vst-to-vstx/" name="VST ZU VSTX" description="Microsoft Visio Zeichnungsvorlage" >}}

@@ -1,0 +1,64 @@
+﻿---
+title: Python Microsoft Visio Dateikonvertierung
+url: /de/python-java/conversion/
+description: Konvertieren Sie Microsoft Visio Formate VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS in HTML-Bilder und PDF mit wenigen Zeilen Python-Code.
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Formatkonvertierung über Python" h2="Konvertieren Sie MS Visio-Diagramme in HTML, PDF und Bilder, einschließlich JPG, BMP, PNG, TIFF, um plattformübergreifende Python-Anwendungen zu erstellen." >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+
+Für beliebige Microsoft Visio Formate ermöglicht die Rendering-Lösung wie das Entwerfen von Flussdiagrammen und Geschäftsflussdiagrammen usw. Python Visio API alle komplexen Zeichnungen auf einfache Weise. Quelldatei laden mit [Diagram Klasse](https://apireference.aspose.com/diagram/python-java/asposediagram.api/Diagram) und rufen Sie die save-Methode mit den entsprechenden Parametern auf.
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{% blocks/products/pf/feature-page-section h2="Interkonvertierungs-Visio-Dateien" %}}
+
+Programmierer können problemlos die Formate VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM konvertieren und laden VDW, VSD, VSS, VST und rendert in PDF, HTML und Bilder. In Anbetracht des Szenarios von VSDX bis VDX lautet der Prozess: Laden Sie die Quelldatei VSDX mithilfe der Klasse diagram und rufen Sie die Methode save auf, indem Sie die Ausgabedatei und bereitstellen [SaveFileFormat](https://apireference.aspose.com/diagram/python-java/asposediagram.api/SaveFileFormat) als Parameter. 
+
+{{% blocks/products/pf/feature-page-code h3="Python Code für Umwandlung von VSDX in VDX" %}}
+
+{{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-vdx.java" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options pairs="vdw-to-vdx vdx-to-vsdx vsdm-to-vssm vsd-to-vssx vsdx-to-vstm vssm-to-vtx vss-to-vtx" >}}
+
+{{% blocks/products/pf/feature-page-section h2="Visio zu Bildumwandlung" %}}
+
+Bei der generischen Konvertierung ist der Prozess zum Konvertieren von visio-Dateien in Bilder derselbe. Laden Sie einfach die Datei über die Klasse Diagram und rufen Sie die Methode save mit den Ausgabeparametern Ausgabedatei und SaveFileFormat auf. Und wann immer es notwendig ist, bestimmte Optionen zu definieren, können Entwickler die ImageSaveOptions-Klasse verwenden, während sie diagram Seiten in Bilder und SVGSaveOptions für die SVG-Konvertierung konvertieren.
+
+{{% blocks/products/pf/feature-page-code h3="Python Code zum Konvertieren von Visio in Bildformate" %}}
+
+{{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-images.java" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/feature-page-code h3="Python Code zum Konvertieren von Visio in SVG" %}}
+
+{{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-svg.java" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options pairs="vdw-to-bmp vdx-to-png vsdm-to-jpeg vsd-to-tiff vsdx-to-bmp vssm-to-png vss-to-jpeg vssx-to-tiff" >}}
+
+{{% blocks/products/pf/feature-page-section h2="Konvertieren Sie Visio in PDF und HTML" %}}
+
+API kann visio-Formate sowohl in PDF als auch in HTML konvertieren. Benutz einfach [SaveFileFormat](https://apireference.aspose.com/diagram/python-java/asposediagram.api/SaveFileFormat).PDF und SaveFileFormat.HTML innerhalb der save-Methode als Parameter. Und für spezielle Einstellungen können Entwickler die Klassen PdfSaveOptions und HTMLSaveOptions verwenden.
+
+{{% blocks/products/pf/feature-page-code h3="Python Code für Visio in PDF-Konvertierung" %}}
+
+{{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-pdf.java" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+{{% blocks/products/pf/feature-page-code h3="Python Code zum Konvertieren von Visio in eine HTML-Datei" %}}
+
+{{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-html.java" >}}
+
+{{% /blocks/products/pf/feature-page-code %}}
+
+{{% /blocks/products/pf/feature-page-section %}}
+{{< blocks/products/pf/feature-page-options pairs="vdw-to-pdf vdx-to-html vsdm-to-pdf vsd-to-pdf vsdx-to-html vssm-to-pdf vss-to-html vssx-to-pdf vstm-to-pdf vstx-to-pdf vst-to-html vssx-to-pdf vsx-to-pdf vtx-to-html" >}}

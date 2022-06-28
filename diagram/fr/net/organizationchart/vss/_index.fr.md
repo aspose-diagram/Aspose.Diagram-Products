@@ -2,7 +2,7 @@
 title: Créer un organigramme dans le document VSS via .NET 
 weight: 3050
 url: /fr/net/organizationchart/vss/ 
-description: C# code source pour créer un organigramme dans un fichier vss sur .NET Framework, .NET Core, Mono Platforms.
+description: C# code source pour créer un organigramme dans le fichier vss sur .NET Framework, .NET Core, Mono Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Créer un organigramme dans VSS dans C#" h2="Créez un organigramme natif et hautes performances dans un document VSS à l\'aide d\'API Aspose.Diagram for .NET côté serveur, sans utiliser de logiciel tel que Microsoft ou Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,13 +39,13 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec
+ Création d'un organigramme avec
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Créer un diagramme à partir du pochoir.
++ Créez un diagram à partir du gabarit.
 + Sélectionnez la page via son identifiant
 + Ajouter des formes de nœud d'organisation à la page.
 + Ajouter des connecteurs à la page pour connecter la forme et son parent.
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou COM Interop- Environnement de développement comme Microsoft Visual Studio- Aspose.Diagram for .NET DLL référencée dans votre projet : installez-la à partir de NuGet à l'aide du bouton Télécharger ci-dessus
+- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou COM Interop- Environnement de développement tel que Microsoft Visual Studio- Aspose.Diagram for .NET DLL référencée dans votre projet – Installez à partir de NuGet à l'aide du bouton Télécharger ci-dessus
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Créer un organigramme dans les fichiers VSS - C#" offSpacer="" %}}
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="À propos de Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram est une manipulation de format de document Microsoft Visio API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
+ Aspose.Diagram est une Microsoft Visio manipulation de format de document API. On peut facilement charger, créer, modifier, manipuler, y compris des éléments de daigramme et convertir des diagrammes Visio en d'autres formats tels que PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF et plus encore. Il s'agit d'un API autonome et ne nécessite pas l'installation de Microsoft Visio ou de tout autre logiciel.  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il créera instantanément un organigramme de style CompactTree dans les documents VSS." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS sont des fichiers stencil créés avec Microsoft Visio 2007 et versions antérieures. Un format de fichier relativement nouveau est .VSSX qui a été introduit avec Microsoft Visio 2013. Les fichiers Stencil fournissent des objets de dessin qui peuvent être inclus dans un dessin .VSD Visio. Microsoft Visio lui-même est connu pour créer des éléments de dessin tels que des collections de formes, des connecteurs, des organigrammes, la disposition du réseau, des diagrammes UML, des diagrammes de logiciels, des modèles de base de données, des mappages d'objets et d'autres informations similaires. Il possède également de riches fonctionnalités de conversion de documents Visio vers d'autres formats de fichiers tels que PNG, BMP, PDF et autres. Visio est disponible pour Windows et Mac OS. 
+Les VSS sont des fichiers stencil créés avec Microsoft Visio 2007 et versions antérieures. Un format de fichier relativement nouveau est .VSSX qui a été introduit avec Microsoft Visio 2013. Les fichiers Stencil fournissent des objets de dessin qui peuvent être inclus dans un dessin .VSD Visio. Microsoft Visio lui-même est connu pour créer des éléments de dessin tels que des collections de formes, des connecteurs, des organigrammes, la disposition du réseau, des diagrammes UML, des diagrammes de logiciels, des modèles de base de données, des mappages d'objets et d'autres informations similaires. Il possède également de riches fonctionnalités de conversion de documents Visio vers d'autres formats de fichiers tels que PNG, BMP, PDF et autres. Visio est disponible pour Windows et Mac OS. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
@@ -107,7 +107,7 @@ VSS sont des fichiers stencil créés avec Microsoft Visio 2007 et versions ant
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats d\'organigramme pris en charge" subTitle="En utilisant C#, on peut facilement créer un organigramme de style CompactTree dans différents formats, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsd/" name="VSD" description="Dessins Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vsd/" name="Vsd" description="Microsoft Visio Dessins" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vdx/" name="Vdx" description="Visio dessin Fichier XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vssx/" name="VSSX" description="Visio Fichier de gabarit" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/organizationchart/vstx/" name="VSTX" description="Visio fichier modèle" >}}

@@ -15,8 +15,8 @@ description: नमूना Java VDW प्रारूप के लिए XAM
  VDW को XAML में रेंडर करने के लिए, हम उपयोग करेंगे
  [Aspose.Diagram for Java](https://products.aspose.com/diagram/java) 
  API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान रूपांतरण API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं
- [मावेना](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
- और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने मावेन-आधारित प्रोजेक्ट में स्थापित करें।
+ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram) 
+ और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -71,7 +71,7 @@ description: नमूना Java VDW प्रारूप के लिए XAM
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows या JavaJSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश के साथ संगत OS।- मावेन से सीधे Aspose.Diagram for Java का नवीनतम संस्करण प्राप्त करें।
+- Microsoft जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट के साथ विंडोज या संगत ओएस।- सीधे Maven से Aspose.Diagram for Java का नवीनतम संस्करण प्राप्त करें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VDW से XAML Java रूपांतरण स्रोत कोड" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram मैनिपुलेशन लाइब्रेरी" %}}
 
- Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसके लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर को स्थापित करने की आवश्यकता नहीं है।  
+ Aspose.Diagram एक Microsoft Visio दस्तावेज़ प्रारूप हेरफेर API है। कोई भी आसानी से लोड कर सकता है, बना सकता है, संशोधित कर सकता है, डायग्राम तत्वों सहित हेरफेर कर सकता है और Visio आरेखों को पीडीएफ, एक्सपीएस, जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, एसवीजी, ईएमएफ और अधिक जैसे अन्य प्रारूपों में परिवर्तित कर सकता है। यह एक स्टैंडअलोन API है और इसे स्थापित करने के लिए Microsoft Visio या किसी अन्य सॉफ़्टवेयर की आवश्यकता नहीं है।  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.xaml", SaveFileFormat.XAML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
 
-VDW एक Visio ग्राफ़िक्स सेवा फ़ाइल स्वरूप है जो वेब आरेखण को प्रस्तुत करने के लिए आवश्यक स्ट्रीम और संग्रहण को निर्दिष्ट करता है। एक वेब ड्रॉइंग ड्राइंग पेज, आकार, फोंट, इमेज, डेटा कनेक्शन और डायग्राम अपडेट जानकारी का एक संग्रह है जिसे वेक्टर या रैस्टर ड्राइंग के रूप में प्रस्तुत किया जा सकता है। VDW फ़ाइलें Microsoft Visio में भी खोली जा सकती हैं लेकिन मुख्य रूप से वेब पर उपयोग के लिए सहेजी जाती हैं। Microsoft Visio Visio फ़ाइलों को PNG, BMP, PDF और अन्य सहित कई अलग-अलग फ़ाइल स्वरूपों में कनवर्ट करने की क्षमता प्रदान करता है।
+VDW एक Visio ग्राफ़िक्स सेवा फ़ाइल स्वरूप है जो वेब आरेखण को प्रस्तुत करने के लिए आवश्यक स्ट्रीम और संग्रहण को निर्दिष्ट करता है। वेब आरेखण आरेखण पृष्ठ, आकार, फ़ॉन्ट, चित्र, डेटा कनेक्शन और diagram अद्यतन जानकारी का एक संग्रह है जिसे वेक्टर या रेखापुंज आरेखण के रूप में प्रस्तुत किया जा सकता है। VDW फाइलें Microsoft Visio में भी खोली जा सकती हैं लेकिन मुख्य रूप से वेब पर उपयोग के लिए सहेजी जाती हैं। Microsoft Visio Visio फ़ाइलों को पीएनजी, बीएमपी, पीडीएफ और अन्य सहित कई अलग-अलग फ़ाइल स्वरूपों में कनवर्ट करने की क्षमता प्रदान करता है।
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XAML" readMoreLink="https://docs.fileformat.com/web/xaml/" >}}
 
-एक्सएएमएल, एक्स्टेंसिबल एप्लिकेशन मार्कअप लैंग्वेज, एक्सटेंशन फाइलें विंडोज प्रेजेंटेशन फाउंडेशन (डब्ल्यूपीएफ) पर आधारित सॉफ्टवेयर अनुप्रयोगों के लिए यूजर इंटरफेस तत्वों का वर्णन करती हैं। हालांकि एक भाषा, इसे प्रोग्राम करने की आवश्यकता नहीं है क्योंकि यह एक्सएमएल के मानक प्रारूप पर आधारित है जो उपयोग करने और समझने में आसान है। XAML ("ज़मेल" के रूप में उच्चारित) को Microsoft द्वारा उपयोगकर्ता इंटरफ़ेस बनाने के विशिष्ट उद्देश्य के साथ विकसित किया गया था। इसका संक्षिप्त नाम मूल एक्स्टेंसिबल एवलॉन मार्कअप लैंग्वेज के लिए था, जहां एवलॉन डब्ल्यूपीएफ के लिए कोड-नाम था। XAML फ़ाइलें कभी-कभी XOML एक्सटेंशन के साथ भी सहेजी जाती हैं।
+एक्सएएमएल, एक्स्टेंसिबल एप्लिकेशन मार्कअप लैंग्वेज, एक्सटेंशन फाइलें विंडोज प्रेजेंटेशन फाउंडेशन (डब्ल्यूपीएफ) पर आधारित सॉफ्टवेयर अनुप्रयोगों के लिए यूजर इंटरफेस तत्वों का वर्णन करती हैं। हालांकि एक भाषा, इसे प्रोग्राम करने की आवश्यकता नहीं है क्योंकि यह एक्सएमएल के मानक प्रारूप पर आधारित है जो उपयोग करने और समझने में आसान है। XAML ("ज़मेल" के रूप में उच्चारित) को उपयोगकर्ता इंटरफ़ेस बनाने के विशिष्ट उद्देश्य के साथ Microsoft द्वारा विकसित किया गया था। इसका संक्षिप्त नाम मूल एक्स्टेंसिबल एवलॉन मार्कअप लैंग्वेज के लिए था, जहां एवलॉन डब्ल्यूपीएफ के लिए कोड-नाम था। XAML फ़ाइलें कभी-कभी XOML एक्सटेंशन के साथ भी सहेजी जाती हैं।
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -136,19 +136,19 @@ VDW एक Visio ग्राफ़िक्स सेवा फ़ाइल स
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-emf/" name="वीडीडब्ल्यू से ईएमएफ" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-html/" name="VDW से HTML" description="हाइपर टेक्स्ट मार्कअप लैंग्वेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-jpeg/" name="VDW से JPEG" description="जेपीईजी छवि" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-pdf/" name="पीडीएफ के लिए वीडीडब्ल्यू" description="संवहन दस्तावेज़ स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-pdf/" name="पीडीएफ के लिए वीडीडब्ल्यू" description="वहनीय दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-png/" name="वीडीडब्ल्यू टू पीएनजी" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-svg/" name="वीडीडब्ल्यू से एसवीजी" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="झगड़ा करने के लिए वीडीडब्ल्यू" description="टैग की गई छवि प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="वीडीडब्ल्यू से वीडीएक्स" description="Microsoft Visio आरेखण प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="वीडीडब्ल्यू से वीएसडीएम" description="Microsoft Visio आरेखण प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="वीडीडब्ल्यू से VSDX" description="माइक्रोसॉफ्ट Visio प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="वीडीडब्ल्यू से वीएसएसएम" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="वीडीडब्ल्यू से वीएसएसएक्स" description="ड्राइंग स्टेंसिल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="वीडीडब्ल्यू से वीएसटीएम" description="माइक्रोसॉफ्ट Visio टेम्पलेट फ़ाइलें" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="वीडीडब्ल्यू से वीएसटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="वीडीडब्ल्यू से वीएसएक्स" description="स्टेंसिल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="वीडीडब्ल्यू से वीटीएक्स" description="माइक्रोसॉफ्ट Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="वीडीडब्ल्यू से VDX" description="Microsoft Visio आरेखण प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="वीडीडब्ल्यू से VSDM" description="Microsoft Visio आरेखण प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdx/" name="वीडीडब्ल्यू से VSDX" description="Microsoft Visio प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="वीडीडब्ल्यू से VSSM" description="Microsoft Visio स्टैंसिल फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="वीडीडब्ल्यू से VSSX" description="ड्राइंग स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="वीडीडब्ल्यू से VSTM" description="Microsoft Visio टेम्प्लेट फ़ाइलें" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="वीडीडब्ल्यू से VSTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="वीडीडब्ल्यू से VSX" description="स्टेंसिल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="वीडीडब्ल्यू से VTX" description="Microsoft Visio ड्राइंग टेम्प्लेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="वीडीडब्ल्यू टू एक्सपीएस" description="एक्सएमएल पेपर निर्दिष्टीकरण" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

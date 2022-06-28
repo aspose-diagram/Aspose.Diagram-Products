@@ -1,11 +1,11 @@
 ﻿---
-title: Visio API .NET и Java | Создание диаграмм преобразования или манипулирования 
+title: Visio .NET Java Python API Node.js | Создание диаграмм преобразования или манипулирования 
 weight: 10
 url: /ru/family
 description: Библиотека Diagram для создания открытой редактируемой печати и преобразования Visio файлов в приложениях .NET Java и Mono без установки Microsoft Visio
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Microsoft Visio для управления файлами" h2=".NET и Java API для создания, редактирования и преобразования файлов Microsoft Visio на любой платформе." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft VisioAPI для управления файлами" h2="API .NET и Java для создания, редактирования и преобразования файлов Microsoft Visio на любой платформе." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram High Code API включают" >}}
@@ -23,7 +23,7 @@ description: Библиотека Diagram для создания открыто
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Python через Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
-Создавайте, читайте, записывайте и визуализируйте документы Microsoft Visio через Python.
+Создавайте, читайте, записывайте и визуализируйте документы Microsoft Visio с помощью Python.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

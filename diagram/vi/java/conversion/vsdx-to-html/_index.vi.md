@@ -71,7 +71,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng VSDX sang tệp H
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc một hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.- Tải phiên bản mới nhất của Aspose.Diagram for Java trực tiếp từ Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã nguồn chuyển đổi VSDX sang HTML Java" offSpacer="" %}}
@@ -102,7 +102,7 @@ visio.save("output.html", SaveFileFormat.HTML);
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Thư viện Thao tác" %}}
 
- Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Đây là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
+ Aspose.Diagram là một Microsoft Visio thao tác định dạng tài liệu API. Người ta có thể dễ dàng tải, tạo, sửa đổi, thao tác bao gồm các phần tử daigram và chuyển đổi Visio sơ đồ sang các định dạng khác như PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF và hơn thế nữa. Nó là một phần mềm độc lập API và không yêu cầu cài đặt Microsoft Visio hoặc bất kỳ phần mềm nào khác.  
 
 
 
@@ -112,14 +112,14 @@ visio.save("output.html", SaveFileFormat.HTML);
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
 
-Tệp có phần mở rộng. VSDX đại diện cho định dạng tệp Microsoft Visio được giới thiệu từ Microsoft Office 2013 trở đi. Nó được phát triển để thay thế định dạng tệp nhị phân,. VSD, được hỗ trợ bởi các phiên bản trước của Microsoft Visio. Nó cũng được hỗ trợ trên Visio Dịch vụ trong Microsoft SharePoint Server 2013 và không yêu cầu định dạng tệp trung gian để xuất bản lên SharePoint Server. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, biểu đồ luồng, sơ đồ UML, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
+Tệp có phần mở rộng. VSDX đại diện cho định dạng tệp Microsoft Visio được giới thiệu từ Microsoft Office 2013 trở đi. Nó được phát triển để thay thế định dạng tệp nhị phân,. VSD, được hỗ trợ bởi các phiên bản trước đó của Microsoft Visio. Nó cũng được hỗ trợ trên Visio Dịch vụ trong Microsoft SharePoint Server 2013 và không yêu cầu định dạng tệp trung gian để xuất bản lên SharePoint Server. Tệp Visio được sử dụng để tạo bản vẽ chứa các đối tượng trực quan, lưu đồ, UML diagram, luồng thông tin, sơ đồ tổ chức, sơ đồ phần mềm, bố cục mạng, mô hình cơ sở dữ liệu, ánh xạ đối tượng và các thông tin tương tự khác. Các tệp được tạo bằng Visio cũng có thể được xuất sang các định dạng tệp khác nhau như PNG, BMP, PDF và các định dạng khác.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
 
-HTML (Ngôn ngữ đánh dấu siêu văn bản) là phần mở rộng cho các trang web được tạo để hiển thị trong trình duyệt. Được biết đến như là ngôn ngữ của web, HTML đã phát triển với các yêu cầu về yêu cầu thông tin mới được hiển thị như một phần của các trang web. Biến thể mới nhất được gọi là HTML 5 mang lại nhiều tính linh hoạt cho việc làm việc với ngôn ngữ này. Các trang HTML hoặc được nhận từ máy chủ, nơi chúng được lưu trữ hoặc cũng có thể được tải từ hệ thống cục bộ. Mỗi trang HTML được tạo thành từ các phần tử HTML như biểu mẫu, văn bản, hình ảnh, hoạt ảnh, liên kết, v.v. Những phần tử này được biểu thị bằng các thẻ như img, a, p và một số thẻ khác trong đó mỗi thẻ có bắt đầu và kết thúc. Nó cũng có thể nhúng các ứng dụng được viết bằng ngôn ngữ kịch bản như JavaScript và Style Sheets (CSS) để trình bày bố cục tổng thể.
+HTML (Ngôn ngữ đánh dấu siêu văn bản) là phần mở rộng cho các trang web được tạo để hiển thị trong trình duyệt. Được biết đến như là ngôn ngữ của web, HTML đã phát triển với các yêu cầu về yêu cầu thông tin mới được hiển thị như một phần của các trang web. Biến thể mới nhất được gọi là HTML 5 mang lại nhiều tính linh hoạt cho việc làm việc với ngôn ngữ này. Các trang HTML hoặc được nhận từ máy chủ, nơi chúng được lưu trữ hoặc cũng có thể được tải từ hệ thống cục bộ. Mỗi trang HTML được tạo thành từ các phần tử HTML như biểu mẫu, văn bản, hình ảnh, hoạt ảnh, liên kết, v.v. Những phần tử này được biểu thị bằng các thẻ như img, a, p và một số thẻ khác trong đó mỗi thẻ có bắt đầu và kết thúc. Nó cũng có thể nhúng các ứng dụng được viết bằng ngôn ngữ script như JavaScript và Style Sheets (CSS) để trình bày bố cục tổng thể.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
@@ -139,14 +139,14 @@ HTML (Ngôn ngữ đánh dấu siêu văn bản) là phần mở rộng cho các
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-png/" name="VSDX ĐẾN PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-svg/" name="VSDX ĐẾN SVG" description="Đồ họa vector có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-tiff/" name="VSDX ĐẾN TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX ĐẾN VDX" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsdm/" name="VSDX ĐẾN VSDM" description="Định dạng bản vẽ Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX ĐẾN VSSM" description="Tệp Microsoft Visio Stencil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vdx/" name="VSDX ĐẾN VDX" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsdm/" name="VSDX ĐẾN VSDM" description="Microsoft Visio Định dạng Bản vẽ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssm/" name="VSDX ĐẾN VSSM" description="Microsoft Visio Tệp stencil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vssx/" name="VSDX ĐẾN VSSX" description="Vẽ giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX ĐẾN VSTM" description="Tệp Mẫu Visio của Microsoft" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX ĐẾN VSTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstm/" name="VSDX ĐẾN VSTM" description="Microsoft Visio Tệp Mẫu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vstx/" name="VSDX ĐẾN VSTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vsx/" name="VSDX ĐẾN VSX" description="Giấy nến" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX ĐẾN VTX" description="Mẫu vẽ Visio của Microsoft" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-vtx/" name="VSDX ĐẾN VTX" description="Microsoft Visio Mẫu Bản vẽ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xaml/" name="VSDX ĐẾN XAML" description="Ngôn ngữ đánh dấu ứng dụng có thể mở rộng" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vsdx-to-xps/" name="VSDX ĐẾN XPS" description="Thông số kỹ thuật giấy XML" >}}
 

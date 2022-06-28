@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ - ติดตั้งจาก NuGet โดยใช้ปุ่มดาวน์โหลดด้านบน
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือ COM Interop- สภาพแวดล้อมการพัฒนา เช่น Microsoft Visual Studio- Aspose.Diagram for .NET DLL ที่อ้างอิงในโครงการของคุณ - ติดตั้งจาก NuGet โดยใช้ปุ่มดาวน์โหลดด้านบน
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="แยกไฟล์ VSS - C#" offSpacer="" %}}
@@ -80,7 +80,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram คือการจัดการรูปแบบเอกสารของ Microsoft Visio API หนึ่งสามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นการทำงานแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
+ Aspose.Diagram คือการจัดการรูปแบบเอกสาร Microsoft Visio API สามารถโหลด สร้าง แก้ไข จัดการ ซึ่งรวมถึงองค์ประกอบไดแกรมและแปลงไดอะแกรม Visio เป็นรูปแบบอื่นๆ เช่น PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF และอื่นๆ ได้อย่างง่ายดาย เป็นแบบสแตนด์อโลน API และไม่ต้องติดตั้ง Microsoft Visio หรือซอฟต์แวร์อื่นใด  
 
 
 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกบีบอัดและต่อกันทันที" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS คือไฟล์ลายฉลุที่สร้างด้วย Microsoft Visio 2007 และรุ่นก่อนหน้า รูปแบบไฟล์ที่ค่อนข้างใหม่คือ .VSSX ที่นำมาใช้กับ Microsoft Visio 2013 ไฟล์ลายฉลุมีออบเจ็กต์รูปวาดที่สามารถรวมไว้ในรูปวาด .VSD Visio Microsoft Visio เป็นที่รู้จักในการสร้างองค์ประกอบการวาด เช่น การรวบรวมรูปร่าง ตัวเชื่อมต่อ ผังงาน เค้าโครงเครือข่าย ไดอะแกรม UML ไดอะแกรมซอฟต์แวร์ โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน นอกจากนี้ยังมีคุณสมบัติการแปลงเอกสารมากมาย Visio ไฟล์เป็นรูปแบบไฟล์อื่นๆ เช่น PNG, BMP, PDF และอื่นๆ Visio สามารถใช้ได้กับทั้ง Windows และ Mac OS 
+VSS คือไฟล์สเตนซิลที่สร้างด้วย Microsoft Visio 2007 และเวอร์ชันก่อนหน้า รูปแบบไฟล์ที่ค่อนข้างใหม่คือ .VSSX ที่นำมาใช้กับ Microsoft Visio 2013 ไฟล์ลายฉลุมีออบเจ็กต์รูปวาดที่สามารถรวมไว้ในภาพวาด .VSD Visio Microsoft Visio เป็นที่รู้จักสำหรับการสร้างองค์ประกอบการวาด เช่น การรวบรวมรูปร่าง ตัวเชื่อมต่อ ผังงาน เค้าโครงเครือข่าย ไดอะแกรม UML ซอฟต์แวร์ไดอะแกรม โมเดลฐานข้อมูล การแมปวัตถุ และข้อมูลอื่นๆ ที่คล้ายคลึงกัน นอกจากนี้ยังมีคุณสมบัติการแปลงเอกสาร Visio ที่หลากหลายเป็นรูปแบบไฟล์อื่นๆ เช่น PNG, BMP, PDF และอื่นๆ Visio สามารถใช้ได้กับทั้ง Windows และ Mac OS 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

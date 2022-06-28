@@ -2,7 +2,7 @@
 title: .NET를 통해 VSS 문서 압축 
 weight: 3050
 url: /ko/net/compress/vss/ 
-description: C# 소스 코드는 .NET 프레임워크, .NET 코어, Mono 플랫폼에서 vss 파일을 압축합니다.
+description: C# 소스 코드는 .NET Framework, .NET Core, Mono 플랫폼에서 vss 파일을 압축합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#에서 VSS 압축" h2="Microsoft 또는 Open Office, Adobe PDF와 같은 소프트웨어를 사용하지 않고 서버측 Aspose.Diagram for .NET API를 사용하는 기본 및 고성능 VSS 문서 압축기." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -15,7 +15,7 @@ description: C# 소스 코드는 .NET 프레임워크, .NET 코어, Mono 플랫�
  VSS 파일을 압축하려면 다음을 사용합니다.
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 병합 API입니다. 열려 있는
- [누겟](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  패키지 관리자, 검색
  **Aspose.Diagram** 
  설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
@@ -60,7 +60,7 @@ Diagram의 RemoveHiddenInformation 기능 사용
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
+- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 COM Interop이 있는 호환 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Diagram for .NET DLL - 위의 다운로드 버튼을 사용하여 NuGet에서 설치
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="VSS 파일 압축 - C#" offSpacer="" %}}
@@ -94,7 +94,7 @@ Diagram의 RemoveHiddenInformation 기능 사용
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 압축되어 즉시 연결됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSS" readMoreLink="https://docs.fileformat.com/visio/vss/" >}}
-VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 개체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은 Windows와 Mac OS 모두에서 사용할 수 있습니다. 
+VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입니다. 비교적 새로운 파일 형식은 Microsoft Visio 2013년에 도입된 .VSSX입니다. 스텐실 파일은 .VSD Visio 도면에 포함될 수 있는 도면 객체를 제공합니다. Microsoft Visio 자체는 모양, 커넥터, 순서도, 네트워크 레이아웃, UML 다이어그램, 소프트웨어 다이어그램, 데이터베이스 모델, 개체 매핑 및 기타 유사한 정보 모음과 같은 그리기 요소를 만드는 것으로 알려져 있습니다. 또한 Visio 문서를 PNG, BMP, PDF 등과 같은 다른 파일 형식으로 변환하는 기능도 풍부합니다. Visio은(는) Windows와 Mac OS 모두에서 사용할 수 있습니다. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -104,8 +104,8 @@ VSS는 Microsoft Visio 2007 및 이전 버전으로 만든 스텐실 파일입�
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 압축 형식" subTitle="C#을 사용하면 다음을 포함한 다양한 형식을 쉽게 압축할 수 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="대" description="Microsoft Visio 도면" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vdx/" name="VDX" description="Visio 도면 XML 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsd/" name="Vsd" description="Microsoft Visio 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vdx/" name="Vdx" description="Visio 도면 XML 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vssx/" name="VSSX" description="Visio 스텐실 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vstx/" name="VSTX" description="Visio 템플릿 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/compress/vsdm/" name="VSDM" description="Visio 매크로 사용 도면 파일" >}}

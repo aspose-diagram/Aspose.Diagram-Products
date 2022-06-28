@@ -1,22 +1,22 @@
 ﻿---
 title: Java Microsoft Visio Filkonvertering
 url: /sv/java/conversion/
-description: Konvertera Microsoft Visio-format VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS till HTML-bilder och PDF med några rader med Java-kod.
+description: Konvertera Microsoft Visio format VSDX VSX VDX VTX VSSX VSTX VSDM VSTM VSSM VDW VSD VST VSS till HTML-bilder och PDF med några rader Java kod.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Visio Formatkonvertering via Java" h2="Konvertera MS Visio-diagram till HTML, PDF och bilder inklusive JPG, BMP, PNG, TIFF för att bygga plattformsoberoende Java-applikationer." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-För alla Microsoft Visio-format underlättar renderingslösningar som att designa flödesscheman och affärsflödesdiagram etc. Java Visio API alla komplexa ritningar på ett enkelt sätt. Ladda källfilen med hjälp av [Diagram klass](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) och anropa sparmetoden med lämpliga parametrar.
+För alla Microsoft Visio-format underlättar renderingslösningar som design av flödesscheman och affärsflödesdiagram etc. Java Visio API alla komplexa ritningar på ett enkelt sätt. Ladda källfilen med hjälp av [Diagram klass](https://apireference.aspose.com/diagram/java/com.aspose.diagram/Diagram) och anropa sparmetoden med lämpliga parametrar.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interkonvertering Visio-filer" %}}
 
-Programmerare kan enkelt konvertera formaten VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM samt laddar VDW, VSD, VSS, VST och renderar till PDF, HTML och bilder. Med tanke på scenariot från VSDX till VDX, är processen att ladda källfilen VSDX med diagramklassen och anropa sparmetoden genom att tillhandahålla utdatafil och [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX som parametrar. 
+Programmerare kan enkelt konvertera formaten VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM samt laddar VDW, VSD, VSS, VST och renderar till PDF, HTML och bilder. Med tanke på scenariot från VSDX till VDX är processen att ladda källfilen VSDX med klassen diagram och anropa sparmetoden genom att tillhandahålla utdatafil och [SaveFileFormat](https://apireference.aspose.com/diagram/java/com.aspose.diagram/SaveFileFormat).VDX som parametrar. 
 
-{{% blocks/products/pf/feature-page-code h3="Java Kod för VSDX till VDX-konvertering" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Kod för omvandling från VSDX till VDX" %}}
 
 {{< gist "aspose-com-gists" "ef1dd6194f7289aa2a9d1bd6aa1ff578" "convert-vsdx-to-vdx.java" >}}
 
@@ -27,7 +27,7 @@ Programmerare kan enkelt konvertera formaten VSDX, VSX, VTX, VDX, VSSX, VSTX, VS
 
 {{% blocks/products/pf/feature-page-section h2="Visio till bildkonvertering" %}}
 
-För generisk konvertering är processen för att konvertera visio-filer till bilder densamma. Ladda bara filen via klassen Diagram och anropa sparametoden med utdatafil och SaveFileFormat-utdataparametrar. Och närhelst det finns behov av att definiera specifika alternativ kan utvecklare använda klassen ImageSaveOptions medan de konverterar diagramsidor till bilder och SVGSaveOptions för SVG-konvertering.
+För generisk konvertering är processen att konvertera visio filer till bilder densamma. Ladda bara filen via klassen Diagram och anropa sparmetoden med utdatafil och SaveFileFormat-utgångsparametrar. Och närhelst det finns behov av att definiera specifika alternativ kan utvecklare använda klassen ImageSaveOptions medan de konverterar diagram-sidor till bilder och SVGSaveOptions för SVG-konvertering.
 
 {{% blocks/products/pf/feature-page-code h3="Java Kod för att konvertera Visio till bildformat" %}}
 

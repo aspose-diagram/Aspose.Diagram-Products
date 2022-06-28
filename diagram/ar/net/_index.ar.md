@@ -2,19 +2,19 @@
 title: C# .NET Visio Diagram API - Aspose 
 weight: 1020
 url: /ar/net/ 
-description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio لتصدير Visio الرسوم البيانية VSD VSDX VSS VST VSX VTX VDW VDX VSSX و VSTX إلى PDF XPS HTML SVG SWF وتنسيقات الصور
+description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio لتصدير Visio الرسوم التخطيطية VSD VSDX VSS VST VSX VTX VDW VDX VSSX و VSTX إلى PDF XPS HTML SVG SWF وتنسيقات الصور
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio واجهات برمجة تطبيقات معالجة الملفات" h2="إنشاء وتحرير ومعالجة وتحويل مخططات Microsoft Visio إلى تنسيقات XPS أو HTML أو SVG أو SWF أو XAML أو الصور أو PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio واجهات برمجة تطبيقات معالجة الملفات" h2="قم بإنشاء وتحرير ومعالجة وتحويل الرسوم التخطيطية Microsoft Visio إلى تنسيقات XPS أو HTML أو SVG أو SWF أو XAML أو الصور أو PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NET عبارة عن API متخصصة مصممة للعمل مع مستندات Microsoft Visio. يسمح للمطورين بإنشاء ومعالجة & أمبير ؛ تحويل التنسيقات الأصلية Visio. يمكن للمطورين إنشاء رسومات تخطيطية من البداية بالإضافة إلى تحميل الملفات الموجودة بسهولة ومعالجة عناصر الرسم التخطيطي لتصدير النتيجة بتنسيقات أخرى.</p>
+<p>Aspose.Diagram for .NET عبارة عن API متخصصة مصممة للعمل مع مستندات Microsoft Visio. يسمح للمطورين بإنشاء ومعالجة & أمبير ؛ تحويل التنسيقات الأصلية Visio. يمكن للمطورين إنشاء رسوم بيانية من البداية بالإضافة إلى تحميل الملفات الموجودة بسهولة ومعالجة عناصر diagram لتصدير النتيجة بتنسيقات أخرى.</p>
 
-<p>يدعم Aspose.Diagram for .NET جميع التنسيقات الأصلية Visio تقريبًا بالإضافة إلى بعض الصور الشائعة الاستخدام & amp؛ تنسيقات التخطيط الثابت. يعد هذا API بديلاً لـ Microsoft Visio Object Model ويوفر أداءً أفضل. فهو يستفيد من الوظائف المتقدمة لخدمات Visio لمعالجة المستندات على الخادم.</p>
+<p>يدعم Aspose.Diagram for .NET جميع التنسيقات الأصلية Visio تقريبًا بالإضافة إلى بعض الصور الشائعة الاستخدام & amp؛ تنسيقات التخطيط الثابت. يعد هذا API بديلاً لنموذج الكائن Microsoft Visio ويوفر أداءً أفضل. فهو يستفيد من الوظائف المتقدمة لخدمات Visio لمعالجة المستندات على الخادم.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -136,7 +136,7 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
   <footer>
    <small>
     <em>
-     بالنسبة
+     ل
     </em>
     .NET
    </small>
@@ -147,7 +147,7 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="API يدعم .NET Framework بدءًا من 2.0 & Mono. علاوة على ذلك ، يمكن استخدامه مع لغات أخرى عبر COM Interop." >}}
+{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="API يدعم .NET Framework بدءًا من 2.0 و Mono. علاوة على ذلك ، يمكن استخدامه مع لغات أخرى عبر COM Interop." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,7 +168,7 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET إطار العمل
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -197,7 +197,7 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
   <footer>
    <small>
     <em>
-     بالنسبة
+     ل
     </em>
     .NET
    </small>
@@ -220,7 +220,7 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
    <ul>
     <li>
      <b>
-      مايكروسوفت Visio:
+      Microsoft Visio:
      </b>
      VSDX ، VSX ، VTX ، VDX ، VSSX ، VSTX ، VSDM ، VSSM ، VSTM
     </li>
@@ -233,7 +233,7 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
    <ul>
     <li>
      <b>
-      مايكروسوفت Visio:
+      Microsoft Visio:
      </b>
      VDW و VSD و VSS و VST
     </li>
@@ -284,7 +284,7 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
   <footer>
    <small>
     <em>
-     بالنسبة
+     ل
     </em>
     .NET
    </small>
@@ -334,7 +334,7 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     اقرأ خصائص الكائنات المختلفة في الرسم التخطيطي
+     اقرأ خصائص كائنات مختلفة من diagram
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     رسم تخطيطي للطباعة على خادم عبر XpsPrint API
+     طباعة diagram على خادم عبر XpsPrint API
     </p>
    </div>
    <div class="col-lg-4">
@@ -445,14 +445,14 @@ description: مكتبة الرسوم البيانية C# VB .NET ASP .NET Visio 
      بسيطة وسريعة وأمبير. تحويل موثوق لملفات Visio
     </h2>
     <p>
-     تقوم الشركات بإنشاء مخططات فنية في Microsoft Visio وتريد أن تكون قادرة على مشاركة هذه المعلومات. ومع ذلك ، تكمن المشكلة في أن المستخدمين العاديين لن يتمكنوا من تحميل مثل هذه المرئيات ما لم يكونوا قد قاموا بتثبيت Microsoft Visio أو بعض الأدوات الأخرى التي يمكنها تحميل Visio تنسيقات ملفات معينة. تتمثل إحدى طرق حل هذه المشكلة في تحويل المخططات إلى تنسيقات عالمية مثل PDF و HTML & amp؛ الصور النقطية ، والتي لا تتطلب برامج خاصة ليتم تثبيتها على الجهاز.
+     تنشئ الشركات رسومًا بيانية فنية في Microsoft Visio وتريد أن تكون قادرة على مشاركة هذه المعلومات. ومع ذلك ، تكمن المشكلة في أن المستخدمين العاديين لن يتمكنوا من تحميل مثل هذه العناصر المرئية إلا إذا قاموا بتثبيت Microsoft Visio أو بعض الأدوات الأخرى التي يمكنها تحميل Visio تنسيقات ملفات معينة. تتمثل إحدى طرق حل هذه المشكلة في تحويل المخططات إلى تنسيقات عالمية مثل PDF و HTML & amp؛ الصور النقطية ، والتي لا تتطلب برامج خاصة ليتم تثبيتها على الجهاز.
     </p>
     <p>
      مكتبة .NET Visio لها محرك تحويل خاص بها ، والذي يعمل بشكل مستقل عن أي برنامج آخر ، ويمكنه تحويل أي تنسيق Visio مدعوم إلى أي تنسيق مدعوم ببضعة سطور فقط من التعليمات البرمجية. عملية التحويل سريعة وموثوقة ، وتقدم لك نتائج عالية الدقة بغض النظر عن التنسيق الناتج.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      احفظ الرسم التخطيطي بتنسيقات مختلفة - C#
+      احفظ diagram بتنسيقات مختلفة - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -469,10 +469,10 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     معالجة مخططات Microsoft Visio
+     معالجة Microsoft Visio المخططات
     </h2>
     <p>
-     Aspose.Diagram for .NET API يسمح بقراءة ملفات Microsoft Visio بالتنسيق الأصلي VSD / VSDX بالإضافة إلى التنسيقات الأخرى بما في ذلك VSS و VST و VSX و VTX و VDW و VDX و VSSX و VSTX و VSDM و VSSM و VSTM. يمكن التلاعب بمحتويات الرسم التخطيطي من خلال API. بعد إجراء التغييرات المطلوبة على المستند ، يمكن بعد ذلك كتابة المستند على القرص بأي من التنسيقات المدعومة.
+     Aspose.Diagram for .NET API يسمح بقراءة Microsoft Visio الملفات بالتنسيق الأصلي VSD / VSDX بالإضافة إلى التنسيقات الأخرى بما في ذلك VSS و VST و VSX و VTX و VDW و {9 } و VSSX و VSTX و VSDM و VSSM و VSTM. يمكن معالجة محتويات diagram من خلال API. بعد إجراء التغييرات المطلوبة على المستند ، يمكن بعد ذلك كتابة المستند على القرص بأي من التنسيقات المدعومة.
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      الوصول إلى البيانات من الرسوم التخطيطية Visio
     </h2>
     <p>
-     Aspose.Diagram for .NET يسمح للمطورين بقراءة بيانات الرسم التخطيطي بسهولة مثل خصائص المستند والصفحات والماجستير والأشكال والصور والوصلات و XML للحل والتعليقات والارتباطات التشعبية وورقة الأنماط والطبقات والخلايا التي يحددها المستخدم وما إلى ذلك.
+     Aspose.Diagram for .NET يسمح للمطورين بقراءة بيانات diagram بسهولة مثل خصائص المستند والصفحات والماجستير والأشكال والصور والوصلات و XML للحل والتعليقات والارتباطات التشعبية وورقة الأنماط والطبقات والخلايا التي يحددها المستخدم وما إلى ذلك .
     </p>
    </div>
    <div class="col-lg-12">
@@ -530,10 +530,10 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     أتمتة Microsoft Office - غير مطلوب
+     Microsoft Office الأتمتة - ليست ضرورية
     </h2>
     <p>
-     تم تصميم Aspose.Diagram for .NET باستخدام رمز مُدار لا يحتاج أبدًا إلى تثبيت Microsoft Office أو Microsoft Visio على الجهاز للعمل مع معالجة المستندات Visio. إنه بديل مثالي لأتمتة Microsoft Office Visio من حيث الميزات المدعومة والأمان والاستقرار وقابلية التوسع والسرعة والسعر.
+     تم تصميم Aspose.Diagram for .NET باستخدام رمز مُدار لا يحتاج أبدًا إلى تثبيت Microsoft Office أو Microsoft Visio على الجهاز للعمل مع معالجة المستندات Visio. إنه Microsoft Office Visio بديل مثالي للأتمتة من حيث الميزات المدعومة والأمان والاستقرار وقابلية التوسع والسرعة والسعر.
     </p>
    </div>
   </div>
@@ -555,7 +555,7 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/diagram" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="مقالات" href="https://blog.aspose.com/category/diagram/" >}}
+{{< blocks/products/pf/slr-element name="مدونة او مذكرة" href="https://blog.aspose.com/category/diagram/" >}}
 {{< blocks/products/pf/slr-element name="ملاحظات الإصدار" href="https://docs.aspose.com/diagram/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

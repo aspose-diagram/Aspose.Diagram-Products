@@ -4,7 +4,7 @@ url: /ko/net/metadata/
 description: 몇 줄의 C# 코드로 Visio 파일 메타데이터 보기, 추가, 편집, 제거 또는 추출
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1=".NET을(를) 통해 Microsoft<sup>&reg;</sup> Visio 파일 메타데이터 관리" h2="서버 측 .NET API를 사용하여 기본 제공 및 사용자 정의 Visio 파일 속성을 보고, 추가, 업데이트, 제거 또는 추출합니다." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1=".NET를 통해 Microsoft<sup>&reg;</sup> Visio 파일 메타데이터 관리" h2="서버 측 .NET API를 사용하여 기본 제공 및 사용자 정의 Visio 파일 속성을 보고, 추가, 업데이트, 제거 또는 추출합니다." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [.NET Visio API](/diagram/net/) 제목, 작성자 이름, 문서 통계 등과 같은 시스템 정의(내장) 속성과 이름-값 쌍 형태의 사용자 정의(사용자 정의) 속성 관리를 지원합니다. 있다 [Diagram 클래스](https://apireference.aspose.com/diagram/net/aspose.diagram/diagram) 파일을 로드하고 [페이지 컬렉션](https://apireference.aspose.com/diagram/net/aspose.diagram/pagecollection) 페이지 모음을 다룬다. [페이지 클래스](https://apireference.aspose.com/diagram/net/aspose.diagram/page) 단일 페이지를 나타내기 위한 것입니다. 이러한 클래스, documentproperties, customprops와 함께 메타데이터 관리를 위한 프로세스를 간단하게 만듭니다. 
 {{% /blocks/products/pf/feature-page-summary %}}

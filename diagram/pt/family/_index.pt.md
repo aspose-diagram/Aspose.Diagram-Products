@@ -1,17 +1,17 @@
 ﻿---
-title: APIs Visio .NET e Java | Criar diagramas de conversão ou manipulação 
+title: Visio .NET Java Python APIs Node.js | Criar diagramas de conversão ou manipulação 
 weight: 10
 url: /pt/family
-description: Diagram biblioteca para criar impressão de edição aberta e converter Visio arquivos em .NET Java e Mono aplicativos sem o Microsoft Visio instalado
+description: Diagram biblioteca para criar impressão de edição aberta e converter Visio arquivos em .NET Java e Mono aplicativos sem Microsoft Visio instalado
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="APIs de manipulação de arquivos da Microsoft Visio" h2="APIs .NET e Java para criar, editar e converter arquivos Microsoft Visio em qualquer plataforma." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Visio APIs de manipulação de arquivos" h2="APIs .NET e Java para criar, editar e converter arquivos Microsoft Visio em qualquer plataforma." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram.svg" pfName="Aspose.Diagram" downloadUrl="https://downloads.aspose.com/diagram" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Diagram APIs de alto código incluem" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" productLink="/diagram/net/" >}}
-Direcione Windows Forms, ASP.NET, WPF, WCF ou qualquer tipo de aplicativo baseado em .NET Framework 2.0 ou posterior.
+Segmente Windows Forms, ASP.NET, WPF, WCF ou qualquer tipo de aplicativo baseado em .NET Framework 2.0 ou posterior.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-java.svg" productLink="/diagram/java/" >}}
@@ -19,11 +19,11 @@ APIs Java nativas para desktop, web ou qualquer tipo de aplicativo baseado em Ja
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Node.js por meio de Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-nodejs-java.svg" productLink="/diagram/nodejs-java/" >}}
-Crie, leia, escreva e renderize documentos Microsoft Visio via Node.js.
+Crie, leia, grave e renderize documentos Microsoft Visio via Node.js.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Diagram for" title="Python por Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" productLink="/diagram/python-java/" >}}
-Crie, leia, escreva e renderize documentos da Microsoft Visio via Python.
+Crie, leia, escreva e renderize Microsoft Visio documentos via Python.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

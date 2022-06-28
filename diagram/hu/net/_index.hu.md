@@ -2,17 +2,17 @@
 title: C# .NET Visio Diagram API - Aspose 
 weight: 1020
 url: /hu/net/ 
-description: C# VB.NET ASP.NET Visio diagramkönyvtár a Visio diagramok exportálásához VSD VSDX VSS VST VSX VTX VDW VDX VSSX és VSTX PDF XPS HTML SVG SWF és képformátumokba
+description: C# VB.NET ASP.NET Visio diagrammező a Visio diagramok VSD VSDX VSS VST VSX VTX VDW VDX VSSX és VSTX exportálásához PDF XPS-be HTML SVG SWF és képformátumok
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio fájlfeldolgozási API-k" h2="Microsoft Visio diagramok generálása, szerkesztése, manipulálása és átalakítása XPS, HTML, SVG, SWF, XAML, képek vagy PDF formátumokká." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Microsoft Visio Fájlfeldolgozási API-k" h2="Diagramok létrehozása, szerkesztése, manipulálása és átalakítása Microsoft Visio XPS, HTML, SVG, SWF, XAML, képek vagy PDF formátumokká." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-net.svg" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Diagram" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" liveDemosLink="https://products.aspose.app/diagram/family" PricingLink="https://purchase.aspose.com/pricing/diagram/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/" installationsDocsLink="https://docs.aspose.com/diagram/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Diagram/" nugetPackageName="Aspose.Diagram" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p>Aspose.Diagram for .NET egy speciális API, amelyet a Microsoft Visio dokumentumokkal való együttműködésre terveztek. Lehetővé teszi a fejlesztők számára, hogy létrehozzák, kezeljék és kezeljék natív Visio formátumok konvertálása. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetik a meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.</p>
+<p>A Aspose.Diagram for .NET egy speciális API, amelyet a Microsoft Visio dokumentumok kezelésére terveztek. Lehetővé teszi a fejlesztők számára, hogy létrehozzák, kezeljék és kezeljék natív Visio formátumok konvertálása. A fejlesztők a semmiből készíthetnek diagramokat, valamint egyszerűen betölthetik a meglévő fájlokat, és manipulálhatják a diagram elemeit, hogy az eredményt más formátumokba exportálják.</p>
 
 <p>A Aspose.Diagram for .NET szinte minden natív Visio formátumot, valamint néhány gyakran használt kép- és képformátumot támogat. rögzített elrendezésű formátumok. Ez a API a Microsoft Visio objektummodell alternatívája, és jobb teljesítményt nyújt. A Visio szolgáltatások fejlett funkcióit használja fel a szerveren lévő dokumentumok kezelésére.</p>
 
@@ -147,7 +147,7 @@ description: C# VB.NET ASP.NET Visio diagramkönyvtár a Visio diagramok export�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A API támogatja a .NET keretrendszert a 2.0-tól és a Mono-tól kezdődően. Ezenkívül a COM Interop segítségével más nyelvekkel is használható." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A API támogatja a következőt: .NET Framework, 2.0 és Mono. Ezenkívül a COM Interop segítségével más nyelvekkel is használható." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,7 +168,7 @@ description: C# VB.NET ASP.NET Visio diagramkönyvtár a Visio diagramok export�
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Keretrendszer
+    .NET Framework
    </header>
    <!-- <ul>
 
@@ -334,7 +334,7 @@ description: C# VB.NET ASP.NET Visio diagramkönyvtár a Visio diagramok export�
     <em class="fa fa-align-left ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Olvassa el a diagram különböző objektumainak tulajdonságait
+     Olvassa el a(z) diagram különböző objektumainak tulajdonságait
     </p>
    </div>
    <div class="col-lg-4">
@@ -360,7 +360,7 @@ description: C# VB.NET ASP.NET Visio diagramkönyvtár a Visio diagramok export�
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Diagram nyomtatása szerveren XPsPrint segítségével API
+     diagram nyomtatása egy szerveren XPsPrint segítségével API
     </p>
    </div>
    <div class="col-lg-4">
@@ -445,14 +445,14 @@ description: C# VB.NET ASP.NET Visio diagramkönyvtár a Visio diagramok export�
      Egyszerű, gyors &amp; Visio fájlok megbízható konvertálása
     </h2>
     <p>
-     A vállalatok műszaki diagramokat készítenek a Microsoft Visio-ban, és szeretnék megosztani ezeket az információkat. A probléma azonban az, hogy a gyakori felhasználók nem tudnák betölteni az ilyen vizualizációkat, hacsak nem telepítették a Microsoft Visio vagy más olyan eszközt, amely Visio specifikus fájlformátumot tud betölteni. A probléma megoldásának egyik módja a diagramok univerzális formátumokká konvertálása, például PDF, HTML és amp; raszteres képek, amelyekhez nem kell külön programokat telepíteni a gépre.
+     vállalatok műszaki diagramokat hoznak létre a következőben: Microsoft Visio, és szeretnék megosztani ezeket az információkat. A probléma azonban az, hogy a gyakori felhasználók nem tudnák betölteni az ilyen vizualizációkat, hacsak nem telepítették a Microsoft Visio programot vagy más olyan eszközt, amely Visio specifikus fájlformátumot tud betölteni. A probléma megoldásának egyik módja a diagramok univerzális formátumokká konvertálása, például PDF, HTML és amp; raszteres képek, amelyekhez nem kell külön programokat telepíteni a gépre.
     </p>
     <p>
-     .NET Visio könyvtár saját konverziós motorral rendelkezik, amely minden más szoftvertől függetlenül működik, és néhány kódsor segítségével bármely támogatott Visio formátumot bármelyik támogatott formátumra konvertálhat. Az átalakítási folyamat gyors, de megbízható, és a kapott formátumtól függetlenül nagy pontosságú eredményeket kínál.
+     A .NET Visio könyvtár saját konverziós motorral rendelkezik, amely minden más szoftvertől függetlenül működik, és néhány kódsor segítségével bármely támogatott Visio formátumot bármelyik támogatott formátumra konvertálhat. Az átalakítási folyamat gyors, de megbízható, és a kapott formátumtól függetlenül nagy pontosságú eredményeket kínál.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Mentse el a diagramot különböző formátumokban - C#
+      Mentse el a(z) diagram fájlt különböző formátumokban – C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -469,10 +469,10 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     A Microsoft Visio diagramjainak manipulálása
+     Microsoft Visio diagramok kezelése
     </h2>
     <p>
-     A Aspose.Diagram for .NET API lehetővé teszi a Microsoft Visio fájlok olvasását natív VSD/VSDX formátumban, valamint más formátumokban, beleértve a VSS, VST, VSX, VTX, VDW, VDX, VSSX, VSTX, VSDM, VSSM és VSTM. A diagram tartalma a API segítségével módosítható. A szükséges módosítások elvégzése után a dokumentum a támogatott formátumok bármelyikében lemezre írható.
+     A Aspose.Diagram for .NET API lehetővé teszi Microsoft Visio fájl olvasását natív VSD/VSDX formátumban, valamint más formátumokban, például VSS, VST, VSX, VTX, VDW, VDX }, VSSX, VSTX, VSDM, VSSM és VSTM. A diagram tartalma a API segítségével módosítható. A szükséges módosítások elvégzése után a dokumentum a támogatott formátumok bármelyikében lemezre írható.
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Adatok elérése a Visio diagramokból
     </h2>
     <p>
-     A Aspose.Diagram for .NET lehetővé teszi a fejlesztők számára, hogy könnyen beolvassák a diagram adatait, például a dokumentum tulajdonságait, oldalakat, mintákat, alakzatokat, képeket, kapcsolatokat, megoldás XML-t, megjegyzéseket, hiperhivatkozásokat, stíluslapot, rétegeket, felhasználó által definiált cellákat és így tovább.
+     A Aspose.Diagram for .NET lehetővé teszi a fejlesztők számára, hogy könnyen beolvassák a diagram adatait, mint például a dokumentum tulajdonságai, oldalak, mesterek, alakzatok, képek, kapcsolatok, megoldás XML, megjegyzések, hiperhivatkozások, stíluslap, rétegek, felhasználó által megadott cellák stb. .
     </p>
    </div>
    <div class="col-lg-12">
@@ -509,7 +509,7 @@ dgr.Save(dir + "output.jpg", Aspose.Diagram.SaveFileFormat.JPEG);</code></pre>
      Nyomtasson diagramokat könnyedén
     </h2>
     <p>
-     A Aspose.Diagram for .NET lehetővé teszi diagramok nyomtatását különböző opciók használatával, mindössze néhány sornyi kóddal. Kiválaszthatja, hogy az alapértelmezett beállításokkal nyomtat, egy adott nyomtatóra nyomtat, vagy több oldalt nyomtat.
+     Aspose.Diagram for .NET lehetővé teszi diagramok nyomtatását különböző opciók használatával, mindössze néhány sornyi kóddal. Kiválaszthatja, hogy az alapértelmezett beállításokkal nyomtat, egy adott nyomtatóra nyomtat, vagy több oldalt nyomtat.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -530,10 +530,10 @@ dgrm.Print("LaserJet1100", "Job Name");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office automatizálás – nem szükséges
+     Microsoft Office Automatizálás – nem szükséges
     </h2>
     <p>
-     A(z) Aspose.Diagram for .NET felügyelt kóddal készült, amelynek soha nem kell Microsoft Office-t vagy Microsoft Visio-t telepítenie a gépre ahhoz, hogy működjön a(z) Visio dokumentumfeldolgozással. Ez egy tökéletes Microsoft Office Visio automatizálási alternatíva a támogatott funkciók, biztonság, stabilitás, méretezhetőség, sebesség és ár tekintetében.
+     A(z) Aspose.Diagram for .NET felügyelt kóddal készült, amelynek soha nem kell a(z) Microsoft Office vagy Microsoft Visio kódot telepítenie a gépre, hogy működjön a Visio dokumentumfeldolgozással. Tökéletes Microsoft Office Visio automatizálási alternatíva a támogatott funkciók, biztonság, stabilitás, méretezhetőség, sebesség és ár tekintetében.
     </p>
    </div>
   </div>

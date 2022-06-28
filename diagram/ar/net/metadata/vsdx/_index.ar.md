@@ -2,7 +2,7 @@
 title: عرض أو تحرير VSDX البيانات الوصفية للملفات عبر .NET 
 weight: 3050
 url: /ar/net/metadata/vsdx/ 
-description: C# كود المصدر لتحرير أو عرض VSDX تنسيق البيانات الوصفية على .NET Framework ، .NET Core ، Mono الأنظمة الأساسية.
+description: C# شفرة المصدر لتعديل أو عرض VSDX تنسيق البيانات الوصفية على الأنظمة الأساسية .NET Framework ، .NET الأساسية ، Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="استخراج VSDX البيانات الوصفية في C#" h2="أنشئ تطبيقاتك .NET لإضافة البيانات الوصفية أو تعديلها أو إزالتها أو استخراجها من ملفات VSDX باستخدام واجهات برمجة التطبيقات من جانب الخادم." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -15,7 +15,7 @@ description: C# كود المصدر لتحرير أو عرض VSDX تنسيق ا�
  من أجل استخراج البيانات الوصفية VSDX ، سنستخدمها
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  API وهو نظام غني بالميزات وقوي وسهل الاستخدام لمعالجة المستندات ودمجها API في النظام الأساسي C#. يفتح
- [نوجيت](https://www.nuget.org/packages/aspose.diagram) 
+ [NuGet](https://www.nuget.org/packages/aspose.diagram) 
  مدير الحزم ، ابحث عن
  ** Aspose.Diagram ** 
  وتثبيت. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
@@ -59,7 +59,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core Mono أو COM Interop- بيئة التطوير مثل Microsoft Visual Studio- Aspose.Diagram for .NET DLL المشار إليه في مشروعك - قم بالتثبيت من NuGet باستخدام الزر "تنزيل" أعلاه
+- Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core أو Mono أو COM Interop- بيئة التطوير مثل Microsoft Visual Studio- Aspose.Diagram for .NET DLL المشار إليه في مشروعك - التثبيت من NuGet باستخدام الزر "تنزيل" أعلاه
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="استخراج VSDX البيانات الوصفية- C#" offSpacer="" %}}
@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="حول Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram هو أحد Visio تنسيق مستندات Microsoft API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه API مستقل ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
+ Aspose.Diagram هو Microsoft Visio معالجة بتنسيق المستند API. يمكن للمرء بسهولة تحميل وإنشاء وتعديل ومعالجة بما في ذلك عناصر daigram وتحويل المخططات Visio إلى تنسيقات أخرى مثل PDF و XPS و JPEG و PNG و BMP و TIFF و SVG و EMF والمزيد. إنه إصدار مستقل API ولا يتطلب تثبيت Microsoft Visio أو أي برامج أخرى.  
 
 
 
@@ -93,7 +93,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" سيتم ضغطه وتسلسله على الفور." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
-تمثل الملفات ذات الامتداد. VSDX تنسيق ملف Microsoft Visio المقدم من Microsoft Office 2013 فصاعدًا. تم تطويره ليحل محل تنسيق الملف الثنائي ،. VSD ، المدعوم من قبل الإصدارات السابقة من Microsoft Visio. وهو مدعوم أيضًا في Visio الخدمات في Microsoft SharePoint Server 2013 ولا يتطلب تنسيق ملف وسيط للنشر على SharePoint Server. تُستخدم ملفات Visio لإنشاء رسومات تحتوي على كائنات مرئية ومخططات انسيابية ومخطط UML وتدفق المعلومات والمخططات التنظيمية ومخططات البرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المماثلة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها. 
+تمثل الملفات ذات الامتداد VSDX. Microsoft Visio تنسيق ملف مقدم من Microsoft Office 2013 فصاعدًا. تم تطويره ليحل محل تنسيق الملف الثنائي ،. VSD ، الذي تدعمه الإصدارات السابقة من Microsoft Visio. وهو مدعوم أيضًا في Visio الخدمات في Microsoft SharePoint Server 2013 ولا يتطلب تنسيق ملف وسيط للنشر على SharePoint Server. تُستخدم ملفات Visio لإنشاء رسومات تحتوي على كائنات مرئية ومخططات انسيابية و UML diagram وتدفق المعلومات والمخططات التنظيمية والرسومات التخطيطية للبرامج وتخطيط الشبكة ونماذج قواعد البيانات وتخطيط الكائنات وغيرها من المعلومات المشابهة. يمكن أيضًا تصدير الملفات التي تم إنشاؤها باستخدام Visio إلى تنسيقات ملفات مختلفة مثل PNG و BMP و PDF وغيرها. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +103,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات البيانات الوصفية المدعومة الأخرى" subTitle="باستخدام C# ، يمكن للمرء بسهولة معالجة البيانات الوصفية بتنسيقات مختلفة بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="رسومات Microsoft Visio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vsd/" name="Vsd" description="Microsoft Visio الرسومات" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vdx/" name="Vdx" description="Visio رسم ملف XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vssx/" name="VSSX" description="Visio ملف استنسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/metadata/vstx/" name="VSTX" description="Visio ملف النموذج" >}}

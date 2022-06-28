@@ -2,7 +2,7 @@
 title: Vytvořit organizační schéma ve stylu vývojového diagramu v dokumentu VSD prostřednictvím .NET 
 weight: 3050
 url: /cs/net/flowchart/vsd/ 
-description: C# zdrojový kód k vytvoření organizačního diagramu ve stylu vývojového diagramu v souboru vsd na platformách .NET Framework, .NET Core, Mono.
+description: Zdrojový kód C# k vytvoření organizačního diagramu ve stylu vývojového diagramu v souboru vsd na platformách .NET Framework, .NET Core, Mono.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořit organizační schéma ve stylu vývojového diagramu v VSD v C#" h2="Nativní a vysoce výkonné vytváření organizačního diagramu ve stylu vývojového diagramu v dokumentu VSD pomocí rozhraní API Aspose.Diagram for .NET na straně serveru, bez použití jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Diagram" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="VSDX" >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje
+ Vytvoření organizačního schématu ve stylu vývojového diagramu s
  [Aspose.Diagram for .NET](https://products.aspose.com/diagram/net) 
  Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
@@ -51,7 +51,7 @@ PM> Install-Package Aspose.Diagram
 + Přidejte na stránku konektory pro připojení tvaru a jeho rodiče.
 + Automatické rozvržení vyvoláním metody rozvržení
 + Zavolejte metodu Save() a předejte název souboru (úplnou cestu) a formát (VSDX) jako parametr.
-+ Nyní můžete otevřít a používat soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
++ Nyní můžete otevřít a použít soubor VSDX v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Diagram for .NET DLL odkazovaná ve vašem projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo COM Interop- Vývojové prostředí, jako je Microsoft Visual Studio- Aspose.Diagram DLL for .NET, na kterou odkazuje váš projekt – Nainstalujte z webu NuGet pomocí tlačítka Stáhnout výše
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Vytvořit organizační schéma stylu vývojového diagramu v souborech VSD – C#" offSpacer="" %}}
@@ -82,7 +82,7 @@ PM> Install-Package Aspose.Diagram
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Diagram for .NET API" %}}
 
- Aspose.Diagram je manipulace s formátem dokumentu společnosti Microsoft VisioAPI. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Jedná se o samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
+ Aspose.Diagram je Microsoft Visio manipulace s formátem dokumentu API. Lze snadno načítat, vytvářet, upravovat, manipulovat včetně prvků daigramu a převádět Visio diagramy do jiných formátů, jako jsou PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF a další. Je to samostatný API a nevyžaduje instalaci Microsoft Visio ani jiného softwaru.  
 
 
 
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Diagram
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě vytvoří organizační schéma ve stylu vývojového diagramu v VSD dokumentech." >}}
     
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="VSD" readMoreLink="https://docs.fileformat.com/visio/vsd/" >}}
-Soubory VSD jsou kresby vytvořené pomocí aplikace Microsoft Visio, které představují různé grafické objekty a vzájemné propojení mezi nimi. Takové výkresy mohou obsahovat vizuální objekty, jako jsou vizuální objekty, vývojové diagramy, diagram UML, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších. 
+Soubory VSD jsou kresby vytvořené pomocí aplikace Microsoft Visio, které představují různé grafické objekty a vzájemné propojení mezi nimi. Takové výkresy mohou obsahovat vizuální objekty, jako jsou vizuální objekty, vývojové diagramy, UML diagram, tok informací, organizační diagramy, softwarové diagramy, rozložení sítě, databázové modely, mapování objektů a další podobné informace. Microsoft Visio nabízí možnost převádět soubory Visio do řady různých formátů souborů včetně PNG, BMP, PDF a dalších. 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
     
