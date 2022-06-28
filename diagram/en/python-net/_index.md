@@ -1,24 +1,24 @@
 ---
 title: Visio Documents Python API - Aspose 
 weight: 4630
-url: /python-java/ 
-description: Aspose.Diagram for Python via Java is a visio javascript API to read, write and convert Microsoft Visio Documents like VSDX, VDX and more formats
+url: /python-net/ 
+description: Aspose.Diagram for Python via .Net is a visio API to read, write and convert Microsoft Visio Documents like VSDX, VDX and more formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/headers/aspose_diagram-for-python-java.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/diagram/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Visio Files API" h2="Create, Read, Write and Export Microsoft Visio Formats including VSDX, VDX, VSX, VTX and more formats using Python API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" pfName="Aspose.Diagram " subTitlepfName="for Python via .Net" downloadUrl="https://releases.aspose.com/diagram/python-net/" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Python via Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Diagram " subTitlepfName="for Python via .Net" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/java/aspose-diagram-for-python-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/diagram/python" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/diagram/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/diagram/net/aspose-diagram-for-python-via-net/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Visio:" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/diagram/python-net/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Diagram for Python via Java is a Microsoft Visio document manipulation solution. One can read, write, protect, export and print native Visio formats as well as supports some commonly used image and fixed-layout formats. Its easy to load existing files, modify the diagram elements to export into desired format including images or fixed-layout formats such as PDF or XPS.
+ Aspose.Diagram for Python via .Net is a Microsoft Visio document manipulation solution. One can read, write, protect, export and print native Visio formats as well as supports some commonly used image and fixed-layout formats. Its easy to load existing files, modify the diagram elements to export into desired format including images or fixed-layout formats such as PDF or XPS.
 </p>
 
 <p>
- Aspose.Diagram for Python via Java is a standalone API and does not require Microsoft Visio or any other software installation. Moreover, few tasks that one can perform easily like create diagrams from scratch, read or write various formats, access and read the properties including Visio object formulas, exporting diagrams to multiple formats, print diagrams with high fidelity, and much more.
+ Aspose.Diagram for Python via .Net is a standalone API and does not require Microsoft Visio or any other software installation. Moreover, few tasks that one can perform easily like create diagrams from scratch, read or write various formats, access and read the properties including Visio object formulas, exporting diagrams to multiple formats, print diagrams with high fidelity, and much more.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -26,7 +26,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Diagram for Python via Java capabilities." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Diagram for Python via .Net capabilities." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -80,7 +80,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Diagram API Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg"/>
+  <img width="70" height="75" alt="Diagram API Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -89,7 +89,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
     <em>
      for
     </em>
-    Python via Java
+    Python via .Net
    </small>
   </footer>
  </div>
@@ -98,7 +98,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Diagram for Python via Java is server-side Python API based on Java. It can run on Windows, Unix/Linux & Mac platforms with JDK 1.6 or above." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Diagram for Python via .Net is available for." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -108,15 +108,13 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Runtime Environment
+    Python Runtime Environment
    </header>
    <!--
 
 <ul>
 
-<li>JSP/JSF Application</li>
-
-<li>Desktop Application</li>
+<li>Application</li>
 
 </ul>
 
@@ -126,7 +124,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Diagram API Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg"/>
+  <img width="70" height="75" alt="Diagram API Python" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -135,7 +133,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
     <em>
      for
     </em>
-    Python via Java
+    Python via .Net
    </small>
   </footer>
  </div>
@@ -144,7 +142,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Diagram for Python via Java supports popular Microsoft Visio formats and more." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Diagram for Python via .Net supports popular Microsoft Visio formats and more." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -207,7 +205,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Python Diagram Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-java.svg"/>
+  <img width="70" height="75" alt="Python Diagram Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/diagram/aspose_diagram-for-python-net.svg"/>
   <header>
    Aspose.Diagram
   </header>
@@ -216,7 +214,7 @@ description: Aspose.Diagram for Python via Java is a visio javascript API to rea
     <em>
      for
     </em>
-    Python via Java
+    Python via .Net
    </small>
   </footer>
  </div>
@@ -355,8 +353,7 @@ diagram.save("output.png", options)</code></pre>
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/diagram/java/aspose-diagram-for-python-via-java-features/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-diagram/Aspose.Diagram-for-Java" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/diagram/pythonnet/" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/diagram/python" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -367,14 +364,14 @@ diagram.save("output.png", options)</code></pre>
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/diagram/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram for Python via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Diagram for Python via .Net?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/diagram/python" pricingInformationLink="https://purchase.aspose.com/pricing/diagram/python-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/diagram/python-net/" pricingInformationLink="https://purchase.aspose.com/pricing/diagram/python-net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Diagram " description="Aspose.Diagram offers individual Visio APIs for other popular development environments as listed below:" >}}
 
