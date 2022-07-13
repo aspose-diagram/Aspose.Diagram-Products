@@ -59,7 +59,7 @@ compactTreeOptions = LayoutOptions()
 compactTreeOptions.setLayoutStyle(LayoutStyle.COMPACT_TREE) 
 compactTreeOptions.setDirection(LayoutDirection.DOWN_THEN_RIGHT)
 diagram.layout(compactTreeOptions)
-diagram.save("outpath_with_filename", Aspose.Diagram.SaveFileFormat.VSDX)
+diagram.save("outpath_with_filename", SaveFileFormat.VSDX)
 
 ```
 
