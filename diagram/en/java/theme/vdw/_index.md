@@ -62,7 +62,7 @@ description: Java source code to apply preset theme to vdw file on Java Runtime 
 
 +  Open a new Diagram object
 +  Select Page via its id
-+  Assign a Preset value to the Page instance via call setPresetTheme met
++  Assign a Preset value to the Page instance via call setPresetTheme method
 +  Call the save() method and pass the file name (full path) and format (VSDX) as a parameter.
 +  Now you can open and use the VSDX file in Microsoft Office, Adobe PDF or any other compatible program.
 
