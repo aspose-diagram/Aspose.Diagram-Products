@@ -49,6 +49,11 @@ description: Python source code to auto layout vss file within any Python based 
 
 -  Aspose.Diagram for Python is platform-independent API and can be used on any platform (Windows, Linux and MacOS), just make sure that system have Java 1.8 or higher, [Python](https://www.python.org/downloads/) 3.5 or higher. 
 
+{{% /blocks/products/pf/agp/text %}}
+
+- Install Java and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Install Aspose.Diagram for Python from <a href="https://pypi.org/project/aspose-diagram/">pypi</a>, use command as: <code>$ pip install aspose-diagram</code>.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Auto Layout VSS Files - Python" offSpacer="" %}}

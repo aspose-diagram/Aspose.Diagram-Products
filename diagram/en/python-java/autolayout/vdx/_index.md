@@ -49,6 +49,11 @@ description: Python source code to auto layout vdx file within any Python based 
 
 -  Aspose.Diagram for Python is platform-independent API and can be used on any platform (Windows, Linux and MacOS), just make sure that system have Java 1.8 or higher, [Python](https://www.python.org/downloads/) 3.5 or higher. 
 
+{{% /blocks/products/pf/agp/text %}}
+
+- Install Java and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Install Aspose.Diagram for Python from <a href="https://pypi.org/project/aspose-diagram/">pypi</a>, use command as: <code>$ pip install aspose-diagram</code>.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Auto Layout VDX Files - Python" offSpacer="" %}}
@@ -100,13 +105,13 @@ Any drawing or chart created in Microsoft Visio, but saved in XML format have .V
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Visio Formats" subTitle="Using Python, one can easily auto layout different formats including." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-python/autolayout/vsd/" name="Vsd" description="Microsoft Visio Drawings" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-python/autolayout/vssx/" name="VSSX" description="Visio stencil File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-python/autolayout/vstx/" name="VSTX" description="Visio template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-python/autolayout/vsdm/" name="VSDM" description="Visio macro-enabled drawing File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-python/autolayout/vssm/" name="VSSM" description="Visio macro-enabled stencil File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-python/autolayout/vstm/" name="VSTM" description="Visio macro-enabled template File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-python/autolayout/vsdx/" name="VSDX" description="Visio drawing File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/autolayout/vsd/" name="Vsd" description="Microsoft Visio Drawings" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/autolayout/vssx/" name="VSSX" description="Visio stencil File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/autolayout/vstx/" name="VSTX" description="Visio template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/autolayout/vsdm/" name="VSDM" description="Visio macro-enabled drawing File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/autolayout/vssm/" name="VSSM" description="Visio macro-enabled stencil File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/autolayout/vstm/" name="VSTM" description="Visio macro-enabled template File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/python-java/autolayout/vsdx/" name="VSDX" description="Visio drawing File" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
