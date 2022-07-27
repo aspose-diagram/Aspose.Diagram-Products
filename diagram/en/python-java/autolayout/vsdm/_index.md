@@ -49,6 +49,11 @@ description: Python source code to auto layout vsdm file within any Python based
 
 -  Aspose.Diagram for Python is platform-independent API and can be used on any platform (Windows, Linux and MacOS), just make sure that system have Java 1.8 or higher, [Python](https://www.python.org/downloads/) 3.5 or higher. 
 
+{{% /blocks/products/pf/agp/text %}}
+
+- Install Java and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Install Aspose.Diagram for Python from <a href="https://pypi.org/project/aspose-diagram/">pypi</a>, use command as: <code>$ pip install aspose-diagram</code>.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Auto Layout VSDM Files - Python" offSpacer="" %}}
@@ -87,7 +92,7 @@ diagram.save("outpath_with_filename", SaveFileFormat.VSDX)
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your VSDM files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be a and concatenated instantly." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be auto layout and concatenated instantly." >}}
     
         {{< blocks/products/pf/agp/about-file-text fileFormat="VSDM" readMoreLink="https://docs.fileformat.com/visio/vsdm/" >}}
 Files with VSDM extension are drawing files created with Microsoft Visio application that supports macros. VSDM files are OPC/XML drawings that are similar to VSDX but also provide the capability to run macros when the file is opened. Macros are user defined actions/steps that are developed in Visual Basic for Applications (VBA) and can be used to perform repeatitive tasks. VSDM file format was introduced with the launch of Microsoft Visio 2013.  Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others. 
