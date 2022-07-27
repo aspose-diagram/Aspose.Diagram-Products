@@ -43,7 +43,7 @@ description: Python source code to compress vdw file within any Python based app
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Diagram for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
+ Aspose.Diagram for Python supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
