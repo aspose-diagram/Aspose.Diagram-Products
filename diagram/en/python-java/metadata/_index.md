@@ -1,11 +1,11 @@
 ---
-title: Manage Visio File Metadata via Java
-url: /java/metadata/
+title: Manage Visio File Metadata via Python
+url: /python-java/metadata/
 description: View, add, edit, remove or extract Visio files metadata with just few lines of Java code
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Manage Microsoft<sup>&reg;</sup> Visio File Metadata via Java" h2="View, add, update, remove or extract built-in and custom Visio file properties using server side Java APIs." >}}
+{{< blocks/products/pf/feature-page-header h1="Manage Microsoft<sup>&reg;</sup> Visio File Metadata via Python" h2="View, add, update, remove or extract built-in and custom Visio file properties using server side Python APIs." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [Java Visio API](/diagram/java/) supports the management of system-defined (built-in) properties such as title, author name, document statistics etc as well as user-defined (custom) properties in the form of name-value pair. There is [Diagram class](https://apireference.aspose.com/diagram/java/com.aspose.diagram/diagram) to load the files, and [PageCollection](https://apireference.aspose.com/diagram/java/com.aspose.diagram/pagecollection) deals with collection of pages as well as [Page class](https://apireference.aspose.com/diagram/java/com.aspose.diagram/page) for representing single Page. Along with these classes, documentproperties, customprops makes the process simple for metadata management. 
 {{% /blocks/products/pf/feature-page-summary  %}}
