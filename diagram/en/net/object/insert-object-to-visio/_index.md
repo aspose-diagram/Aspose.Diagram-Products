@@ -2,7 +2,7 @@
 title: Insert OLE(Object Linking and Embedding) object into Visio via .NET 
 weight: 70
 url: /net/object/insert-object-to-visio/ 
-description: C# source code to insert OLE(Object Linking and Embedding) object into Visio on .NET Framework, .NET Core, Mono Platforms.
+description: C# source code to insert OLE(Object Linking and Embedding) object into Visio such as excel and word on .NET Framework, .NET Core, Mono Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ You need the aspose.diagram.dll to try the following workflow in your own enviro
 
 +  Instantiating a Diagram object.(or->Load the Vsdx file with full path.)
 +  Select Page via its index.
-+  Use the [AddShape method](https://reference.aspose.com/diagram/net/aspose.diagram/page/addshape/#addshape_2) to insert a OLE object in the selected page
++  Use the [AddShape method](https://reference.aspose.com/diagram/net/aspose.diagram/page/addshape/#addshape_2) to insert an OLE object in the selected page
 +  Save diagram in vsdx format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
