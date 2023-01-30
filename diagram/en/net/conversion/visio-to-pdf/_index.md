@@ -62,7 +62,6 @@ PM> Install-Package Aspose.Diagram
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% diagram-convert title="Free App and Sample Code to Convert Visio to PDF" formats="pdf;vsd;vdx;vsdx;vssm;html;jpg;bmp;png;webp;svg;tiff;xps;emf;vstx" InputFormat="vsdx" outformat="pdf" IsLandingPage="true" %}}
  
 <!-- aboutfile Starts -->
 

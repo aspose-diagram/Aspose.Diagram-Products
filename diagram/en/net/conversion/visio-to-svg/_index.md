@@ -62,8 +62,7 @@ PM> Install-Package Aspose.Diagram
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% diagram-convert title="Free App and Sample Code to Convert Visio to SVG" formats="svg;vsd;vdx;vsdx;vssm;html;jpg;bmp;png;webp;svg;tiff;xps;emf;vstx" InputFormat="vsdx" outformat="svg" IsLandingPage="true" %}}
- 
+
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert VSDX to SVG" sectionDescription="Check our live demos for [VSDX to SVG conversion](https://products.aspose.app/diagram/conversion/vsdx-to-svg) with following benefits." >}}

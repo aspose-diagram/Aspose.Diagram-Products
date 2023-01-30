@@ -62,8 +62,6 @@ PM> Install-Package Aspose.Diagram
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% diagram-convert title="Free App and Sample Code to Convert Visio to BMP" formats="bmp;vsd;vdx;vsdx;vssm;html;jpg;pdf;png;webp;svg;tiff;xps;emf;vstx" InputFormat="vsdx" outformat="pdf" IsLandingPage="true" %}}
- 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert VSDX to BMP" sectionDescription="Check our live demos for [VSDX to BMP conversion](https://products.aspose.app/diagram/conversion/vsdx-to-bmp) with following benefits." >}}
