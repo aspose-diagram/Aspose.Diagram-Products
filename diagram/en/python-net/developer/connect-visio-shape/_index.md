@@ -41,10 +41,6 @@ description: Python source code to connect visio shapes within any Python based 
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
 
-{{% blocks/products/pf/agp/text %}}
-
- Aspose.Diagram for Python supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
-
 {{% /blocks/products/pf/agp/text %}}
 
 - Aspose.Diagram for Python is platform-independent API and can be used on any platform (Windows, Linux and MacOS), just make sure that system have [Python](https://www.python.org/downloads/) 3.6 or higher. 
@@ -69,11 +65,11 @@ description: Python source code to connect visio shapes within any Python based 
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="About Aspose.Diagram for Python via .Net API" %}}
+{{% blocks/products/pf/agp/content h2="About Aspose.Diagram for Python via .Net API" %}}
 
  Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed.  
 
-    {{% /blocks/products/pf/agp/content %}}
+{{% /blocks/products/pf/agp/content %}}
     
 
 <!-- aboutfile Ends -->
