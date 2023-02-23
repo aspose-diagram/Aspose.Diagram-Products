@@ -41,7 +41,7 @@ description: Python source code to connect visio shapes within any Python based 
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
 
-{{% /blocks/products/pf/agp/text %}}
+{{% blocks/products/pf/agp/text %}}
 
 - Aspose.Diagram for Python is platform-independent API and can be used on any platform (Windows, Linux and MacOS), just make sure that system have [Python](https://www.python.org/downloads/) 3.6 or higher. 
 
