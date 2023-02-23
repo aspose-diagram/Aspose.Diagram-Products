@@ -1,7 +1,7 @@
 ---
 title: Create VDX Files via Java 
 url: /java/create-vdx/ 
-description: Java Sample code for generating VDX documents. Use this code for creating VDX files within within Java based desktop or web application.
+description: Java Sample code for generating VDX documents. Use this code for creating VDX files within Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

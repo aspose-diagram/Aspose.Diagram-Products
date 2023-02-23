@@ -1,7 +1,7 @@
 ---
 title: Create VSSX Files via Java 
 url: /java/create-vssx/ 
-description: Java Sample code for generating VSSX documents. Use this code for creating VSSX files within within Java based desktop or web application.
+description: Java Sample code for generating VSSX documents. Use this code for creating VSSX files within Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

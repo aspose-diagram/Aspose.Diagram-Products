@@ -1,7 +1,7 @@
 ---
 title: Create VSSM Files via Java 
 url: /java/create-vssm/ 
-description: Java Sample code for generating VSSM documents. Use this code for creating VSSM files within within Java based desktop or web application.
+description: Java Sample code for generating VSSM documents. Use this code for creating VSSM files within Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

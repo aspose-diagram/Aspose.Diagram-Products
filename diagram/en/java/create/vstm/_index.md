@@ -1,7 +1,7 @@
 ---
 title: Create VSTM Files via Java 
 url: /java/create-vstm/ 
-description: Java Sample code for generating VSTM documents. Use this code for creating VSTM files within within Java based desktop or web application.
+description: Java Sample code for generating VSTM documents. Use this code for creating VSTM files within Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

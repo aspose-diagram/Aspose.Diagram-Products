@@ -1,7 +1,7 @@
 ---
 title: Create PDF Files via Java 
 url: /java/create-pdf/ 
-description: Java Sample code for generating PDF documents. Use this code for creating PDF files within within Java based desktop or web application.
+description: Java Sample code for generating PDF documents. Use this code for creating PDF files within Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

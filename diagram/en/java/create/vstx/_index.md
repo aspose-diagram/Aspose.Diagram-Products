@@ -1,7 +1,7 @@
 ---
 title: Create VSTX Files via Java 
 url: /java/create-vstx/ 
-description: Java Sample code for generating VSTX documents. Use this code for creating VSTX files within within Java based desktop or web application.
+description: Java Sample code for generating VSTX documents. Use this code for creating VSTX files within Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

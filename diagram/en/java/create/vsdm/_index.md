@@ -1,7 +1,7 @@
 ---
 title: Create VSDM Files via Java 
 url: /java/create-vsdm/ 
-description: Java Sample code for generating VSDM documents. Use this code for creating VSDM files within within Java based desktop or web application.
+description: Java Sample code for generating VSDM documents. Use this code for creating VSDM files within Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create VSDX Files via Java 
 url: /java/create-vsdx/ 
-description: Java Sample code for generating VSDX documents. Use this code for creating VSDX files within within Java based desktop or web application.
+description: Java Sample code for generating VSDX documents. Use this code for creating VSDX files within Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
