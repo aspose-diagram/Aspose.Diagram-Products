@@ -45,7 +45,7 @@ You need the aspose.diagram.dll to try the following workflow in your own enviro
 
 +  Instantiating a Diagram object.(or->Load the Visio file with full path.)
 +  Select Page via its index.
-+  Use the [ConnectShapesViaConnector method]https://reference.aspose.com/diagram/net/aspose.diagram/page/connectshapesviaconnector/) to connect shapes in the selected page
++  Use the [ConnectShapesViaConnector method](https://reference.aspose.com/diagram/net/aspose.diagram/page/connectshapesviaconnector/) to connect shapes in the selected page
 +  Save Diagram in Vsdx format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
