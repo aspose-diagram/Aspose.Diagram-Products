@@ -1,7 +1,7 @@
 ---
-title: Edit VSSM files via .NET 
+title: Edit Visio VSSM files via .NET 
 url: /net/editor/vssm/ 
-description: C# source code to edit VSSM document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+description: C# source code to edit Visio VSSM document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

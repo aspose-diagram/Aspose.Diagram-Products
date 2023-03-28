@@ -1,8 +1,8 @@
 ---
-title: Edit VSS files via Java 
+title: Edit Visio VSS files via Java 
 weight: 3390
 url: /java/editor/vss/ 
-description: Java sample code to edit VSS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to edit Visio VSS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

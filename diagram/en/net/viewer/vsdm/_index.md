@@ -1,8 +1,8 @@
 ---
-title: View VSDM File Formats via .NET 
+title: View Visio VSDM File Formats via .NET 
 weight: 1210
 url: /net/viewer/vsdm/ 
-description: C# source code to load, render and display VSDM documents on .NET Framework, .NET Core, Mono or COM Interop.
+description: C# source code to load, render and display Visio VSDM documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

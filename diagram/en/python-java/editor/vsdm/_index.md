@@ -1,8 +1,8 @@
 ---
-title: Edit VSDM files via Python 
+title: Edit Visio VSDM files via Python 
 weight: 3390
 url: /python-java/editor/vsdm/ 
-description: Python sample code to edit VSDM documents within any Python based application.
+description: Python sample code to edit Visio VSDM documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

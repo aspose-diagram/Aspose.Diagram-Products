@@ -1,8 +1,8 @@
 ---
-title: Edit VTX files via Python 
+title: Edit Visio VTX files via Python 
 weight: 3390
 url: /python-java/editor/vtx/ 
-description: Python sample code to edit VTX documents within any Python based application.
+description: Python sample code to edit Visio VTX documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

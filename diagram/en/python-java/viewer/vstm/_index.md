@@ -1,8 +1,8 @@
 ---
-title: View VSTM File Formats via Python 
+title: View Visio VSTM File Formats via Python 
 weight: 3480
 url: /python-java/viewer/vstm/ 
-description: Python source code to load, render and display VSTM documents within any Python based application.
+description: Python source code to load, render and display Visio VSTM documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

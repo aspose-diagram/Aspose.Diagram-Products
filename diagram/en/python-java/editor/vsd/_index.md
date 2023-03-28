@@ -1,8 +1,8 @@
 ---
-title: Edit VSD files via Python 
+title: Edit Visio VSD files via Python 
 weight: 3390
 url: /python-java/editor/vsd/ 
-description: Python sample code to edit VSD documents within any Python based application.
+description: Python sample code to edit Visio VSD documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

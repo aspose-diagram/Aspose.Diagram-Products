@@ -1,7 +1,7 @@
 ---
-title: Edit VSS files via .NET 
+title: Edit Visio VSS files via .NET 
 url: /net/editor/vss/ 
-description: C# source code to edit VSS document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+description: C# source code to edit Visio VSS document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
-title: Edit VSD files via Java 
+title: Edit Visio VSD files via Java 
 weight: 3390
 url: /java/editor/vsd/ 
-description: Java sample code to edit VSD documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to edit Visio VSD documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

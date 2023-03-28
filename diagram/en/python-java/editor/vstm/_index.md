@@ -1,8 +1,8 @@
 ---
-title: Edit VSTM files via Python 
+title: Edit Visio VSTM files via Python 
 weight: 3390
 url: /python-java/editor/vstm/ 
-description: Python sample code to edit VSTM documents within any Python based application.
+description: Python sample code to edit Visio VSTM documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

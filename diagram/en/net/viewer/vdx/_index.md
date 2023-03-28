@@ -1,8 +1,8 @@
 ---
-title: View VDX File Formats via .NET 
+title: View Visio VDX File Formats via .NET 
 weight: 5140
 url: /net/viewer/vdx/ 
-description: C# source code to load, render and display VDX documents on .NET Framework, .NET Core, Mono or COM Interop.
+description: C# source code to load, render and display Visio VDX documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

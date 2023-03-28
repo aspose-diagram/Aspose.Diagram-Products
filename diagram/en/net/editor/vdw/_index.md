@@ -1,7 +1,7 @@
 ---
-title: Edit VDW files via .NET 
+title: Edit Visio VDW files via .NET 
 url: /net/editor/vdw/ 
-description: C# source code to edit VDW document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+description: C# source code to edit Visio VDW document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

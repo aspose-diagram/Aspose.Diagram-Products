@@ -1,7 +1,7 @@
 ---
-title: Edit VSSX files via .NET 
+title: Edit Visio VSSX files via .NET 
 url: /net/editor/vssx/ 
-description: C# source code to edit VSSX document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+description: C# source code to edit Visio VSSX document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

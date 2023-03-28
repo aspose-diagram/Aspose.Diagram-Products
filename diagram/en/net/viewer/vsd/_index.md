@@ -1,8 +1,8 @@
 ---
-title: View VSD File Formats via .NET 
+title: View Visio VSD File Formats via .NET 
 weight: 470
 url: /net/viewer/vsd/ 
-description: C# source code to load, render and display VSD documents on .NET Framework, .NET Core, Mono or COM Interop.
+description: C# source code to load, render and display Visio VSD documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
-title: View VDX File Formats via Java 
+title: View Visio VDX File Formats via Java 
 weight: 3490
 url: /java/viewer/vdx/ 
-description: Java sample code to view VDX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to view Visio VDX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

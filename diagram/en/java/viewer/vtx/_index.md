@@ -1,8 +1,8 @@
 ---
-title: View VTX File Formats via Java 
+title: View Visio VTX File Formats via Java 
 weight: 3490
 url: /java/viewer/vtx/ 
-description: Java sample code to view VTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to view Visio VTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

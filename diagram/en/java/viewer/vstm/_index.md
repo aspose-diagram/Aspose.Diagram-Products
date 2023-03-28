@@ -1,8 +1,8 @@
 ---
-title: View VSTM File Formats via Java 
+title: View Visio VSTM File Formats via Java 
 weight: 3490
 url: /java/viewer/vstm/ 
-description: Java sample code to view VSTM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to view Visio VSTM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

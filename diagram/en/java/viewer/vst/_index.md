@@ -1,8 +1,8 @@
 ---
-title: View VST File Formats via Java 
+title: View Visio VST File Formats via Java 
 weight: 3490
 url: /java/viewer/vst/ 
-description: Java sample code to view VST documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to view Visio VST documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

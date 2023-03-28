@@ -1,8 +1,8 @@
 ---
-title: View VSTM File Formats via .NET 
+title: View Visio VSTM File Formats via .NET 
 weight: 2230
 url: /net/viewer/vstm/ 
-description: C# source code to load, render and display VSTM documents on .NET Framework, .NET Core, Mono or COM Interop.
+description: C# source code to load, render and display Visio VSTM documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

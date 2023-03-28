@@ -1,7 +1,7 @@
 ---
-title: Edit VDX files via .NET 
+title: Edit Visio VDX files via .NET 
 url: /net/editor/vdx/ 
-description: C# source code to edit VDX document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+description: C# source code to edit Visio VDX document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

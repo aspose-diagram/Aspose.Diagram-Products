@@ -1,8 +1,8 @@
 ---
-title: Edit VDX files via Python 
+title: Edit Visio VDX files via Python 
 weight: 3390
 url: /python-java/editor/vdx/ 
-description: Python sample code to edit VDX documents within any Python based application.
+description: Python sample code to edit Visio VDX documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

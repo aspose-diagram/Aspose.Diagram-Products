@@ -1,8 +1,8 @@
 ---
-title: View VSX File Formats via .NET 
+title: View Visio VSX File Formats via .NET 
 weight: 1720
 url: /net/viewer/vsx/ 
-description: C# source code to load, render and display VSX documents on .NET Framework, .NET Core, Mono or COM Interop.
+description: C# source code to load, render and display Visio VSX documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

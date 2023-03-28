@@ -1,7 +1,7 @@
 ---
-title: Edit VST files via .NET 
+title: Edit Visio VST files via .NET 
 url: /net/editor/vst/ 
-description: C# source code to edit VST document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+description: C# source code to edit Visio VST document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

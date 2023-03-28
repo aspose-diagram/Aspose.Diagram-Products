@@ -1,8 +1,8 @@
 ---
-title: Edit VSS files via Python 
+title: Edit Visio VSS files via Python 
 weight: 3390
 url: /python-java/editor/vss/ 
-description: Python sample code to edit VSS documents within any Python based application.
+description: Python sample code to edit Visio VSS documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

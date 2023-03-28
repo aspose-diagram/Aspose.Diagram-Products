@@ -1,8 +1,8 @@
 ---
-title: View VDX File Formats via Python 
+title: View Visio VDX File Formats via Python 
 weight: 3480
 url: /python-java/viewer/vdx/ 
-description: Python source code to load, render and display VDX documents within any Python based application.
+description: Python source code to load, render and display Visio VDX documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

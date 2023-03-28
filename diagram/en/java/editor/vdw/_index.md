@@ -1,8 +1,8 @@
 ---
-title: Edit VDW files via Java 
+title: Edit Visio VDW files via Java 
 weight: 3390
 url: /java/editor/vdw/ 
-description: Java sample code to edit VDW documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to edit Visio VDW documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

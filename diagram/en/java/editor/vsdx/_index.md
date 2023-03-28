@@ -1,8 +1,8 @@
 ---
-title: Edit VSDX files via Java 
+title: Edit Visio VSDX files via Java 
 weight: 3390
 url: /java/editor/vsdx/ 
-description: Java sample code to edit VSDX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to edit Visio VSDX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

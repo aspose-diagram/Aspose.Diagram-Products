@@ -1,7 +1,7 @@
 ---
-title: Edit VSTM files via .NET 
+title: Edit Visio VSTM files via .NET 
 url: /net/editor/vstm/ 
-description: C# source code to edit VSTM document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+description: C# source code to edit Visio VSTM document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
-title: Edit VST files via Python 
+title: Edit Visio VST files via Python 
 weight: 3390
 url: /python-java/editor/vst/ 
-description: Python sample code to edit VST documents within any Python based application.
+description: Python sample code to edit Visio VST documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

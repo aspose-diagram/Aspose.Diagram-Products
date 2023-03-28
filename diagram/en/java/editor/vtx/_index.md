@@ -1,8 +1,8 @@
 ---
-title: Edit VTX files via Java 
+title: Edit Visio VTX files via Java 
 weight: 3390
 url: /java/editor/vtx/ 
-description: Java sample code to edit VTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to edit Visio VTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

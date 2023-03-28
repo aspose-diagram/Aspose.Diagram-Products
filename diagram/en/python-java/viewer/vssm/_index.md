@@ -1,8 +1,8 @@
 ---
-title: View VSSM File Formats via Python 
+title: View Visio VSSM File Formats via Python 
 weight: 3480
 url: /python-java/viewer/vssm/ 
-description: Python source code to load, render and display VSSM documents within any Python based application.
+description: Python source code to load, render and display Visio VSSM documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

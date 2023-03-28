@@ -1,8 +1,8 @@
 ---
-title: View VSS File Formats via .NET 
+title: View Visio VSS File Formats via .NET 
 weight: 3190
 url: /net/viewer/vss/ 
-description: C# source code to load, render and display VSS documents on .NET Framework, .NET Core, Mono or COM Interop.
+description: C# source code to load, render and display Visio VSS documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

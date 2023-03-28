@@ -1,8 +1,8 @@
 ---
-title: View VSX File Formats via Java 
+title: View Visio VSX File Formats via Java 
 weight: 3490
 url: /java/viewer/vsx/ 
-description: Java sample code to view VSX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to view Visio VSX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

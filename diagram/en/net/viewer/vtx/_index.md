@@ -1,8 +1,8 @@
 ---
-title: View VTX File Formats via .NET 
+title: View Visio VTX File Formats via .NET 
 weight: 3320
 url: /net/viewer/vtx/ 
-description: C# source code to load, render and display VTX documents on .NET Framework, .NET Core, Mono or COM Interop.
+description: C# source code to load, render and display Visio VTX documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

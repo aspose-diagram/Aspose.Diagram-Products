@@ -1,8 +1,8 @@
 ---
-title: View VSSX File Formats via Python 
+title: View Visio VSSX File Formats via Python 
 weight: 3480
 url: /python-java/viewer/vssx/ 
-description: Python source code to load, render and display VSSX documents within any Python based application.
+description: Python source code to load, render and display Visio VSSX documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
-title: View VDW File Formats via Java 
+title: View Visio VDW File Formats via Java 
 weight: 3490
 url: /java/viewer/vdw/ 
-description: Java sample code to view VDW documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to view Visio VDW documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

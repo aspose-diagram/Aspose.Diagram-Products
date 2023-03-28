@@ -1,8 +1,8 @@
 ---
-title: View VSS File Formats via Java 
+title: View Visio VSS File Formats via Java 
 weight: 3490
 url: /java/viewer/vss/ 
-description: Java sample code to view VSS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to view Visio VSS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

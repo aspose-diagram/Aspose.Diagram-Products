@@ -1,8 +1,8 @@
 ---
-title: View VSD File Formats via Java 
+title: View Visio VSD File Formats via Java 
 weight: 3490
 url: /java/viewer/vsd/ 
-description: Java sample code to view VSD documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to view Visio VSD documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

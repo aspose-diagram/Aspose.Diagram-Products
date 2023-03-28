@@ -1,8 +1,8 @@
 ---
-title: Edit VSX files via Python 
+title: Edit Visio VSX files via Python 
 weight: 3390
 url: /python-java/editor/vsx/ 
-description: Python sample code to edit VSX documents within any Python based application.
+description: Python sample code to edit Visio VSX documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

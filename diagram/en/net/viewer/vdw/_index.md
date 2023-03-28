@@ -1,8 +1,8 @@
 ---
-title: View VDW File Formats via .NET 
+title: View Visio VDW File Formats via .NET 
 weight: 3480
 url: /net/viewer/vdw/ 
-description: C# source code to load, render and display VDW documents on .NET Framework, .NET Core, Mono or COM Interop.
+description: C# source code to load, render and display Visio VDW documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

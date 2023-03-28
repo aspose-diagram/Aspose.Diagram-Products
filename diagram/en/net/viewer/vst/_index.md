@@ -1,8 +1,8 @@
 ---
-title: View VST File Formats via .NET 
+title: View Visio VST File Formats via .NET 
 weight: 4690
 url: /net/viewer/vst/ 
-description: C# source code to load, render and display VST documents on .NET Framework, .NET Core, Mono or COM Interop.
+description: C# source code to load, render and display Visio VST documents on .NET Framework, .NET Core, Mono or COM Interop.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

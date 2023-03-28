@@ -1,8 +1,8 @@
 ---
-title: Edit VST files via Java 
+title: Edit Visio VST files via Java 
 weight: 3390
 url: /java/editor/vst/ 
-description: Java sample code to edit VST documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to edit Visio VST documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

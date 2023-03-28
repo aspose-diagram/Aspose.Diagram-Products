@@ -1,8 +1,8 @@
 ---
-title: Edit VSTM files via Java 
+title: Edit Visio VSTM files via Java 
 weight: 3390
 url: /java/editor/vstm/ 
-description: Java sample code to edit VSTM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to edit Visio VSTM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

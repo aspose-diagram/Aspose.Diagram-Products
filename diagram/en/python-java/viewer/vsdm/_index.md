@@ -1,8 +1,8 @@
 ---
-title: View VSDM File Formats via Python 
+title: View Visio VSDM File Formats via Python 
 weight: 3480
 url: /python-java/viewer/vsdm/ 
-description: Python source code to load, render and display VSDM documents within any Python based application.
+description: Python source code to load, render and display Visio VSDM documents within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

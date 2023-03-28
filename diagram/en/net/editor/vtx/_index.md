@@ -1,7 +1,7 @@
 ---
-title: Edit VTX files via .NET 
+title: Edit Visio VTX files via .NET 
 url: /net/editor/vtx/ 
-description: C# source code to edit VTX document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
+description: C# source code to edit Visio VTX document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

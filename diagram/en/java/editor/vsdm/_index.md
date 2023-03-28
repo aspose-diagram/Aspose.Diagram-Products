@@ -1,8 +1,8 @@
 ---
-title: Edit VSDM files via Java 
+title: Edit Visio VSDM files via Java 
 weight: 3390
 url: /java/editor/vsdm/ 
-description: Java sample code to edit VSDM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java sample code to edit Visio VSDM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
