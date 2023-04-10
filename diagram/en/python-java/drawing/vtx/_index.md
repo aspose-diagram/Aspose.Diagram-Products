@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VTX document via Python 
+title: Draw geomtry to visio VTX document via Python 
 weight: 3050
 url: /python-java/drawing/vtx/ 
-description: Python source code to draw geomtry to vtx file within any Python based application.
+description: Python source code to draw geomtry to visio vtx file within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

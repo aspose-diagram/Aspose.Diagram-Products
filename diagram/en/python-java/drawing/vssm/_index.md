@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VSSM document via Python 
+title: Draw geomtry to visio VSSM document via Python 
 weight: 3050
 url: /python-java/drawing/vssm/ 
-description: Python source code to draw geomtry to vssm file within any Python based application.
+description: Python source code to draw geomtry to visio vssm file within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

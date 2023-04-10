@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VDW document via Python 
+title: Draw geomtry to visio VDW document via Python 
 weight: 3050
 url: /python-net/drawing/vdw/ 
-description: Python source code to draw geomtry to vdw file within any Python based application.
+description: Python source code to draw geomtry to visio vdw file within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VSDM document via Java 
+title: Draw geomtry to visio VSDM document via Java 
 weight: 3050
 url: /Java/drawing/vsdm/ 
-description: Java source code to draw geomtry to vsdm file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java source code to draw geomtry to visio vsdm file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

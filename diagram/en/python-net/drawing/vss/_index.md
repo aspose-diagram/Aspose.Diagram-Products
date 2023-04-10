@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VSS document via Python 
+title: Draw geomtry to visio VSS document via Python 
 weight: 3050
 url: /python-net/drawing/vss/ 
-description: Python source code to draw geomtry to vss file within any Python based application.
+description: Python source code to draw geomtry to visio vss file within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

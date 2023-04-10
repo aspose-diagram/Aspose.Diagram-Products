@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VST document via .NET 
+title: Draw geomtry to visio VST document via .NET 
 weight: 3050
 url: /net/drawing/vst/ 
-description: C# source code to draw geomtry to vst file on .NET Framework, .NET Core, Mono Platforms.
+description: C# source code to draw geomtry to visio vst file on .NET Framework, .NET Core, Mono Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

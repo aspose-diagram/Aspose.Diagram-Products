@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VTX document via Java 
+title: Draw geomtry to visio VTX document via Java 
 weight: 3050
 url: /Java/drawing/vtx/ 
-description: Java source code to draw geomtry to vtx file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java source code to draw geomtry to visio vtx file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

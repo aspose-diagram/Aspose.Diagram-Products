@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VST document via Java 
+title: Draw geomtry to visio VST document via Java 
 weight: 3050
 url: /Java/drawing/vst/ 
-description: Java source code to draw geomtry to vst file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java source code to draw geomtry to visio vst file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

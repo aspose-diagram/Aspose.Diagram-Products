@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VSS document via Java 
+title: Draw geomtry to visio VSS document via Java 
 weight: 3050
 url: /Java/drawing/vss/ 
-description: Java source code to draw geomtry to vss file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java source code to draw geomtry to visio vss file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

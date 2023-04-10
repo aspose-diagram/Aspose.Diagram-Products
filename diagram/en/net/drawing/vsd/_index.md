@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VSD document via .NET 
+title: Draw geomtry to visio VSD document via .NET 
 weight: 3050
 url: /net/drawing/vsd/ 
-description: C# source code to draw geomtry to vsd file on .NET Framework, .NET Core, Mono Platforms.
+description: C# source code to draw geomtry to visio vsd file on .NET Framework, .NET Core, Mono Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

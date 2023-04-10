@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VDW document via Java 
+title: Draw geomtry to visio VDW document via Java 
 weight: 3050
 url: /Java/drawing/vdw/ 
-description: Java source code to draw geomtry to vdw file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Java source code to draw geomtry to visio vdw file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

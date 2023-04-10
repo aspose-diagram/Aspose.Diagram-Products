@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VSX document via Python 
+title: Draw geomtry to visio VSX document via Python 
 weight: 3050
 url: /python-net/drawing/vsx/ 
-description: Python source code to draw geomtry to vsx file within any Python based application.
+description: Python source code to draw geomtry to visio vsx file within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

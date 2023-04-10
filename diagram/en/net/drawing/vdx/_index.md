@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VDX document via .NET 
+title: Draw geomtry to visio VDX document via .NET 
 weight: 3050
 url: /net/drawing/vdx/ 
-description: C# source code to draw geomtry to vdx file on .NET Framework, .NET Core, Mono Platforms.
+description: C# source code to draw geomtry to visio vdx file on .NET Framework, .NET Core, Mono Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

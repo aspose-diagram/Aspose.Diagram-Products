@@ -1,8 +1,8 @@
 ---
-title: Draw geomtry to VSD document via Python 
+title: Draw geomtry to visio VSD document via Python 
 weight: 3050
 url: /python-java/drawing/vsd/ 
-description: Python source code to draw geomtry to vsd file within any Python based application.
+description: Python source code to draw geomtry to visio vsd file within any Python based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
