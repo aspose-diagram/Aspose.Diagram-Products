@@ -25,9 +25,9 @@ So, whether you're a designer, developer, or just someone who needs to work with
 
 <div class="code-sample">
     <ul class="link-list">
-        <li class="link-item"><a href="https://products.aspose.com/diagram/view/">View Visio files online</a></li>
+        <li class="link-item"><a href="https://products.aspose.com/diagram/viewer/">View Visio files online</a></li>
         <li class="link-item"><a href="draw-shape-in-visio">Learn how to draw shapes in a visio page</a></li>
-        <li class="link-item"><a href="https://docs.aspose.com/diagram/net/features/">Documentation for Aspose.Diagram features</a></li>
+        <li class="link-item"><a href="https://docs.aspose.com/diagram/net/">Documentation for Aspose.Diagram features</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/diagram/net/installation/">Installation of Aspose.Diagram</a></li>
     </ul>
 </div>
