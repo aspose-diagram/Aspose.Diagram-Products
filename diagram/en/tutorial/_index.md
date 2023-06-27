@@ -29,6 +29,7 @@ So, whether you're a designer, developer, or just someone who needs to work with
         <li class="link-item"><a href="draw-shape-in-visio">Learn how to draw shapes in a visio page</a></li>
         <li class="link-item"><a href="connect-shapes">Learn how to connect shapes in a visio</a></li>
         <li class="link-item"><a href="set-shape-style">Learn how to set the style of the shapes in a visio page</a></li>
+        <li class="link-item"><a href="set-text-style">Learn how to set the style of the text in a visio page</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/diagram/net/">Documentation for Aspose.Diagram features</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/diagram/net/installation/">Installation of Aspose.Diagram</a></li>
     </ul>
