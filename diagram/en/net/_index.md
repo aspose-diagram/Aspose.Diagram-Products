@@ -223,7 +223,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
      <b>
       Microsoft Visio:
      </b>
-     VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
+     VSD,VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM,HTML
     </li>
    </ul>
    <header>
@@ -236,7 +236,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
      <b>
       Microsoft Visio:
      </b>
-     VDW, VSD, VSS, VST
+     VDW, VSS, VST
     </li>
    </ul>
   </div>
@@ -259,12 +259,6 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
       Images:
      </b>
      JPEG, PNG, BMP, TIFF, SVG, EMF
-    </li>
-    <li>
-     <b>
-      Web:
-     </b>
-     HTML
     </li>
     <li>
      <b>
