@@ -1,7 +1,7 @@
 ---
 title: Visio File Drawing NET C#
 url: /net/drawing/
-description:C# source code to draw geomtry to visio file on .NET Framework, .NET Core, Mono Platforms.
+description: C# source code to draw geomtry to visio file on .NET Framework, .NET Core, Mono Platforms.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
