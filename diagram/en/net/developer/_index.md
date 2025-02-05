@@ -1,7 +1,7 @@
 ---
 title: Visio File Developer NET C#
 url: /net/developer/
-description:C# source code to develop in visio file on .NET Framework, .NET Core, Mono Platforms.
+description: C# source code to develop in visio file on .NET Framework, .NET Core, Mono Platforms.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
