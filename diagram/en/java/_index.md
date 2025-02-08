@@ -215,7 +215,13 @@ description: Visio library for creation, manipulation and conversion of diagrams
      <b>
       Microsoft Visio:
      </b>
-     VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
+     VSDX, VSD, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML
     </li>
    </ul>
    <header>
@@ -228,7 +234,7 @@ description: Visio library for creation, manipulation and conversion of diagrams
      <b>
       Microsoft Visio:
      </b>
-     VDW, VSD, VSS, VST
+     VDW, VSS, VST
     </li>
    </ul>
   </div>
@@ -251,12 +257,6 @@ description: Visio library for creation, manipulation and conversion of diagrams
       Images:
      </b>
      JPEG, PNG, BMP, TIFF, SVG, EMF
-    </li>
-    <li>
-     <b>
-      Web:
-     </b>
-     HTML
     </li>
     <li>
      <b>
