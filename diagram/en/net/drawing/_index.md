@@ -20,10 +20,20 @@ Drawing geomtry in Pages.
 +  Now you can open and use the file in Microsoft Office, Adobe PDF or any other compatible program.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code to  Draw Rectangle to Visio Files" %}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioPages();
+// Load diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+            
+//Draw Rectangle in page
+diagram.Pages[0].DrawRectangle(1, 2, 2, 4);
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-DrawRectangle-DrawRectangle.cs" >}}
-
-{{% /blocks/products/pf/feature-page-code  %}}
+// Save diagram
+diagram.Save(dataDir + "DrawRectangleInPage_out.vsdx", SaveFileFormat.VSDX);
+```
+{{% /blocks/products/pf/feature-page-code 亿吨%}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Geomtry">}}

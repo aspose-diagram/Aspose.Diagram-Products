@@ -66,9 +66,21 @@ You need the aspose.diagram.dll to try the following workflow in your own enviro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Insert Image - C#" offSpacer="" %}}
-
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-AddImageToPage-AsVSDX.cs" >}}
-
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioPages();
+// Load diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+Page page = diagram.Pages[0];       
+double pinX = 3, pinY = 3, width = 4, hieght = 4;
+using (FileStream fs = new FileStream("image.png", FileMode.Open))
+{
+    page.AddShape(pinX, pinY, width, hieght, fs);
+}
+// Save diagram
+diagram.Save(dataDir + "AddImageToPage_out.vsdx", SaveFileFormat.VSDX);
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -68,10 +68,21 @@ PM> Install-Package Aspose.Diagram
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Protect VSSX Files - C#" offSpacer="" %}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_Protection();
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Protection-VisioDiagramProtection-VisioDiagramProtection.cs" >}}
+// Load diagram
+Diagram diagram = new Diagram(dataDir + "ProtectAndUnprotect.vsd");
 
-
+diagram.DocumentSettings.ProtectBkgnds = BOOL.True;
+diagram.DocumentSettings.ProtectMasters = BOOL.True;
+diagram.DocumentSettings.ProtectShapes = BOOL.True;
+diagram.DocumentSettings.ProtectStyles = BOOL.True;
+// Save diagram
+diagram.Save(dataDir + "VisioDiagramProtection_out.vdx", SaveFileFormat.VDX);
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

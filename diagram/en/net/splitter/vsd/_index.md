@@ -68,10 +68,21 @@ PM> Install-Package Aspose.Diagram
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Split VSD Files - C#" offSpacer="" %}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioPages();
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-SplitVisioPage-SplitVisioPage -VSD.cs" >}}
+//Load vdw file
+Diagram diagram = new Diagram(dataDir +"source.VSDX");
 
-
+foreach (Page page in diagram.Pages)
+{
+    Diagram dia = new Diagram();
+    dia.Pages[0].Copy(page);
+    dia.Save(dataDir + page.Name+ ".vsdx", SaveFileFormat.VSDX);
+}
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

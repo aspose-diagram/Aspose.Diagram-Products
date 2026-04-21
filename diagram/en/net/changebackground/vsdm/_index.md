@@ -66,9 +66,26 @@ PM> Install-Package Aspose.Diagram
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# code to change background of VSDM" offSpacer="" %}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioPages();
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-ChangeBackground-ChangeBackground-VSDM.cs" >}}
+// Load source diagram
+Diagram diagram = new Diagram(dataDir+"Drawing1.vsdm");
+Page page = diagram.Pages[0];
 
+Page backgroundPage = new Page();
+backgroundPage.Name = "Back page";  
+int id  = diagram.Pages.Add(backgroundPage);
+backgroundPage.ID = id;
+backgroundPage.Background = BOOL.True;
+backgroundPage.AddShape(1, 1, 1, 1, new FileStream(dataDir + "image.png", FileMode.OpenOrCreate));
+page.BackPage = backgroundPage;
+
+// Save diagram
+diagram.Save("out.vsdx", SaveFileFormat.VSDX);
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -68,10 +68,19 @@ PM> Install-Package Aspose.Diagram
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Draw Geomtry to VTX Files - C#" offSpacer="" %}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioPages();
+// Load diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+            
+//Draw Rectangle in page
+diagram.Pages[0].DrawRectangle(1, 2, 2, 4);
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-DrawRectangle-DrawRectangle.cs" >}}
-
-
+// Save diagram
+diagram.Save(dataDir + "DrawRectangleInPage_out.vsdx", SaveFileFormat.VSDX);
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

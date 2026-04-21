@@ -69,10 +69,26 @@ PM> Install-Package Aspose.Diagram
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Delete comment from VSD Files - C#" offSpacer="" %}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioComments();
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Comments-RemoveCommentInVisio-VSD.cs" >}}
+// Load Visio
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsd");
 
+// Get collection of the annotations
+AnnotationCollection annotations = diagram.Pages.GetPage("Page-1").PageSheet.Annotations;
 
+//Get comment of collection
+Annotation an = annotations[0];
+
+// Remove Comment
+annotations.Remove(an);
+
+// Save Visio
+diagram.Save(dataDir + "RemoveComment_out.vsdx", SaveFileFormat.VSDX);
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

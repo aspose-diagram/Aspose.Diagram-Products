@@ -65,8 +65,24 @@ You need the aspose.diagram.dll to try the following workflow in your own enviro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Insert ActiveX Control - C#" offSpacer="" %}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioPages();
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-InsertActivexControlIntoPage.cs" >}}
+//New diagram
+Diagram diagram = new Diagram();
+
+// Get page object by index 
+Aspose.Diagram.Page page = diagram.Pages[0];
+// set pinX, pinY, width and height 
+double pinX = 2, pinY = 2, width = 1, hieght = 1;
+
+//Add activex control as Visio shape
+long btnId = page.AddActiveXControl(Aspose.Diagram.ActiveXControls.ControlType.CommandButton, 2, 2, 1, 1);
+
+diagram.Save(dataDir + "out.vsdx", SaveFileFormat.VSDX);
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

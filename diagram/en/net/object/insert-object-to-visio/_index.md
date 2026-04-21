@@ -66,9 +66,24 @@ You need the aspose.diagram.dll to try the following workflow in your own enviro
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Insert OLE object - C#" offSpacer="" %}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioPages();
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Pages-InsertOleObjectIntoPage.cs" >}}
+//New diagram
+Diagram diagram = new Diagram();
 
+// Get page object by index 
+Aspose.Diagram.Page page0 = diagram.Pages[0];
+// set pinX, pinY, width and height 
+double pinX = 2, pinY = 2, width = 4, hieght = 3;
+
+ //Import ole as Visio shape word
+page0.AddShape(pinX, pinY, width, hieght, new FileStream("imagedoc.emf", FileMode.OpenOrCreate), new FileStream( "sequence.doc", FileMode.OpenOrCreate));
+
+diagram.Save(dataDir + "out.vsdx", SaveFileFormat.VSDX);
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

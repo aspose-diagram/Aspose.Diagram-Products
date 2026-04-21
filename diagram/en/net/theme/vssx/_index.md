@@ -67,11 +67,20 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Apply Preset Theme to VSSX Files - C#" offSpacer="" %}}
-
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Theme-SetThemeForPage.cs" >}}
-
-
+{{% blocks/products/pf/agp/code-block title="Set Theme for VSSX Files - C#" offSpacer="" %}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioThemes();
+// Load diagram
+Diagram diagram = new Diagram(dataDir + "Themes1.vsdx");
+//Get an instance of Page class to be set theme
+Page page = diagram.Pages[0];
+//Assign a Preset value to the PresetTheme property of the Page instance
+page.PresetTheme = PresetThemeValue.Bubble;
+// Save diagram
+diagram.Save(dataDir + "SetTheme_out.vsdx", SaveFileFormat.VSDX);
+```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
