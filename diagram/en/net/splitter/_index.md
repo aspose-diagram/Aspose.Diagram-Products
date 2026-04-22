@@ -62,4 +62,4 @@ NewDigram.Pages.Remove(NewDigram.Pages[0]);
 // Save diagram
 NewDigram.Save(dataDir + "CopyVisioPage_out.vsdx", SaveFileFormat.VSDX);
 ```
-{{% /blocks/products/pf/feature-page-code %}
+{{% /blocks/products/pf/feature-page-code %}}
