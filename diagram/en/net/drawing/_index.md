@@ -33,7 +33,7 @@ diagram.Pages[0].DrawRectangle(1, 2, 2, 4);
 // Save diagram
 diagram.Save(dataDir + "DrawRectangleInPage_out.vsdx", SaveFileFormat.VSDX);
 ```
-{{% /blocks/products/pf/feature-page-code 亿吨%}}
+{{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Geomtry">}}
