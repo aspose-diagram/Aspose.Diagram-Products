@@ -16,7 +16,61 @@ For managing system-defined properties, API provides [documentproperties](https:
 
 {{% blocks/products/pf/feature-page-code h3="Java Code to Manage Builtin Properties" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Diagrams-AccessingDocumentProperties.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(AutoFitShapesInVisio.class);
+
+// load a Visio diagram
+Diagram diagram = new Diagram(dataDir + "BFlowcht.vsdx");
+
+//// Display Visio version and document modification time at different stages 
+System.out.println(diagram.getVersion());
+System.out.println(diagram.getDocumentProps().getBuildNumberCreated());
+System.out.println(diagram.getDocumentProps().getBuildNumberEdited());
+System.out.println(diagram.getDocumentProps().getTimeCreated());
+System.out.println(diagram.getDocumentProps().getTimeEdited());
+System.out.println(diagram.getDocumentProps().getTimePrinted());
+System.out.println(diagram.getDocumentProps().getTimeSaved());
+System.out.println(diagram.getDocumentProps().getCustomProps().getCount());
+```
+
+**Adding Custom Properties**
+
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(AutoFitShapesInVisio.class);
+
+// Load a Visio diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+
+//// Get CustomProperties of diagram
+CustomPropCollection customProperties = diagram.getDocumentProps().getCustomProps();
+//Set property of CustomProp
+CustomProp customProp = new CustomProp();
+customProp.setPropType(PropType.STRING);
+customProp.getCustomValue().setValueString ("Test");
+//Add CustomProp to Collection
+customProperties.add(customProp);
+```
+
+**Removing Document Properties**
+
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(RemoveDocProps.class);
+
+// Load a Visio diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+
+// Remove specific custom properties
+diagram.getDocumentProps().getCustomProps().clear();
+```
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -27,14 +81,51 @@ For managing user-defined properties, API provides [customprops](https://apirefe
  
 {{% blocks/products/pf/feature-page-code h3="Java Code to Add Metadata in Visio File" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Diagrams-AddingCustomProperties.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(AddMetadata.class);
+
+// Load a Visio diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+
+//// Get CustomProperties of diagram
+CustomPropCollection customProperties = diagram.getDocumentProps().getCustomProps();
+//Set property of CustomProp
+CustomProp customProp = new CustomProp();
+customProp.setPropType(PropType.STRING);
+customProp.getCustomValue().setValueString ("Test");
+//Add CustomProp to Collection
+customProperties.add(customProp);
+```
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
 
 {{% blocks/products/pf/feature-page-code h3="Java Code to Remove Property in Visio File" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Diagrams-RemovingDocumentProperties.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(AutoFitShapesInVisio.class);
+
+// Load a Visio diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+
+//// Get CustomProperties of diagram
+CustomPropCollection customProperties = diagram.getDocumentProps().getCustomProps();
+//Remove CustomProp
+for (int i = 0; i < customProperties.getCount(); i++)
+{
+	CustomProp customProp = customProperties.get(i);
+    if (customProp.getName()== "Test")
+    {
+        customProperties.remove(customProp);
+    }
+}
+```
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

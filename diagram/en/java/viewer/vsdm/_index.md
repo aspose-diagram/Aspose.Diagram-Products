@@ -83,7 +83,18 @@ description: Java sample code to view Visio VSDM documents on Java Runtime Envir
 
 {{% blocks/products/pf/agp/code-block title="View VSDM Files - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-LoadSaveConvert-ExportToHTML-ExportToHTML.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(ExportToHTML.class);
+
+// call the diagram constructor to load diagram from a VSD file
+Diagram diagram = new Diagram(dataDir + "ExportToHTML.vsd");
+
+// Save as HTML
+diagram.save(dataDir + "ExportToHTML_Out.html", SaveFileFormat.HTML);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

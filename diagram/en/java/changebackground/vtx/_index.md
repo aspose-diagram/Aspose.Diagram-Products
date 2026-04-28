@@ -84,7 +84,27 @@ description: Java source code to change background of VTX file on Java Runtime E
 
 {{% blocks/products/pf/agp/code-block title="Change background of VTX Files - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Pages-ChangeBackground-ChangeBackground-VTX.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(ChangeVisioPageSize.class);
+
+// Load source diagram
+Diagram diagram = new Diagram(dataDir+"Drawing1.vtx");
+Page page = diagram.getPages().get(0);
+
+Page backgroundPage = new Page();
+backgroundPage.setName("Back page");  
+int id  = diagram.getPages().add(backgroundPage);
+backgroundPage.setID ( id);
+backgroundPage.setBackground( BOOL.TRUE);
+backgroundPage.addShape(1, 1, 1, 1, new FileInputStream("image.png"));
+page.setBackPage(backgroundPage);
+
+// Save diagram
+diagram.save("out.vsdx", SaveFileFormat.VSDX);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

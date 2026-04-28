@@ -84,7 +84,29 @@ description: Java Sample code connect shapes in Visio within Java based desktop 
 
 {{% blocks/products/pf/agp/code-block title="Connect shapes - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Pages-ConnectShapes.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(DrawFlowChart.class);
+
+ Diagram diagram = new Diagram(dataDir+"Drawing1.vsdx");
+long shapeFromId = 2;
+
+long shapeToId = 4;          
+
+// access a particular page
+Page page = diagram.getPages().getPage("Page-3");
+
+// add shape
+long connecter1Id = page.addShape(shape, "Dynamic connector");
+
+// connect shapes
+page.connectShapesViaConnector(shapeFromId, ConnectionPointPlace.RIGHT, shapeToId, ConnectionPointPlace.LEFT, connecter1Id);
+
+// Save diagram
+diagram.save(dataDir + "ConnectShapes_java.vsdx", SaveFileFormat.VSDX);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

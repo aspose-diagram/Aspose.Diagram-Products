@@ -84,7 +84,18 @@ description: Java source code to compress vss file on Java Runtime Environment f
 
 {{% blocks/products/pf/agp/code-block title="Compress VSS Files - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Diagrams-ReduceFileSize.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(ReduceFileSize.class);
+
+// Load a Visio diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+
+// Remove hidden information from diagram
+diagram.removeHiddenInformation((int)(RemoveHiddenInfoItem.SHAPES | RemoveHiddenInfoItem.MASTERS));
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

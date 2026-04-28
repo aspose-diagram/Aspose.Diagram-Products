@@ -84,7 +84,18 @@ description: Java source code to draw geomtry to visio vst file on Java Runtime 
 
 {{% blocks/products/pf/agp/code-block title="Draw Geomtry to VST Files - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Working-with-Pages-DrawRectangle.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(DrawRectangleInPage.class);
+// load diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+//Draw Rectangle in diagram
+diagram.getPages().get(0).drawRectangle(2, 2, 2, 1);
+// Save diagram
+diagram.save(dataDir + "DrawRectangleInPage_java.vsdx", SaveFileFormat.VSDX);
+```
 
 
 {{% /blocks/products/pf/agp/code-block %}}

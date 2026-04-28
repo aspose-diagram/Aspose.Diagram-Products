@@ -86,7 +86,27 @@ description: Java source code to annotate VSX file on Java Runtime Environment f
 
 {{% blocks/products/pf/agp/code-block title="Annotate VSX Files - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Comments-RemoveCommentInVisio-VSX.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(EditPageLevelCommentInVisio.class);
+// load Visio
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+
+// get collection of the annotations
+AnnotationCollection annotations = diagram.getPages().getPage("Page-1").getPageSheet().getAnnotations();
+
+// iterate through the annotations
+for (Annotation annotation : (Iterable<Annotation>) annotations) 
+{
+    String comment = annotation.getComment().getValue();
+    comment += "Updation mark";
+    annotation.getComment().setValue(comment);
+}
+// save Visio
+diagram.save(dataDir + "EditPageLevelCommentInVisio_Out.vsdx", SaveFileFormat.VSDX);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

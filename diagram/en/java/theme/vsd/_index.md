@@ -84,7 +84,20 @@ description: Java source code to apply preset theme to vsd file on Java Runtime 
 
 {{% blocks/products/pf/agp/code-block title="Watermark VSD Files - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Working-with-Theme-SetThemeForPage.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(VisioThemes.class);
+// Load diagram
+Diagram diagram = new Diagram(dataDir + "Themes1.vsdx");
+//Get an instance of Page class to be set theme
+Page page = diagram.getPages().get(0);
+//Assign a Preset value to the PresetTheme property of the Page instance
+page.setPresetTheme(PresetThemeValue.BUBBLE);
+// Save diagram
+diagram.save(dataDir + "SetTheme_out.vsdx", SaveFileFormat.VSDX);
+```
 
 
 {{% /blocks/products/pf/agp/code-block %}}

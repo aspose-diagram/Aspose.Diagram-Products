@@ -21,4 +21,49 @@ The simplest way to split Visio files page wise is, Accessing all pages via [pag
 
 {{% blocks/products/pf/feature-page-code h3="Java Code to Split Visio Files" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Pages-CopyVisioPage-CopyVisioPage.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(CopyVisioPage.class);
+        
+// Call the diagram constructor to load diagram from a VSD file
+Diagram originalDiagram = new Diagram(dataDir + "Drawing1.vsd");
+
+// initialize the new visio diagram
+Diagram newDiagram = new Diagram();
+
+// add all masters from the source Visio diagram
+MasterCollection originalMasters = originalDiagram.getMasters();
+for (Master master : (Iterable<Master>) originalMasters) {
+   newDiagram.addMaster(originalDiagram, master.getName());
+}
+
+// get the page object from the original diagram
+Page SrcPage = originalDiagram.getPages().getPage("Page-1");
+// set page name
+SrcPage.setName("new page");
+        
+// it calculates max page id
+int max = 0;
+if (newDiagram.getPages().getCount() != 0)
+    max = newDiagram.getPages().get(0).getID();
+
+for (int i = 1; i < newDiagram.getPages().getCount(); i++)
+{
+    if (max < newDiagram.getPages().get(i).getID())
+        max = newDiagram.getPages().get(i).getID();
+}
+       
+int MaxPageId = max;
+// set page id
+SrcPage.setID(MaxPageId);
+// add reference of the original diagram page
+newDiagram.getPages().add(SrcPage);
+
+// remove first empty page
+newDiagram.getPages().remove(newDiagram.getPages().get(0));
+
+// save diagram in VDX format
+newDiagram.save(dataDir + "CopyVisioPage_Out.vsdx", SaveFileFormat.VSDX);
+```

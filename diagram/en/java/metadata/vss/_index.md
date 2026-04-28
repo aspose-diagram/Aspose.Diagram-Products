@@ -83,7 +83,25 @@ description: Java sample code to edit or view VSS metadata on Java Runtime Envir
 
 {{% blocks/products/pf/agp/code-block title="Extracting VSS Metadata - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Diagrams-AccessingDocumentProperties.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(AutoFitShapesInVisio.class);
+
+// load a Visio diagram
+Diagram diagram = new Diagram(dataDir + "BFlowcht.vsdx");
+
+//// Display Visio version and document modification time at different stages 
+System.out.println(diagram.getVersion());
+System.out.println(diagram.getDocumentProps().getBuildNumberCreated());
+System.out.println(diagram.getDocumentProps().getBuildNumberEdited());
+System.out.println(diagram.getDocumentProps().getTimeCreated());
+System.out.println(diagram.getDocumentProps().getTimeEdited());
+System.out.println(diagram.getDocumentProps().getTimePrinted());
+System.out.println(diagram.getDocumentProps().getTimeSaved());
+System.out.println(diagram.getDocumentProps().getCustomProps().getCount());
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

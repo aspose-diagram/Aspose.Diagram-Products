@@ -84,7 +84,22 @@ description: Java source code to insert OLE(Object Linking and Embedding) object
 
 {{% blocks/products/pf/agp/code-block title="Insert object - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Pages-InsertOleObjectIntoPage.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(AddingNewShape.class);  
+//Load a diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+// get page by name
+Page page = diagram.getPages().getPage("Page-2");
+// set pinX, pinY, width and height 
+double pinX = 2, pinY = 2, width = 4, hieght = 3;
+ //Import ole as Visio shape word
+page.addShape(pinX, pinY, width, hieght, new FileInputStream("imagedoc.emf"), new FileInputStream( "sequence.doc"));
+
+diagram.save(dataDir + "out.vsdx", SaveFileFormat.VSDX);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -85,7 +85,22 @@ description: Java source code to Split vss file on Java Runtime Environment for 
 
 {{% blocks/products/pf/agp/code-block title="Split VSS Files - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Pages-SplitVisioPage-VSS.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(SplitVisioPage.class);   
+
+//Load vss file
+Diagram diagram = new Diagram(dataDir +"source.vss");
+for (int i = 1; i < diagram.getPages().getCount(); i++)
+{
+	  Page page =diagram.getPages().get(i);
+    Diagram dia = new Diagram();
+    dia.getPages().get(0).copy(page);
+    dia.save(dataDir + page.Name+ ".vsdx", SaveFileFormat.VSDX);
+}
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

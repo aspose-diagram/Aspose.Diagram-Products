@@ -21,7 +21,21 @@ Managing Comments in Pages - There is not any limit that how many comments a pag
 
 {{% blocks/products/pf/feature-page-code h3="Java Code to  Insert Visio Files Comments" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Comments-AddPageLevelCommentInVisio-AddPageLevelCommentInVisio.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(AddPageLevelCommentInVisio.class);
+
+// Call the diagram constructor to load diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+
+// Add comment
+diagram.getPages().getPage(0).addComment(7.205905511811023, 3.880708661417323, "test@");
+
+// Save diagram
+diagram.save(dataDir + "AddPageLevelCommentInVisio_Out.vdx", SaveFileFormat.VSDX);
+```
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

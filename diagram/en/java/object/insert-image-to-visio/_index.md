@@ -84,7 +84,24 @@ description: Java source code to insert image into Visio such as png bmp or emf 
 
 {{% blocks/products/pf/agp/code-block title="Insert Image - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Pages-AddImageToPage-AsVSDX.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getSharedDataDir(AddImageToPage.class) + "Pages/";
+
+// load an existing Visio
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+// get a particular page
+Page page = diagram.getPages().getPage("Page-1");
+double pinX = 3, pinY = 3, width = 4, hieght = 4;
+File file = new File("image.png"); 
+FileInputStream fis = new FileInputStream(file); 
+page.addShape(pinX, pinY, width, hieght, fis);
+
+// Save the Visio diagram
+diagram.save(dataDir + "AddImageToPage_Out.vsdx", SaveFileFormat.VSDX);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

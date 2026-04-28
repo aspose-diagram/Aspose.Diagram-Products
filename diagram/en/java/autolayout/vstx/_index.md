@@ -84,7 +84,44 @@ description: Java source code to auto layout vstx file on Java Runtime Environme
 
 {{% blocks/products/pf/agp/code-block title="Auto Layout VSTX Files - Java" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "a970e3b0531843f718d7f46abf12d56a" "Examples-src-main-java-com-aspose-diagram-examples-Diagrams-LayOutShapesInCompactTreeStyle-LayOutShapesInCompactTreeStyle.java" >}}
+```java
+// For complete examples and data files, please go to `https://github.com/aspose-diagram/Aspose.Diagram-for-Java`
+
+// The path to the documents directory.
+String dataDir = Utils.getDataDir(LayOutShapesInCompactTreeStyle.class);
+        
+String fileName = "LayOutShapesInCompactTreeStyle.vdx";
+// load an existing Visio diagram
+Diagram diagram = new Diagram(dataDir + fileName);
+
+// set layout options 
+LayoutOptions compactTreeOptions = new LayoutOptions();
+compactTreeOptions.setLayoutStyle(LayoutStyle.COMPACT_TREE);
+compactTreeOptions.setEnlargePage(true);
+
+// set layout direction as DownThenRight and then save
+compactTreeOptions.setDirection(LayoutDirection.DOWN_THEN_RIGHT);
+diagram.layout(compactTreeOptions);
+diagram.save(dataDir + "sample_down_right.vdx", SaveFileFormat.VDX);
+
+// set layout direction as DownThenLeft and then save
+diagram = new Diagram(dataDir + fileName);
+compactTreeOptions.setDirection(LayoutDirection.DOWN_THEN_LEFT);
+diagram.layout(compactTreeOptions);
+diagram.save(dataDir + "sample_down_left.vdx", SaveFileFormat.VDX);
+
+// set layout direction as RightThenDown and then save
+diagram = new Diagram(dataDir + fileName);
+compactTreeOptions.setDirection(LayoutDirection.RIGHT_THEN_DOWN);
+diagram.layout(compactTreeOptions);
+diagram.save(dataDir + "sample_right_down.vdx", SaveFileFormat.VDX);
+
+// set layout direction as LeftThenDown and then save
+diagram = new Diagram(dataDir + fileName);
+compactTreeOptions.setDirection(LayoutDirection.LEFT_THEN_DOWN);
+diagram.layout(compactTreeOptions);
+diagram.save(dataDir + "sample_left_down.vdx", SaveFileFormat.VDX);
+```
 
 
 {{% /blocks/products/pf/agp/code-block %}}
