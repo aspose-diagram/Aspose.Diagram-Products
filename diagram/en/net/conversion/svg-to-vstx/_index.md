@@ -118,15 +118,15 @@ Files with .VSTX extensions are drawing template files created with Microsoft Vi
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SVG into many other Visio file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vsd/" name="SVG TO VSD" description="Microsoft Visio VSD Format" >}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vsdx/" name="SVG TO VSDX" description="Microsoft Visio VSDX Format" >}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vsdm/" name="SVG TO VSDM" description="Microsoft Visio VSDM Format" >}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vssx/" name="SVG TO VSSX" description="Microsoft Visio VSSX Format" >}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vssm/" name="SVG TO VSSM" description="Microsoft Visio VSSM Format" >}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vstx/" name="SVG TO VSTX" description="Microsoft Visio VSTX Format" >}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vstm/" name="SVG TO VSTM" description="Microsoft Visio VSTM Format" >}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vsx/" name="SVG TO VSX" description="Microsoft Visio VSX Format" >}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vtx/" name="SVG TO VTX" description="Microsoft Visio VTX Format" >}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vsd/" name="SVG TO VSD" description="Microsoft Visio VSD Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vsdx/" name="SVG TO VSDX" description="Microsoft Visio VSDX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vsdm/" name="SVG TO VSDM" description="Microsoft Visio VSDM Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vssx/" name="SVG TO VSSX" description="Microsoft Visio VSSX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vssm/" name="SVG TO VSSM" description="Microsoft Visio VSSM Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vstx/" name="SVG TO VSTX" description="Microsoft Visio VSTX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vstm/" name="SVG TO VSTM" description="Microsoft Visio VSTM Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vsx/" name="SVG TO VSX" description="Microsoft Visio VSX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/svg-to-vtx/" name="SVG TO VTX" description="Microsoft Visio VTX Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
