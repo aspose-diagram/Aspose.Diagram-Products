@@ -2,7 +2,7 @@
 title: Convert SVG to VSDX via C# 
 weight: 2390
 url: /net/conversion/svg-to-vsdx/ 
-description: Sample code for SVG to VSDx C# conversion. Use API example code for batch SVG files to VSDX conversion within VB.NET, Asp.NET or any .NET based application.
+description: Sample code for SVG to VSDX C# conversion. Use API example code for batch SVG files to VSDX conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
