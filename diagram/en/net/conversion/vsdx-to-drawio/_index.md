@@ -65,7 +65,15 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDX to DRAWIO C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdx-to-drawio.cs" >}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_Intro();
+// Load an existing svg
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+// Save the Visio diagram
+diagram.Save(dataDir + "out.drawio", SaveFileFormat.Drawio);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
