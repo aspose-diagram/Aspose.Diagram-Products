@@ -215,13 +215,19 @@ description: Visio library for creation, manipulation and conversion of diagrams
      <b>
       Microsoft Visio:
      </b>
-     VSDX, VSD, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
+     VSDX, VSS, VST, VSD, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
     </li>
     <li>
      <b>
       Web:
      </b>
      HTML
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     SVG
     </li>
    </ul>
    <header>
@@ -232,9 +238,15 @@ description: Visio library for creation, manipulation and conversion of diagrams
    <ul>
     <li>
      <b>
+      Mermaid flowchat and Mermaid sequence diagram
+     </b>
+     MMD
+    </li>
+    <li>
+     <b>
       Microsoft Visio:
      </b>
-     VDW, VSS, VST
+     VDW
     </li>
    </ul>
   </div>
@@ -256,13 +268,13 @@ description: Visio library for creation, manipulation and conversion of diagrams
      <b>
       Images:
      </b>
-     JPEG, PNG, BMP, TIFF, SVG, EMF
+     JPEG, PNG, BMP, TIFF, EMF
     </li>
     <li>
      <b>
       Other:
      </b>
-     XAML
+     DRAWIO,XAML
     </li>
    </ul>
   </div>

@@ -223,7 +223,13 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
      <b>
       Microsoft Visio:
      </b>
-     VSD,VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
+     VSD,VSDX, VSS,VST,VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM
+    </li>
+   <li>
+     <b>
+      Images:
+     </b>
+      SVG
     </li>
    <li>
      <b>
@@ -240,9 +246,15 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
    <ul>
     <li>
      <b>
+      Mermaid flowchat and Mermaid sequence diagram
+     </b>
+     MMD
+    </li>
+    <li>
+     <b>
       Microsoft Visio:
      </b>
-     VDW, VSS, VST
+     VDW
     </li>
    </ul>
   </div>
@@ -270,7 +282,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
      <b>
       Other:
      </b>
-     XAML, SWF
+     DRAWIO,XAML, SWF
     </li>
    </ul>
   </div>

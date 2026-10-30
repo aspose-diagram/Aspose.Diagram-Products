@@ -156,7 +156,19 @@ description: Aspose.Diagram for Python via .Net is a visio API to read, write an
      <b>
       Microsoft Visio:
      </b>
-     VSDX, VDX, VSX, VTX, VSSX, VSTX, VSDM, VSSM, VSTM
+     VSDX, VSD,VSS,VST,VDX, VSX, VTX, VSSX, VSTX, VSDM, VSSM, VSTM
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+      SVG
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML
     </li>
    </ul>
    <header>
@@ -165,11 +177,17 @@ description: Aspose.Diagram for Python via .Net is a visio API to read, write an
     Input Only
    </header>
    <ul>
+   <li>
+     <b>
+      Mermaid flowchat and Mermaid sequence diagram
+     </b>
+     MMD
+    </li>
     <li>
      <b>
       Microsoft Visio:
      </b>
-     VDW, VSD, VSS, VST
+     VDW
     </li>
    </ul>
   </div>
@@ -191,13 +209,13 @@ description: Aspose.Diagram for Python via .Net is a visio API to read, write an
      <b>
       Images:
      </b>
-     JPEG, PNG, BMP, TIFF, SVG, EMF
+     JPEG, PNG, BMP, TIFF, EMF
     </li>
     <li>
      <strong>
-      Others
+      Others:
      </strong>
-     : XAML
+      DRAWIO, XAML
     </li>
    </ul>
   </div>
