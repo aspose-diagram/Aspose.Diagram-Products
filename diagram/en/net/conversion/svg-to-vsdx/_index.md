@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Diagram
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load MMD file with an instance of Diagram class
+1.  Load SVG file with an instance of Diagram class
 1.  Call the Diagram.Save method with output file path and SaveFileFormat.Vsdx as parameters
 1.  VSDX file will be saved at the specified path
 
@@ -84,7 +84,7 @@ diagram.Save(dataDir + "out.vsdx", SaveFileFormat.VSDX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert VDW to VSD" sectionDescription="Check our live demos for [MMD to VSDX conversion](https://products.aspose.app/diagram/conversion/mmd-to-vsdx) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert SVG to VSDX" sectionDescription="Check our live demos for [SVG to VSDX conversion](https://products.aspose.app/diagram/conversion/svg-to-vsdx) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your MMD file and hit the \"Convert\" button." >}}
@@ -100,13 +100,13 @@ diagram.Save(dataDir + "out.vsdx", SaveFileFormat.VSDX);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW is the Visio Graphics Service file format that specifies the streams and storages required for rendering a Web drawing. A web drawing is a collection of drawing pages, shapes, fonts, images, data connections, and diagram update information that can be rendered as a vector or raster drawing. VDW files can be opened in Microsoft Visio as well but are primarily saved for use on web. Microsoft Visio offers the capability to convert Visio files to a number of different file formats including PNG, BMP, PDF and others.
+   {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}
+SVG (Scalable Vector Graphics) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images and their behaviors are defined in XML text files, which means they can be searched, indexed, scripted, and compressed. SVG files can be converted to Visio formats using Aspose.Diagram for .NET, allowing vector graphics to be brought into the Microsoft Visio ecosystem.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="vsd" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Any drawing or chart created in Microsoft Visio, but saved in XML format have .VSD extension. A Visio drawing XML file is created in Visio software, which is developed by Microsoft. Microsoft Visio has the capability to generate visual documents that can be used in presentations and documents. The Visio drawing XML file contains the visual objects and metadata details of the visual elements. Text can also be added to these visual elements Vision drawing XML file. These Visio drawing XML files are integrated with XML-based formatting standards and image data encoding specifications that allow its content to be rendered and stored by the Microsoft Visio software in the VSD file format.
+          {{< blocks/products/pf/agp/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
+Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onwards. It was developed to replace the binary file format, .VSD, which is supported by earlier versions of Microsoft Visio. It is also supported on Visio Services in Microsoft SharePoint Server 2013 and does not require an intermediary file format for publishing to SharePoint Server. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
