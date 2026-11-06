@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VST to PDF via C# 
 weight: 1100
 url: /net/conversion/vst-to-pdf/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VST to PDF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vst-to-pdf.cs" >}}
+```cs
+var visio = new Diagram("template.vst");
+visio.Save("output.pdf", SaveFileFormat.PDF);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

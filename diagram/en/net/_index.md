@@ -276,7 +276,7 @@ description: C# VB.NET ASP.NET Visio diagramming library to export Visio diagram
      <b>
       Images:
      </b>
-     JPEG, PNG, BMP, TIFF, SVG, EMF
+     JPEG, PNG, BMP, TIFF, EMF
     </li>
     <li>
      <b>

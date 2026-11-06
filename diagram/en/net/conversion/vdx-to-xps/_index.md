@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VDX to XPS via C# 
 weight: 1790
 url: /net/conversion/vdx-to-xps/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDX to XPS C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdx-to-xps.cs" >}}
+```cs
+// load the VDX in an object of Diagram 
+var visio = new Diagram("template.vdx");
+// save VDX as XPS 
+visio.Save("output.xps", SaveFileFormat.XPS); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

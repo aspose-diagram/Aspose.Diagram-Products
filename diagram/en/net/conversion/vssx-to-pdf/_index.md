@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSSX to PDF via C# 
 weight: 800
 url: /net/conversion/vssx-to-pdf/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSSX to PDF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssx-to-pdf.cs" >}}
+```cs
+var visio = new Diagram("template.vssx");
+visio.Save("output.pdf", SaveFileFormat.PDF);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

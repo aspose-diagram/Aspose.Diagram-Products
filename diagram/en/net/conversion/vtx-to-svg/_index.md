@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VTX to SVG via C# 
 weight: 3630
 url: /net/conversion/vtx-to-svg/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VTX to SVG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vtx-to-svg.cs" >}}
+```cs
+var visio = new Diagram("template.vtx");
+visio.Save("output.svg", SaveFileFormat.SVG);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

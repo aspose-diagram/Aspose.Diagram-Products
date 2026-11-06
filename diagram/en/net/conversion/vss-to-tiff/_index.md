@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSS to TIFF via C# 
 weight: 4280
 url: /net/conversion/vss-to-tiff/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSS to TIFF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vss-to-tiff.cs" >}}
+```cs
+var visio = new Diagram("template.vss");
+visio.Save("output.tiff", SaveFileFormat.TIFF); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

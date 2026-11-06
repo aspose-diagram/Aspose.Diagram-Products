@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VDW to XPS via C# 
 weight: 4390
 url: /net/conversion/vdw-to-xps/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDW to XPS C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdw-to-xps.cs" >}}
+```cs
+// load the VDW in an object of Diagram 
+var visio = new Diagram("template.vdw");
+// save VDW as XPS 
+visio.Save("output.xps", SaveFileFormat.XPS); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

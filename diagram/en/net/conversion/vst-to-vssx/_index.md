@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VST to VSSX via C# 
 weight: 500
 url: /net/conversion/vst-to-vssx/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VST to VSSX C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vst-to-vssx.cs" >}}
+```cs
+var visio = new Diagram("template.vst");
+visio.Save("output.vssx", SaveFileFormat.VSSX);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSTM to VSTM via C# 
 weight: 1360
 url: /net/conversion/vstm-to-vstm/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTM to VSTM C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstm-to-vstm.cs" >}}
+```cs
+var visio = new Diagram("template.vstm");
+visio.Save("output.vstm", SaveFileFormat.VSTM); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

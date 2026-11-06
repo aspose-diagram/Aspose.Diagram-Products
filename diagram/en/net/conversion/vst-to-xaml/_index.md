@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VST to XAML via C# 
 weight: 4630
 url: /net/conversion/vst-to-xaml/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VST to XAML C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vst-to-xaml.cs" >}}
+```cs
+var visio = new Diagram("template.vst");
+visio.Save("output.xaml", SaveFileFormat.XAML);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

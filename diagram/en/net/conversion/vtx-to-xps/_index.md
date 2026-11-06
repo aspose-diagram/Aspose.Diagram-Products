@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VTX to XPS via C# 
 weight: 4320
 url: /net/conversion/vtx-to-xps/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VTX to XPS C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vtx-to-xps.cs" >}}
+```cs
+var visio = new Diagram("template.vtx");
+visio.Save("output.xps", SaveFileFormat.XPS); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

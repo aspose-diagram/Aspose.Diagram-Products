@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSX to VSD via C# 
 weight: 2390
 url: /net/conversion/vsx-to-vsd/ 
@@ -65,7 +65,21 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSX to VSD C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Load-Save-Convert-ConvertVsxToVsd.cs" >}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_LoadSaveConvert();
+
+// Call the diagram constructor to load a Vsx diagram
+Diagram diagram = new Diagram(dataDir + "ExportToVsd.vsx");
+
+MemoryStream csvStream = new MemoryStream();
+// Save diagram
+diagram.Save(csvStream, SaveFileFormat.Vsd);
+
+// Display Status.
+System.Console.WriteLine("Conversion from vsx to vsd performed successfully.");
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

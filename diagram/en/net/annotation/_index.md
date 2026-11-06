@@ -1,4 +1,4 @@
----
+﻿---
 title: Visio File Annotations NET C#
 url: /net/annotation/
 description: Add or remove data annotation of Visio with just few lines of C# code.
@@ -21,7 +21,20 @@ Managing Comments in Pages - There is not any limit that how many comments a pag
 
 {{% blocks/products/pf/feature-page-code h3="C# Code to  Insert Visio Files Comments" %}}
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-with-Comments-AddPageLevelCommentInVisio-AddPageLevelCommentInVisio.cs" >}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_VisioComments();
+
+// Load diagram
+Diagram diagram = new Diagram(dataDir + "Drawing1.vsdx");
+
+// Add comment
+diagram.Pages[0].AddComment(7.205905511811023, 3.880708661417323, "test@");
+
+// Save diagram
+diagram.Save(dataDir + "AddComment_out.vsdx", SaveFileFormat.VSDX);
+```
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSSX to TIFF via C# 
 weight: 4380
 url: /net/conversion/vssx-to-tiff/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSSX to TIFF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssx-to-tiff.cs" >}}
+```cs
+var visio = new Diagram("template.vssx");
+visio.Save("output.tiff", SaveFileFormat.TIFF); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

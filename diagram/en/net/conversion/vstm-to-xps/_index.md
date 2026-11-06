@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSTM to XPS via C# 
 weight: 2620
 url: /net/conversion/vstm-to-xps/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTM to XPS C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstm-to-xps.cs" >}}
+```cs
+var visio = new Diagram("template.vstm");
+visio.Save("output.xps", SaveFileFormat.XPS); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

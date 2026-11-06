@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VDX to BMP via C# 
 weight: 2700
 url: /net/conversion/vdx-to-bmp/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDX to BMP C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdx-to-bmp.cs" >}}
+```cs
+// load the VDX in an object of Diagram 
+var visio = new Diagram("template.vdx");
+// save VDX as BMP 
+visio.Save("output.bmp", SaveFileFormat.BMP); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

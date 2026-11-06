@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSSM to EMF via C# 
 weight: 4680
 url: /net/conversion/vssm-to-emf/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSSM to EMF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssm-to-emf.cs" >}}
+```cs
+var visio = new Diagram("template.vssm");
+visio.Save("output.emf", SaveFileFormat.EMF); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

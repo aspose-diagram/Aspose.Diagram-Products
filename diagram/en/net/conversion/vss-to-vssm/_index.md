@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSS to VSSM via C# 
 weight: 1510
 url: /net/conversion/vss-to-vssm/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSS to VSSM C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vss-to-vssm.cs" >}}
+```cs
+var visio = new Diagram("template.vss");
+visio.Save("output.vssm", SaveFileFormat.VSSM); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

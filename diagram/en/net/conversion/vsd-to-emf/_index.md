@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSD to EMF via C# 
 weight: 4710
 url: /net/conversion/vsd-to-emf/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSD to EMF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsd-to-emf.cs" >}}
+```cs
+var visio = new Diagram("template.vsd");
+visio.Save("output.emf", SaveFileFormat.EMF); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

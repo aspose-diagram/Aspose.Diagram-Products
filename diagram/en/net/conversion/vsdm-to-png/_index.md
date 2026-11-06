@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSDM to PNG via C# 
 weight: 1750
 url: /net/conversion/vsdm-to-png/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDM to PNG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-png.cs" >}}
+```cs
+// load the VSDM in an object of Diagram 
+var visio = new Diagram("template.vsdm");
+// save VSDM as PNG 
+visio.Save("output.png", SaveFileFormat.PNG); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

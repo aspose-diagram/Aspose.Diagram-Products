@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSSM to SWF via C# 
 weight: 2600
 url: /net/conversion/vssm-to-swf/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSSM to SWF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssm-to-swf.cs" >}}
+```cs
+var visio = new Diagram("template.vssm");
+visio.Save("output.swf", SaveFileFormat.SWF);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

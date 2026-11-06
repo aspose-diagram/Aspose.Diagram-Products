@@ -1,4 +1,4 @@
----
+﻿---
 title: C# Microsoft Visio Files Conversion
 url: /net/conversion/
 description: Convert Microsoft Visio formats VSDX VSX VTX VDX VSSX VSTX VSDM VSSM VSTM VDW VSD VSS VST to PDF HTML and Images with few lines of C# code via .NET library.
@@ -18,7 +18,12 @@ Visio files such as VSDX, VSX, VTX, VDX, VSSX, VSTX, VSDM, VSSM, VSTM can be int
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for VSD to VSDX Conversion" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsd-to-vsdx.cs" >}}
+```cs
+// load the VSD in an object of Diagram 
+var visio = new Diagram("template.vsd");
+// save VSD as VSDX 
+visio.Save("output.vsdx", SaveFileFormat.VSDX);
+```
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -31,7 +36,12 @@ Whenever there is need to convert Microsoft<sup>&reg;</sup> Visio files to Image
 
 {{% blocks/products/pf/feature-page-code h3="C# Code to Convert Visio to Image Formats" %}}
 
-{{< gist "aspose-com-gists" "99c48491d920f8ba4f0745c29b8c7e7b" "visio-vsd-vsdx-page-to-image.cs" >}}
+```cs
+// load the VSD in an object of Diagram 
+var visio = new Diagram("template.vsd");
+// save VSD as BMP 
+visio.Save("output.bmp", SaveFileFormat.BMP); 
+```
 
 {{% /blocks/products/pf/feature-page-code  %}}
 
@@ -44,7 +54,10 @@ API is capable of converting visio formats to PDF. Process of conversion is simp
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for Visio to PDF Conversion" %}}
 
-{{< gist "aspose-com-gists" "f7837f256dbaeec060de473b43d80bd1" "convert-visio-to-pdf.cs" >}}
+```cs
+var visio = new Diagram("template.vsd");
+visio.Save("output.pdf", SaveFileFormat.PDF);
+```
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSDX to HTML via C# 
 weight: 5270
 url: /net/conversion/vsdx-to-html/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDX to HTML C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdx-to-html.cs" >}}
+```cs
+var visio = new Diagram("template.vsdx");
+visio.Save("output.html", SaveFileFormat.HTML); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

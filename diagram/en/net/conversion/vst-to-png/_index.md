@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VST to PNG via C# 
 weight: 5320
 url: /net/conversion/vst-to-png/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VST to PNG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vst-to-png.cs" >}}
+```cs
+var visio = new Diagram("template.vst");
+visio.Save("output.png", SaveFileFormat.PNG); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

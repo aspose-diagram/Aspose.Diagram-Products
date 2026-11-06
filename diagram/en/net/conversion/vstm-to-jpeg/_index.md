@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSTM to JPEG via C# 
 weight: 1930
 url: /net/conversion/vstm-to-jpeg/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTM to JPEG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstm-to-jpeg.cs" >}}
+```cs
+var visio = new Diagram("template.vstm");
+visio.Save("output.jpeg", SaveFileFormat.JPEG);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

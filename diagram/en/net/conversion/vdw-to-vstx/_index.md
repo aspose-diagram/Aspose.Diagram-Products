@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VDW to VSTX via C# 
 weight: 4950
 url: /net/conversion/vdw-to-vstx/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDW to VSTX C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdw-to-vstx.cs" >}}
+```cs
+// load the VDW in an object of Diagram 
+var visio = new Diagram("template.vdw");
+// save VDW as VSTX 
+visio.Save("output.vstx", SaveFileFormat.VSTX); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

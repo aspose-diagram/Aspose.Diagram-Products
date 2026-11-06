@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSSM to SVG via C# 
 weight: 2020
 url: /net/conversion/vssm-to-svg/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSSM to SVG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssm-to-svg.cs" >}}
+```cs
+var visio = new Diagram("template.vssm");
+visio.Save("output.svg", SaveFileFormat.SVG); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

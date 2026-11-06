@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSTX to PDF via C# 
 weight: 3920
 url: /net/conversion/vstx-to-pdf/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTX to PDF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstx-to-pdf.cs" >}}
+```cs
+var visio = new Diagram("template.vstx");
+visio.Save("output.pdf", SaveFileFormat.PDF); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

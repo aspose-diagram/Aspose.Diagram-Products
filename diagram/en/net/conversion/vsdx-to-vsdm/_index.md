@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSDX to VSDM via C# 
 weight: 4040
 url: /net/conversion/vsdx-to-vsdm/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDX to VSDM C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdx-to-vsdm.cs" >}}
+```cs
+var visio = new Diagram("template.vsdx");
+visio.Save("output.vsdm", SaveFileFormat.VSDM);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

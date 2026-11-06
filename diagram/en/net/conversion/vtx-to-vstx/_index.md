@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VTX to VSTX via C# 
 weight: 1250
 url: /net/conversion/vtx-to-vstx/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VTX to VSTX C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vtx-to-vstx.cs" >}}
+```cs
+var visio = new Diagram("template.vtx");
+visio.Save("output.vstx", SaveFileFormat.VSTX); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

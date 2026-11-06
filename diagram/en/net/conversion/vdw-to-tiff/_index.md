@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VDW to TIFF via C# 
 weight: 2010
 url: /net/conversion/vdw-to-tiff/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDW to TIFF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdw-to-tiff.cs" >}}
+```cs
+// load the VDW in an object of Diagram 
+var visio = new Diagram("template.vdw");
+// save VDW as TIFF 
+visio.Save("output.tiff", SaveFileFormat.TIFF);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

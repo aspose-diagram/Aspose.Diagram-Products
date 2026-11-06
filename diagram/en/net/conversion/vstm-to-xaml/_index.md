@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSTM to XAML via C# 
 weight: 3820
 url: /net/conversion/vstm-to-xaml/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTM to XAML C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstm-to-xaml.cs" >}}
+```cs
+var visio = new Diagram("template.vstm");
+visio.Save("output.xaml", SaveFileFormat.XAML);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

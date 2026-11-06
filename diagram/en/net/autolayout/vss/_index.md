@@ -1,4 +1,4 @@
----
+﻿---
 title: Auto layout VSS document via .NET 
 weight: 3050
 url: /net/autolayout/vss/ 
@@ -69,7 +69,43 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="Auto Layout VSS Files - C#" offSpacer="" %}}
 
-{{< gist "aspose-diagram-gists" "efd56218048f8b0ab925efd494227fdd" "Examples-CSharp-Working-Diagrams-LayOutShapesInCompactTreeStyle-LayOutShapesInCompactTreeStyle.cs" >}}
+```cs
+// For complete examples and data files, please go to https://github.com/aspose-diagram/Aspose.Diagram-for-.NET
+// The path to the documents directory.
+string dataDir = RunExamples.GetDataDir_Diagrams();
+
+string fileName = "LayOutShapesInCompactTreeStyle.vdx";
+// Load an existing Visio diagram
+Diagram diagram = new Diagram(dataDir + fileName);
+
+// Set layout options 
+LayoutOptions compactTreeOptions = new LayoutOptions();
+compactTreeOptions.LayoutStyle = LayoutStyle.CompactTree;
+compactTreeOptions.EnlargePage = true;
+
+// Set layout direction as DownThenRight and then save
+compactTreeOptions.Direction = LayoutDirection.DownThenRight;
+diagram.Layout(compactTreeOptions);
+diagram.Save(dataDir + "sample_down_right.vdx", SaveFileFormat.VDX);
+
+// Set layout direction as DownThenLeft and then save
+diagram = new Diagram(dataDir + fileName);
+compactTreeOptions.Direction = LayoutDirection.DownThenLeft;
+diagram.Layout(compactTreeOptions);
+diagram.Save(dataDir + "sample_down_left.vdx", SaveFileFormat.VDX);
+
+// Set layout direction as RightThenDown and then save
+diagram = new Diagram(dataDir + fileName);
+compactTreeOptions.Direction = LayoutDirection.RightThenDown;
+diagram.Layout(compactTreeOptions);
+diagram.Save(dataDir + "sample_right_down.vdx", SaveFileFormat.VDX);
+
+// Set layout direction as LeftThenDown and then save
+diagram = new Diagram(dataDir + fileName);
+compactTreeOptions.Direction = LayoutDirection.LeftThenDown;
+diagram.Layout(compactTreeOptions);
+diagram.Save(dataDir + "sample_left_down.vdx", SaveFileFormat.VDX);
+```
 
 
 {{% /blocks/products/pf/agp/code-block %}}

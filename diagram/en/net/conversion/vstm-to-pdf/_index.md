@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSTM to PDF via C# 
 weight: 60
 url: /net/conversion/vstm-to-pdf/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTM to PDF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstm-to-pdf.cs" >}}
+```cs
+var visio = new Diagram("template.vstm");
+visio.Save("output.pdf", SaveFileFormat.PDF);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

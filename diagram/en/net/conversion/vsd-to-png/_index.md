@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSD to PNG via C# 
 weight: 1850
 url: /net/conversion/vsd-to-png/ 
@@ -65,7 +65,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSD to PNG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsd-to-png.cs" >}}
+```cs
+var visio = new Diagram("template.vsd");
+visio.Save("output.png", SaveFileFormat.PNG); 
+
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

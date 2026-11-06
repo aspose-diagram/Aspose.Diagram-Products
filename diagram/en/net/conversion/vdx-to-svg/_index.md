@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VDX to SVG via C# 
 weight: 850
 url: /net/conversion/vdx-to-svg/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDX to SVG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdx-to-svg.cs" >}}
+```cs
+// load the VDX in an object of Diagram 
+var visio = new Diagram("template.vdx");
+// save VDX as SVG 
+visio.Save("output.svg", SaveFileFormat.SVG); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

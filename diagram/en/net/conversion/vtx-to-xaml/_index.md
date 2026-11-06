@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VTX to XAML via C# 
 weight: 150
 url: /net/conversion/vtx-to-xaml/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VTX to XAML C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vtx-to-xaml.cs" >}}
+```cs
+var visio = new Diagram("template.vtx");
+visio.Save("output.xaml", SaveFileFormat.XAML); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

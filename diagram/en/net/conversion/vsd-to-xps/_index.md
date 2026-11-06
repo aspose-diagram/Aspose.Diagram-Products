@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSD to XPS via C# 
 weight: 660
 url: /net/conversion/vsd-to-xps/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSD to XPS C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsd-to-xps.cs" >}}
+```cs
+var visio = new Diagram("template.vsd");
+visio.Save("output.xps", SaveFileFormat.XPS); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

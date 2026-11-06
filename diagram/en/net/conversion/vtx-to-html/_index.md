@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VTX to HTML via C# 
 weight: 3030
 url: /net/conversion/vtx-to-html/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VTX to HTML C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vtx-to-html.cs" >}}
+```cs
+var visio = new Diagram("template.vtx");
+visio.Save("output.html", SaveFileFormat.HTML);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

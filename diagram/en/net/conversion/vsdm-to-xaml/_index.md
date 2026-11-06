@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSDM to XAML via C# 
 weight: 3980
 url: /net/conversion/vsdm-to-xaml/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDM to XAML C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-xaml.cs" >}}
+```cs
+// load the VSDM in an object of Diagram 
+var visio = new Diagram("template.vsdm");
+// save VSDM as XAML 
+visio.Save("output.xaml", SaveFileFormat.XAML);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

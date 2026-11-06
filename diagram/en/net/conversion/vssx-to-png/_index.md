@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSSX to PNG via C# 
 weight: 5010
 url: /net/conversion/vssx-to-png/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSSX to PNG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssx-to-png.cs" >}}
+```cs
+var visio = new Diagram("template.vssx");
+visio.Save("output.png", SaveFileFormat.PNG); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

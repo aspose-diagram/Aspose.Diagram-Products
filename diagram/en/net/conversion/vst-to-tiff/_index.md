@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VST to TIFF via C# 
 weight: 1710
 url: /net/conversion/vst-to-tiff/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VST to TIFF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vst-to-tiff.cs" >}}
+```cs
+var visio = new Diagram("template.vst");
+visio.Save("output.tiff", SaveFileFormat.TIFF); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

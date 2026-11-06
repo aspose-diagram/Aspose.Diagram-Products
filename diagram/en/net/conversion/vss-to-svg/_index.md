@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSS to SVG via C# 
 weight: 3090
 url: /net/conversion/vss-to-svg/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSS to SVG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vss-to-svg.cs" >}}
+```cs
+var visio = new Diagram("template.vss");
+visio.Save("output.svg", SaveFileFormat.SVG); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

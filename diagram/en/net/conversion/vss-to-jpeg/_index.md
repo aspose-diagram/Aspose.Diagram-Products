@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSS to JPEG via C# 
 weight: 3360
 url: /net/conversion/vss-to-jpeg/ 
@@ -65,7 +65,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSS to JPEG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vss-to-jpeg.cs" >}}
+```cs
+var visio = new Diagram("template.vss");
+visio.Save("output.jpeg", SaveFileFormat.JPEG); 
+
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

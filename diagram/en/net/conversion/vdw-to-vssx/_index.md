@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VDW to VSSX via C# 
 weight: 530
 url: /net/conversion/vdw-to-vssx/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDW to VSSX C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdw-to-vssx.cs" >}}
+```cs
+// load the VDW in an object of Diagram 
+var visio = new Diagram("template.vdw");
+// save VDW as VSSX 
+visio.Save("output.vssx", SaveFileFormat.VSSX);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

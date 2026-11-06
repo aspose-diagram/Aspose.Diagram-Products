@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSDM to SVG via C# 
 weight: 2130
 url: /net/conversion/vsdm-to-svg/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDM to SVG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-svg.cs" >}}
+```cs
+// load the VSDM in an object of Diagram 
+var visio = new Diagram("template.vsdm");
+// save VSDM as SVG 
+visio.Save("output.svg", SaveFileFormat.SVG);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

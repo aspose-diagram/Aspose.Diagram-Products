@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSDX to SWF via C# 
 weight: 4030
 url: /net/conversion/vsdx-to-swf/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDX to SWF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdx-to-swf.cs" >}}
+```cs
+var visio = new Diagram("template.vsdx");
+visio.Save("output.swf", SaveFileFormat.SWF); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

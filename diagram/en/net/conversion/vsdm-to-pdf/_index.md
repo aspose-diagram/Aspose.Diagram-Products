@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSDM to PDF via C# 
 weight: 3080
 url: /net/conversion/vsdm-to-pdf/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDM to PDF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-pdf.cs" >}}
+```cs
+// load the VSDM in an object of Diagram 
+var visio = new Diagram("template.vsdm");
+// save VSDM as PDF 
+visio.Save("output.pdf", SaveFileFormat.PDF); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

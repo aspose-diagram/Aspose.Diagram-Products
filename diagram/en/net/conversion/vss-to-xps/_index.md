@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSS to XPS via C# 
 weight: 4820
 url: /net/conversion/vss-to-xps/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSS to XPS C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vss-to-xps.cs" >}}
+```cs
+var visio = new Diagram("template.vss");
+visio.Save("output.xps", SaveFileFormat.XPS);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

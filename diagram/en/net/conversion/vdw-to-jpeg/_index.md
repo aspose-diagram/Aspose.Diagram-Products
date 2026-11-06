@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VDW to JPEG via C# 
 weight: 1030
 url: /net/conversion/vdw-to-jpeg/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDW to JPEG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdw-to-jpeg.cs" >}}
+```cs
+// load the VDW in an object of Diagram 
+var visio = new Diagram("template.vdw");
+// save VDW as JPEG 
+visio.Save("output.jpeg", SaveFileFormat.JPEG); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

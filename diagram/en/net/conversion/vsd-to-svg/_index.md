@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSD to SVG via C# 
 weight: 2030
 url: /net/conversion/vsd-to-svg/ 
@@ -65,7 +65,11 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSD to SVG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsd-to-svg.cs" >}}
+```cs
+var visio = new Diagram("template.vsd");
+visio.Save("output.svg", SaveFileFormat.SVG); 
+
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

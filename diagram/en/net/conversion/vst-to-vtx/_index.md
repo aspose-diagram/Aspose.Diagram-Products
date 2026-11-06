@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VST to VTX via C# 
 weight: 1380
 url: /net/conversion/vst-to-vtx/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VST to VTX C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vst-to-vtx.cs" >}}
+```cs
+var visio = new Diagram("template.vst");
+visio.Save("output.vtx", SaveFileFormat.VTX); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

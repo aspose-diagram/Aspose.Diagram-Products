@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSDM to JPEG via C# 
 weight: 1920
 url: /net/conversion/vsdm-to-jpeg/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDM to JPEG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-jpeg.cs" >}}
+```cs
+// load the VSDM in an object of Diagram 
+var visio = new Diagram("template.vsdm");
+// save VSDM as JPEG 
+visio.Save("output.jpeg", SaveFileFormat.JPEG); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

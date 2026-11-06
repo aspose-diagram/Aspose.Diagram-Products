@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VDW to HTML via C# 
 weight: 1350
 url: /net/conversion/vdw-to-html/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VDW to HTML C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vdw-to-html.cs" >}}
+```cs
+// load the VDW in an object of Diagram 
+var visio = new Diagram("template.vdw");
+// save VDW as HTML 
+visio.Save("output.html", SaveFileFormat.HTML); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

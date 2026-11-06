@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSTX to JPEG via C# 
 weight: 2810
 url: /net/conversion/vstx-to-jpeg/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSTX to JPEG C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vstx-to-jpeg.cs" >}}
+```cs
+var visio = new Diagram("template.vstx");
+visio.Save("output.jpeg", SaveFileFormat.JPEG);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

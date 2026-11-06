@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSSX to BMP via C# 
 weight: 2400
 url: /net/conversion/vssx-to-bmp/ 
@@ -65,7 +65,10 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSSX to BMP C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vssx-to-bmp.cs" >}}
+```cs
+var visio = new Diagram("template.vssx");
+visio.Save("output.bmp", SaveFileFormat.BMP); 
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

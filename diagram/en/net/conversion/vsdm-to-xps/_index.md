@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert VSDM to XPS via C# 
 weight: 580
 url: /net/conversion/vsdm-to-xps/ 
@@ -65,7 +65,12 @@ PM> Install-Package Aspose.Diagram
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows VSDM to XPS C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "357ce13eb044abec99512b3b996d87fc" "convert-vsdm-to-xps.cs" >}}
+```cs
+// load the VSDM in an object of Diagram 
+var visio = new Diagram("template.vsdm");
+// save VSDM as XPS 
+visio.Save("output.xps", SaveFileFormat.XPS);
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
