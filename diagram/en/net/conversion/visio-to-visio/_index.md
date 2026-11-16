@@ -42,7 +42,7 @@ PM> Install-Package Aspose.Diagram
 1.  Load Visio file with an instance of Diagram
 1.  Call the Diagram.Save method
 1.  Pass output path with Visio extension as parameter
-1.  Check specified path for resultant PDF file
+1.  Check specified path for resultant Visio file
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Diagram
  
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert Visio to VSDX" sectionDescription="Check our live demos for [Visio to Visio conversion](https://products.aspose.app/diagram/conversion/vsdx-to-vsdx) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert Visio to Visio" sectionDescription="Check our live demos for [Visio to Visio conversion](https://products.aspose.app/diagram/conversion/vsdx-to-vsdx) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your VSD file and hit the \"Convert\" button." >}}

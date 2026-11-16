@@ -44,8 +44,8 @@ PM> Install-Package Aspose.Diagram
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load MMD file with an instance of Diagram class
-1.  Call the Diagram.Save method with output file path and SaveFileFormat.VSD as parameters
-1.  VSD file will be saved at the specified path
+1.  Call the Diagram.Save method with output file path and SaveFileFormat.VSDX as parameters
+1.  VSDX file will be saved at the specified path
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -84,7 +84,7 @@ diagram.Save(dataDir + "out.vsdx", SaveFileFormat.VSDX);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert VDW to VSD" sectionDescription="Check our live demos for [MMD to VSDX conversion](https://products.aspose.app/diagram/conversion/mmd-to-vsdx) with following benefits." >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert MMD to VSDX" sectionDescription="Check our live demos for [MMD to VSDX conversion](https://products.aspose.app/diagram/conversion/mmd-to-vsdx) with following benefits." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your MMD file and hit the \"Convert\" button." >}}
@@ -100,13 +100,13 @@ diagram.Save(dataDir + "out.vsdx", SaveFileFormat.VSDX);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
-VDW is the Visio Graphics Service file format that specifies the streams and storages required for rendering a Web drawing. A web drawing is a collection of drawing pages, shapes, fonts, images, data connections, and diagram update information that can be rendered as a vector or raster drawing. VDW files can be opened in Microsoft Visio as well but are primarily saved for use on web. Microsoft Visio offers the capability to convert Visio files to a number of different file formats including PNG, BMP, PDF and others.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="MMD" readMoreLink="https://docs.fileformat.com/" >}}
+MMD is a file format used for representing diagrams in a text-based manner. It allows users to create flowchart diagrams, sequence diagrams, and other visual representations using simple text syntax. MMD files can be converted to various Visio formats using Aspose.Diagram for .NET, enabling integration with Microsoft Visio workflows and other diagramming tools.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="vsd" readMoreLink="https://docs.fileformat.com/image/vsd/" >}}
-Any drawing or chart created in Microsoft Visio, but saved in XML format have .VSD extension. A Visio drawing XML file is created in Visio software, which is developed by Microsoft. Microsoft Visio has the capability to generate visual documents that can be used in presentations and documents. The Visio drawing XML file contains the visual objects and metadata details of the visual elements. Text can also be added to these visual elements Vision drawing XML file. These Visio drawing XML files are integrated with XML-based formatting standards and image data encoding specifications that allow its content to be rendered and stored by the Microsoft Visio software in the VSD file format.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
+Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onwards. It was developed to replace the binary file format, .VSD, which is supported by earlier versions of Microsoft Visio. It is also supported on Visio Services in Microsoft SharePoint Server 2013 and does not require an intermediary file format for publishing to SharePoint Server. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -116,27 +116,17 @@ Any drawing or chart created in Microsoft Visio, but saved in XML format have .V
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert VDW into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MMD into many other Visio file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-bmp/" name="VDW TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-emf/" name="VDW TO EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-html/" name="VDW TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-jpeg/" name="VDW TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-pdf/" name="VDW TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-png/" name="VDW TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-svg/" name="VDW TO SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-swf/" name="VDW TO SWF" description="SWF Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-tiff/" name="VDW TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdm/" name="VDW TO VSDM" description="Microsoft Visio Drawing Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsdx/" name="VDW TO VSDX" description="Microsoft Visio Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssm/" name="VDW TO VSSM" description="Microsoft Visio Stencil files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vssx/" name="VDW TO VSSX" description="Drawing Stencils" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstm/" name="VDW TO VSTM" description="Microsoft Visio Template Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vstx/" name="VDW TO VSTX" description="Microsoft Visio Drawing Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vsx/" name="VDW TO VSX" description="Stencils" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-vtx/" name="VDW TO VTX" description="Microsoft Visio Drawing Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xaml/" name="VDW TO XAML" description="Extensible Application Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/vdw-to-xps/" name="VDW TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/mmd-to-vsd/" name="MMD TO VSD" description="Microsoft Visio VSD Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/mmd-to-vsdx/" name="MMD TO VSDX" description="Microsoft Visio VSDX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/mmd-to-vsdm/" name="MMD TO VSDM" description="Microsoft Visio VSDM Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/mmd-to-vssx/" name="MMD TO VSSX" description="Microsoft Visio VSSX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/mmd-to-vssm/" name="MMD TO VSSM" description="Microsoft Visio VSSM Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/mmd-to-vstx/" name="MMD TO VSTX" description="Microsoft Visio VSTX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/mmd-to-vstm/" name="MMD TO VSTM" description="Microsoft Visio VSTM Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/mmd-to-vsx/" name="MMD TO VSX" description="Microsoft Visio VSX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/net/conversion/mmd-to-vtx/" name="MMD TO VTX" description="Microsoft Visio VTX Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
