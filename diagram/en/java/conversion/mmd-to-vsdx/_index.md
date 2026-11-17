@@ -78,7 +78,7 @@ description: Sample Java conversion code for MMD format to VSDX file. Use this e
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="VDW to VSDX Java Conversion Source Code" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="MMD to VSDX Java Conversion Source Code" offSpacer="" %}}
 
 ```cs
 // load the MMD in an object of Diagram 
@@ -100,7 +100,7 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
 {{< blocks/products/pf/agp/demobox sectionTitle="MMD to VSDX Conversion Live Demos" sectionDescription="[Convert MMD to VSDX](https://products.aspose.app/diagram/conversion/mmd-to-vsdx) right now by visiting our Live Demos website.The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your VDW file, it will be converted instantly to VSDX." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your MMD file, it will be converted instantly to VSDX." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will get the download link." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Diagram Manipulation Library" %}}
@@ -108,19 +108,18 @@ visio.save("output.vsdx", SaveFileFormat.VSDX);
  Aspose.Diagram is a Microsoft Visio document format manipulation API. One can easily load, create, modify, manipulate including daigram elements and convert Visio diagrams to other formats such as PDF, XPS, JPEG, PNG, BMP, TIFF, SVG, EMF and more. It is a standalone API and does not require Microsoft Visio or any other software to be installed.  
 
 
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="VDW" readMoreLink="https://docs.fileformat.com/web/vdw/" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="MMD" readMoreLink="https://docs.fileformat.com/" >}}
 
-VDW is the Visio Graphics Service file format that specifies the streams and storages required for rendering a Web drawing. A web drawing is a collection of drawing pages, shapes, fonts, images, data connections, and diagram update information that can be rendered as a vector or raster drawing. VDW files can be opened in Microsoft Visio as well but are primarily saved for use on web. Microsoft Visio offers the capability to convert Visio files to a number of different file formats including PNG, BMP, PDF and others.
+MMD is a file format used for representing diagrams in a text-based manner. It allows users to create flowchart diagrams, sequence diagrams, and other visual representations using simple text syntax. MMD files can be converted to various Visio formats using Aspose.Diagram for Java, enabling integration with Microsoft Visio workflows and other diagramming tools.
 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/image/vsdx/" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="VSDX" readMoreLink="https://docs.fileformat.com/visio/vsdx/" >}}
 
 Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onwards. It was developed to replace the binary file format, .VSD, which is supported by earlier versions of Microsoft Visio. It is also supported on Visio Services in Microsoft SharePoint Server 2013 and does not require an intermediary file format for publishing to SharePoint Server. Visio files are used to create drawings that contain visual objects, flow charts, UML diagram, information flow, organizational charts, software diagrams, network layout, database models, objects mapping and other similar information. Files generated using Visio can also be exported to different file formats such as PNG, BMP, PDF and others.
 
@@ -133,26 +132,17 @@ Files with .VSDX extension represent Microsoft Visio file format introduced from
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert VDW into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MMD into many other Visio file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-bmp/" name="VDW TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-emf/" name="VDW TO EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-html/" name="VDW TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-jpeg/" name="VDW TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-pdf/" name="VDW TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-png/" name="VDW TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-svg/" name="VDW TO SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-tiff/" name="VDW TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vdx/" name="VDW TO VDX" description="Microsoft Visio Drawing Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsdm/" name="VDW TO VSDM" description="Microsoft Visio Drawing Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssm/" name="VDW TO VSSM" description="Microsoft Visio Stencil files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vssx/" name="VDW TO VSSX" description="Drawing Stencils" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstm/" name="VDW TO VSTM" description="Microsoft Visio Template Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vstx/" name="VDW TO VSTX" description="Microsoft Visio Drawing Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vsx/" name="VDW TO VSX" description="Stencils" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-vtx/" name="VDW TO VTX" description="Microsoft Visio Drawing Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xaml/" name="VDW TO XAML" description="Extensible Application Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/vdw-to-xps/" name="VDW TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/mmd-to-vsd/" name="MMD TO VSD" description="Microsoft Visio VSD Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/mmd-to-vsdx/" name="MMD TO VSDX" description="Microsoft Visio VSDX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/mmd-to-vsdm/" name="MMD TO VSDM" description="Microsoft Visio VSDM Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/mmd-to-vssx/" name="MMD TO VSSX" description="Microsoft Visio VSSX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/mmd-to-vssm/" name="MMD TO VSSM" description="Microsoft Visio VSSM Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/mmd-to-vstx/" name="MMD TO VSTX" description="Microsoft Visio VSTX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/mmd-to-vstm/" name="MMD TO VSTM" description="Microsoft Visio VSTM Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/mmd-to-vsx/" name="MMD TO VSX" description="Microsoft Visio VSX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/diagram/java/conversion/mmd-to-vtx/" name="MMD TO VTX" description="Microsoft Visio VTX Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
